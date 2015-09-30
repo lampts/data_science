@@ -12,3 +12,11 @@ Cool blogs:
 - http://blog.yhathq.com/
 - http://www.gregreda.com/
 - http://radimrehurek.com/gensim/models/phrases.html
+
+Visualizations:
+
+- https://www.oreilly.com/ideas/jupyter-at-oreilly
+
+Writing:
+
+- https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication
