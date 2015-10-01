@@ -1,5 +1,9 @@
 # data_science
 
+Curated:
+
+- https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/
+
 Cool blogs:
 
 - http://blog.csdn.net/u010693617/article/details/9148747
