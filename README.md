@@ -1,5 +1,10 @@
 # data_science
 
+Todos:
+
+- book clustering: best seller in 2014 on tiki
+- tony buoi sang: topic modeling
+
 Curated:
 
 - https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/
