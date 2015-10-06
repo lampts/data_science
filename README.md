@@ -18,6 +18,7 @@ Curated:
 
 Cool blogs:
 
+- http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
 - https://github.com/zygmuntz?tab=repositories
 - http://blog.csdn.net/u010693617/article/details/9148747
 - http://www.lucypark.kr/courses/2015-ba/text-mining.html#topic-modeling
