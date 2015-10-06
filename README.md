@@ -40,6 +40,7 @@ Cool blogs:
 - http://blog.yhathq.com/
 - http://www.gregreda.com/
 - http://radimrehurek.com/gensim/models/phrases.html
+- http://fa.bianp.net/
 
 Visualizations:
 
