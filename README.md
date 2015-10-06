@@ -7,6 +7,7 @@ Todos:
 
 Curated:
 
+- http://moviemood.co/basic
 - http://datagenetics.com/blog.html
 - http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
 - http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
