@@ -7,6 +7,9 @@ Todos:
 
 Curated:
 
+- http://datagenetics.com/blog.html
+- http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
+- http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 - https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/
 
 Cool blogs:
