@@ -23,6 +23,7 @@ Curated:
 
 Cool blogs:
 
+- http://www.eecs.tufts.edu/~dsculley
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
 - https://github.com/zygmuntz?tab=repositories
 - http://blog.csdn.net/u010693617/article/details/9148747
