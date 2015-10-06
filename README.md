@@ -7,6 +7,7 @@ Todos:
 
 Curated:
 
+- http://www.slideshare.net/hustwj/cikm-keynotenov2014
 - http://deepdist.com/
 - http://moviemood.co/basic
 - http://datagenetics.com/blog.html
