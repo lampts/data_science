@@ -10,6 +10,7 @@ Must read:
 - http://www.eecs.tufts.edu/~dsculley/papers/Detecting_Adversarial_Advertisements.pdf
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/ 
 - https://github.com/fabianp/minirank/blob/master/notebooks/pairwise_transform.ipynb
+- http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 
 Curated:
 
