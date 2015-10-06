@@ -7,6 +7,7 @@ Todos:
 
 Curated:
 
+- http://www.fi.muni.cz/usr/sojka/posters/rehurek-sojka-scipy2011.pdf
 - http://www.slideshare.net/hustwj/cikm-keynotenov2014
 - http://deepdist.com/
 - http://moviemood.co/basic
