@@ -11,6 +11,8 @@ Must read:
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/ 
 
 Curated:
+
+- http://www.kdnuggets.com/2014/08/kdd-2014-awards-winners.html
 - http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/
 - http://www.fi.muni.cz/usr/sojka/posters/rehurek-sojka-scipy2011.pdf
 - http://www.slideshare.net/hustwj/cikm-keynotenov2014
