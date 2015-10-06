@@ -8,7 +8,8 @@ Todos:
 Must read:
 
 - http://www.eecs.tufts.edu/~dsculley/papers/Detecting_Adversarial_Advertisements.pdf
-- 
+- http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/ 
+
 Curated:
 - http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/
 - http://www.fi.muni.cz/usr/sojka/posters/rehurek-sojka-scipy2011.pdf
