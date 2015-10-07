@@ -17,7 +17,7 @@ Must read:
 
 Curated:
 
-- data8.org/text/
+- http://data8.org/text/
 - http://blog.someben.com/2013/01/hashing-lang/
 - http://www.kdnuggets.com/2014/08/kdd-2014-awards-winners.html
 - http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/
