@@ -16,7 +16,7 @@ Must read:
 - http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 
 Curated:
-
+- http://blog.someben.com/2013/01/hashing-lang/
 - http://www.kdnuggets.com/2014/08/kdd-2014-awards-winners.html
 - http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/
 - http://www.fi.muni.cz/usr/sojka/posters/rehurek-sojka-scipy2011.pdf
