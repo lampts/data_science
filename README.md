@@ -7,6 +7,8 @@ Todos:
 
 Must read:
 
+- http://iamtrask.github.io/2015/07/27/python-network-part2/
+- http://iamtrask.github.io/2015/07/12/basic-python-network/
 - http://www.eecs.tufts.edu/~dsculley/papers/Detecting_Adversarial_Advertisements.pdf
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/ 
 - https://github.com/fabianp/minirank/blob/master/notebooks/pairwise_transform.ipynb
@@ -27,6 +29,7 @@ Curated:
 
 Cool blogs:
 
+- http://sebastianraschka.com/blog/2015/why-python.html
 - http://www.eecs.tufts.edu/~dsculley
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
 - https://github.com/zygmuntz?tab=repositories
