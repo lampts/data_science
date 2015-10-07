@@ -7,6 +7,7 @@ Todos:
 
 Must read:
 
+- https://github.com/rasbt/python-machine-learning-book
 - http://iamtrask.github.io/2015/07/27/python-network-part2/
 - http://iamtrask.github.io/2015/07/12/basic-python-network/
 - http://www.eecs.tufts.edu/~dsculley/papers/Detecting_Adversarial_Advertisements.pdf
