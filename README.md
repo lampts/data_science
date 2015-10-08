@@ -14,9 +14,16 @@ Must read:
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/ 
 - https://github.com/fabianp/minirank/blob/master/notebooks/pairwise_transform.ipynb
 - http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+- https://www.dataquest.io/blog/python-vs-r/
 
 Curated:
 
+- http://softwareengineeringdaily.com/2015/10/05/bridging-data-science-and-engineering-with-greg-lamp/
+- http://libraryofwords.info/faq.html
+- http://libraryofbabel.info/
+- https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89
+- http://efavdb.com/pandas-tips-and-tricks/
+- http://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html
 - http://data8.org/text/
 - http://blog.someben.com/2013/01/hashing-lang/
 - http://www.kdnuggets.com/2014/08/kdd-2014-awards-winners.html
