@@ -7,6 +7,7 @@ Todos:
 
 Must read:
 
+- http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://github.com/rasbt/python-machine-learning-book
 - http://iamtrask.github.io/2015/07/27/python-network-part2/
 - http://iamtrask.github.io/2015/07/12/basic-python-network/
@@ -15,9 +16,13 @@ Must read:
 - https://github.com/fabianp/minirank/blob/master/notebooks/pairwise_transform.ipynb
 - http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 - https://www.dataquest.io/blog/python-vs-r/
+- https://www.youtube.com/watch?v=tGxW2BzC_DU&index=4&list=PLykRMO7ZuHwP5cWnbEmP_mUIVgzd5DZgH
+-http://nbviewer.ipython.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb#topic=1&lambda=0.5&term=
 
 Curated:
 
+- http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf
+- https://speakerdeck.com/bmabey/visualizing-topic-models
 - http://datagenetics.com/blog/august22015/index.html
 - http://www.erinshellman.com/bot-or-not/
 - http://softwareengineeringdaily.com/2015/10/05/bridging-data-science-and-engineering-with-greg-lamp/
