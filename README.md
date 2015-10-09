@@ -18,6 +18,8 @@ Must read:
 
 Curated:
 
+- http://datagenetics.com/blog/august22015/index.html
+- http://www.erinshellman.com/bot-or-not/
 - http://softwareengineeringdaily.com/2015/10/05/bridging-data-science-and-engineering-with-greg-lamp/
 - http://libraryofwords.info/faq.html
 - http://libraryofbabel.info/
