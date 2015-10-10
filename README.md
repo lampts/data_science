@@ -21,6 +21,7 @@ Must read:
 
 Curated:
 
+- http://nbviewer.ipython.org/github/tdhopper/notes-on-dirichlet-processes/blob/master/2015-10-07-econtalk-topics.ipynb
 - http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf
 - https://speakerdeck.com/bmabey/visualizing-topic-models
 - http://datagenetics.com/blog/august22015/index.html
