@@ -7,6 +7,7 @@ Todos:
 
 Must read:
 
+- https://trello.com/b/rbpEfMld/data-science
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://github.com/rasbt/python-machine-learning-book
 - http://iamtrask.github.io/2015/07/27/python-network-part2/
