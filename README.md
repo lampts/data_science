@@ -7,6 +7,7 @@ Todos:
 
 Must read:
 
+- https://www.reddit.com/r/MachineLearning/
 - https://trello.com/b/rbpEfMld/data-science
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://github.com/rasbt/python-machine-learning-book
