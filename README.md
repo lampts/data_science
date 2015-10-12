@@ -79,3 +79,8 @@ Visualizations:
 Writing:
 
 - https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication
+
+Teaching:
+
+- https://github.com/amitkaps/weed
+
