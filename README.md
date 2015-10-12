@@ -5,6 +5,11 @@ Todos:
 - book clustering: best seller in 2014 on tiki
 - tony buoi sang: topic modeling
 
+Must seen:
+
+- 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
+- 
+
 Must read:
 
 - https://www.reddit.com/r/MachineLearning/
@@ -23,6 +28,9 @@ Must read:
 
 Curated:
 
+- http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
+- https://www.reddit.com/r/MachineLearning/comments/3oa325/how_is_netflix_using_machine_learning_to/
+- https://www.reddit.com/r/MachineLearning/comments/3oc3g3/facebookss_ai_system_to_understand_text/
 - http://nbviewer.ipython.org/github/tdhopper/notes-on-dirichlet-processes/blob/master/2015-10-07-econtalk-topics.ipynb
 - http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf
 - https://speakerdeck.com/bmabey/visualizing-topic-models
