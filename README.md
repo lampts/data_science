@@ -8,7 +8,6 @@ Todos:
 Must seen:
 
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
-- 
 
 Must read:
 
