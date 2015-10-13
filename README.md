@@ -27,6 +27,7 @@ Must read:
 
 Curated:
 
+- http://chdoig.github.io/pygotham-topic-modeling/
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://www.reddit.com/r/MachineLearning/comments/3oa325/how_is_netflix_using_machine_learning_to/
 - https://www.reddit.com/r/MachineLearning/comments/3oc3g3/facebookss_ai_system_to_understand_text/
