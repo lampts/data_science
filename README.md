@@ -85,4 +85,5 @@ Teaching:
 
 - https://github.com/amitkaps/weed
 - https://github.com/rouseguy/intro2stats/tree/master/notebooks
-
+- https://github.com/chdoig/pytexas2015-ml
+- https://github.com/tdhopper/notes-on-dirichlet-processes
