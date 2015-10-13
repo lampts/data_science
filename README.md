@@ -83,4 +83,5 @@ Writing:
 Teaching:
 
 - https://github.com/amitkaps/weed
+- https://github.com/rouseguy/intro2stats/tree/master/notebooks
 
