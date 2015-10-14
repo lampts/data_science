@@ -27,6 +27,7 @@ Must read:
 
 Curated:
 
+- http://www.slideshare.net/dominodatalab/data-science-popup-seattle-deep-learning-use-cases?ref=http://www.slideshare.net/dominodatalab/slideshelf
 - http://chdoig.github.io/pygotham-topic-modeling/
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://www.reddit.com/r/MachineLearning/comments/3oa325/how_is_netflix_using_machine_learning_to/
