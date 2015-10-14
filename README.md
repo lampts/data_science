@@ -84,6 +84,7 @@ Writing:
 
 Teaching:
 
+- http://people.duke.edu/~ccc14/sta-663/Jupyter.html
 - https://github.com/amitkaps/weed
 - https://github.com/rouseguy/intro2stats/tree/master/notebooks
 - https://github.com/chdoig/pytexas2015-ml
