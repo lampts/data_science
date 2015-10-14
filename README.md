@@ -85,6 +85,7 @@ Writing:
 
 Teaching:
 
+- https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/index.html
 - https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/l9.pdf
 - http://people.duke.edu/~ccc14/sta-663/Jupyter.html
 - https://github.com/amitkaps/weed
