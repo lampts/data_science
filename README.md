@@ -11,6 +11,7 @@ Must seen:
 
 Must read:
 
+- http://edmiston.id.au/2015/05/12/practical-experience-with-word2vec/
 - https://www.reddit.com/r/MachineLearning/
 - https://trello.com/b/rbpEfMld/data-science
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
@@ -27,6 +28,7 @@ Must read:
 
 Curated:
 
+- https://cs224d.stanford.edu/reports/XingMargaret.pdf
 - https://gist.github.com/cigrainger/62910e58db46b7397de2
 - http://www.slideshare.net/dominodatalab/data-science-popup-seattle-deep-learning-use-cases?ref=http://www.slideshare.net/dominodatalab/slideshelf
 - http://chdoig.github.io/pygotham-topic-modeling/
