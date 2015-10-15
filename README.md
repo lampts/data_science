@@ -27,6 +27,8 @@ Must read:
 
 Curated:
 
+- https://gist.github.com/cigrainger/62910e58db46b7397de2
+- http://www.slideshare.net/dominodatalab/data-science-popup-seattle-deep-learning-use-cases?ref=http://www.slideshare.net/dominodatalab/slideshelf
 - http://chdoig.github.io/pygotham-topic-modeling/
 - http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf
 - https://www.reddit.com/r/MachineLearning/comments/3oa325/how_is_netflix_using_machine_learning_to/
@@ -83,6 +85,9 @@ Writing:
 
 Teaching:
 
+- https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/index.html
+- https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/l9.pdf
+- http://people.duke.edu/~ccc14/sta-663/Jupyter.html
 - https://github.com/amitkaps/weed
 - https://github.com/rouseguy/intro2stats/tree/master/notebooks
 - https://github.com/chdoig/pytexas2015-ml
