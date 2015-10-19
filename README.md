@@ -28,6 +28,7 @@ Must read:
 
 Curated:
 
+- http://www.slideshare.net/dominodatalab/data-science-popup-seattle-understanding-feature-space-in-machine-learning
 - https://cs224d.stanford.edu/reports/XingMargaret.pdf
 - https://gist.github.com/cigrainger/62910e58db46b7397de2
 - http://www.slideshare.net/dominodatalab/data-science-popup-seattle-deep-learning-use-cases?ref=http://www.slideshare.net/dominodatalab/slideshelf
