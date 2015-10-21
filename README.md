@@ -28,6 +28,9 @@ Must read:
 
 Curated:
 
+- http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers?xg_source=activity
+- http://www.datasciencecentral.com/profiles/blogs/zipf-s-distribution-example-of-a-great-application
+- http://www.itshared.org/2015/10/data-science-interview-questions.html
 - http://www.slideshare.net/dominodatalab/data-science-popup-seattle-understanding-feature-space-in-machine-learning
 - https://cs224d.stanford.edu/reports/XingMargaret.pdf
 - https://gist.github.com/cigrainger/62910e58db46b7397de2
