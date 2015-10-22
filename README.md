@@ -11,6 +11,7 @@ Must seen:
 
 Must read:
 
+- http://101.datascience.community/
 - http://edmiston.id.au/2015/05/12/practical-experience-with-word2vec/
 - https://www.reddit.com/r/MachineLearning/
 - https://trello.com/b/rbpEfMld/data-science
