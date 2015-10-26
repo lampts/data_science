@@ -9,7 +9,8 @@ Must seen:
 
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
 - http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/?owa_referral=pitt&owa_source=~gtrivedi/blog/quoc-les-lectures-on-deep-learning/
-
+- https://github.com/yosinski/deep-visualization-toolbox
+- https://www.youtube.com/watch?v=_KoWTD8T45Q&index=13&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 Must read:
 
@@ -94,6 +95,8 @@ Writing:
 
 Teaching:
 
+- http://goodfeli.github.io/dlbook/
+- http://cs231n.stanford.edu/
 - http://www-cs.stanford.edu/~quocle/tutorial1.pdf
 - http://www-cs.stanford.edu/~quocle/tutorial2.pdf
 - https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/index.html
