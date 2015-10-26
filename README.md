@@ -8,9 +8,12 @@ Todos:
 Must seen:
 
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
+- http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/?owa_referral=pitt&owa_source=~gtrivedi/blog/quoc-les-lectures-on-deep-learning/
+
 
 Must read:
 
+- http://101.datascience.community/
 - http://edmiston.id.au/2015/05/12/practical-experience-with-word2vec/
 - https://www.reddit.com/r/MachineLearning/
 - https://trello.com/b/rbpEfMld/data-science
@@ -91,6 +94,8 @@ Writing:
 
 Teaching:
 
+- http://www-cs.stanford.edu/~quocle/tutorial1.pdf
+- http://www-cs.stanford.edu/~quocle/tutorial2.pdf
 - https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/index.html
 - https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2015_web/l9.pdf
 - http://people.duke.edu/~ccc14/sta-663/Jupyter.html
