@@ -5,6 +5,11 @@ Todos:
 - book clustering: best seller in 2014 on tiki
 - tony buoi sang: topic modeling
 
+Full stack:
+
+- http://claymcleod.github.io/papers/distributed-dnn/paper.html
+- https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
+
 Must seen:
 
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
@@ -14,6 +19,12 @@ Must seen:
 
 Must read:
 
+- https://aclweb.org/anthology/P/P15/P15-1150.pdf
+- http://nlp.stanford.edu/projects/glove/
+- http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+- http://u.cs.biu.ac.il/~yogo/nnlp.pdf
+- http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - http://101.datascience.community/
 - http://edmiston.id.au/2015/05/12/practical-experience-with-word2vec/
 - https://www.reddit.com/r/MachineLearning/
@@ -32,6 +43,8 @@ Must read:
 
 Curated:
 
+- https://github.com/dmlc/mxnet/blob/master/example/imagenet/predict-with-pretrained-model.ipynb
+- https://mxnet.readthedocs.org/en/latest/tutorial/imagenet_full.html
 - http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers?xg_source=activity
 - http://www.datasciencecentral.com/profiles/blogs/zipf-s-distribution-example-of-a-great-application
 - http://www.itshared.org/2015/10/data-science-interview-questions.html
