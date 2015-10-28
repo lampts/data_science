@@ -5,6 +5,11 @@ Todos:
 - book clustering: best seller in 2014 on tiki
 - tony buoi sang: topic modeling
 
+Products:
+
+-http://www.writelike.ml/survey/69
+- http://metamind.io/
+
 Full stack:
 
 - http://claymcleod.github.io/papers/distributed-dnn/paper.html
@@ -12,6 +17,7 @@ Full stack:
 
 Must seen:
 
+- http://www.nyas.org/MediaPlayer.aspx?mid=1212c782-d18f-43fc-a108-ddf3fe452d9c
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
 - http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/?owa_referral=pitt&owa_source=~gtrivedi/blog/quoc-les-lectures-on-deep-learning/
 - https://github.com/yosinski/deep-visualization-toolbox
@@ -108,6 +114,8 @@ Writing:
 
 Teaching:
 
+- https://github.com/mila-udem/summerschool2015
+- https://github.com/ChristosChristofidis/awesome-deep-learning
 - http://goodfeli.github.io/dlbook/
 - http://cs231n.stanford.edu/
 - http://www-cs.stanford.edu/~quocle/tutorial1.pdf
