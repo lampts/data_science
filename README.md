@@ -17,6 +17,7 @@ Full stack:
 
 Must seen:
 
+- http://videolectures.net/deeplearning2015_montreal/
 - http://www.nyas.org/MediaPlayer.aspx?mid=1212c782-d18f-43fc-a108-ddf3fe452d9c
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
 - http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/?owa_referral=pitt&owa_source=~gtrivedi/blog/quoc-les-lectures-on-deep-learning/
@@ -25,6 +26,7 @@ Must seen:
 
 Must read:
 
+- http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/
 - https://aclweb.org/anthology/P/P15/P15-1150.pdf
 - http://nlp.stanford.edu/projects/glove/
 - http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
@@ -114,6 +116,7 @@ Writing:
 
 Teaching:
 
+- https://sites.google.com/site/deeplearningsummerschool/schedule
 - https://github.com/mila-udem/summerschool2015
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - http://goodfeli.github.io/dlbook/
