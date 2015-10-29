@@ -51,6 +51,7 @@ Must read:
 
 Curated:
 
+- http://www.insightdatascience.com/blog/academia_to_industry_data_science_myths_and_truths.html
 - https://github.com/dmlc/mxnet/blob/master/example/imagenet/predict-with-pretrained-model.ipynb
 - https://mxnet.readthedocs.org/en/latest/tutorial/imagenet_full.html
 - http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers?xg_source=activity
