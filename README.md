@@ -1,9 +1,18 @@
 # data_science
 
-Todos:
+BENCHMARK:
 
-- book clustering: best seller in 2014 on tiki
-- tony buoi sang: topic modeling
+- https://github.com/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations.ipynb
+- https://github.com/szilard/benchm-ml
+- word2vec: http://rare-technologies.com/parallelizing-word2vec-in-python/
+
+DIY:
+
+- Deepviz: https://github.com/yosinski/deep-visualization-toolbox
+- Movement analysis: https://github.com/la3lma/movement-analysis
+- https://github.com/muatik/flask-profiler
+- https://github.com/mila-udem/fuel
+- https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
 
 Products:
 
@@ -17,6 +26,7 @@ Full stack:
 
 Must seen:
 
+- https://github.com/s16h/py-must-watch
 - http://videolectures.net/deeplearning2015_montreal/
 - http://www.nyas.org/MediaPlayer.aspx?mid=1212c782-d18f-43fc-a108-ddf3fe452d9c
 - 5 tribes of ML, Pedro Domingos: https://www.youtube.com/watch?v=UPsYGzln-Ys
@@ -52,6 +62,7 @@ Must read:
 
 Curated:
 
+- http://computers-are-fast.github.io/
 - http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines
 - http://www.insightdatascience.com/blog/academia_to_industry_data_science_myths_and_truths.html
 - https://github.com/dmlc/mxnet/blob/master/example/imagenet/predict-with-pretrained-model.ipynb
