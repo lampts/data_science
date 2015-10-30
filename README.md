@@ -26,6 +26,7 @@ Must seen:
 
 Must read:
 
+- http://deeplearning4j.org/thoughtvectors
 - http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/
 - https://aclweb.org/anthology/P/P15/P15-1150.pdf
 - http://nlp.stanford.edu/projects/glove/
@@ -51,6 +52,7 @@ Must read:
 
 Curated:
 
+- http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines
 - http://www.insightdatascience.com/blog/academia_to_industry_data_science_myths_and_truths.html
 - https://github.com/dmlc/mxnet/blob/master/example/imagenet/predict-with-pretrained-model.ipynb
 - https://mxnet.readthedocs.org/en/latest/tutorial/imagenet_full.html
