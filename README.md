@@ -37,6 +37,7 @@ Must seen:
 
 Must read:
 
+- https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?pli=1
 - http://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 - http://jiwonkim.org/awesome-rnn/
 - http://deeplearning4j.org/thoughtvectors
