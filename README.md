@@ -26,6 +26,7 @@ Full stack:
 
 Must seen:
 
+- http://videolectures.net/icml2015_lille/
 - https://github.com/s16h/py-must-watch
 - http://videolectures.net/deeplearning2015_montreal/
 - http://www.nyas.org/MediaPlayer.aspx?mid=1212c782-d18f-43fc-a108-ddf3fe452d9c
@@ -62,6 +63,8 @@ Must read:
 
 Curated:
 
+- http://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/
+- http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/
 - http://computers-are-fast.github.io/
 - http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines
 - http://www.insightdatascience.com/blog/academia_to_industry_data_science_myths_and_truths.html
