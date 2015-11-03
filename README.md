@@ -66,6 +66,7 @@ Must read:
 
 Curated:
 
+- https://peadarcoyle.wordpress.com/2015/11/02/interview-with-a-data-scientist-brad-klingenberg/
 - http://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/
 - http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/
 - http://computers-are-fast.github.io/
