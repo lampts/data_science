@@ -136,6 +136,7 @@ Writing:
 
 Teaching:
 
+- https://github.com/hangtwenty/dive-into-machine-learning
 - https://sites.google.com/site/deeplearningsummerschool/schedule
 - https://github.com/mila-udem/summerschool2015
 - https://github.com/ChristosChristofidis/awesome-deep-learning
