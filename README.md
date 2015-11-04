@@ -37,6 +37,7 @@ Must seen:
 
 Must read:
 
+- http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html
 - https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?pli=1
 - http://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 - http://jiwonkim.org/awesome-rnn/
@@ -66,6 +67,7 @@ Must read:
 
 Curated:
 
+- http://www.meetup.com/DeepLearn-NYC/
 - https://peadarcoyle.wordpress.com/2015/11/02/interview-with-a-data-scientist-brad-klingenberg/
 - http://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/
 - http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/
