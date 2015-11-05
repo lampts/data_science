@@ -141,6 +141,7 @@ Writing:
 
 Teaching:
 
+- http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - https://github.com/hangtwenty/dive-into-machine-learning
 - https://sites.google.com/site/deeplearningsummerschool/schedule
 - https://github.com/mila-udem/summerschool2015
