@@ -37,6 +37,7 @@ Must seen:
 
 Must read:
 
+- http://static.googleusercontent.com/media/research.google.com/en//people/jeff/BayLearn2015.pdf
 - http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html
 - https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?pli=1
 - http://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
@@ -67,6 +68,7 @@ Must read:
 
 Curated:
 
+- http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - http://www.meetup.com/DeepLearn-NYC/
 - https://peadarcoyle.wordpress.com/2015/11/02/interview-with-a-data-scientist-brad-klingenberg/
 - http://www.opendatascience.com/blog/riding-on-large-data-with-scikit-learn/
