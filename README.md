@@ -68,6 +68,7 @@ Must read:
 
 Curated:
 
+- http://googleresearch.blogspot.de/2015/10/improving-youtube-video-thumbnails-with.html
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - http://www.meetup.com/DeepLearn-NYC/
 - https://peadarcoyle.wordpress.com/2015/11/02/interview-with-a-data-scientist-brad-klingenberg/
