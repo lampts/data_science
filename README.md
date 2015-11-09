@@ -70,6 +70,7 @@ Must read:
 
 Curated:
 
+- http://www.lab41.org/a-tour-of-sentiment-analysis-techniques-getting-a-baseline-for-sunny-side-up/
 - http://googleresearch.blogspot.de/2015/10/improving-youtube-video-thumbnails-with.html
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - http://www.meetup.com/DeepLearn-NYC/
