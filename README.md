@@ -37,6 +37,8 @@ Must seen:
 
 Must read:
 
+- http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+- https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning
 - http://static.googleusercontent.com/media/research.google.com/en//people/jeff/BayLearn2015.pdf
 - http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html
 - https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?pli=1
