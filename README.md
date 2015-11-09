@@ -26,6 +26,7 @@ Full stack:
 
 Must seen:
 
+- https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks
 - http://videolectures.net/icml2015_lille/
 - https://github.com/s16h/py-must-watch
 - http://videolectures.net/deeplearning2015_montreal/
@@ -145,6 +146,7 @@ Writing:
 
 Teaching:
 
+- https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - https://github.com/hangtwenty/dive-into-machine-learning
 - https://sites.google.com/site/deeplearningsummerschool/schedule
