@@ -146,6 +146,8 @@ Writing:
 
 Teaching:
 
+- https://github.com/Newmu/Theano-Tutorials
+- https://github.com/nlintz/TensorFlow-Tutorials
 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
 - https://github.com/hangtwenty/dive-into-machine-learning
