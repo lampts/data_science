@@ -15,6 +15,9 @@ DIY:
 - https://github.com/muatik/flask-profiler
 - https://github.com/mila-udem/fuel
 - https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven
+- https://github.com/wojciechz/learning_to_execute
+- https://github.com/karpathy/char-rnn
+- https://gist.github.com/karpathy/d4dee566867f8291f086
 
 Products:
 
