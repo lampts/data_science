@@ -76,6 +76,9 @@ Must read:
 
 Curated:
 
+- http://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
+- http://nbviewer.ipython.org/gist/TomAugspurger/a6877233fbbfb51512a9
+- https://github.com/dmlc/mxnet/tree/master/amalgamation
 - http://www.lab41.org/a-tour-of-sentiment-analysis-techniques-getting-a-baseline-for-sunny-side-up/
 - http://googleresearch.blogspot.de/2015/10/improving-youtube-video-thumbnails-with.html
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
