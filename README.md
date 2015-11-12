@@ -2,6 +2,7 @@
 
 BENCHMARK:
 
+- https://github.com/zer0n/deepframeworks/blob/master/README.md
 - https://github.com/soumith/convnet-benchmarks/issues/66
 - https://github.com/soumith/convnet-benchmarks/blob/master/README.md
 - https://github.com/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations.ipynb
@@ -45,6 +46,7 @@ Must seen:
 
 Must read:
 
+- http://www.kentran.net/2014/12/challenges-in-machine-learning-practice.html
 - http://cs.stanford.edu/people/karpathy/convnetjs/
 - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 - https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning
