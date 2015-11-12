@@ -2,6 +2,8 @@
 
 BENCHMARK:
 
+- https://github.com/soumith/convnet-benchmarks/issues/66
+- https://github.com/soumith/convnet-benchmarks/blob/master/README.md
 - https://github.com/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations.ipynb
 - https://github.com/szilard/benchm-ml
 - word2vec: http://rare-technologies.com/parallelizing-word2vec-in-python/
@@ -26,6 +28,8 @@ Full stack:
 
 Must seen:
 
+- https://www.youtube.com/watch?v=-yX1SYeDHbg&feature=youtu.be&t=2503
+- https://www.youtube.com/watch?v=He4t7Zekob0
 - https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks
 - http://videolectures.net/icml2015_lille/
 - https://github.com/s16h/py-must-watch
@@ -38,6 +42,7 @@ Must seen:
 
 Must read:
 
+- http://cs.stanford.edu/people/karpathy/convnetjs/
 - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 - https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning
 - http://static.googleusercontent.com/media/research.google.com/en//people/jeff/BayLearn2015.pdf
