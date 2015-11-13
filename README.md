@@ -155,6 +155,7 @@ Visualizations:
 
 Writing:
 
+- https://www.dataquest.io/blog/python-data-visualization-libraries/
 - https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication
 
 Teaching:
