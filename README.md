@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- http://sebastianraschka.com/faq/docs/pca-scaling.html
 - Deepviz: https://github.com/yosinski/deep-visualization-toolbox
 - Movement analysis: https://github.com/la3lma/movement-analysis
 - https://github.com/muatik/flask-profiler
@@ -46,6 +47,7 @@ Must seen:
 
 Must read:
 
+- http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
 - http://www.kentran.net/2014/12/challenges-in-machine-learning-practice.html
 - http://cs.stanford.edu/people/karpathy/convnetjs/
 - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
@@ -81,6 +83,8 @@ Must read:
 
 Curated:
 
+- http://datascienceplus.com/correlation-and-linear-regression/
+- https://wit.ai/blog/2015/09/23/emnlp
 - http://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
 - http://nbviewer.ipython.org/gist/TomAugspurger/a6877233fbbfb51512a9
 - https://github.com/dmlc/mxnet/tree/master/amalgamation
