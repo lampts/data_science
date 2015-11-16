@@ -47,6 +47,7 @@ Must seen:
 
 Must read:
 
+- http://mlwave.com/kaggle-ensembling-guide/
 - http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 - http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
 - http://www.kentran.net/2014/12/challenges-in-machine-learning-practice.html
