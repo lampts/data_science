@@ -47,6 +47,7 @@ Must seen:
 
 Must read:
 
+- http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 - http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
 - http://www.kentran.net/2014/12/challenges-in-machine-learning-practice.html
 - http://cs.stanford.edu/people/karpathy/convnetjs/
