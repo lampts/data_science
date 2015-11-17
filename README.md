@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 - http://sebastianraschka.com/faq/docs/pca-scaling.html
 - Deepviz: https://github.com/yosinski/deep-visualization-toolbox
 - Movement analysis: https://github.com/la3lma/movement-analysis
@@ -85,6 +86,7 @@ Must read:
 
 Curated:
 
+- http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
 - http://datascienceplus.com/correlation-and-linear-regression/
 - https://wit.ai/blog/2015/09/23/emnlp
 - http://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
