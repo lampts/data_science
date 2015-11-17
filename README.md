@@ -139,6 +139,7 @@ Curated:
 
 Cool blogs:
 
+- https://github.com/MLWave/Kaggle-Ensemble-Guide
 - http://sebastianraschka.com/blog/2015/why-python.html
 - http://www.eecs.tufts.edu/~dsculley
 - http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
