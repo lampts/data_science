@@ -86,6 +86,7 @@ Must read:
 
 Curated:
 
+- http://davmre.github.io/inference/2015/11/13/elbo-in-5min/
 - http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
 - http://datascienceplus.com/correlation-and-linear-regression/
 - https://wit.ai/blog/2015/09/23/emnlp
@@ -141,6 +142,7 @@ Curated:
 
 Cool blogs:
 
+- http://tryr.codeschool.com/
 - https://github.com/MLWave/Kaggle-Ensemble-Guide
 - http://sebastianraschka.com/blog/2015/why-python.html
 - http://www.eecs.tufts.edu/~dsculley
