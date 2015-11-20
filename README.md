@@ -87,6 +87,13 @@ Must read:
 
 Curated:
 
+- http://www.win-vector.com/blog/
+- http://dataelixir.com/
+- http://pbpython.com/pandas-google-forms-part2.html
+- http://www.holehouse.org/mlclass/06_Logistic_Regression.html
+- http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/
+- http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
+- http://treycausey.com/software_dev_skills.html
 - https://github.com/google/skflow
 - http://nbviewer.ipython.org/github/justmarkham/gadsdc1/blob/master/logistic_assignment/kevin_logistic_sklearn.ipynb
 - http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html
