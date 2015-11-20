@@ -86,6 +86,11 @@ Must read:
 
 Curated:
 
+- https://github.com/google/skflow
+- http://nbviewer.ipython.org/github/justmarkham/gadsdc1/blob/master/logistic_assignment/kevin_logistic_sklearn.ipynb
+- http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html
+- https://www.reddit.com/r/MachineLearning/comments/3ti0fp/loss_function_must_it_be_convex/
+- http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2
 - http://davmre.github.io/inference/2015/11/13/elbo-in-5min/
 - http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
 - http://datascienceplus.com/correlation-and-linear-regression/
