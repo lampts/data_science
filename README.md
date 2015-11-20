@@ -48,6 +48,7 @@ Must seen:
 
 Must read:
 
+- http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 - http://mlwave.com/kaggle-ensembling-guide/
 - http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 - http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
