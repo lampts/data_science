@@ -87,6 +87,7 @@ Must read:
 
 Curated:
 
+- http://hduongtrong.github.io/2015/11/20/word2vec/
 - http://www.win-vector.com/blog/
 - http://dataelixir.com/
 - http://pbpython.com/pandas-google-forms-part2.html
