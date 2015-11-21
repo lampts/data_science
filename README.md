@@ -11,6 +11,8 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/avisingh599/visual-qa
+- http://avisingh599.github.io/deeplearning/visual-qa/
 - http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 - http://sebastianraschka.com/faq/docs/pca-scaling.html
 - Deepviz: https://github.com/yosinski/deep-visualization-toolbox
