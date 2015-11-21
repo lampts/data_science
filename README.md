@@ -50,6 +50,7 @@ Must seen:
 
 Must read:
 
+- http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems
 - http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 - http://mlwave.com/kaggle-ensembling-guide/
 - http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
