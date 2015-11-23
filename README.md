@@ -91,7 +91,8 @@ Must read:
 
 Curated:
 
-- 
+- http://arxiv.org/pdf/1511.06388v1.pdf
+- http://dustintran.com/blog/trends-and-highlights-of-icml-2015/
 - https://groups.google.com/forum/#!topic/gensim/lsvhf7499q4
 - http://hduongtrong.github.io/2015/11/20/word2vec/
 - http://www.win-vector.com/blog/
