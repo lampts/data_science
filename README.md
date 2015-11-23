@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/sujitpal/statlearning-notebooks/tree/master/
 - https://github.com/avisingh599/visual-qa
 - http://avisingh599.github.io/deeplearning/visual-qa/
 - http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
@@ -50,6 +51,8 @@ Must seen:
 
 Must read:
 
+- https://github.com/svaksha/pythonidae
+- http://www.datarobot.com/blog/statistical-learning-in-python/
 - http://karpathy.github.io/2015/11/14/ai/
 - http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems
 - http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
@@ -91,6 +94,8 @@ Must read:
 
 Curated:
 
+- 
+- http://cs229.stanford.edu/section/cs229-linalg.pdf
 - http://arxiv.org/pdf/1511.06388v1.pdf
 - http://dustintran.com/blog/trends-and-highlights-of-icml-2015/
 - https://groups.google.com/forum/#!topic/gensim/lsvhf7499q4
