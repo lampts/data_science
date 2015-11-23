@@ -50,6 +50,7 @@ Must seen:
 
 Must read:
 
+- http://karpathy.github.io/2015/11/14/ai/
 - http://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems
 - http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 - http://mlwave.com/kaggle-ensembling-guide/
@@ -90,6 +91,8 @@ Must read:
 
 Curated:
 
+- 
+- https://groups.google.com/forum/#!topic/gensim/lsvhf7499q4
 - http://hduongtrong.github.io/2015/11/20/word2vec/
 - http://www.win-vector.com/blog/
 - http://dataelixir.com/
