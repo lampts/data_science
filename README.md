@@ -51,6 +51,7 @@ Must seen:
 
 Must read:
 
+- http://www.slideshare.net/packtpub/python-machine-learning-sample-chapter
 - https://github.com/svaksha/pythonidae
 - http://www.datarobot.com/blog/statistical-learning-in-python/
 - http://karpathy.github.io/2015/11/14/ai/
