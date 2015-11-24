@@ -94,7 +94,11 @@ Must read:
 
 Curated:
 
-- 
+- http://pandas.pydata.org/pandas-docs/version/0.17.1/whatsnew.html
+- https://leetcode.com/
+- http://nadbordrozd.github.io/interviews/
+- http://daeilkim.com/refinery.html
+- https://www.simple.com/engineering/building-analytics-at-simple
 - http://cs229.stanford.edu/section/cs229-linalg.pdf
 - http://arxiv.org/pdf/1511.06388v1.pdf
 - http://dustintran.com/blog/trends-and-highlights-of-icml-2015/
