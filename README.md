@@ -53,6 +53,9 @@ Must seen:
 
 Must read:
 
+- http://nadbordrozd.github.io/interviews/
+- https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
+- http://goodfeli.github.io/dlbook/
 - http://www.slideshare.net/packtpub/python-machine-learning-sample-chapter
 - https://github.com/svaksha/pythonidae
 - http://www.datarobot.com/blog/statistical-learning-in-python/
