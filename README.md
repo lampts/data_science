@@ -11,6 +11,8 @@ BENCHMARK:
 
 DIY:
 
+- https://predictors.ai/#/p/Iris_flower_classifier
+- https://github.com/anishathalye/neural-style
 - https://github.com/sujitpal/statlearning-notebooks/tree/master/
 - https://github.com/avisingh599/visual-qa
 - http://avisingh599.github.io/deeplearning/visual-qa/
