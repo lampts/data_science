@@ -100,6 +100,7 @@ Must read:
 
 Curated:
 
+- http://nbviewer.ipython.org/github/rasbt/musicmood/blob/master/code/classify_lyrics/nb_whitelist_model.ipynb
 - http://pandas.pydata.org/pandas-docs/version/0.17.1/whatsnew.html
 - https://leetcode.com/
 - http://nadbordrozd.github.io/interviews/
