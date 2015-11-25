@@ -39,6 +39,8 @@ Full stack:
 
 Must seen:
 
+- 
+- http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 - https://www.youtube.com/watch?v=-yX1SYeDHbg&feature=youtu.be&t=2503
 - https://www.youtube.com/watch?v=He4t7Zekob0
 - https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks
@@ -53,6 +55,8 @@ Must seen:
 
 Must read:
 
+- http://vision.stanford.edu/teaching/cs231n/
+- http://www.datascienceweekly.org/data-scientist-interviews/training-deep-learning-models-browser-andrej-karpathy-interview
 - http://www.slideshare.net/SebastianRaschka/nextgen-talk-022015
 - http://nadbordrozd.github.io/interviews/
 - https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
