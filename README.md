@@ -53,6 +53,7 @@ Must seen:
 
 Must read:
 
+- http://www.slideshare.net/SebastianRaschka/nextgen-talk-022015
 - http://nadbordrozd.github.io/interviews/
 - https://www.countbayesie.com/blog/2015/11/21/the-black-friday-puzzle-understanding-markov-chains
 - http://goodfeli.github.io/dlbook/
