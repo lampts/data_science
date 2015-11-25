@@ -39,7 +39,7 @@ Full stack:
 
 Must seen:
 
-- 
+- https://www.youtube.com/watch?v=pXhcPJK5cMc&feature=youtu.be
 - http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 - https://www.youtube.com/watch?v=-yX1SYeDHbg&feature=youtu.be&t=2503
 - https://www.youtube.com/watch?v=He4t7Zekob0
