@@ -55,6 +55,8 @@ Must seen:
 
 Must read:
 
+- http://arxiv.org/pdf/1510.00726v1.pdf
+- http://arxiv.org/pdf/1511.07916v1.pdf
 - http://vision.stanford.edu/teaching/cs231n/
 - http://www.datascienceweekly.org/data-scientist-interviews/training-deep-learning-models-browser-andrej-karpathy-interview
 - http://www.slideshare.net/SebastianRaschka/nextgen-talk-022015
