@@ -55,6 +55,7 @@ Must seen:
 
 Must read:
 
+- http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 - http://arxiv.org/pdf/1510.00726v1.pdf
 - http://arxiv.org/pdf/1511.07916v1.pdf
 - http://vision.stanford.edu/teaching/cs231n/
