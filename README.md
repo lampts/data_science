@@ -110,6 +110,7 @@ Must read:
 
 Curated:
 
+- http://www.cis.upenn.edu/~ccb/ppdb/
 - https://github.com/caesar0301/awesome-public-datasets
 - http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
 - https://www.reddit.com/r/MachineLearning/comments/3upodo/using_keras_lstm_rnn_for_variable_length_sequence/
