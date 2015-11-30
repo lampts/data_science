@@ -39,6 +39,7 @@ Full stack:
 
 Must seen:
 
+- https://www.youtube.com/watch?v=B8J4uefCQMc
 - https://www.youtube.com/watch?v=pXhcPJK5cMc&feature=youtu.be
 - http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 - https://www.youtube.com/watch?v=-yX1SYeDHbg&feature=youtu.be&t=2503
@@ -55,6 +56,7 @@ Must seen:
 
 Must read:
 
+- http://arxiv.org/pdf/1511.08198v1.pdf
 - http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 - http://arxiv.org/pdf/1510.00726v1.pdf
 - http://arxiv.org/pdf/1511.07916v1.pdf
@@ -108,6 +110,13 @@ Must read:
 
 Curated:
 
+- https://github.com/caesar0301/awesome-public-datasets
+- http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
+- https://www.reddit.com/r/MachineLearning/comments/3upodo/using_keras_lstm_rnn_for_variable_length_sequence/
+- http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb
+- http://www.picalike.com/blog/2015/01/12/the-portrait-of-a-machine-learning-priestess/
+- http://fastml.com/torch-vs-theano/
+- http://www.unofficialgoogledatascience.com/2015/11/how-to-get-job-at-google-as-data.html
 - http://arxiv.org/pdf/1511.08130v1.pdf
 - http://nbviewer.ipython.org/github/rasbt/musicmood/blob/master/code/classify_lyrics/nb_whitelist_model.ipynb
 - http://pandas.pydata.org/pandas-docs/version/0.17.1/whatsnew.html
