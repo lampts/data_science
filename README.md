@@ -110,6 +110,9 @@ Must read:
 
 Curated:
 
+- http://1oclockbuzz.com/2015/11/24/bandit-algorithms-for-bullying-getting-more-lunch-money/
+- http://planspace.org/20151129-see_sklearn_trees_with_d3/
+- http://dustintran.com/blog/infinite-dimensional-word-embeddings/
 - http://www.cis.upenn.edu/~ccb/ppdb/
 - https://github.com/caesar0301/awesome-public-datasets
 - http://willmcginnis.com/2015/11/29/beyond-one-hot-an-exploration-of-categorical-variables/
