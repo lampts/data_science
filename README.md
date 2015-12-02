@@ -56,6 +56,7 @@ Must seen:
 
 Must read:
 
+- http://colah.github.io/posts/2015-01-Visualizing-Representations/
 - http://arxiv.org/pdf/1511.08198v1.pdf
 - http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 - http://arxiv.org/pdf/1510.00726v1.pdf
@@ -110,6 +111,8 @@ Must read:
 
 Curated:
 
+- http://opensource.datacratic.com/mtlpy50/
+- http://aylien.com/web-summit-2015-tweets-part1
 - http://1oclockbuzz.com/2015/11/24/bandit-algorithms-for-bullying-getting-more-lunch-money/
 - http://planspace.org/20151129-see_sklearn_trees_with_d3/
 - http://dustintran.com/blog/infinite-dimensional-word-embeddings/
@@ -230,6 +233,8 @@ Writing:
 
 Teaching:
 
+- https://github.com/ryankiros/skip-thoughts
+- http://www.tensorflow.org/tutorials/seq2seq/index.html
 - https://github.com/Newmu/Theano-Tutorials
 - https://github.com/nlintz/TensorFlow-Tutorials
 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
