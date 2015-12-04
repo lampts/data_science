@@ -56,6 +56,11 @@ Must seen:
 
 Must read:
 
+- http://cs231n.github.io/
+- https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
+- http://dsnotes.com/blog/text2vec/2015/12/01/glove-enwiki/
+- https://github.com/maciejkula/glove-python
+- http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python
 - http://colah.github.io/posts/2015-01-Visualizing-Representations/
 - http://arxiv.org/pdf/1511.08198v1.pdf
 - http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
