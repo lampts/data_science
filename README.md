@@ -56,6 +56,7 @@ Must seen:
 
 Must read:
 
+- https://docs.google.com/document/d/1ydIujJ7ETSZ688RGfU5IMJJsbxAi-kRl8czSwpti15s/edit?pli=1
 - http://cs231n.github.io/
 - https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
 - http://dsnotes.com/blog/text2vec/2015/12/01/glove-enwiki/
