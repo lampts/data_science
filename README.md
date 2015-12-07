@@ -35,11 +35,13 @@ Products:
 
 Full stack:
 
+- https://github.com/nliu86/word2vec-doc2vec
 - http://claymcleod.github.io/papers/distributed-dnn/paper.html
 - https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 
 Must seen:
 
+- https://www.youtube.com/watch?v=wTp3P2UnTfQ
 - http://cs.stanford.edu/people/karpathy/nips2015/
 - https://www.youtube.com/watch?v=B8J4uefCQMc
 - https://www.youtube.com/watch?v=pXhcPJK5cMc&feature=youtu.be
@@ -58,6 +60,7 @@ Must seen:
 
 Must read:
 
+- http://research.microsoft.com/en-us/um/people/jfgao/paper/2013/cikm2013_dssm_fullversion.pdf
 - https://daoudclarke.github.io/guide.pdf
 - https://docs.google.com/document/d/1ydIujJ7ETSZ688RGfU5IMJJsbxAi-kRl8czSwpti15s/edit?pli=1
 - http://cs231n.github.io/
