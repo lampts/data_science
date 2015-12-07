@@ -120,7 +120,7 @@ Must read:
 
 Curated:
 
-- 
+- http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 - http://planspace.org/20151129-see_sklearn_trees_with_d3/
 - http://datascienceplus.com/standard-deviation-vs-standard-error/
 - http://opensource.datacratic.com/mtlpy50/
