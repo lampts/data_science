@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/danielfrg/tsne
 - https://predictors.ai/#/p/Iris_flower_classifier
 - https://github.com/anishathalye/neural-style
 - https://github.com/sujitpal/statlearning-notebooks/tree/master/
@@ -39,6 +40,7 @@ Full stack:
 
 Must seen:
 
+- http://cs.stanford.edu/people/karpathy/nips2015/
 - https://www.youtube.com/watch?v=B8J4uefCQMc
 - https://www.youtube.com/watch?v=pXhcPJK5cMc&feature=youtu.be
 - http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
@@ -56,6 +58,7 @@ Must seen:
 
 Must read:
 
+- https://daoudclarke.github.io/guide.pdf
 - https://docs.google.com/document/d/1ydIujJ7ETSZ688RGfU5IMJJsbxAi-kRl8czSwpti15s/edit?pli=1
 - http://cs231n.github.io/
 - https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
@@ -117,6 +120,9 @@ Must read:
 
 Curated:
 
+- 
+- http://planspace.org/20151129-see_sklearn_trees_with_d3/
+- http://datascienceplus.com/standard-deviation-vs-standard-error/
 - http://opensource.datacratic.com/mtlpy50/
 - http://aylien.com/web-summit-2015-tweets-part1
 - http://1oclockbuzz.com/2015/11/24/bandit-algorithms-for-bullying-getting-more-lunch-money/
