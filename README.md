@@ -38,12 +38,14 @@ Products:
 
 Full stack:
 
+- https://github.com/japerk/nltk-trainer
 - https://github.com/nliu86/word2vec-doc2vec
 - http://claymcleod.github.io/papers/distributed-dnn/paper.html
 - https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources
 
 Must seen:
 
+- https://www.youtube.com/watch?v=04ev55WnvSg&feature=youtu.be
 - https://www.youtube.com/watch?v=wTp3P2UnTfQ
 - http://cs.stanford.edu/people/karpathy/nips2015/
 - https://www.youtube.com/watch?v=B8J4uefCQMc
@@ -126,6 +128,8 @@ Must read:
 
 Curated:
 
+- http://devashishshankar.com/2015/07/21/my-journey-in-nlp/
+- https://atlas.mindmup.com/2015/06/4cbcef50fa6901327cdf06dfaff79cf0/deep_learning_for_natural_language_proce/index.html
 - http://yanirseroussi.com/2015/12/08/this-holiday-season-give-me-real-insights/
 - http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 - http://planspace.org/20151129-see_sklearn_trees_with_d3/
