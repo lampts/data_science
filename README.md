@@ -11,6 +11,8 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/bugra/l1/blob/master/l1/tf.py
+- https://github.com/fchollet/keras
 - https://github.com/danielfrg/tsne
 - https://predictors.ai/#/p/Iris_flower_classifier
 - https://github.com/anishathalye/neural-style
@@ -30,6 +32,7 @@ DIY:
 
 Products:
 
+- http://cs.stanford.edu/people/karpathy/nips2015/
 - http://www.writelike.ml/survey/69
 - http://metamind.io/
 
@@ -123,6 +126,7 @@ Must read:
 
 Curated:
 
+- http://yanirseroussi.com/2015/12/08/this-holiday-season-give-me-real-insights/
 - http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/
 - http://planspace.org/20151129-see_sklearn_trees_with_d3/
 - http://datascienceplus.com/standard-deviation-vs-standard-error/
