@@ -128,6 +128,8 @@ Must read:
 
 Curated:
 
+- http://byterot.blogspot.co.uk/2015/07/daft-punk-tool-muse-word2vec-model-trained-36K-rock-music-corpus-wiki-NLP-gensim.html
+- http://byterot.blogspot.co.uk/2015/06/five-crazy-abstractions-my-deep-learning-word2doc-model-just-did-NLP-gensim.html
 - http://devashishshankar.com/2015/07/21/my-journey-in-nlp/
 - https://atlas.mindmup.com/2015/06/4cbcef50fa6901327cdf06dfaff79cf0/deep_learning_for_natural_language_proce/index.html
 - http://yanirseroussi.com/2015/12/08/this-holiday-season-give-me-real-insights/
