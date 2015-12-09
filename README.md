@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/google/deepdream/blob/master/dream.ipynb
 - https://github.com/bugra/l1/blob/master/l1/tf.py
 - https://github.com/fchollet/keras
 - https://github.com/danielfrg/tsne
