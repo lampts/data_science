@@ -134,6 +134,7 @@ Must read:
 
 Curated:
 
+- http://papers.nips.cc/paper/5849-semi-supervised-convolutional-neural-networks-for-text-categorization-via-region-embedding.pdf
 - http://topos-theory.github.io/deep-neural-decision-forests/
 - http://byterot.blogspot.co.uk/2015/07/daft-punk-tool-muse-word2vec-model-trained-36K-rock-music-corpus-wiki-NLP-gensim.html
 - http://byterot.blogspot.co.uk/2015/06/five-crazy-abstractions-my-deep-learning-word2doc-model-just-did-NLP-gensim.html
