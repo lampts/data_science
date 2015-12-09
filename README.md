@@ -32,12 +32,14 @@ DIY:
 
 Products:
 
+- http://visualqa.csail.mit.edu/
 - http://cs.stanford.edu/people/karpathy/nips2015/
 - http://www.writelike.ml/survey/69
 - http://metamind.io/
 
 Full stack:
 
+- https://github.com/lensacom/sparkit-learn
 - https://github.com/japerk/nltk-trainer
 - https://github.com/nliu86/word2vec-doc2vec
 - http://claymcleod.github.io/papers/distributed-dnn/paper.html
@@ -45,6 +47,7 @@ Full stack:
 
 Must seen:
 
+- https://www.youtube.com/watch?v=LjmWcgmJqVE
 - https://www.youtube.com/watch?v=04ev55WnvSg&feature=youtu.be
 - https://www.youtube.com/watch?v=wTp3P2UnTfQ
 - http://cs.stanford.edu/people/karpathy/nips2015/
@@ -65,6 +68,7 @@ Must seen:
 
 Must read:
 
+- https://www.reddit.com/r/MachineLearning/comments/3vxal4/what_happened_at_nips_2015_deep_learning_session/
 - http://research.microsoft.com/en-us/um/people/jfgao/paper/2013/cikm2013_dssm_fullversion.pdf
 - https://daoudclarke.github.io/guide.pdf
 - https://docs.google.com/document/d/1ydIujJ7ETSZ688RGfU5IMJJsbxAi-kRl8czSwpti15s/edit?pli=1
@@ -128,6 +132,7 @@ Must read:
 
 Curated:
 
+- http://topos-theory.github.io/deep-neural-decision-forests/
 - http://byterot.blogspot.co.uk/2015/07/daft-punk-tool-muse-word2vec-model-trained-36K-rock-music-corpus-wiki-NLP-gensim.html
 - http://byterot.blogspot.co.uk/2015/06/five-crazy-abstractions-my-deep-learning-word2doc-model-just-did-NLP-gensim.html
 - http://devashishshankar.com/2015/07/21/my-journey-in-nlp/
