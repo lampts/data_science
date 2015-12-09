@@ -266,6 +266,9 @@ Writing:
 
 Teaching:
 
+- http://neuralnetworksanddeeplearning.com/chap6.html
+- http://neuralnetworksanddeeplearning.com/chap1.html
+- https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html
 - https://github.com/ryankiros/skip-thoughts
 - http://www.tensorflow.org/tutorials/seq2seq/index.html
 - https://github.com/Newmu/Theano-Tutorials
