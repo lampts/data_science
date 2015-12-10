@@ -70,6 +70,9 @@ Must seen:
 
 Must read:
 
+- http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf
+- http://dswalter.github.io/blog/machine-learnings-first-cheating-scandal/
+- http://arxiv.org/abs/1512.02595
 - https://www.reddit.com/r/MachineLearning/comments/3vxal4/what_happened_at_nips_2015_deep_learning_session/
 - http://research.microsoft.com/en-us/um/people/jfgao/paper/2013/cikm2013_dssm_fullversion.pdf
 - https://daoudclarke.github.io/guide.pdf
@@ -134,6 +137,7 @@ Must read:
 
 Curated:
 
+- https://github.com/wojzaremba/algorithm-learning
 - http://papers.nips.cc/paper/5849-semi-supervised-convolutional-neural-networks-for-text-categorization-via-region-embedding.pdf
 - http://topos-theory.github.io/deep-neural-decision-forests/
 - http://byterot.blogspot.co.uk/2015/07/daft-punk-tool-muse-word2vec-model-trained-36K-rock-music-corpus-wiki-NLP-gensim.html
