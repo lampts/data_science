@@ -140,6 +140,8 @@ Must read:
 
 Curated:
 
+- http://research.google.com/pubs/pub41159.html
+- https://www.kaggle.com/c/avazu-ctr-prediction/forums/t/10927/beat-the-benchmark-with-less-than-1mb-of-memory
 - http://alicebot.blogspot.com/
 - https://github.com/wojzaremba/algorithm-learning
 - http://papers.nips.cc/paper/5849-semi-supervised-convolutional-neural-networks-for-text-categorization-via-region-embedding.pdf
