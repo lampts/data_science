@@ -48,6 +48,7 @@ Full stack:
 
 Must seen:
 
+- http://i.imgur.com/GfWipUH.gif
 - http://www.slideshare.net/AlexanderKorbonits/deep-learning-with-python-pydata-seattle-2015
 - https://www.youtube.com/watch?v=LjmWcgmJqVE
 - https://www.youtube.com/watch?v=04ev55WnvSg&feature=youtu.be
