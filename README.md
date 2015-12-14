@@ -70,6 +70,7 @@ Must seen:
 
 Must read:
 
+- http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/
 - http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 - https://playground.pandorabots.com/en/tutorial/
 - http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf
