@@ -72,6 +72,7 @@ Must seen:
 
 Must read:
 
+- http://blog.kaggle.com/2015/05/07/profiling-top-kagglers-kazanovacurrently-2-in-the-world/
 - http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/
 - http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 - https://playground.pandorabots.com/en/tutorial/
