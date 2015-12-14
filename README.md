@@ -70,6 +70,8 @@ Must seen:
 
 Must read:
 
+- http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+- https://playground.pandorabots.com/en/tutorial/
 - http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf
 - http://dswalter.github.io/blog/machine-learnings-first-cheating-scandal/
 - http://arxiv.org/abs/1512.02595
@@ -137,6 +139,7 @@ Must read:
 
 Curated:
 
+- http://alicebot.blogspot.com/
 - https://github.com/wojzaremba/algorithm-learning
 - http://papers.nips.cc/paper/5849-semi-supervised-convolutional-neural-networks-for-text-categorization-via-region-embedding.pdf
 - http://topos-theory.github.io/deep-neural-decision-forests/
