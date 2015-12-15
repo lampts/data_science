@@ -48,6 +48,11 @@ Full stack:
 
 Must seen:
 
+- https://github.com/jeongyoonlee?tab=repositories
+- http://www.csie.ntu.edu.tw/~r01922136/kaggle-2014-criteo.pdf
+- https://github.com/diefimov/avito_context_click_2015
+- https://github.com/aguschin/kaggle
+- https://speakerd.s3.amazonaws.com/presentations/844fef54b1d34b1aaae951123c59a0e6/Winning_Data_Science_Competitions_-_Distributed.pdf
 - https://www.youtube.com/watch?v=ClAZQI_B4t8
 - http://i.imgur.com/GfWipUH.gif
 - http://www.slideshare.net/AlexanderKorbonits/deep-learning-with-python-pydata-seattle-2015
