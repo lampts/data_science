@@ -150,6 +150,7 @@ Must read:
 
 Curated:
 
+- http://machinelearningmastery.com/improve-machine-learning-results-with-boosting-bagging-and-blending-ensemble-methods-in-weka/
 - http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/
 - https://www.kaggle.com/c/dato-native/forums/t/16626/beat-the-benchmark-0-90388-with-simple-model
 - http://research.google.com/pubs/pub41159.html
