@@ -48,6 +48,7 @@ Full stack:
 
 Must seen:
 
+- http://www.slideshare.net/MoscowDataFest/df1-dmc-trophimov-tips-tricks-and-usecases-of-ensembling-in-practice
 - https://github.com/jeongyoonlee?tab=repositories
 - http://www.csie.ntu.edu.tw/~r01922136/kaggle-2014-criteo.pdf
 - https://github.com/diefimov/avito_context_click_2015
