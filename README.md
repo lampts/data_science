@@ -151,6 +151,8 @@ Must read:
 
 Curated:
 
+- http://fastml.com/numerai-like-kaggle-but-with-a-clean-dataset-top-ten-in-the-money-and-recurring-payouts/
+- http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
 - http://machinelearningmastery.com/improve-machine-learning-results-with-boosting-bagging-and-blending-ensemble-methods-in-weka/
 - http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/
 - https://www.kaggle.com/c/dato-native/forums/t/16626/beat-the-benchmark-0-90388-with-simple-model
