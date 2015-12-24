@@ -78,6 +78,7 @@ Must seen:
 
 Must read:
 
+- http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/
 - http://www.machinelearning.ru/wiki/index.php
 - https://github.com/cs109/2015/tree/master/Lectures
 - https://alexanderdyakonov.wordpress.com/
