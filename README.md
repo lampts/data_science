@@ -78,6 +78,11 @@ Must seen:
 
 Must read:
 
+- http://www.machinelearning.ru/wiki/index.php
+- https://github.com/cs109/2015/tree/master/Lectures
+- https://alexanderdyakonov.wordpress.com/
+- http://alexanderdyakonov.narod.ru/english.htm
+- https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov/79598#post79598
 - https://plus.google.com/communities/107785538899595981479/stream/617c2a2c-e04d-448b-87fe-e9d8a8d657fc
 - https://plus.google.com/communities/107785538899595981479
 - https://www.quora.com/topic/Machine-Learning
