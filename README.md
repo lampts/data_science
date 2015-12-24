@@ -301,6 +301,9 @@ Writing:
 
 Teaching:
 
+- http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
+- https://github.com/Dyakonov/notebooks/blob/master/dj_pandas_tutoral.ipynb
+- https://github.com/amueller/scipy_2015_sklearn_tutorial/tree/master/notebooks
 - http://neuralnetworksanddeeplearning.com/chap6.html
 - http://neuralnetworksanddeeplearning.com/chap1.html
 - https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html
