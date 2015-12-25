@@ -51,6 +51,8 @@ Full stack:
 
 Must seen:
 
+- Large scale news clutering: http://publications.lib.chalmers.se/records/fulltext/179841/179841.pdf
+- tripadvisor: http://engineering.tripadvisor.com/using-nlp-to-find-interesting-collections-of-hotels/
 - http://www.slideshare.net/MoscowDataFest/df1-dmc-trophimov-tips-tricks-and-usecases-of-ensembling-in-practice
 - https://github.com/jeongyoonlee?tab=repositories
 - http://www.csie.ntu.edu.tw/~r01922136/kaggle-2014-criteo.pdf
