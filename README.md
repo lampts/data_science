@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- sentiment with rasp: http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
 - solr + w2v: http://www.slideshare.net/lucidworks/implementing-conceptual-search-in-solr-using-lsa-and-word2vec-presented-by-simon-hughes-dicecom 
 - adaboost: http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html
 - xgboost with sklearn: https://github.com/dmlc/xgboost/blob/master/demo/guide-python/sklearn_evals_result.py
