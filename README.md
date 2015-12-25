@@ -78,6 +78,7 @@ Must seen:
 
 Must read:
 
+- http://engineering.tripadvisor.com/using-nlp-to-find-interesting-collections-of-hotels/
 - http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/
 - http://www.machinelearning.ru/wiki/index.php
 - https://github.com/cs109/2015/tree/master/Lectures
@@ -160,6 +161,8 @@ Must read:
 
 Curated:
 
+- http://eng.datafox.co/general/2015/04/17/keyword-similarities/
+- http://dilipad.history.ac.uk/2015/08/05/visualizing-parliamentary-discourse-with-word2vec-and-gephi/
 - http://fastml.com/numerai-like-kaggle-but-with-a-clean-dataset-top-ten-in-the-money-and-recurring-payouts/
 - http://101.datascience.community/2015/12/21/the-most-popular-skills-and-degrees-of-todays-data-scientists/
 - http://machinelearningmastery.com/improve-machine-learning-results-with-boosting-bagging-and-blending-ensemble-methods-in-weka/
@@ -328,3 +331,4 @@ Teaching:
 - https://github.com/rouseguy/intro2stats/tree/master/notebooks
 - https://github.com/chdoig/pytexas2015-ml
 - https://github.com/tdhopper/notes-on-dirichlet-processes
+- https://books.google.com.vn/books?id=qjwqBAAAQBAJ&pg=PA197&lpg=PA197&dq=duplicate+detection+gensim&source=bl&ots=wujuprMMWO&sig=e_uj4RLQSuJZWZUiCA8Z8CuhcY0&hl=en&sa=X&redir_esc=y#v=onepage&q=duplicate%20detection%20gensim&f=false
