@@ -78,6 +78,7 @@ Must seen:
 
 Must read:
 
+- globe: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
 - duplicate detection: https://moz.com/devblog/near-duplicate-detection/
 - http://engineering.tripadvisor.com/using-nlp-to-find-interesting-collections-of-hotels/
 - http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/
