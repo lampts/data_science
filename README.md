@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- solr + w2v: http://www.slideshare.net/lucidworks/implementing-conceptual-search-in-solr-using-lsa-and-word2vec-presented-by-simon-hughes-dicecom 
 - adaboost: http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html
 - xgboost with sklearn: https://github.com/dmlc/xgboost/blob/master/demo/guide-python/sklearn_evals_result.py
 - https://github.com/google/deepdream/blob/master/dream.ipynb
