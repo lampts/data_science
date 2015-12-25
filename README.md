@@ -11,6 +11,7 @@ BENCHMARK:
 
 DIY:
 
+- adaboost: http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html
 - xgboost with sklearn: https://github.com/dmlc/xgboost/blob/master/demo/guide-python/sklearn_evals_result.py
 - https://github.com/google/deepdream/blob/master/dream.ipynb
 - https://github.com/bugra/l1/blob/master/l1/tf.py
