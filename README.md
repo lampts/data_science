@@ -84,6 +84,8 @@ Must seen:
 
 Must read:
 
+- http://arxiv.org/pdf/1507.07998v1.pdf
+- http://cjauvin.blogspot.com/2014/06/dbscan-blues.html
 - globe: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
 - duplicate detection: https://moz.com/devblog/near-duplicate-detection/
 - http://engineering.tripadvisor.com/using-nlp-to-find-interesting-collections-of-hotels/
