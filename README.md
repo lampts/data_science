@@ -1,5 +1,12 @@
 # data_science
 
+CLUSTER:
+
+- https://github.com/lmcinnes/hdbscan
+- http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations-v0.6.ipynb
+- http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations%202D%20v0.6.ipynb
+- http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
+
 BENCHMARK:
 
 - https://github.com/zer0n/deepframeworks/blob/master/README.md
