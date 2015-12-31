@@ -92,6 +92,7 @@ Must seen:
 
 Must read:
 
+- http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 - http://arxiv.org/pdf/1507.07998v1.pdf
 - http://cjauvin.blogspot.com/2014/06/dbscan-blues.html
 - globe: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
@@ -179,6 +180,7 @@ Must read:
 
 Curated:
 
+- https://github.com/ianozsvald/data_science_delivered
 - http://eng.datafox.co/general/2015/04/17/keyword-similarities/
 - http://dilipad.history.ac.uk/2015/08/05/visualizing-parliamentary-discourse-with-word2vec-and-gephi/
 - http://fastml.com/numerai-like-kaggle-but-with-a-clean-dataset-top-ten-in-the-money-and-recurring-payouts/
