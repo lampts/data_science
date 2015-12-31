@@ -59,6 +59,7 @@ Full stack:
 
 Must seen:
 
+- http://www.pyvideo.org/video/3590/how-to-get-data-science-models-into-production-on
 - Large scale news clutering: http://publications.lib.chalmers.se/records/fulltext/179841/179841.pdf
 - tripadvisor: http://engineering.tripadvisor.com/using-nlp-to-find-interesting-collections-of-hotels/
 - http://www.slideshare.net/MoscowDataFest/df1-dmc-trophimov-tips-tricks-and-usecases-of-ensembling-in-practice
@@ -321,6 +322,7 @@ Writing:
 
 Teaching:
 
+- https://github.com/jreback/PyDataNYC2015/tree/master/tutorial
 - http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
 - https://github.com/Dyakonov/notebooks/blob/master/dj_pandas_tutoral.ipynb
 - https://github.com/amueller/scipy_2015_sklearn_tutorial/tree/master/notebooks
