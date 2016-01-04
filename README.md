@@ -92,6 +92,7 @@ Must seen:
 
 Must read:
 
+- http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - http://www.slideshare.net/tekproxy/tetcon-2016
 - http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 - http://arxiv.org/pdf/1507.07998v1.pdf
