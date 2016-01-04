@@ -92,6 +92,7 @@ Must seen:
 
 Must read:
 
+- http://www.slideshare.net/tekproxy/tetcon-2016
 - http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
 - http://arxiv.org/pdf/1507.07998v1.pdf
 - http://cjauvin.blogspot.com/2014/06/dbscan-blues.html
