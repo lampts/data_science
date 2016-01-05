@@ -92,6 +92,7 @@ Must seen:
 
 Must read:
 
+- http://pmarchive.com/
 - http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - http://www.slideshare.net/tekproxy/tetcon-2016
 - http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html
@@ -182,6 +183,10 @@ Must read:
 
 Curated:
 
+- http://www.jmlr.org/papers/volume15/claesen14a/claesen14a.pdf
+- http://www.jmlr.org/papers/volume15/nandan14a/nandan14a.pdf
+- http://www.jmlr.org/papers/volume15/dubout14a/dubout14a.pdf
+- http://www.jmlr.org/papers/volume15/saberian14a/saberian14a.pdf
 - https://github.com/ianozsvald/data_science_delivered
 - http://eng.datafox.co/general/2015/04/17/keyword-similarities/
 - http://dilipad.history.ac.uk/2015/08/05/visualizing-parliamentary-discourse-with-word2vec-and-gephi/
