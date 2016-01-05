@@ -92,6 +92,7 @@ Must seen:
 
 Must read:
 
+- http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html
 - http://pmarchive.com/
 - http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - http://www.slideshare.net/tekproxy/tetcon-2016
