@@ -1,7 +1,15 @@
 # data_science
 
+BOOKS:
+
+- https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf
+
 CLUSTER:
 
+- 30 day indexed: http://googlenewsblog.blogspot.com/2008/05/keeping-good-news-stories-together-just.html
+- http://www.mondaynote.com/2013/02/24/google-news-the-secret-sauce/
+- http://searchengineland.com/google-news-ranking-stories-30424
+- http://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1051&context=gscis_etd
 - https://github.com/lmcinnes/hdbscan
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations-v0.6.ipynb
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations%202D%20v0.6.ipynb
