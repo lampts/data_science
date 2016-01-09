@@ -100,6 +100,7 @@ Must seen:
 
 Must read:
 
+- https://www.reddit.com/r/MachineLearning/comments/4020ek/state_of_the_art_dec2015_natural_language/
 - https://kaggle2.blob.core.windows.net/forum-message-attachments/60041/1813/TradeshiftTextClassification.pdf?sv=2012-02-12&se=2016-01-08T03%3A36%3A57Z&sr=b&sp=r&sig=miL1MV7BxgdDh%2BcA%2BYVxedVrr%2BolasysRCNL6dJGfmw%3D
 - http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html
 - http://pmarchive.com/
