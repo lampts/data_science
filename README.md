@@ -69,6 +69,7 @@ Full stack:
 
 Must seen:
 
+- https://class.coursera.org/nlp/lecture
 - https://docs.google.com/presentation/d/1eI60SL3UxtWfr9ktrv48-pcIkk4S7JiDmeXGCyyGhCs/edit?pref=2&pli=1#slide=id.g5bd0df450_0_609
 - http://www.pyvideo.org/video/3590/how-to-get-data-science-models-into-production-on
 - Large scale news clutering: http://publications.lib.chalmers.se/records/fulltext/179841/179841.pdf
