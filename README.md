@@ -2,6 +2,7 @@
 
 BOOKS:
 
+- http://shop.oreilly.com/product/0636920033400.do
 - https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf
 
 CLUSTER:
@@ -119,7 +120,7 @@ Must read:
 - http://alexanderdyakonov.narod.ru/english.htm
 - https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov/79598#post79598
 - https://plus.google.com/communities/107785538899595981479/stream/617c2a2c-e04d-448b-87fe-e9d8a8d657fc
-- https://plus.google.com/communities/107785538899595981479
+- https://plus.google.com/communities/107785538899595981479
 - https://www.quora.com/topic/Machine-Learning
 - http://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions?related=1
 - https://github.com/nliu86/word2vec-doc2vec - Word2vec recommendation
@@ -342,6 +343,7 @@ Writing:
 
 Teaching:
 
+- https://courses.cs.washington.edu/courses/cse546/12wi/slides/cse546wi12intro.pdf
 - https://github.com/jreback/PyDataNYC2015/tree/master/tutorial
 - http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
 - https://github.com/Dyakonov/notebooks/blob/master/dj_pandas_tutoral.ipynb
