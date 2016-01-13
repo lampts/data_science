@@ -1,5 +1,9 @@
 # data_science
 
+QUOTES:
+
+- "Data data data" he cried impatiently. I can't make bricks without clay. [Arthur Donan Doyle]
+
 BOOKS:
 
 - http://shop.oreilly.com/product/0636920033400.do
