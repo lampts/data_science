@@ -4,6 +4,7 @@ BOOKS:
 
 - http://shop.oreilly.com/product/0636920033400.do
 - https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf
+- https://leanpub.com/interviewswithdatascientists
 
 CLUSTER:
 
