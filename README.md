@@ -23,6 +23,7 @@ CLUSTER:
 
 BENCHMARK:
 
+- http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html
 - https://github.com/zer0n/deepframeworks/blob/master/README.md
 - https://github.com/soumith/convnet-benchmarks/issues/66
 - https://github.com/soumith/convnet-benchmarks/blob/master/README.md
@@ -343,6 +344,7 @@ Cool blogs:
 
 Visualizations:
 
+- http://cs.stanford.edu/people/karpathy/svmjs/demo/
 - https://www.oreilly.com/ideas/jupyter-at-oreilly
 
 Writing:
