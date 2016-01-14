@@ -110,6 +110,7 @@ Must seen:
 
 Must read:
 
+- https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-machine-learning-systems-part-ii-93fe7008fa9#.8caexkms3
 - C in svm: http://stats.stackexchange.com/questions/31066/what-is-the-influence-of-c-in-svms-with-linear-kernel
 - https://github.com/joelgrus/stupid-itertools-tricks-pydata
 - https://www.reddit.com/r/MachineLearning/comments/4020ek/state_of_the_art_dec2015_natural_language/
