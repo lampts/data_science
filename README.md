@@ -110,6 +110,7 @@ Must seen:
 
 Must read:
 
+- http://blog.talla.com/2016/01/how-we-approached-the-allen-a-i-challenge-on-kaggle/
 - https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-machine-learning-systems-part-ii-93fe7008fa9#.8caexkms3
 - C in svm: http://stats.stackexchange.com/questions/31066/what-is-the-influence-of-c-in-svms-with-linear-kernel
 - https://github.com/joelgrus/stupid-itertools-tricks-pydata
