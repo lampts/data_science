@@ -33,6 +33,8 @@ BENCHMARK:
 
 DIY:
 
+- http://blog.christianperone.com/2016/01/voynich-manuscript-word-vectors-and-t-sne-visualization-of-some-patterns/
+- http://cherokee-project.com/doc/basics_installation_osx.html
 - https://github.com/joelgrus/spot-it/tree/master/python
 - sentiment with rasp: http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
 - solr + w2v: http://www.slideshare.net/lucidworks/implementing-conceptual-search-in-solr-using-lsa-and-word2vec-presented-by-simon-hughes-dicecom 
