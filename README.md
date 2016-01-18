@@ -114,6 +114,9 @@ Must seen:
 
 Must read:
 
+- Lasagne: https://github.com/christophebourguignat/notebooks/blob/master/Tuning%20Neural%20Networks.ipynb
+- calib: https://github.com/christophebourguignat/notebooks/blob/master/Calibration.ipynb
+- https://medium.com/@chris_bour/6-tricks-i-learned-from-the-otto-kaggle-challenge-a9299378cd61#.8a6a0qpqn
 - http://www.technologyreview.com/view/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/
 - http://blog.talla.com/2016/01/how-we-approached-the-allen-a-i-challenge-on-kaggle/
 - https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-machine-learning-systems-part-ii-93fe7008fa9#.8caexkms3
