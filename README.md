@@ -34,6 +34,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/cemoody/lda2vec
 - http://blog.christianperone.com/2016/01/voynich-manuscript-word-vectors-and-t-sne-visualization-of-some-patterns/
 - http://cherokee-project.com/doc/basics_installation_osx.html
 - https://github.com/joelgrus/spot-it/tree/master/python
@@ -113,6 +114,7 @@ Must seen:
 
 Must read:
 
+- http://www.technologyreview.com/view/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/
 - http://blog.talla.com/2016/01/how-we-approached-the-allen-a-i-challenge-on-kaggle/
 - https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-machine-learning-systems-part-ii-93fe7008fa9#.8caexkms3
 - C in svm: http://stats.stackexchange.com/questions/31066/what-is-the-influence-of-c-in-svms-with-linear-kernel
