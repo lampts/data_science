@@ -34,6 +34,7 @@ BENCHMARK:
 
 DIY:
 
+- Lasagne Python: https://martin-thoma.com/lasagne-for-python-newbies/
 - https://github.com/cemoody/lda2vec
 - http://blog.christianperone.com/2016/01/voynich-manuscript-word-vectors-and-t-sne-visualization-of-some-patterns/
 - http://cherokee-project.com/doc/basics_installation_osx.html
