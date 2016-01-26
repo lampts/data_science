@@ -218,6 +218,8 @@ Must read:
 
 Curated:
 
+
+- https://github.com/Microsoft/CNTK
 - http://www.jmlr.org/papers/volume15/claesen14a/claesen14a.pdf
 - http://www.jmlr.org/papers/volume15/nandan14a/nandan14a.pdf
 - http://www.jmlr.org/papers/volume15/dubout14a/dubout14a.pdf
