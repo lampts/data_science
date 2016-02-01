@@ -218,6 +218,7 @@ Must read:
 
 Curated:
 
+- http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
 - http://www.inference.vc/deep-learning-is-easy/
 - https://github.com/Microsoft/CNTK
 - http://www.jmlr.org/papers/volume15/claesen14a/claesen14a.pdf
