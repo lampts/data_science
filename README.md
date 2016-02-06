@@ -118,6 +118,7 @@ Must seen:
 
 Must read:
 
+- https://alexanderdyakonov.wordpress.com/2016/01/27/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B3%D1%83%D1%89%D0%B8%D0%BD/#more-1413
 - Lasagne: https://github.com/christophebourguignat/notebooks/blob/master/Tuning%20Neural%20Networks.ipynb
 - calib: https://github.com/christophebourguignat/notebooks/blob/master/Calibration.ipynb
 - https://medium.com/@chris_bour/6-tricks-i-learned-from-the-otto-kaggle-challenge-a9299378cd61#.8a6a0qpqn
@@ -220,6 +221,9 @@ Must read:
 
 Curated:
 
+- http://neuralnetworksanddeeplearning.com/chap1.html
+- http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+- https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.rzgr2r1j1
 - http://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
 - http://www.inference.vc/deep-learning-is-easy/
 - https://github.com/Microsoft/CNTK
