@@ -35,6 +35,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/tensorflow/skflow
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
 - https://jmetzen.github.io/2015-01-29/ml_advice.html
 - Lasagne Python: https://martin-thoma.com/lasagne-for-python-newbies/
