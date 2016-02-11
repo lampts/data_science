@@ -26,7 +26,7 @@ CLUSTER:
 EMBEDDING:
 
 - Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
-- 
+
 
 BENCHMARK:
 
