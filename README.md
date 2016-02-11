@@ -2,6 +2,7 @@
 
 QUOTES:
 
+- My name is Sherlock Homes. It is my business to know what other people dont know.
 - Take the first step in faith. You don't have to see the whole staircase, just take the first step. [M.L.King. Jr]
 - "Data data data" he cried impatiently. I can't make bricks without clay. [Arthur Donan Doyle]
 
@@ -81,7 +82,10 @@ Full stack:
 
 Must seen:
 
-- 
+- fake data scientist: http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
+- resume tips: http://www.kdnuggets.com/2016/01/data-science-resume-tips-guidelines.html
+- chartjunk: http://speakingppt.com/2011/05/09/does-chartjunk-really-trash-your-graphs-4-discoveries-from-research/
+- http://svail.github.io/mandarin/
 - https://www.youtube.com/watch?v=UAq961jQjYg
 - https://class.coursera.org/nlp/lecture
 - https://docs.google.com/presentation/d/1eI60SL3UxtWfr9ktrv48-pcIkk4S7JiDmeXGCyyGhCs/edit?pref=2&pli=1#slide=id.g5bd0df450_0_609
@@ -118,6 +122,8 @@ Must seen:
 
 Must read:
 
+- what questions can data answer: http://www.kdnuggets.com/2016/01/questions-data-science-answer.html
+- 7 mistakes to avoid: http://www.kdnuggets.com/2016/01/7-common-data-science-mistakes.html
 - https://alexanderdyakonov.wordpress.com/2016/01/27/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B3%D1%83%D1%89%D0%B8%D0%BD/#more-1413
 - Lasagne: https://github.com/christophebourguignat/notebooks/blob/master/Tuning%20Neural%20Networks.ipynb
 - calib: https://github.com/christophebourguignat/notebooks/blob/master/Calibration.ipynb
