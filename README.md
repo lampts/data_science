@@ -23,6 +23,11 @@ CLUSTER:
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations%202D%20v0.6.ipynb
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 
+EMBEDDING:
+
+- Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
+- 
+
 BENCHMARK:
 
 - http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html
