@@ -129,6 +129,7 @@ Must seen:
 
 Must read:
 
+- Limits of LM: perplexity RNN 30, ensembling 21 http://arxiv.org/pdf/1602.02410v1.pdf
 - what questions can data answer: http://www.kdnuggets.com/2016/01/questions-data-science-answer.html
 - 7 mistakes to avoid: http://www.kdnuggets.com/2016/01/7-common-data-science-mistakes.html
 - https://alexanderdyakonov.wordpress.com/2016/01/27/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B3%D1%83%D1%89%D0%B8%D0%BD/#more-1413
