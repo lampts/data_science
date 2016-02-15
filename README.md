@@ -1,5 +1,11 @@
 # data_science
 
+EVENTS:
+
+- pycon sg: June 23-25 
+- emnlp: june, austin, us
+- pydata
+
 QUOTES:
 
 - My name is Sherlock Homes. It is my business to know what other people dont know.
