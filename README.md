@@ -129,6 +129,8 @@ Must seen:
 
 Must read:
 
+
+- http://deliprao.com/archives/118
 - Limits of LM: perplexity RNN 30, ensembling 21 http://arxiv.org/pdf/1602.02410v1.pdf
 - what questions can data answer: http://www.kdnuggets.com/2016/01/questions-data-science-answer.html
 - 7 mistakes to avoid: http://www.kdnuggets.com/2016/01/7-common-data-science-mistakes.html
@@ -235,6 +237,7 @@ Must read:
 
 Curated:
 
+- hyperword: https://bitbucket.org/omerlevy/hyperwords/src
 - http://neuralnetworksanddeeplearning.com/chap1.html
 - http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 - https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.rzgr2r1j1
