@@ -137,6 +137,7 @@ Must seen:
 
 Must read:
 
+- http://yaroslavvb.blogspot.com/
 - https://spacy.io/blog/sense2vec-with-spacy
 - http://deliprao.com/archives/118
 - Limits of LM: perplexity RNN 30, ensembling 21 http://arxiv.org/pdf/1602.02410v1.pdf
