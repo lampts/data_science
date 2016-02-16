@@ -32,7 +32,7 @@ CLUSTER:
 EMBEDDING:
 
 - Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
-
+- https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
 
 BENCHMARK:
 
@@ -46,6 +46,7 @@ BENCHMARK:
 
 DIY:
 
+- https://github.com/csaid/polished_notebooks/blob/master/notebook_polished.ipynb
 - https://github.com/tensorflow/skflow
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
 - https://jmetzen.github.io/2015-01-29/ml_advice.html
@@ -80,6 +81,7 @@ DIY:
 
 Products:
 
+- https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
 - http://visualqa.csail.mit.edu/
 - http://cs.stanford.edu/people/karpathy/nips2015/
 - http://www.writelike.ml/survey/69
@@ -135,7 +137,7 @@ Must seen:
 
 Must read:
 
-
+- https://spacy.io/blog/sense2vec-with-spacy
 - http://deliprao.com/archives/118
 - Limits of LM: perplexity RNN 30, ensembling 21 http://arxiv.org/pdf/1602.02410v1.pdf
 - what questions can data answer: http://www.kdnuggets.com/2016/01/questions-data-science-answer.html
