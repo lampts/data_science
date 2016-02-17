@@ -139,6 +139,7 @@ Must seen:
 
 Must read:
 
+- https://www.a1k0n.net/spotify/ml-madison/#/1
 - http://yaroslavvb.blogspot.com/
 - https://spacy.io/blog/sense2vec-with-spacy
 - http://deliprao.com/archives/118
