@@ -2,6 +2,7 @@
 
 EVENTS:
 
+- gcp 23-24 March
 - pycon sg: June 23-25 
 - emnlp: june, austin, us
 - pydata
