@@ -36,6 +36,7 @@ EMBEDDING:
 
 BENCHMARK:
 
+- keras vs theano vs tensorflow: https://www.reddit.com/r/MachineLearning/comments/462p41/pros_and_cons_of_keras_vs_lasagne_for_deep/
 - http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html
 - https://github.com/zer0n/deepframeworks/blob/master/README.md
 - https://github.com/soumith/convnet-benchmarks/issues/66
@@ -81,6 +82,7 @@ DIY:
 
 Products:
 
+- http://googleresearch.blogspot.com.br/2016/02/running-your-models-in-production-with.html
 - https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
 - http://visualqa.csail.mit.edu/
 - http://cs.stanford.edu/people/karpathy/nips2015/
