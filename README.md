@@ -100,6 +100,7 @@ Full stack:
 
 Must seen:
 
+- rework dl summit 2016, Rnn in action with Karpathy: https://www.youtube.com/watch?v=qPcCk1V1JO8
 - fake data scientist: http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
 - resume tips: http://www.kdnuggets.com/2016/01/data-science-resume-tips-guidelines.html
 - chartjunk: http://speakingppt.com/2011/05/09/does-chartjunk-really-trash-your-graphs-4-discoveries-from-research/
