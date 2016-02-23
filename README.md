@@ -48,6 +48,8 @@ BENCHMARK:
 
 DIY:
 
+- Genenate writing piece: https://www.reddit.com/r/MachineLearning/comments/4728e1/best_method_to_generate_prose_in_the_style_of_a/
+- Neural talk: describe image https://github.com/ryankiros/neural-storyteller
 - https://github.com/csaid/polished_notebooks/blob/master/notebook_polished.ipynb
 - https://github.com/tensorflow/skflow
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
@@ -141,6 +143,8 @@ Must seen:
 
 Must read:
 
+- NLP 2 DL: http://blog.cambridgecoding.com/2016/02/22/natural-language-processing-meets-deep-learning/
+- Context LSTM: http://arxiv.org/abs/1602.06291
 - https://www.a1k0n.net/spotify/ml-madison/#/1
 - http://yaroslavvb.blogspot.com/
 - https://spacy.io/blog/sense2vec-with-spacy
