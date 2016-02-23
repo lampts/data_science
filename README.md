@@ -381,6 +381,7 @@ Curated:
 
 Cool blogs:
 
+- http://sujitpal.blogspot.com/2014/10/clustering-section-titles-with.html
 - http://tryr.codeschool.com/
 - https://github.com/MLWave/Kaggle-Ensemble-Guide
 - http://sebastianraschka.com/blog/2015/why-python.html
