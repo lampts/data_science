@@ -1,5 +1,10 @@
 # data_science
 
+Unicode:
+
+- ascii fix: http://stackoverflow.com/questions/21129020/how-to-fix-unicodedecodeerror-ascii-codec-cant-decode-byte
+- http://nedbatchelder.com/text/unipain/unipain.html#45
+
 EVENTS:
 
 - gcp 23-24 March
