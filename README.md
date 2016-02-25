@@ -1,5 +1,15 @@
 # data_science
 
+Idols:
+
+- Yorav: https://www.cs.bgu.ac.il/~yoavg/uni/
+- Andreij: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+RNN:
+
+- Char RNN: http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 Unicode:
 
 - ascii fix: http://stackoverflow.com/questions/21129020/how-to-fix-unicodedecodeerror-ascii-codec-cant-decode-byte
