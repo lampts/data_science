@@ -159,6 +159,7 @@ Must seen:
 
 Must read:
 
+- baboons can learn? https://www.cs.bgu.ac.il/~yoavg/uni/bloglike/baboons.html
 - NLP 2 DL: http://blog.cambridgecoding.com/2016/02/22/natural-language-processing-meets-deep-learning/
 - Context LSTM: http://arxiv.org/abs/1602.06291
 - https://www.a1k0n.net/spotify/ml-madison/#/1
@@ -271,6 +272,9 @@ Must read:
 
 Curated:
 
+- https://medium.com/@itsaguytalking/the-role-of-statistical-significance-in-growth-hacking-c80648fde2eb#.u5b1evd3y
+- https://medium.com/google-developers/why-won-t-this-work-coding-angry-for-fun-and-profit-1ef38a2b7196#.jxaah081z
+- https://www.reddit.com/r/MachineLearning/comments/47jano/whats_so_great_about_lstm/
 - hyperword: https://bitbucket.org/omerlevy/hyperwords/src
 - http://neuralnetworksanddeeplearning.com/chap1.html
 - http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
@@ -397,6 +401,7 @@ Curated:
 
 Cool blogs:
 
+- https://www.cs.bgu.ac.il/~yoavg/uni/bloglike/baboons.html
 - http://sujitpal.blogspot.com/2014/10/clustering-section-titles-with.html
 - http://tryr.codeschool.com/
 - https://github.com/MLWave/Kaggle-Ensemble-Guide
@@ -418,6 +423,7 @@ Cool blogs:
 
 Visualizations:
 
+- 4 story telling strategies: http://annkemery.com/four-storytelling-strategies/
 - http://cs.stanford.edu/people/karpathy/svmjs/demo/
 - https://www.oreilly.com/ideas/jupyter-at-oreilly
 
