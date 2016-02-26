@@ -29,6 +29,11 @@ QUOTES:
 - Take the first step in faith. You don't have to see the whole staircase, just take the first step. [M.L.King. Jr]
 - "Data data data" he cried impatiently. I can't make bricks without clay. [Arthur Donan Doyle]
 
+STATS:
+
+- http://vietsciences.free.fr/vietnam/bienkhao-binhluan/tuoithovuachuavn.htm
+
+
 BOOKS:
 
 - http://shop.oreilly.com/product/0636920033400.do
