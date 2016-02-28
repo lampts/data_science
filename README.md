@@ -8,8 +8,10 @@ Idols:
 
 RNN:
 
+- https://www.tensorflow.org/versions/r0.7/tutorials/recurrent/index.html
 - Char RNN: http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- http://karpathy.github.io/neuralnets/
 
 Unicode:
 
@@ -164,6 +166,8 @@ Must seen:
 
 Must read:
 
+- Learn to Rank LTR, wordrank: http://deliprao.com/archives/124
+- http://www.aclweb.org/anthology/Q15-1016
 - baboons can learn? https://www.cs.bgu.ac.il/~yoavg/uni/bloglike/baboons.html
 - NLP 2 DL: http://blog.cambridgecoding.com/2016/02/22/natural-language-processing-meets-deep-learning/
 - Context LSTM: http://arxiv.org/abs/1602.06291
@@ -277,6 +281,9 @@ Must read:
 
 Curated:
 
+- 
+- http://blog.siftnlp.com/natural-language-processing-blogs
+- http://breakthroughanalysis.com/2016/02/18/proxem/
 - https://medium.com/@itsaguytalking/the-role-of-statistical-significance-in-growth-hacking-c80648fde2eb#.u5b1evd3y
 - https://medium.com/google-developers/why-won-t-this-work-coding-angry-for-fun-and-profit-1ef38a2b7196#.jxaah081z
 - https://www.reddit.com/r/MachineLearning/comments/47jano/whats_so_great_about_lstm/
