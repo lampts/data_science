@@ -1,5 +1,7 @@
 # data_science
 
+Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
+
 Idols:
 
 - Alex: http://alexanderdyakonov.narod.ru/engcontests.htm
