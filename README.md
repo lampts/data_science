@@ -46,6 +46,7 @@ BOOKS:
 
 CLUSTER:
 
+- http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 - 30 day indexed: http://googlenewsblog.blogspot.com/2008/05/keeping-good-news-stories-together-just.html
 - http://www.mondaynote.com/2013/02/24/google-news-the-secret-sauce/
 - http://searchengineland.com/google-news-ranking-stories-30424
