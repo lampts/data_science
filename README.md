@@ -1,6 +1,7 @@
 # data_science
 
 Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
+Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 
 Idols:
 
