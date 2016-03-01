@@ -8,6 +8,7 @@ Idols:
 - Alex: http://alexanderdyakonov.narod.ru/engcontests.htm
 - Yorav: https://www.cs.bgu.ac.il/~yoavg/uni/
 - Andreij: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Sebastian: http://www.kdnuggets.com/2016/02/conversation-data-scientist-sebastian-raschka-podcast.html
 
 RNN:
 
