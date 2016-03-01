@@ -46,6 +46,8 @@ BOOKS:
 
 CLUSTER:
 
+- http://www.site.uottawa.ca/~diana/csi5180/TextClustering.pdf
+- http://stackoverflow.com/questions/17537722/better-text-documents-clustering-than-tf-idf-and-cosine-similarity
 - http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 - 30 day indexed: http://googlenewsblog.blogspot.com/2008/05/keeping-good-news-stories-together-just.html
 - http://www.mondaynote.com/2013/02/24/google-news-the-secret-sauce/
