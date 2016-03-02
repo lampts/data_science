@@ -457,6 +457,7 @@ Writing:
 
 Teaching:
 
+- 12 weeks $14K course: http://www.thisismetis.com/data-science 
 - https://courses.cs.washington.edu/courses/cse546/12wi/slides/cse546wi12intro.pdf
 - https://github.com/jreback/PyDataNYC2015/tree/master/tutorial
 - http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
