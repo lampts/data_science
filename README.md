@@ -48,6 +48,7 @@ BOOKS:
 
 CLUSTER:
 
+- https://groups.google.com/forum/#!msg/gensim/ZxauGgh9Vqs/prIMalR8LbgJ
 - http://www.site.uottawa.ca/~diana/csi5180/TextClustering.pdf
 - http://stackoverflow.com/questions/17537722/better-text-documents-clustering-than-tf-idf-and-cosine-similarity
 - http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
