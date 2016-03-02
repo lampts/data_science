@@ -48,6 +48,9 @@ BOOKS:
 
 CLUSTER:
 
+- hac with lsi: https://groups.google.com/forum/#!topic/gensim/0Ev8Okf3MCs
+- clustering eva: http://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation
+- Silhouette analysis: http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 - https://groups.google.com/forum/#!msg/gensim/ZxauGgh9Vqs/prIMalR8LbgJ
 - http://www.site.uottawa.ca/~diana/csi5180/TextClustering.pdf
 - http://stackoverflow.com/questions/17537722/better-text-documents-clustering-than-tf-idf-and-cosine-similarity
