@@ -178,6 +178,7 @@ Must seen:
 
 Must read:
 
+- lab41, to vec or not to vec? http://www.lab41.org/anything2vec/
 - Learn to Rank LTR, wordrank: http://deliprao.com/archives/124
 - http://www.aclweb.org/anthology/Q15-1016
 - baboons can learn? https://www.cs.bgu.ac.il/~yoavg/uni/bloglike/baboons.html
