@@ -48,6 +48,7 @@ BOOKS:
 
 CLUSTER:
 
+- distance: http://stackoverflow.com/questions/22433884/python-gensim-how-to-calculate-document-similarity-using-the-lda-model#answer-22756647
 - hac with lsi: https://groups.google.com/forum/#!topic/gensim/0Ev8Okf3MCs
 - clustering eva: http://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation
 - Silhouette analysis: http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
