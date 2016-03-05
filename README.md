@@ -67,6 +67,8 @@ CLUSTER:
 
 EMBEDDING:
 
+- lda2vec: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
+- http://nbviewer.jupyter.org/github/cemoody/lda2vec/blob/master/examples/twenty_newsgroups/lda.ipynb
 - text2vec: http://dsnotes.com/articles/glove-enwiki
 - Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
 - https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
