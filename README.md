@@ -67,6 +67,7 @@ CLUSTER:
 
 EMBEDDING:
 
+- text2vec: http://dsnotes.com/articles/glove-enwiki
 - Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
 - https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
 
