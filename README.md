@@ -181,6 +181,7 @@ Must seen:
 
 Must read:
 
+- why cosine: http://arxiv.org/abs/1508.02297, http://arxiv.org/abs/1512.00765
 - lab41, to vec or not to vec? http://www.lab41.org/anything2vec/
 - Learn to Rank LTR, wordrank: http://deliprao.com/archives/124
 - http://www.aclweb.org/anthology/Q15-1016
