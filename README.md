@@ -10,6 +10,14 @@ Idols:
 - Andreij: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Sebastian: http://www.kdnuggets.com/2016/02/conversation-data-scientist-sebastian-raschka-podcast.html
 
+LSTM:
+
+- dropout: http://arxiv.org/abs/1409.2329
+- seq2seq: http://arxiv.org/abs/1409.3215
+- simple char rnn: https://gist.github.com/karpathy/d4dee566867f8291f086
+- https://www.tensorflow.org/versions/r0.7/tutorials/recurrent/index.html#the-model
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 RNN:
 
 - https://www.tensorflow.org/versions/r0.7/tutorials/recurrent/index.html
