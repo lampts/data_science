@@ -1,10 +1,12 @@
 # data_science
 
-Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
-Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
+- Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
+- Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 
 Idols:
 
+- Radmim: gensim
+- Delip Rao: http://deliprao.com/archives/129
 - Alex: http://alexanderdyakonov.narod.ru/engcontests.htm
 - Yorav: https://www.cs.bgu.ac.il/~yoavg/uni/
 - Andreij: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -80,6 +82,10 @@ EMBEDDING:
 - text2vec: http://dsnotes.com/articles/glove-enwiki
 - Swivel Submatrix Wise Vector Embedding Learner http://arxiv.org/pdf/1602.02215v1.pdf
 - https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
+
+Linux:
+
+- http://randyzwitch.com/gnu-parallel-medium-data/
 
 BENCHMARK:
 
@@ -189,6 +195,7 @@ Must seen:
 
 Must read:
 
+- http://deliprao.com/archives/129
 - why cosine: http://arxiv.org/abs/1508.02297, http://arxiv.org/abs/1512.00765
 - lab41, to vec or not to vec? http://www.lab41.org/anything2vec/
 - Learn to Rank LTR, wordrank: http://deliprao.com/archives/124
