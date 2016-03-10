@@ -139,6 +139,7 @@ DIY:
 
 Products:
 
+- Apache spark + sklearn: http://www.slideshare.net/DmitriBabaev1/data-science-on-big-data-pragmatic-approach-53227809
 - http://googleresearch.blogspot.com.br/2016/02/running-your-models-in-production-with.html
 - https://sense2vec.spacy.io/?natural_language_processing%7CNOUN
 - http://visualqa.csail.mit.edu/
