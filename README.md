@@ -11,6 +11,8 @@ Idols:
 - Yorav: https://www.cs.bgu.ac.il/~yoavg/uni/
 - Andreij: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Sebastian: http://www.kdnuggets.com/2016/02/conversation-data-scientist-sebastian-raschka-podcast.html
+- Joel Grus: http://joelgrus.com/
+- Bugra: http://bugra.github.io/
 
 LSTM:
 
@@ -195,6 +197,8 @@ Must seen:
 
 Must read:
 
+- http://www.thewire.com/technology/2011/07/new-twitter-alogrithm-could-out-dudes-pretending-be-lesbians/40451/
+- http://www.fastcompany.com/1769217/you-cant-keep-your-secrets-twitter
 - http://deliprao.com/archives/129
 - why cosine: http://arxiv.org/abs/1508.02297, http://arxiv.org/abs/1512.00765
 - lab41, to vec or not to vec? http://www.lab41.org/anything2vec/
@@ -478,6 +482,7 @@ Writing:
 
 Teaching:
 
+- http://www.cs.jhu.edu/~delip/
 - 12 weeks $14K course: http://www.thisismetis.com/data-science 
 - https://courses.cs.washington.edu/courses/cse546/12wi/slides/cse546wi12intro.pdf
 - https://github.com/jreback/PyDataNYC2015/tree/master/tutorial
