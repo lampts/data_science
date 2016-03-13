@@ -199,6 +199,7 @@ Must seen:
 
 Must read:
 
+- https://gist.github.com/friso/df439c3f2420eef49ecf
 - http://www.thewire.com/technology/2011/07/new-twitter-alogrithm-could-out-dudes-pretending-be-lesbians/40451/
 - http://www.fastcompany.com/1769217/you-cant-keep-your-secrets-twitter
 - http://deliprao.com/archives/129
