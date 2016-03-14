@@ -10,7 +10,7 @@ LightFM: https://github.com/lyst/lightfm
 
 Idols:
 
-- Peadar Coyle: https://peadarcoyle.wordpress.com/, https://github.com/springcoil/pydataamsterdamkeynote, http://slides.com/springcoil/dataproducts-11#/27
+- Peadar Coyle: https://peadarcoyle.wordpress.com/, https://github.com/springcoil/pydataamsterdamkeynote, http://slides.com/springcoil/dataproducts-11#/27, https://medium.com/@peadarcoyle/three-things-i-wish-i-knew-earlier-about-machine-learning-54cb0d23ca29#.uc6e049rl
 - Radmim: gensim
 - Delip Rao: http://deliprao.com/archives/129
 - Alex: http://alexanderdyakonov.narod.ru/engcontests.htm
