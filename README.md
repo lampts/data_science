@@ -3,8 +3,14 @@
 - Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
 - Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 
+LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
+RPForest: https://github.com/lyst/rpforest
+LightFM: https://github.com/lyst/lightfm
+
+
 Idols:
 
+- Peadar Coyle: https://peadarcoyle.wordpress.com/, https://github.com/springcoil/pydataamsterdamkeynote, http://slides.com/springcoil/dataproducts-11#/27
 - Radmim: gensim
 - Delip Rao: http://deliprao.com/archives/129
 - Alex: http://alexanderdyakonov.narod.ru/engcontests.htm
@@ -36,7 +42,8 @@ Unicode:
 
 EVENTS:
 
-- pydata amsterdam: http://pydata.org/amsterdam2016/schedule/
+- pydata amsterdam: http://pydata.org/amsterdam2016/schedule/ https://speakerdeck.com/maciejkula/hybrid-recommender-systems-at-pydata-amsterdam-2016
+
 - gcp 23-24 March
 - pycon sg: June 23-25 
 - emnlp: june, austin, us
