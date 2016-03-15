@@ -87,6 +87,7 @@ CLUSTER:
 
 EMBEDDING:
 
+- lda: topic eva: http://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 - lda2vec: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 - http://nbviewer.jupyter.org/github/cemoody/lda2vec/blob/master/examples/twenty_newsgroups/lda.ipynb
 - text2vec: http://dsnotes.com/articles/glove-enwiki
