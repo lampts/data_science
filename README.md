@@ -165,6 +165,7 @@ Full stack:
 
 Must seen:
 
+- sentiment at FB: https://www.youtube.com/watch?v=y3ZTKFZ-1QQ
 - rework dl summit 2016, Rnn in action with Karpathy: https://www.youtube.com/watch?v=qPcCk1V1JO8
 - fake data scientist: http://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html
 - resume tips: http://www.kdnuggets.com/2016/01/data-science-resume-tips-guidelines.html
