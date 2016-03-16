@@ -22,6 +22,7 @@ Idols:
 
 LSTM:
 
+- skflow: https://github.com/tensorflow/skflow/tree/master/examples
 - dropout: http://arxiv.org/abs/1409.2329
 - seq2seq: http://arxiv.org/abs/1409.3215
 - simple char rnn: https://gist.github.com/karpathy/d4dee566867f8291f086
@@ -87,6 +88,7 @@ CLUSTER:
 
 EMBEDDING:
 
+- whiskey: http://wrec.herokuapp.com/methodology
 - lda: topic eva: http://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 - lda2vec: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 - http://nbviewer.jupyter.org/github/cemoody/lda2vec/blob/master/examples/twenty_newsgroups/lda.ipynb
