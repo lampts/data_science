@@ -20,6 +20,10 @@ Idols:
 - Joel Grus: http://joelgrus.com/
 - Bugra: http://bugra.github.io/
 
+IPython/Jupyter:
+
+- https://docs.google.com/presentation/d/1PHnnkKYgjq1lcSDaVyhZP0Fs7qC70iA07b2Jv0uisUE/mobilepresent?slide=id.g10d199ad72_0_20
+
 LSTM:
 
 - skflow: https://github.com/tensorflow/skflow/tree/master/examples
