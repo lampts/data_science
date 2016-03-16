@@ -3,6 +3,7 @@
 - Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
 - Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 - World of though vector: http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf
+- newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 
 LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
 RPForest: https://github.com/lyst/rpforest
