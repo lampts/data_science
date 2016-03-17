@@ -8,10 +8,13 @@
 LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
 RPForest: https://github.com/lyst/rpforest
 LightFM: https://github.com/lyst/lightfm
-
+Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
+Talking machines: http://www.thetalkingmachines.com/
+Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
 Idols:
 
+- Alex Pinto: MLSec
 - Peadar Coyle: https://peadarcoyle.wordpress.com/, https://github.com/springcoil/pydataamsterdamkeynote, http://slides.com/springcoil/dataproducts-11#/27, https://medium.com/@peadarcoyle/three-things-i-wish-i-knew-earlier-about-machine-learning-54cb0d23ca29#.uc6e049rl
 - Radmim: gensim
 - Delip Rao: http://deliprao.com/archives/129
