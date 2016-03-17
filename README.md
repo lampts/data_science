@@ -12,6 +12,17 @@ Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
 Talking machines: http://www.thetalkingmachines.com/
 Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
+To read:
+
+- https://github.com/rasbt/algorithms_in_ipython_notebooks
+- https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
+- http://nirvacana.com/thoughts/becoming-a-data-scientist/
+- http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb
+- http://www.john-foreman.com/data-smart-book.html
+- http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds
+- https://github.com/justmarkham/DAT8
+- https://github.com/donnemartin/data-science-ipython-notebooks
+
 Idols:
 
 - Alex Pinto: MLSec
@@ -340,7 +351,8 @@ Must read:
 
 Curated:
 
-- 
+- https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
+- http://hunch.net/?p=22
 - http://blog.siftnlp.com/natural-language-processing-blogs
 - http://breakthroughanalysis.com/2016/02/18/proxem/
 - https://medium.com/@itsaguytalking/the-role-of-statistical-significance-in-growth-hacking-c80648fde2eb#.u5b1evd3y
