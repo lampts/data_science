@@ -351,6 +351,8 @@ Must read:
 
 Curated:
 
+- http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art/
+- lift analysis: http://blog.datalifebalance.com/lift-charts-a-data-scientists-secret-weapon/
 - https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
 - http://hunch.net/?p=22
 - http://blog.siftnlp.com/natural-language-processing-blogs
