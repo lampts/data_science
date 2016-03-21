@@ -13,6 +13,12 @@ Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
 Talking machines: http://www.thetalkingmachines.com/
 Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
+EMNLP 2015:
+
+- semantic sim of embedding: https://www.cs.cmu.edu/~ark/EMNLP-2015/tutorials/34/34_OptionalAttachment.pdf
+- social text analysis: https://www.cs.cmu.edu/~ark/EMNLP-2015/tutorials/3/3_OptionalAttachment.pdf
+- personality research in NLP: https://www.cs.cmu.edu/~ark/EMNLP-2015/tutorials/2/2_OptionalAttachment.pdf
+
 To read:
 
 - https://github.com/rasbt/algorithms_in_ipython_notebooks
