@@ -49,6 +49,7 @@ IPython/Jupyter:
 
 LSTM:
 
+- RNN for music: http://erikbern.com/2014/06/28/recurrent-neural-networks-for-collaborative-filtering/
 - skflow: https://github.com/tensorflow/skflow/tree/master/examples
 - dropout: http://arxiv.org/abs/1409.2329
 - seq2seq: http://arxiv.org/abs/1409.3215
