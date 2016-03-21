@@ -5,6 +5,7 @@
 - World of though vector: http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 
+Annoy, Luigi: http://erikbern.com/
 LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
 RPForest: https://github.com/lyst/rpforest
 LightFM: https://github.com/lyst/lightfm
@@ -230,6 +231,8 @@ Must seen:
 
 Must read:
 
+- spotify collab: http://erikbern.com/2014/06/28/recurrent-neural-networks-for-collaborative-filtering/
+- build team: http://erikbern.com/2014/06/08/how-to-build-up-a-data-team-everything-i-ever-learned-about-recruiting/
 - https://gist.github.com/friso/df439c3f2420eef49ecf
 - http://www.thewire.com/technology/2011/07/new-twitter-alogrithm-could-out-dudes-pretending-be-lesbians/40451/
 - http://www.fastcompany.com/1769217/you-cant-keep-your-secrets-twitter
@@ -351,6 +354,7 @@ Must read:
 
 Curated:
 
+- http://www.slideshare.net/erikbern/music-recommendations-mlconf-2014
 - http://multithreaded.stitchfix.com/blog/2016/02/04/computer-vision-state-of-the-art/
 - lift analysis: http://blog.datalifebalance.com/lift-charts-a-data-scientists-secret-weapon/
 - https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
