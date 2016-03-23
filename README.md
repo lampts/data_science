@@ -13,6 +13,13 @@ Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
 Talking machines: http://www.thetalkingmachines.com/
 Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
+AB test:
+
+- https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.t1h9ouwpg
+- http://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/
+- http://nerds.airbnb.com/experiments-at-airbnb/
+- https://www.quora.com/When-should-A-B-testing-not-be-trusted-to-make-decisions/answer/Edwin-Chen-1?srid=sL8&share=1
+
 EMNLP 2015:
 
 - semantic sim of embedding: https://www.cs.cmu.edu/~ark/EMNLP-2015/tutorials/34/34_OptionalAttachment.pdf
