@@ -15,6 +15,7 @@ Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
 AB test:
 
+- notebook: https://github.com/Volodymyrk/stats-testing-in-python/blob/master/01%20-%20Single%20Sample%20tests%20for%20Mean.ipynb
 - https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.t1h9ouwpg
 - http://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/
 - http://nerds.airbnb.com/experiments-at-airbnb/
