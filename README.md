@@ -7,7 +7,7 @@
 
 Annoy:
 
-- Annoy, Luigi: http://erikbern.com/
+- Annoy, Luigi: http://erikbern.com/, https://www.hakkalabs.co/articles/approximate-nearest-neighbors-vector-models
 - LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
 - http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup
 - https://github.com/spotify/annoy
