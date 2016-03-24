@@ -126,6 +126,7 @@ CLUSTER:
 
 EMBEDDING:
 
+- https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/
 - http://www.offconvex.org/2016/02/14/word-embeddings-2/
 - improving sem embedding words rep: https://levyomer.wordpress.com/2015/03/30/improving-distributional-similarity-with-lessons-learned-from-word-embeddings/
 - whiskey: http://wrec.herokuapp.com/methodology
