@@ -5,8 +5,13 @@
 - World of though vector: http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 
-Annoy, Luigi: http://erikbern.com/
-LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
+Annoy:
+
+- Annoy, Luigi: http://erikbern.com/
+- LSH: https://speakerdeck.com/maciejkula/locality-sensitive-hashing-at-lyst
+- http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup
+- https://github.com/spotify/annoy
+
 RPForest: https://github.com/lyst/rpforest
 LightFM: https://github.com/lyst/lightfm
 Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
