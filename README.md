@@ -13,6 +13,8 @@ Secure because of math: https://www.youtube.com/watch?v=TYVCVzEJhhQ
 Talking machines: http://www.thetalkingmachines.com/
 Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
+DS process: https://www.oreilly.com/ideas/building-a-high-throughput-data-science-machine
+
 AB test:
 
 - notebook: https://github.com/Volodymyrk/stats-testing-in-python/blob/master/01%20-%20Single%20Sample%20tests%20for%20Mean.ipynb
@@ -124,6 +126,7 @@ CLUSTER:
 
 EMBEDDING:
 
+- improving sem embedding words rep: https://levyomer.wordpress.com/2015/03/30/improving-distributional-similarity-with-lessons-learned-from-word-embeddings/
 - whiskey: http://wrec.herokuapp.com/methodology
 - lda: topic eva: http://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 - lda2vec: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
