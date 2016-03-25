@@ -4,6 +4,7 @@
 - Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 - World of though vector: http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
+- why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
 Annoy:
 
