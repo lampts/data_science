@@ -20,6 +20,7 @@ Talking machines: http://www.thetalkingmachines.com/
 Dive into DS: https://github.com/rasbt/dive-into-machine-learning
 
 DS process: https://www.oreilly.com/ideas/building-a-high-throughput-data-science-machine
+Friendship paradox: https://vuhavan.wordpress.com/2016/03/25/ban-ban-ban-nhieu-hon-ban-ban/
 
 AB test:
 
