@@ -6,6 +6,11 @@
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
+RS: 
+
+- https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/
+- http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
+
 Data science bootcamp: https://cambridgecoding.com/datascience-bootcamp#outline
 
 CambridgeCoding NLP: 
