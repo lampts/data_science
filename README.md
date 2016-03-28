@@ -6,6 +6,9 @@
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
+Data science bootcamp: https://cambridgecoding.com/datascience-bootcamp#outline
+CambridgeCoding NLP: https://drive.google.com/file/d/0B_ZOKLUe_XPaNVFHM3M4dHRzV28/view?pli=1
+
 Annoy:
 
 - Annoy, Luigi: http://erikbern.com/, https://www.hakkalabs.co/articles/approximate-nearest-neighbors-vector-models
