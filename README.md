@@ -6,6 +6,13 @@
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
+VinhKhuc:
+
+- how many k for CV: k = N e.g. LOOCV http://vinhkhuc.github.io/2015/03/01/how-many-folds-for-cross-validation.html
+- backprop http://vinhkhuc.github.io/2015/03/29/backpropagation.html
+- qa bAbI task: https://github.com/vinhkhuc/MemN2N-babi-python
+- lstm/rnn: http://vinhkhuc.github.io/2015/11/19/rnn-lstm.html
+
 RS: 
 
 - https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/
