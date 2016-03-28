@@ -7,7 +7,11 @@
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
 Data science bootcamp: https://cambridgecoding.com/datascience-bootcamp#outline
-CambridgeCoding NLP: https://drive.google.com/file/d/0B_ZOKLUe_XPaNVFHM3M4dHRzV28/view?pli=1
+
+CambridgeCoding NLP: 
+
+- https://drive.google.com/file/d/0B_ZOKLUe_XPaNVFHM3M4dHRzV28/view?pli=1
+- http://blog.cambridgecoding.com/2016/03/24/misleading-modelling-overfitting-cross-validation-and-the-bias-variance-trade-off/
 
 Annoy:
 
