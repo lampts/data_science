@@ -6,6 +6,8 @@
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
+Yoav Goldberg: https://www.youtube.com/watch?v=xw5HL5h1wxY
+
 VinhKhuc:
 
 - how many k for CV: k = N e.g. LOOCV http://vinhkhuc.github.io/2015/03/01/how-many-folds-for-cross-validation.html
