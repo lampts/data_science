@@ -6,8 +6,10 @@
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
-Yoav Goldberg: https://www.youtube.com/watch?v=xw5HL5h1wxY
-Sklearn production on Dato: https://www.youtube.com/watch?v=AwjeRg1u5VI
+- Tom Vincent: http://insightdatascience.com/blog/tom_vincent_qanda.html
+- Normalized Compression Distance: http://tamediadigital.ch/2016/03/20/normalized-compression-distance-a-simple-and-useful-method-for-text-clustering-2/
+- Yoav Goldberg: https://www.youtube.com/watch?v=xw5HL5h1wxY
+- Sklearn production on Dato: https://www.youtube.com/watch?v=AwjeRg1u5VI
 
 VinhKhuc:
 
@@ -574,6 +576,8 @@ Cool blogs:
 
 Visualizations:
 
+- cohort analysis: https://blog.clevertap.com/how-to-use-cohort-analysis-to-improve-retention/
+- bokeh 101: http://felipegalvao.com.br/blog/2016/03/15/data-visualization-python-now-with-bokeh/
 - 4 story telling strategies: http://annkemery.com/four-storytelling-strategies/
 - http://cs.stanford.edu/people/karpathy/svmjs/demo/
 - https://www.oreilly.com/ideas/jupyter-at-oreilly
