@@ -7,6 +7,7 @@
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
 
 Yoav Goldberg: https://www.youtube.com/watch?v=xw5HL5h1wxY
+Sklearn production on Dato: https://www.youtube.com/watch?v=AwjeRg1u5VI
 
 VinhKhuc:
 
@@ -109,8 +110,21 @@ Unicode:
 
 EVENTS:
 
-- pydata amsterdam: http://pydata.org/amsterdam2016/schedule/ https://speakerdeck.com/maciejkula/hybrid-recommender-systems-at-pydata-amsterdam-2016
+- April 8-10 2016: PyData Madrid 
+- April 15-17 2016: PyData Florence 
+- May 6-8 2016: PyData London hosted by Bloomberg 
+- May 20-21 2016: PyData Berlin 
+- September 14-16 2016: PyData Carolinas hosted by IBM 
+- October 7-9 2016: PyData DC hosted by Capital One 
+- November 28-30 2016: PyData Cologne 
 
+Other Conference Dates Coming Soon!
+
+- PyData Chicago
+- PyData NYC
+- PyData Paris
+- PyData Silicon Valley
+- pydata amsterdam: http://pydata.org/amsterdam2016/schedule/ https://speakerdeck.com/maciejkula/hybrid-recommender-systems-at-pydata-amsterdam-2016
 - gcp 23-24 March
 - pycon sg: June 23-25 
 - emnlp: june, austin, us
