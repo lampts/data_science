@@ -1,11 +1,13 @@
 # data_science
 
+- xavier: https://www.slideshare.net/slideshow/embed_code/key/gt6HuUzZ4Z7flf
+- Pedro: http://www.thetalkingmachines.com/blog/
 - Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
 - Quora - all about data scientits: https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read
 - World of though vector: http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf
 - newbie nlp lab: https://github.com/piskvorky/topic_modeling_tutorial/
 - why and when log-log is used: http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#41c6dc0c3cd8
-
+- lzma: https://parezcoydigo.wordpress.com/2011/10/09/clustering-with-compression-for-the-historian/
 - Tom Vincent: http://insightdatascience.com/blog/tom_vincent_qanda.html
 - Normalized Compression Distance: http://tamediadigital.ch/2016/03/20/normalized-compression-distance-a-simple-and-useful-method-for-text-clustering-2/
 - Yoav Goldberg: https://www.youtube.com/watch?v=xw5HL5h1wxY
