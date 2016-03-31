@@ -1,5 +1,6 @@
 # data_science
 
+- winning data science competition: https://speakerdeck.com/datasciencela/jeong-yoon-lee-winning-data-science-competitions-data-science-meetup-oct-2015
 - python for data analyst: https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 - risk modeling: https://risk-engineering.org/static/PDF/slides-stat-modelling.pdf
 - pyfm: https://github.com/coreylynch/pyFM
