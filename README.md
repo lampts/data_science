@@ -1,5 +1,7 @@
 # data_science
 
+- R at airbnb: https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.deo3t37vr
+- 450 hours in data science: http://studiy.co/path/data-science/
 - LR + SGD + FM: https://gist.github.com/kalaidin/9ea737ad771fcf073e57
 - libFM: http://www.ics.uci.edu/~smyth/courses/cs277/papers/factorization_machines_with_libFM.pdf
 - intro FM: http://www.slideshare.net/0x001/intro-to-factorization-machines
