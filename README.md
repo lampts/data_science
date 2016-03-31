@@ -1,5 +1,7 @@
 # data_science
 
+- LR + SGD + FM: https://gist.github.com/kalaidin/9ea737ad771fcf073e57
+- libFM: http://www.ics.uci.edu/~smyth/courses/cs277/papers/factorization_machines_with_libFM.pdf
 - intro FM: http://www.slideshare.net/0x001/intro-to-factorization-machines
 - fastFM: https://github.com/ibayer/fastFM
 - winning data science competition: https://speakerdeck.com/datasciencela/jeong-yoon-lee-winning-data-science-competitions-data-science-meetup-oct-2015
