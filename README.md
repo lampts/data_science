@@ -1,5 +1,7 @@
 # data_science
 
+- intro FM: http://www.slideshare.net/0x001/intro-to-factorization-machines
+- fastFM: https://github.com/ibayer/fastFM
 - winning data science competition: https://speakerdeck.com/datasciencela/jeong-yoon-lee-winning-data-science-competitions-data-science-meetup-oct-2015
 - python for data analyst: https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
 - risk modeling: https://risk-engineering.org/static/PDF/slides-stat-modelling.pdf
