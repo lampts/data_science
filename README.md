@@ -1,5 +1,8 @@
 # data_science
 
+- python for data analyst: https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
+- risk modeling: https://risk-engineering.org/static/PDF/slides-stat-modelling.pdf
+- pyfm: https://github.com/coreylynch/pyFM
 - mlss2014: http://www.mlss2014.com/materials.html
 - xavier: https://www.slideshare.net/slideshow/embed_code/key/gt6HuUzZ4Z7flf
 - Pedro: http://www.thetalkingmachines.com/blog/
