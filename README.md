@@ -1,5 +1,6 @@
 # data_science
 
+- mlss2014: http://www.mlss2014.com/materials.html
 - xavier: https://www.slideshare.net/slideshow/embed_code/key/gt6HuUzZ4Z7flf
 - Pedro: http://www.thetalkingmachines.com/blog/
 - Machine Intelligence 2.0: https://cdn-images-1.medium.com/max/2000/1*A9exqeQ69XjjSJgMyDEo6Q.jpeg
