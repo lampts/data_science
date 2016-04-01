@@ -1,5 +1,6 @@
 # data_science
 
+- pizza analysis: http://yoavz.com/potd/
 - R at airbnb: https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.deo3t37vr
 - 450 hours in data science: http://studiy.co/path/data-science/
 - LR + SGD + FM: https://gist.github.com/kalaidin/9ea737ad771fcf073e57
