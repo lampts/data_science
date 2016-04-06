@@ -1,5 +1,10 @@
 # data_science
 
+WMD:
+
+- word mover distance: https://github.com/mkusner/wmd
+- gensim wmd: https://speakerdeck.com/tmylk/same-content-different-words
+
 Hanoi trip:
 
 - Learn and think like human: http://arxiv.org/pdf/1604.00289v1.pdf
