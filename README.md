@@ -1,5 +1,11 @@
 # data_science
 
+Lessons learned
+
+- http://machinelearningmastery.com/lessons-learned-building-machine-learning-systems/
+- http://techjaw.com/2015/02/11/10-machine-learning-lessons-harnessed-by-netflix/
+- https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.klowhfq10
+
 WMD:
 
 - word mover distance: https://github.com/mkusner/wmd
@@ -7,6 +13,7 @@ WMD:
 
 Hanoi trip:
 
+- stacking: http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 - Learn and think like human: http://arxiv.org/pdf/1604.00289v1.pdf
 - predictive modeling + AI: https://speakerd.s3.amazonaws.com/presentations/30ad41b99258471f9485118f904f8cfb/predictive_modeling_and_deep_learning.pdf
 - sklearn vs tf: https://github.com/rasbt/python-machine-learning-book/blob/master/faq/tensorflow-vs-scikitlearn.md
