@@ -1,5 +1,13 @@
 # data_science
 
+Hanoi trip:
+
+- Learn and think like human: http://arxiv.org/pdf/1604.00289v1.pdf
+- predictive modeling + AI: https://speakerd.s3.amazonaws.com/presentations/30ad41b99258471f9485118f904f8cfb/predictive_modeling_and_deep_learning.pdf
+- sklearn vs tf: https://github.com/rasbt/python-machine-learning-book/blob/master/faq/tensorflow-vs-scikitlearn.md
+- advances in DL for NLP: http://cs.nyu.edu/~zaremba/docs/Advances%20in%20deep%20learning%20for%20NLP.pdf
+- Xavier, 10 lessons learned: https://medium.com/@xamat/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e#.klowhfq10
+
 - pizza analysis: http://yoavz.com/potd/
 - R at airbnb: https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.deo3t37vr
 - 450 hours in data science: http://studiy.co/path/data-science/
