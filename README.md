@@ -13,6 +13,7 @@ WMD:
 
 Hanoi trip:
 
+- https://jayantj.github.io/posts/project-gutenberg-word2vec
 - stacking: http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 - Learn and think like human: http://arxiv.org/pdf/1604.00289v1.pdf
 - predictive modeling + AI: https://speakerd.s3.amazonaws.com/presentations/30ad41b99258471f9485118f904f8cfb/predictive_modeling_and_deep_learning.pdf
