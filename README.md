@@ -1,5 +1,9 @@
 # data_science
 
+Lasagne:
+
+- https://martin-thoma.com/lasagne-for-python-newbies/
+
 Netflix:
 
 - http://www.wired.com/2012/04/netflix-prize-costs/
