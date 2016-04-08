@@ -1,5 +1,11 @@
 # data_science
 
+Netflix:
+
+- http://www.wired.com/2012/04/netflix-prize-costs/
+- http://www.wired.com/2009/09/bellkors-pragmatic-chaos-wins-1-million-netflix-prize/
+
+
 Lessons learned
 
 - http://machinelearningmastery.com/lessons-learned-building-machine-learning-systems/
