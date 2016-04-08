@@ -1,5 +1,5 @@
 Machine learning: If you are a coder, to program a spam filtering you have to define lot of rules. For example, if email contains viagra then it's spam else.
-In contradiction, ML is ready to extract the rules for you with respect to inputs and label corespondingly.
+In contrast, ML is ready to extract the rules for you with respect to inputs and label corespondingly.
 
 Data science is beautiful mixture of some disciplines such as linear algebra, stats, and ML also. Starting with question, data scientist has to collect, wrangle, clean data then build a predictive model to answer or give the insights of data.
 
