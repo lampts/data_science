@@ -13,6 +13,7 @@ WMD:
 
 Hanoi trip:
 
+- tensorflow scan: learn the cum sum https://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb
 - https://jayantj.github.io/posts/project-gutenberg-word2vec
 - stacking: http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 - Learn and think like human: http://arxiv.org/pdf/1604.00289v1.pdf
