@@ -2,9 +2,8 @@
 
 ForestSpy: https://github.com/jvns/forestspy/blob/master/inspecting%20random%20forest%20models.ipynb
 
-Lasagne:
-
-- https://martin-thoma.com/lasagne-for-python-newbies/
+- keras for mnist: https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb
+- lasagne installation https://martin-thoma.com/lasagne-for-python-newbies/
 
 Netflix:
 
