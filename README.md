@@ -1,5 +1,7 @@
 # data_science
 
+ForestSpy: https://github.com/jvns/forestspy/blob/master/inspecting%20random%20forest%20models.ipynb
+
 Lasagne:
 
 - https://martin-thoma.com/lasagne-for-python-newbies/
