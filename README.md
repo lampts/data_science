@@ -1,5 +1,8 @@
 # data_science
 
+Hoang Duong blog: http://hduongtrong.github.io/
+Word2vec short explanation: http://hduongtrong.github.io/2015/11/20/word2vec/
+
 ForestSpy: https://github.com/jvns/forestspy/blob/master/inspecting%20random%20forest%20models.ipynb
 
 - keras for mnist: https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb
