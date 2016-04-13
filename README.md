@@ -1,5 +1,7 @@
 # data_science
 
+playground: http://playground.tensorflow.org/
+
 Hoang Duong blog: http://hduongtrong.github.io/
 Word2vec short explanation: http://hduongtrong.github.io/2015/11/20/word2vec/
 
