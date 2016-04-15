@@ -1,5 +1,8 @@
 # data_science
 
+DL: http://www.thoughtly.co/blog/deep-learning-lesson-1/
+Distributed TF: https://www.tensorflow.org/versions/r0.8/how_tos/distributed/index.html
+
 playground: http://playground.tensorflow.org/
 
 Hoang Duong blog: http://hduongtrong.github.io/
