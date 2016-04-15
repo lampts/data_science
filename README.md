@@ -1,5 +1,7 @@
 # data_science
 
+Best ever word2vec in code: http://nbviewer.jupyter.org/github/fbkarsdorp/doc2vec/blob/master/doc2vec.ipynb
+
 TF tut101: https://github.com/aymericdamien/TensorFlow-Examples
 
 Jeff Dean: http://learningsys.org/slides/NIPS-Learning-Systems-Workshop-TensorFlow-Jeff-Dean.pdf
