@@ -1,5 +1,7 @@
 # data_science
 
+TF tut101: https://github.com/aymericdamien/TensorFlow-Examples
+
 Jeff Dean: http://learningsys.org/slides/NIPS-Learning-Systems-Workshop-TensorFlow-Jeff-Dean.pdf
 DL: http://www.thoughtly.co/blog/deep-learning-lesson-1/
 Distributed TF: https://www.tensorflow.org/versions/r0.8/how_tos/distributed/index.html
