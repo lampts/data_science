@@ -1,5 +1,11 @@
 # data_science
 
+Ogrisel word embedding: https://speakerd.s3.amazonaws.com/presentations/31f18ad0522c0132b9b662e7bb117668/Word_Embeddings.pdf
+
+Tensorflow whitepaper: http://download.tensorflow.org/paper/whitepaper2015.pdf
+
+Arimo distributed tensorflow: https://arimo.com/machine-learning/deep-learning/2016/arimo-distributed-tensorflow-on-spark/
+
 Best ever word2vec in code: http://nbviewer.jupyter.org/github/fbkarsdorp/doc2vec/blob/master/doc2vec.ipynb
 
 TF tut101: https://github.com/aymericdamien/TensorFlow-Examples
