@@ -1,5 +1,7 @@
 # data_science
 
+eval of ML using A/B or multibandit: http://blog.dato.com/how-to-evaluate-machine-learning-models-the-pitfalls-of-ab-testing
+
 how to make mistakes in Python: www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
 
 keras tut: https://uwaterloo.ca/data-science/sites/ca.data-science/files/uploads/files/keras_tutorial.pdf
