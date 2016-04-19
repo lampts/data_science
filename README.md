@@ -1,5 +1,7 @@
 # data_science
 
+how to make mistakes in Python: www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
+
 keras tut: https://uwaterloo.ca/data-science/sites/ca.data-science/files/uploads/files/keras_tutorial.pdf
 
 Ogrisel word embedding: https://speakerd.s3.amazonaws.com/presentations/31f18ad0522c0132b9b662e7bb117668/Word_Embeddings.pdf
