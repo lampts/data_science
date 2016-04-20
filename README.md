@@ -2,6 +2,7 @@
 
 MAB:
 
+- mab book: http://pdf.th7.cn/down/files/1312/bandit_algorithms_for_website_optimization.pdf
 - yhat: http://blog.yhat.com/posts/the-beer-bandit.html
 - test significance with AB, conversation rate opt with MAB: https://vwo.com/blog/multi-armed-bandit-algorithm/
 - when to use multiarmed bandits: http://conversionxl.com/bandit-tests/
