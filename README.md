@@ -1,5 +1,11 @@
 # data_science
 
+cnn nudity detection: http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity/#.VxbdB0xcSko
+
+sigopt: https://github.com/sigopt/sigopt_sklearn
+
+first contact with TF: http://www.jorditorres.org/first-contact-with-tensorflow/
+
 eval of ML using A/B or multibandit: http://blog.dato.com/how-to-evaluate-machine-learning-models-the-pitfalls-of-ab-testing
 
 how to make mistakes in Python: www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
