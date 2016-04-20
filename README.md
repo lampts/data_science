@@ -1,5 +1,10 @@
 # data_science
 
+MAB:
+
+- when to use multiarmed bandits: http://conversionxl.com/bandit-tests/
+- multibandit: http://stevehanov.ca/blog/index.php?id=132
+
 cnn nudity detection: http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity/#.VxbdB0xcSko
 
 sigopt: https://github.com/sigopt/sigopt_sklearn
