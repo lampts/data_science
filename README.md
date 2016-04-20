@@ -2,6 +2,8 @@
 
 MAB:
 
+- yhat: http://blog.yhat.com/posts/the-beer-bandit.html
+- test significance with AB, conversation rate opt with MAB: https://vwo.com/blog/multi-armed-bandit-algorithm/
 - when to use multiarmed bandits: http://conversionxl.com/bandit-tests/
 - multibandit: http://stevehanov.ca/blog/index.php?id=132
 
