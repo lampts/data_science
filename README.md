@@ -1,5 +1,7 @@
 # data_science
 
+DL with SA: https://cs224d.stanford.edu/reports/HongJames.pdf
+
 MAB:
 
 - mab book: http://pdf.th7.cn/down/files/1312/bandit_algorithms_for_website_optimization.pdf
