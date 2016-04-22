@@ -1,6 +1,9 @@
 # data_science
 
-Sota of sa, mikolo and me :) http://arxiv.org/pdf/1412.5335.pdf
+Sota of sa, mikolo and me :) 
+
+- http://arxiv.org/pdf/1412.5335.pdf
+- https://github.com/mesnilgr/iclr15/tree/master/scripts
 
 Thang M. L: http://web.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt.pdf
 
