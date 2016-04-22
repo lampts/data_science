@@ -1,5 +1,9 @@
 # data_science
 
+QA in keras:
+
+- https://github.com/avisingh599/visual-qa/blob/master/scripts/trainMLP.py
+- https://avisingh599.github.io/deeplearning/visual-qa/
 
 Chinese LSTM + word2vec: 
 
