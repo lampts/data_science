@@ -1,5 +1,12 @@
 # data_science
 
+
+Chinese LSTM + word2vec: 
+
+- https://github.com/taozhijiang/chinese_nlp/blob/master/DL_python/dl_segment_v2.py
+- https://github.com/taozhijiang/chinese_nlp
+
+
 DL with SA: https://cs224d.stanford.edu/reports/HongJames.pdf
 
 MAB:
