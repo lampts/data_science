@@ -1,5 +1,8 @@
 # data_science
 
+Thang M. L: http://web.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt.pdf
+
+
 CS224d reports:
 
 - classify online forum answer/non-answer: https://cs224d.stanford.edu/reports/AbajianAaron.pdf
