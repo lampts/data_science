@@ -1,5 +1,8 @@
 # data_science
 
+TF CS224d: http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+
+
 Sota of sa, mikolo and me :) 
 
 - http://arxiv.org/pdf/1412.5335.pdf
