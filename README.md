@@ -1,5 +1,21 @@
 # data_science
 
+CS224d reports:
+
+- classify online forum answer/non-answer: https://cs224d.stanford.edu/reports/AbajianAaron.pdf
+- gender classification: https://cs224d.stanford.edu/reports/BartleAric.pdf
+- job prediction: https://cs224d.stanford.edu/reports/BoucherEric.pdf
+- text sum: https://cs224d.stanford.edu/reports/ChaiElaina.pdf
+- email spam: https://cs224d.stanford.edu/reports/EugeneLouis.pdf
+- jp2en: https://cs224d.stanford.edu/reports/GreensteinEric.pdf
+- improve PV: https://cs224d.stanford.edu/reports/HongSeokho.pdf
+- twitter sa: https://cs224d.stanford.edu/reports/YuanYe.pdf
+- yelp sa: https://cs224d.stanford.edu/reports/YuApril.pdf
+- author detector: https://cs224d.stanford.edu/reports/YaoLeon.pdf
+- IMDB to Yelp: https://cs224d.stanford.edu/reports/XingMargaret.pdf
+- Reddit: https://cs224d.stanford.edu/reports/TingJason.pdf
+- Quora: https://cs224d.stanford.edu/reports/JindalPranav.pdf
+
 QA in keras:
 
 - https://github.com/avisingh599/visual-qa/blob/master/scripts/trainMLP.py
