@@ -1,7 +1,8 @@
 # data_science
 
-Thang M. L: http://web.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt.pdf
+Sota of sa, mikolo and me :) http://arxiv.org/pdf/1412.5335.pdf
 
+Thang M. L: http://web.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt.pdf
 
 CS224d reports:
 
