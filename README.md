@@ -1,5 +1,8 @@
 # data_science
 
+click-o-tron rnn: http://clickotron.com
+auto generated headline clickbait: https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
+
 http://blog.computationalcomplexity.org/2016/04/the-master-algorithm.html
 http://jyotiska.github.io/blog/posts/python_libraries.html
 
