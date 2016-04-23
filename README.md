@@ -1,5 +1,8 @@
 # data_science
 
+http://blog.computationalcomplexity.org/2016/04/the-master-algorithm.html
+http://jyotiska.github.io/blog/posts/python_libraries.html
+
 TF CS224d: http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
 
 
