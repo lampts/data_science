@@ -1,5 +1,7 @@
 # data_science
 
+Bayesian Opt: https://github.com/fmfn/BayesianOptimization/blob/master/examples/visualization.ipynb
+
 click-o-tron rnn: http://clickotron.com
 auto generated headline clickbait: https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
 
