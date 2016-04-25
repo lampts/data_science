@@ -1,5 +1,7 @@
 # data_science
 
+tf chatbot: https://github.com/nicolas-ivanov/tf_seq2seq_chatbot
+
 - deep inversion : https://github.com/TaddyLab/gensim/blob/deepir/docs/notebooks/deepir.ipynb
 - encoder decoder with attention: http://arxiv.org/pdf/1512.01712v1.pdf
 - keras tut: http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/tutorials/keras.pdf
