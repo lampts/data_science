@@ -8,8 +8,12 @@ auto generated headline clickbait: https://larseidnes.com/2015/10/13/auto-genera
 http://blog.computationalcomplexity.org/2016/04/the-master-algorithm.html
 http://jyotiska.github.io/blog/posts/python_libraries.html
 
-TF CS224d: http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+LSTM: http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 
+CS224d: 
+
+- TF intro: http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
+- RNN: http://cs224d.stanford.edu/lectures/CS224d-Lecture8.pdf
 
 Sota of sa, mikolo and me :) 
 
