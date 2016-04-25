@@ -1,5 +1,8 @@
 # data_science
 
+- encoder decoder with attention: http://arxiv.org/pdf/1512.01712v1.pdf
+- keras tut: http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/tutorials/keras.pdf
+
 Bayesian Opt: https://github.com/fmfn/BayesianOptimization/blob/master/examples/visualization.ipynb
 
 click-o-tron rnn: http://clickotron.com
