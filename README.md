@@ -1,5 +1,10 @@
 # data_science
 
+tf:
+
+- http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/
+- http://www.slideshare.net/tw_dsconf/tensorflow-tutorial
+
 tf chatbot: https://github.com/nicolas-ivanov/tf_seq2seq_chatbot
 
 - deep inversion : https://github.com/TaddyLab/gensim/blob/deepir/docs/notebooks/deepir.ipynb
