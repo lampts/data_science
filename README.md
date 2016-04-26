@@ -85,6 +85,8 @@ Arimo distributed tensorflow: https://arimo.com/machine-learning/deep-learning/2
 
 Best ever word2vec in code: http://nbviewer.jupyter.org/github/fbkarsdorp/doc2vec/blob/master/doc2vec.ipynb
 
+TF japanese: http://www.slideshare.net/yutakashino/tensorflow-white-paper
+
 TF tut101: https://github.com/aymericdamien/TensorFlow-Examples
 
 Jeff Dean: http://learningsys.org/slides/NIPS-Learning-Systems-Workshop-TensorFlow-Jeff-Dean.pdf
