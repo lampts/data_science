@@ -1,5 +1,7 @@
 # data_science
 
+http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+
 https://medium.com/a-year-of-artificial-intelligence/lenny-2-autoencoders-and-word-embeddings-oh-my-576403b0113a#.ecj0iv4n8
 
 https://github.com/andrewt3000/DL4NLP/blob/master/README.md
