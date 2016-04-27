@@ -1,5 +1,11 @@
 # data_science
 
+skflow: 
+
+- pip install git+git://github.com/tensorflow/skflow.git
+- http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html
+- 
+
 http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
 
 https://medium.com/a-year-of-artificial-intelligence/lenny-2-autoencoders-and-word-embeddings-oh-my-576403b0113a#.ecj0iv4n8
