@@ -1,5 +1,7 @@
 # data_science
 
+dask for task parallel, delayed: http://dask.pydata.org/en/latest/examples-tutorials.html
+
 skflow: 
 
 - pip install git+git://github.com/tensorflow/skflow.git
