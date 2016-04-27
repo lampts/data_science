@@ -4,7 +4,7 @@ skflow:
 
 - pip install git+git://github.com/tensorflow/skflow.git
 - http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html
-- 
+
 
 http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
 
