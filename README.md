@@ -1,5 +1,7 @@
 # data_science
 
+tdb: https://github.com/ericjang/tdb
+
 dask for task parallel, delayed: http://dask.pydata.org/en/latest/examples-tutorials.html
 
 skflow: 
