@@ -1,5 +1,14 @@
 # data_science
 
+skflow:
+
+- https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.7a7s8tkke
+- https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92#.jgxmezy95
+- https://medium.com/@ilblackdragon/tensorflow-tutorial-part-3-c5fc0662bc08#.2d22an1xp
+- http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/
+- https://libraries.io/github/mhlr/skflow
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples
+
 a few useful things to know about ML:
 
 - https://blog.bigml.com/2013/02/15/everything-you-wanted-to-know-about-machine-learning-but-were-too-afraid-to-ask-part-one/
