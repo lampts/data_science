@@ -1,5 +1,10 @@
 # data_science
 
+a few useful things to know about ML:
+
+- https://blog.bigml.com/2013/02/15/everything-you-wanted-to-know-about-machine-learning-but-were-too-afraid-to-ask-part-one/
+- https://blog.bigml.com/2013/02/21/everything-you-wanted-to-know-about-machine-learning-but-were-too-afraid-to-ask-part-two/
+
 tdb: https://github.com/ericjang/tdb
 
 dask for task parallel, delayed: http://dask.pydata.org/en/latest/examples-tutorials.html
