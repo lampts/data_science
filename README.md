@@ -1,5 +1,11 @@
 # data_science
 
+Spotify:
+
+- https://github.com/mattdennewitz/playlist-to-vec
+- http://wonder.fm/
+- https://social.shorthand.com/huntedguy/3CfQA8mj2S/playlist-harvesting
+
 skflow:
 
 - https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.7a7s8tkke
