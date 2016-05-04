@@ -1,5 +1,11 @@
 # data_science
 
+https://github.com/jxieeducation/DIY-Data-Science
+
+http://drivendata.github.io/cookiecutter-data-science/
+
+http://ofey.me/papers/sparse_ijcai16.pdf
+
 Spotify:
 
 - https://github.com/mattdennewitz/playlist-to-vec
