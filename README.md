@@ -1,5 +1,10 @@
 # data_science
 
+spotify:
+
+- http://www.slideshare.net/AndySloane/machine-learning-spotify-madison-big-data-meetup
+- http://www.slideshare.net/erikbern/music-recommendations-mlconf-2014
+
 lda asyn, auto alpha: http://rare-technologies.com/python-lda-in-gensim-christmas-edition/
 
 mapk: https://github.com/benhamner/Metrics/tree/master/Python/ml_metrics
