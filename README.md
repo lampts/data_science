@@ -1,5 +1,7 @@
 # data_science
 
+lda asyn, auto alpha: http://rare-technologies.com/python-lda-in-gensim-christmas-edition/
+
 mapk: https://github.com/benhamner/Metrics/tree/master/Python/ml_metrics
 
 ilcr2016: https://tensortalk.com/?cat=conference-iclr-2016
