@@ -1,5 +1,11 @@
 # data_science
 
+l.m.thang
+
+- https://github.com/lmthang/nlm
+- http://nlp.stanford.edu/~lmthang/data/papers/iclr16_multi.pdf
+
+
 https://github.com/jxieeducation/DIY-Data-Science
 
 http://drivendata.github.io/cookiecutter-data-science/
