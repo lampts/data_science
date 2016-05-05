@@ -1,5 +1,7 @@
 # data_science
 
+ilcr2016: https://tensortalk.com/?cat=conference-iclr-2016
+
 l.m.thang
 
 - https://github.com/lmthang/nlm
