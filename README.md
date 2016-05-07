@@ -1,5 +1,10 @@
 # data_science
 
+pydatalondon 2016:
+
+- https://github.com/springcoil/PyDataLondonTutorial/blob/master/deck-17.pdf
+
+
 spotify:
 
 - http://www.slideshare.net/AndySloane/machine-learning-spotify-madison-big-data-meetup
