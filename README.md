@@ -2,6 +2,9 @@
 
 pydatalondon 2016:
 
+- http://www.thetalkingmachines.com
+- https://www.youtube.com/user/PyDataTV
+- pymc: https://docs.google.com/presentation/d/1QNxSjDHJbFL7vFwQHHheeGmBHEJAo39j28xdObFY6Eo/edit#slide=id.gdfcfebc22_0_118
 - https://github.com/springcoil/PyDataLondonTutorial/blob/master/deck-17.pdf
 - https://speakerdeck.com/bargava/introduction-to-deep-learning
 - https://github.com/rouseguy/intro2deeplearning/
