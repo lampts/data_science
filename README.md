@@ -3,7 +3,13 @@
 pydatalondon 2016:
 
 - https://github.com/springcoil/PyDataLondonTutorial/blob/master/deck-17.pdf
-
+- https://speakerdeck.com/bargava/introduction-to-deep-learning
+- https://github.com/rouseguy/intro2deeplearning/
+- https://github.com/rouseguy/intro2stats
+- https://github.com/kylemcdonald/SmileCNN
+- https://github.com/springcoil/PyDataLondonTutorial/blob/master/notebooks/Statistics.ipynb
+- http://greenteapress.com/complexity/thinkcomplexity.pdf
+- http://matthewearl.github.io/2016/05/06/cnn-anpr/
 
 spotify:
 
