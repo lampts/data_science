@@ -1,5 +1,7 @@
 # data_science
 
+http://davidrosenberg.github.io/ml2016/#home
+
 pydatalondon 2016:
 
 - http://www.thetalkingmachines.com
