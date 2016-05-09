@@ -1,5 +1,15 @@
 # data_science
 
+sentifi:
+
+- https://thestack.com/world/2015/05/08/three-steps-to-building-a-twitter-driven-trading-bot/
+- http://file.scirp.org/pdf/SN_2015070917142293.pdf
+- tweet latent attributes: http://boingboing.net/2014/09/01/twitter-uses-an-algorithm-to-f.html
+- user gender inference: http://www.aclweb.org/anthology/W14-5408
+- https://blog.bufferapp.com/the-5-types-of-tweets-to-keep-your-buffer-full-and-your-followers-engaged
+- classifying user latent attributes: http://www.cs.jhu.edu/~delip/smuc.pdf
+
+
 http://davidrosenberg.github.io/ml2016/#home
 
 pydatalondon 2016:
