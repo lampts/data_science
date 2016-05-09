@@ -8,6 +8,9 @@ sentifi:
 - user gender inference: http://www.aclweb.org/anthology/W14-5408
 - https://blog.bufferapp.com/the-5-types-of-tweets-to-keep-your-buffer-full-and-your-followers-engaged
 - classifying user latent attributes: http://www.cs.jhu.edu/~delip/smuc.pdf
+- http://myownhat.blogspot.com/
+- http://bugra.github.io/work/notes/2015-01-17/mining-a-vc/
+- http://www.fredericgodin.com/software/
 
 
 http://davidrosenberg.github.io/ml2016/#home
