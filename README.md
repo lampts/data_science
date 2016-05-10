@@ -2,6 +2,10 @@
 
 sentifi:
 
+- tf is winning: https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.6lebzwbyx
+- a vc blog: http://avc.com
+- hijacking: http://www.icir.org/vern/papers/twitter-compromise.ccs2014.pdf
+- us president prediction: http://www.aioptify.com/predictinguselection.php
 - https://thestack.com/world/2015/05/08/three-steps-to-building-a-twitter-driven-trading-bot/
 - http://file.scirp.org/pdf/SN_2015070917142293.pdf
 - tweet latent attributes: http://boingboing.net/2014/09/01/twitter-uses-an-algorithm-to-f.html
