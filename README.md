@@ -2,7 +2,7 @@
 
 sentifi:
 
-
+- pretrained word2vec https://github.com/3Top/word2vec-api
 - twitter music word2vec: http://www.netbase.com/blog/understanding-beliebers-word2vec-twitter/
 - text + images with CNN: https://www.scribd.com/doc/305710656/Convolutional-Neural-Networks-for-Multimedia-Sentiment-Analysis
 - feature pivot: http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
