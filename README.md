@@ -2,6 +2,7 @@
 
 sentifi:
 
+- http://www.zdnet.com/article/big-data-what-to-trust-data-science-or-the-bosss-sixth-sense/
 - tf is winning: https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.6lebzwbyx
 - a vc blog: http://avc.com
 - hijacking: http://www.icir.org/vern/papers/twitter-compromise.ccs2014.pdf
