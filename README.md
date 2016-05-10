@@ -2,6 +2,8 @@
 
 sentifi:
 
+- http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
+- nlp with cnn: http://www.slideshare.net/devashishshanker/deep-learning-for-natural-language-processing
 - event detection http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
 - http://www.zdnet.com/article/big-data-what-to-trust-data-science-or-the-bosss-sixth-sense/
 - tf is winning: https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.6lebzwbyx
