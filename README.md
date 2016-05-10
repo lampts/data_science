@@ -2,7 +2,8 @@
 
 sentifi:
 
-- http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
+- text + images with CNN: https://www.scribd.com/doc/305710656/Convolutional-Neural-Networks-for-Multimedia-Sentiment-Analysis
+- feature pivot: http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
 - nlp with cnn: http://www.slideshare.net/devashishshanker/deep-learning-for-natural-language-processing
 - event detection http://www.hpl.hp.com/techreports/2011/HPL-2011-98.pdf
 - http://www.zdnet.com/article/big-data-what-to-trust-data-science-or-the-bosss-sixth-sense/
