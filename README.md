@@ -2,6 +2,9 @@
 
 sentifi:
 
+- chrispot: http://sentiment.christopherpotts.net/tokenizing.html
+- https://github.com/cbuntain/TwitterFergusonTeachIn
+- mining tweet: https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/Chapter%201%20-%20Mining%20Twitter.html
 - NE: https://noisy-text.github.io/pdf/WNUT10.pdf
 - tokenizer: http://sentiment.christopherpotts.net/code-data/happyfuntokenizing.py
 - twitter tokenizer online: http://sentiment.christopherpotts.net/tokenizing/results/
