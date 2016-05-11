@@ -2,6 +2,10 @@
 
 sentifi:
 
+- NE: https://noisy-text.github.io/pdf/WNUT10.pdf
+- tokenizer: http://sentiment.christopherpotts.net/code-data/happyfuntokenizing.py
+- twitter tokenizer online: http://sentiment.christopherpotts.net/tokenizing/results/
+- cs224u understanding nlp: http://nbviewer.jupyter.org/github/cgpotts/cs224u/
 - https://spacy.io/blog/german-model?utm_source=News&utm_campaign=87a64aae50-German_release_newsletter&utm_medium=email&utm_term=0_89ad33e698-87a64aae50-64293797
 - jupyter theme: http://sherifsoliman.com/2016/01/11/theming-ipython-jupyter-notebook/
 - noisy text need to be normalized: https://noisy-text.github.io/norm-shared-task.html
