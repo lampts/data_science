@@ -2,6 +2,7 @@
 
 sentifi:
 
+- https://spacy.io/blog/german-model?utm_source=News&utm_campaign=87a64aae50-German_release_newsletter&utm_medium=email&utm_term=0_89ad33e698-87a64aae50-64293797
 - jupyter theme: http://sherifsoliman.com/2016/01/11/theming-ipython-jupyter-notebook/
 - noisy text need to be normalized: https://noisy-text.github.io/norm-shared-task.html
 - understanding user profile/twitter: https://blog.twitter.com/2015/guest-post-understanding-users-through-twitter-data-and-machine-learning
