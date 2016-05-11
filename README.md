@@ -2,6 +2,7 @@
 
 sentifi:
 
+- analyzing text data at Firefox: http://web.stanford.edu/~rjweiss/public_html/MozFest2013/
 - pretrained word2vec https://github.com/3Top/word2vec-api
 - twitter music word2vec: http://www.netbase.com/blog/understanding-beliebers-word2vec-twitter/
 - text + images with CNN: https://www.scribd.com/doc/305710656/Convolutional-Neural-Networks-for-Multimedia-Sentiment-Analysis
