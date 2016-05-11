@@ -22,7 +22,7 @@ sentifi:
 - classifying user latent attributes: http://www.cs.jhu.edu/~delip/smuc.pdf
 - http://myownhat.blogspot.com/
 - http://bugra.github.io/work/notes/2015-01-17/mining-a-vc/
-- http://www.fredericgodin.com/software/
+- NER with w2v, 400M tweet: http://www.fredericgodin.com/software/
 
 
 http://davidrosenberg.github.io/ml2016/#home
