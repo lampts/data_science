@@ -2,6 +2,7 @@
 
 sentifi:
 
+- word2vec with numba: https://d10genes.github.io/blog/2016/05/03/word2vec/
 - analyzing text data at Firefox: http://web.stanford.edu/~rjweiss/public_html/MozFest2013/
 - pretrained word2vec https://github.com/3Top/word2vec-api
 - twitter music word2vec: http://www.netbase.com/blog/understanding-beliebers-word2vec-twitter/
