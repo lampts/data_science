@@ -2,6 +2,7 @@
 
 sentifi:
 
+- understanding user profile/twitter: https://blog.twitter.com/2015/guest-post-understanding-users-through-twitter-data-and-machine-learning
 - word2vec with numba: https://d10genes.github.io/blog/2016/05/03/word2vec/
 - analyzing text data at Firefox: http://web.stanford.edu/~rjweiss/public_html/MozFest2013/
 - pretrained word2vec https://github.com/3Top/word2vec-api
