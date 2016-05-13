@@ -2,6 +2,7 @@
 
 sentifi:
 
+- syntaxnet: https://github.com/tensorflow/models/tree/master/syntaxnet
 - hijack compromise user account http://www.icir.org/vern/papers/twitter-compromise.ccs2014.pdf
 - user classification: name + loc http://www.cs.jhu.edu/~vandurme/papers/broadly-improving-user-classfication-via-communication-based-name-and-location-clustering-on-twitter.pdf
 - chrispot: http://sentiment.christopherpotts.net/tokenizing.html
