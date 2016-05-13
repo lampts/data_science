@@ -2,6 +2,8 @@
 
 sentifi:
 
+- hijack compromise user account http://www.icir.org/vern/papers/twitter-compromise.ccs2014.pdf
+- user classification: name + loc http://www.cs.jhu.edu/~vandurme/papers/broadly-improving-user-classfication-via-communication-based-name-and-location-clustering-on-twitter.pdf
 - chrispot: http://sentiment.christopherpotts.net/tokenizing.html
 - https://github.com/cbuntain/TwitterFergusonTeachIn
 - mining tweet: https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/Chapter%201%20-%20Mining%20Twitter.html
