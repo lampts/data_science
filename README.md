@@ -1,5 +1,9 @@
 # data_science
 
+- which feature selection: http://sebastianraschka.com/faq/docs/feature_sele_categories.html
+- which learning algos: http://sebastianraschka.com/faq/docs/best-ml-algo.html
+- for intepretability use tree: http://sebastianraschka.com/faq/docs/model-selection-in-datascience.html
+- LR vs NB: http://sebastianraschka.com/faq/docs/naive-bayes-vs-logistic-regression.html
 - yelp review classifier: https://github.com/parulsingh/FlaskAppCS194
 - ngsg is not mf yet: https://building-babylon.net/2016/05/12/skipgram-isnt-matrix-factorisation/
 - http://blog.aylien.com/post/133931414053/analyzing-tweets-from-web-summit-2015-semantic
