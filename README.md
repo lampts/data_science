@@ -1,5 +1,9 @@
 # data_science
 
+- ngsg is not mf yet: https://building-babylon.net/2016/05/12/skipgram-isnt-matrix-factorisation/
+- http://blog.aylien.com/post/133931414053/analyzing-tweets-from-web-summit-2015-semantic
+- http://aylien.com/web-summit-2015-tweets-part1
+
 sentifi:
 
 - https://github.com/bdhingra/tweet2vec
