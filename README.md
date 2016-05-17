@@ -1,5 +1,6 @@
 # data_science
 
+- http://glowingpython.blogspot.com/2014/02/terms-selection-with-chi-square.html
 - which feature selection: http://sebastianraschka.com/faq/docs/feature_sele_categories.html
 - which learning algos: http://sebastianraschka.com/faq/docs/best-ml-algo.html
 - for intepretability use tree: http://sebastianraschka.com/faq/docs/model-selection-in-datascience.html
