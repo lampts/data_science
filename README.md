@@ -1,5 +1,11 @@
 # data_science
 
+18.5
+
+- building data processing at budget: http://www.slideshare.net/GaelVaroquaux/building-a-cuttingedge-data-processing-environment-on-a-budget
+- https://radimrehurek.com/gensim/wiki.html
+- calibration: http://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html#example-calibration-plot-calibration-curve-py
+
 - http://glowingpython.blogspot.com/2014/02/terms-selection-with-chi-square.html
 - which feature selection: http://sebastianraschka.com/faq/docs/feature_sele_categories.html
 - which learning algos: http://sebastianraschka.com/faq/docs/best-ml-algo.html
