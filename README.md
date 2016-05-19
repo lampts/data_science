@@ -1,5 +1,10 @@
 # data_science
 
+19.5
+
+- http://googleresearch.blogspot.com/2016/05/chat-smarter-with-allo.html
+- https://en.wikipedia.org/wiki/Limited-memory_BFGS
+
 18.5
 
 - building data processing at budget: http://www.slideshare.net/GaelVaroquaux/building-a-cuttingedge-data-processing-environment-on-a-budget
