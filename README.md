@@ -2,6 +2,10 @@
 
 19.5
 
+- wise 203 classes, vocab = 300k, sample = 64k, test = 34j=k, http://alexanderdyakonov.narod.ru/wise2014-kaggle-Dyakonov.pdf
+- yelp review to multi label: food, deal, ambience,... http://www.ics.uci.edu/~vpsaini/
+- instagram: http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji
+- emoji embedding http://www.danielforsyth.me/nba-twitter-emojis-and-word-embeddings/
 - tweetmap in websummit event: http://blog.aylien.com/post/133931414053/analyzing-tweets-from-web-summit-2015-semantic
 - topic2vec: http://arxiv.org/pdf/1506.08422.pdf
 - http://googleresearch.blogspot.com/2016/05/chat-smarter-with-allo.html
