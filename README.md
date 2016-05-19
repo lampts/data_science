@@ -2,6 +2,7 @@
 
 19.5
 
+- topic2vec: http://arxiv.org/pdf/1506.08422.pdf
 - http://googleresearch.blogspot.com/2016/05/chat-smarter-with-allo.html
 - https://en.wikipedia.org/wiki/Limited-memory_BFGS
 
