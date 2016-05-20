@@ -1,5 +1,9 @@
 # data_science
 
+20.5
+
+- scatter with images: https://gist.github.com/lukemetz/be6123c7ee3b366e333a
+
 19.5
 
 - wise 203 classes, vocab = 300k, sample = 64k, test = 34j=k, http://alexanderdyakonov.narod.ru/wise2014-kaggle-Dyakonov.pdf
