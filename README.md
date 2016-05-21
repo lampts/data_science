@@ -2,6 +2,11 @@
 
 Conferences:
 
+- https://github.com/RaRe-Technologies/movie-plots-by-genre
+- wmd: http://vene.ro/blog/word-movers-distance-in-python.html
+- word2vec viz: https://ronxin.github.io/wevi/
+- news analytics in finance: https://vimeo.com/67901816
+- table2vec: http://www.slideshare.net/SparkSummit/using-data-science-to-transform-opentable-into-delgado-das
 - data by the bay: http://data.bythebay.io/schedule.html
 - pydataberlin: http://pydata.org/berlin2016/
 
