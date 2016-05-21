@@ -1,5 +1,10 @@
 # data_science
 
+Conferences:
+
+- data by the bay: http://data.bythebay.io/schedule.html
+- pydataberlin: http://pydata.org/berlin2016/
+
 20.5
 
 - scatter with images: https://gist.github.com/lukemetz/be6123c7ee3b366e333a
