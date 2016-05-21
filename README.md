@@ -2,6 +2,7 @@
 
 Conferences:
 
+- flask, api, mongo, d3: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
 - https://github.com/RaRe-Technologies/movie-plots-by-genre
 - wmd: http://vene.ro/blog/word-movers-distance-in-python.html
 - word2vec viz: https://ronxin.github.io/wevi/
