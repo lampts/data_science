@@ -1,5 +1,10 @@
 # data_science
 
+TSNE:
+
+- javascript: http://karpathy.github.io/2014/07/02/visualizing-top-tweeps-with-t-sne-in-Javascript/
+- http://cs.stanford.edu/people/karpathy/tsnejs/index.html
+
 Conferences:
 
 - word2vec tree: https://github.com/pvthuy/word2vec-visualization
