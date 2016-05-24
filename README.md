@@ -1,5 +1,12 @@
 # data_science
 
+24.5
+
+- https://github.com/edburnett/twitter-text-python
+- http://eng.kifi.com/from-word2vec-to-doc2vec-an-approach-driven-by-chinese-restaurant-process/
+- https://www.insight-centre.org/sites/default/files/publications/14.033_insight-snow14dc-final.pdf
+- http://rali.iro.umontreal.ca/rali/sites/default/files/publis/Atefeh_et_al-2013-Computational_Intelligence-2.pdf
+
 TSNE:
 
 - javascript: http://karpathy.github.io/2014/07/02/visualizing-top-tweeps-with-t-sne-in-Javascript/
