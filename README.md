@@ -2,6 +2,14 @@
 
 25.5
 
+In summary, here is what I recommend if you plan to use word2vec: choose the right training parameters and training data for word2vec, use avg predictor for query, sentence and paragraph(code here) after picking a dominant word set and apply deep learning on resulted vectors.
+
+===
+
+For SGNS, here is what I believe really happens during the training:
+If two words appear together, the training will try to increase their cosine similarity. If two words never appear together, the training will reduce their cosine similarity. So if there are a lot of user queries such as “auto insurance” and “car insurance”, then “auto” vector will be similar to “insurance” vector (cosine similarity ~= 0.3) and “car” vector will also be similar to “insurance” vector. Since “insurance”, “loan” and “repair” rarely appear together in the same context, their vectors have small mutual cosine similarity (cosine similarity ~= 0.1). We can treat them as orthogonal to each other and think them as different dimensions. After training is complete, “auto” vector will be very similar to “car” vector (cosine similarity ~= 0.6) because both of them are similar in “insurance” dimension, “loan” dimension and “repair” dimension.   This intuition will be useful if you want to better design your training data to meet the goal of your text learning task.
+
+===
 
 for short sentences/phrases, Tomas Mikolov recommends simply adding up individual vector words to get a "sentence vector" (see his recent NIPS slides). 
 
@@ -12,6 +20,9 @@ I like the way word2vec is running (no need to use important hardware to process
 Actually LSA requires less structured data (only a bag-of-words matrix, whereas word2vec requires exact word sequences), so there's no fundamental difference in input complexity.
 
 
+- http://douglasduhaime.com/blog/clustering-semantic-vectors-with-python 
+- https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors
+- http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html
 - http://www.aclweb.org/anthology/W15-1526
 - ML model: http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
  
