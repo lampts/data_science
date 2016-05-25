@@ -2,7 +2,20 @@
 
 25.5
 
+
+for short sentences/phrases, Tomas Mikolov recommends simply adding up individual vector words to get a "sentence vector" (see his recent NIPS slides). 
+
+For longer documents, it is an open research question how to derive their representation, so no wonder you're having trouble :)
+
+I like the way word2vec is running (no need to use important hardware to process huge collection of text). It's more usable than LSA or any system which requires a term-document matrix.
+
+Actually LSA requires less structured data (only a bag-of-words matrix, whereas word2vec requires exact word sequences), so there's no fundamental difference in input complexity.
+
+
+- http://www.aclweb.org/anthology/W15-1526
 - ML model: http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
+ 
+
 
 24.5
 
