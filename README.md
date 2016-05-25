@@ -1,5 +1,10 @@
 # data_science
 
+25.5
+
+- ML model: http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
+- 
+
 24.5
 
 - https://github.com/edburnett/twitter-text-python
