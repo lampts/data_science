@@ -2,6 +2,7 @@
 
 26.5
 
+- https://github.com/alexperrier/datatalks/tree/master/twitter
 - https://issuu.com/andriusknispelis/docs/topic_models_-_video
 - http://www.aclweb.org/anthology/W15-1526
 - https://www.opendatascience.com/blog/dissecting-the-presidential-debates-with-an-nlp-scalpel/
