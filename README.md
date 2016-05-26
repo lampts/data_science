@@ -1,5 +1,12 @@
 # data_science
 
+26.5
+
+- https://issuu.com/andriusknispelis/docs/topic_models_-_video
+- http://www.aclweb.org/anthology/W15-1526
+- https://www.opendatascience.com/blog/dissecting-the-presidential-debates-with-an-nlp-scalpel/
+- https://speakerdeck.com/bmabey/visualizing-topic-models
+
 25.5
 
 In summary, here is what I recommend if you plan to use word2vec: choose the right training parameters and training data for word2vec, use avg predictor for query, sentence and paragraph(code here) after picking a dominant word set and apply deep learning on resulted vectors.
