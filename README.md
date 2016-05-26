@@ -2,6 +2,9 @@
 
 26.5
 
+- http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
+- http://alexperrier.github.io/jekyll/update/2015/09/16/segmentation_twitter_timelines_lda_vs_lsa.html
+- https://begriffs.com/posts/2015-03-10-better-tweets-datascience.html
 - https://github.com/alexperrier/datatalks/tree/master/twitter
 - https://issuu.com/andriusknispelis/docs/topic_models_-_video
 - http://www.aclweb.org/anthology/W15-1526
