@@ -1,5 +1,12 @@
 # data_science
 
+30.5
+
+- https://spacy.io/docs
+- https://spacy.io/docs/tutorials/twitter-filter
+- http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+
+
 29.5
 
 - cry analysis: http://www.robinwe.is/explorations/cry.html
