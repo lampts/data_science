@@ -1,5 +1,19 @@
 # data_science
 
+29.5
+
+- cry analysis: http://www.robinwe.is/explorations/cry.html
+- spacy preprocessing: https://github.com/cemoody/lda2vec/blob/master/lda2vec/preprocess.py
+- spacy Tweet: https://spacy.io/docs/tutorials/twitter-filter
+- lda2vec: full http://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/#topic=38&lambda=1&term=
+- probalistic approach: http://chirayukong.github.io/infsci2725/resources/09_Probabilistic_Approaches.pdf
+- lda curation: https://datawarrior.wordpress.com/2016/04/20/local-and-global-words-and-topics/
+- why hdbscan: http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
+- auto ml: http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf
+- http://www.kdnuggets.com/2016/05/five-machine-learning-projects-cant-overlook.html
+- topic2vec: https://www.cs.cmu.edu/~diyiy/docs/naacl15.pdf
+
+
 26.5
 
 - http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html
