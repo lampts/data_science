@@ -2,6 +2,7 @@
 
 30.5
 
+- topic quality coherence: http://palmetto.aksw.org/palmetto-webapp/
 - https://spacy.io/docs
 - https://spacy.io/docs/tutorials/twitter-filter
 - http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
