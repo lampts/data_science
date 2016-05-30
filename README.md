@@ -2,6 +2,7 @@
 
 30.5
 
+- dirichlet process: http://stiglerdiet.com/blog/2015/Jul/28/dirichlet-distribution-and-dirichlet-process/
 - pycon 2016: https://github.com/justmarkham/pycon-2016-tutorial/
 - romance in word2vec: http://www.ghostweather.com/files/word2vecpride/
 - topic quality coherence: http://palmetto.aksw.org/palmetto-webapp/
