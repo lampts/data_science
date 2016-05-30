@@ -5,6 +5,7 @@
 - https://spacy.io/docs
 - https://spacy.io/docs/tutorials/twitter-filter
 - http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+- https://github.com/justmarkham/pycon-2016-tutorial
 
 
 29.5
