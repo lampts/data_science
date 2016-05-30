@@ -2,6 +2,7 @@
 
 30.5
 
+- pycon 2016: https://github.com/justmarkham/pycon-2016-tutorial/
 - romance in word2vec: http://www.ghostweather.com/files/word2vecpride/
 - topic quality coherence: http://palmetto.aksw.org/palmetto-webapp/
 - https://spacy.io/docs
