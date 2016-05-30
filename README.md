@@ -2,6 +2,7 @@
 
 30.5
 
+- romance in word2vec: http://www.ghostweather.com/files/word2vecpride/
 - topic quality coherence: http://palmetto.aksw.org/palmetto-webapp/
 - https://spacy.io/docs
 - https://spacy.io/docs/tutorials/twitter-filter
