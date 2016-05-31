@@ -2,6 +2,7 @@
 
 31.5
 
+- pycon2016: https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
 - andreas, intro ML/sklearn for DS: https://github.com/amueller/introduction_to_ml_with_python
 - Berkeley ds intro: https://data-8.appspot.com/sp16/course
 
