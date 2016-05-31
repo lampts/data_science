@@ -1,5 +1,10 @@
 # data_science
 
+31.5
+
+- andreas, intro ML/sklearn for DS: https://github.com/amueller/introduction_to_ml_with_python
+- Berkeley ds intro: https://data-8.appspot.com/sp16/course
+
 30.5
 
 - dirichlet process: http://stiglerdiet.com/blog/2015/Jul/28/dirichlet-distribution-and-dirichlet-process/
