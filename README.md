@@ -3,6 +3,7 @@
 1.6
 
 
+- lab41: http://www.lab41.org/a-tour-of-sentiment-analysis-techniques-getting-a-baseline-for-sunny-side-up/
 - doc2vec at tripadvisor: https://github.com/hellozeyu/An-advisor-for-TripAdvisor
 - https://nycdatascience.com/an-advisor-for-tripadvisor/
 
