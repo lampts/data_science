@@ -1,5 +1,21 @@
 # data_science
 
+1.6
+
+10 lesson learned from Xavier recap:
+
+- implicit signal beats explicit ones (almost always): clickbait, rating psychology
+- your model will learn what you teach it to learn: feature, function, f score
+- sup + unsup = life
+- everything is ensemble
+- model sequences: output of the model is input of others
+- FE: reusable, transformable, interpretable, reliable
+- ML infra: experimentation phase: easiness, flexibility, reusability. production phase: performance, scalable
+- Debugging feature values
+- you don't need to distribute ML algo
+- DS + ML engineering = perfection
+
+
 31.5
 
 - pycon2016: https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
