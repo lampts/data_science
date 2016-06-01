@@ -2,6 +2,10 @@
 
 1.6
 
+
+- doc2vec at tripadvisor: https://github.com/hellozeyu/An-advisor-for-TripAdvisor
+- https://nycdatascience.com/an-advisor-for-tripadvisor/
+
 10 lesson learned from Xavier recap:
 
 - implicit signal beats explicit ones (almost always): clickbait, rating psychology
