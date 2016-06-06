@@ -2,6 +2,9 @@
 
 6.6
 
+- stats for hacker pycon2016: https://speakerdeck.com/pycon2016/jake-vanderplas-statistics-for-hackers
+- https://medium.com/udacity/this-week-in-machine-learning-3-june-2016-7f089ce984e7#.zbv7h9nyo
+- word galaxy: http://www.anthonygarvan.com/wordgalaxy/
 - pycon2016: https://github.com/singingwolfboy/build-a-flask-api
 - http://burhan.io/flask-web-api-with-firebase/
 - http://web.stanford.edu/class/cs224u/materials/cs224u-vsm-overview.pdf
