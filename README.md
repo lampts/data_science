@@ -2,6 +2,7 @@
 
 6.6
 
+- wevi: https://docs.google.com/presentation/d/1yQWN1CDWLzxGeIAvnGgDsIJr5xmy4dB0VmHFKkLiibo/
 - stats for hacker pycon2016: https://speakerdeck.com/pycon2016/jake-vanderplas-statistics-for-hackers
 - https://medium.com/udacity/this-week-in-machine-learning-3-june-2016-7f089ce984e7#.zbv7h9nyo
 - word galaxy: http://www.anthonygarvan.com/wordgalaxy/
