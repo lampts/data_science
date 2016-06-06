@@ -1,5 +1,12 @@
 # data_science
 
+6.6
+
+- pycon2016: https://github.com/singingwolfboy/build-a-flask-api
+- http://burhan.io/flask-web-api-with-firebase/
+- http://web.stanford.edu/class/cs224u/materials/cs224u-vsm-overview.pdf
+
+
 1.6
 
 
