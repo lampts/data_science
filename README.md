@@ -1,5 +1,13 @@
 # data_science
 
+7.6
+
+- metricle: https://metricle.com/api
+- dark web svm, word2vec: https://homepages.staff.os3.nl/~delaat/rp/2014-2015/p99/report.pdf
+- M$ deep learning: http://research.microsoft.com/pubs/246721/NAACL-HLT-2015_tutorial.pdf
+- MS sgd trick: http://research.microsoft.com/pubs/192769/tricks-2012.pdf
+- 10K class and 10M samples, OVR and SGD is best: https://hal.inria.fr/hal-00835810/PDF/TPAMI_minor_revision.pdf
+
 6.6
 
 - xin rong presentation: https://www.youtube.com/watch?v=D-ekE-Wlcds
