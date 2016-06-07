@@ -2,6 +2,7 @@
 
 7.6
 
+- top 10 NLP con: http://idibon.com/the-top-10-nlp-conferences/
 - metricle: https://metricle.com/api
 - dark web svm, word2vec: https://homepages.staff.os3.nl/~delaat/rp/2014-2015/p99/report.pdf
 - M$ deep learning: http://research.microsoft.com/pubs/246721/NAACL-HLT-2015_tutorial.pdf
