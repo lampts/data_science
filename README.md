@@ -1,5 +1,12 @@
 # data_science
 
+8.6
+
+- http://cs231n.github.io/linear-classify/
+- binary classification dog vs cat: http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+- deeptext: am I scared? https://www.linkedin.com/pulse/what-listening-look-facebooks-ai-engine-radim-%C5%99eh%C5%AF%C5%99ek
+- why Google open source Tensorflow: https://www.youtube.com/watch?v=Rnm83GqgqPE
+
 7.6
 
 - top 10 NLP con: http://idibon.com/the-top-10-nlp-conferences/
