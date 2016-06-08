@@ -2,6 +2,7 @@
 
 8.6
 
+- deep learning demo: http://www.somatic.io/models/V7Zx4Z9A
 - ml debug: https://www.quora.com/Whats-the-best-way-to-debug-natural-language-processing-code-How-do-we-know-its-running-as-we-assume-I-ask-this-question-because-I-read-one-post-titled-as-what-is-the-best-way-to-test-machine-learning-code-I-am-working-on-one-natural-language-processing-task-and-has-confusion-on-how-to-debug-NLP
 - confusion matrix: http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/
 - nlp ml error analysis tool: http://www.aclweb.org/anthology/C14-2001
