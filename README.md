@@ -2,6 +2,8 @@
 
 8.6
 
+- deepnet online: https://github.com/anujgupta82/DeepNets/blob/master/Online_Learning/Incorporating_feedback_in_DeepNets.ipynb
+- sgd + elasticnet penalty better? https://www.quora.com/Are-there-any-real-applications-of-using-Elastic-Net
 - http://cs231n.github.io/linear-classify/
 - binary classification dog vs cat: http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 - deeptext: am I scared? https://www.linkedin.com/pulse/what-listening-look-facebooks-ai-engine-radim-%C5%99eh%C5%AF%C5%99ek
