@@ -2,6 +2,9 @@
 
 8.6
 
+- ml debug: https://www.quora.com/Whats-the-best-way-to-debug-natural-language-processing-code-How-do-we-know-its-running-as-we-assume-I-ask-this-question-because-I-read-one-post-titled-as-what-is-the-best-way-to-test-machine-learning-code-I-am-working-on-one-natural-language-processing-task-and-has-confusion-on-how-to-debug-NLP
+- confusion matrix: http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/
+- nlp ml error analysis tool: http://www.aclweb.org/anthology/C14-2001
 - deepnet online: https://github.com/anujgupta82/DeepNets/blob/master/Online_Learning/Incorporating_feedback_in_DeepNets.ipynb
 - sgd + elasticnet penalty better? https://www.quora.com/Are-there-any-real-applications-of-using-Elastic-Net
 - http://cs231n.github.io/linear-classify/
