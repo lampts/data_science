@@ -1,5 +1,17 @@
 # data_science
 
+9.6
+
+user classifiers:
+
+- latent user, delip rao: http://www.cs.jhu.edu/~delip/smuc.pdf
+
+Readings:
+
+- intro prob in ipython: http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb
+- thesis learning algos from data: http://www.cs.nyu.edu/media/publications/zaremba_wojciech.pdf
+- Practical tools for exploring data and models: http://had.co.nz/thesis/practical-tools-hadley-wickham.pdf
+
 8.6
 
 - deep learning demo: http://www.somatic.io/models/V7Zx4Z9A
