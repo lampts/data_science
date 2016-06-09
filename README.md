@@ -4,6 +4,7 @@
 
 user classifiers:
 
+- http://www.slideshare.net/TedXiao/winning-kaggle-101-dmitry-larkos-experiences
 - Humanizr: http://networkdynamics.org/resources/software/humanizr/
 - tweet coder: http://networkdynamics.org/resources/software/tweetcoder/
 - latent user, delip rao: http://www.cs.jhu.edu/~delip/smuc.pdf
