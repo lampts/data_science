@@ -4,6 +4,8 @@
 
 user classifiers:
 
+- Humanizr: http://networkdynamics.org/resources/software/humanizr/
+- tweet coder: http://networkdynamics.org/resources/software/tweetcoder/
 - latent user, delip rao: http://www.cs.jhu.edu/~delip/smuc.pdf
 
 Readings:
