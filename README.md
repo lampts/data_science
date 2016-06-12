@@ -1,5 +1,10 @@
 # data_science
 
+11.6
+
+- xgboost + nn: https://www.import.io/post/how-to-win-a-kaggle-competition/
+
+
 9.6
 
 user classifiers:
