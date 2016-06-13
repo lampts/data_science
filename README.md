@@ -1,5 +1,11 @@
 # data_science
 
+13.6
+
+- just remember: https://ipgp.github.io/scientific_python_cheat_sheet/
+- work on postgres https://github.com/dbcli/pgcli
+- productionize with Kafka: http://blog.parsely.com/post/3886/pykafka-now/
+
 11.6
 
 - xgboost + nn: https://www.import.io/post/how-to-win-a-kaggle-competition/
