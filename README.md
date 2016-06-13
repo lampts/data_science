@@ -2,6 +2,8 @@
 
 13.6
 
+- personality: https://personality-insights-livedemo.mybluemix.net/
+- imbalanced data https://github.com/ngaude/kaggle/blob/master/cdiscount/ImbalancedLearning.pdf
 - just remember: https://ipgp.github.io/scientific_python_cheat_sheet/
 - work on postgres https://github.com/dbcli/pgcli
 - productionize with Kafka: http://blog.parsely.com/post/3886/pykafka-now/
