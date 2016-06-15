@@ -1,5 +1,10 @@
 # data_science
 
+15.6
+
+- map 140M tweet: http://www.mapd.com/demos/tweetmap/
+- http://blog.yhat.com/posts/rodeo-2.0-release.html
+
 13.6
 
 - personality: https://personality-insights-livedemo.mybluemix.net/
