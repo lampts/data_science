@@ -1,5 +1,11 @@
 # data_science
 
+16.6
+
+- https://docs.google.com/presentation/d/1KOvkwjZM1Wjj7hfbBP11fLrSUYJTPl_zaAM-fZje328/edit?pref=2&pli=1#slide=id.gd894eccf5_0_75
+- https://foxtype.com/sentence-tree
+
+
 15.6
 
 - map 140M tweet: http://www.mapd.com/demos/tweetmap/
