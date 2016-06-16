@@ -2,6 +2,10 @@
 
 16.6
 
+
+- gensim 0.13 changelog: https://github.com/RaRe-Technologies/gensim/blob/develop/CHANGELOG.txt
+- https://building-babylon.net/2015/06/03/document-embedding-with-paragraph-vectors/
+- gbt http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/sklearn_demos/Gradient%20Boosting.ipynb
 - https://docs.google.com/presentation/d/1KOvkwjZM1Wjj7hfbBP11fLrSUYJTPl_zaAM-fZje328/edit?pref=2&pli=1#slide=id.gd894eccf5_0_75
 - https://foxtype.com/sentence-tree
 
