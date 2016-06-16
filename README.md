@@ -2,6 +2,10 @@
 
 16.6
 
+toread:
+
+- relationship modeling network https://github.com/miyyer/rmn
+- QA compose NN: http://arxiv.org/pdf/1601.01705v4.pdf
 
 - gensim 0.13 changelog: https://github.com/RaRe-Technologies/gensim/blob/develop/CHANGELOG.txt
 - https://building-babylon.net/2015/06/03/document-embedding-with-paragraph-vectors/
