@@ -1,5 +1,9 @@
 # data_science
 
+17.6
+
+- http://www.cs.utexas.edu/~roller/naacl2016dl.txt
+
 16.6
 
 toread:
