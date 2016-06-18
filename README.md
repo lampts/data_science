@@ -1,5 +1,12 @@
 # data_science
 
+18.6
+
+- deep hack: http://deepqa.tilda.ws/page78823.html
+- Quoc Le, DL for lang understanding: https://www.youtube.com/watch?v=KmOdBS4BXZ0
+- https://drive.google.com/file/d/0B0PX5JnpNX8yQ184Z3kwWmYyQUU/view?pref=2&pli=1
+- https://drive.google.com/file/d/0BwJbEyAV32gETHR4YmdjcW5JUlU/view?pref=2&pli=1
+
 17.6
 
 - http://www.cs.utexas.edu/~roller/naacl2016dl.txt
