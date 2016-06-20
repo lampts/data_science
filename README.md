@@ -1,5 +1,11 @@
 # data_science
 
+20.6
+
+- deephack, https://drive.google.com/file/d/0B0PX5JnpNX8yQ184Z3kwWmYyQUU/view?pref=2&pli=1
+- mikilov rnn + scrnn: https://drive.google.com/file/d/0B0PX5JnpNX8yQ184Z3kwWmYyQUU/view?pref=2&pli=1
+
+
 18.6
 
 - deep hack: http://deepqa.tilda.ws/page78823.html
