@@ -1,5 +1,11 @@
 # data_science
 
+21.6
+
+- book of Andrew Ng: http://www.mlyearning.org/
+- why we need so many classifiers: http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf
+- variety of models to choose: https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
+
 20.6
 
 - deephack, https://drive.google.com/file/d/0B0PX5JnpNX8yQ184Z3kwWmYyQUU/view?pref=2&pli=1
