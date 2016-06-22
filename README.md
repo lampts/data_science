@@ -5,6 +5,8 @@
 - http://varianceexplained.org/r/year_data_scientist/
 - conflicted ds: https://www.youtube.com/watch?v=7h2S3eM1OYQ&feature=youtu.be
 - ICML 2016: http://icml.cc/2016/?page_id=1839
+- My russian friends: https://alexanderdyakonov.wordpress.com/2016/05/31/avito-telstra-bnp/
+- https://www.youtube.com/watch?v=1HrkBzLBJQg
 
 21.6
 
