@@ -1,5 +1,11 @@
 # data_science
 
+22.6
+
+- http://varianceexplained.org/r/year_data_scientist/
+- conflicted ds: https://www.youtube.com/watch?v=7h2S3eM1OYQ&feature=youtu.be
+- ICML 2016: http://icml.cc/2016/?page_id=1839
+
 21.6
 
 - book of Andrew Ng: http://www.mlyearning.org/
