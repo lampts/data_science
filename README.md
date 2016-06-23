@@ -1,5 +1,10 @@
 # data_science
 
+23.06
+
+- I'm a speaker at pyconsg 2016: https://pycon.sg/schedule/
+- 
+
 22.6
 
 - http://varianceexplained.org/r/year_data_scientist/
