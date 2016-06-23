@@ -4,7 +4,7 @@
 
 - I'm a speaker at pyconsg 2016: https://pycon.sg/schedule/
 - https://github.com/airbnb/caravel
-
+- googlenet: 22 layers inception http://arxiv.org/abs/1409.4842
 
 22.6
 
