@@ -3,6 +3,7 @@
 24.6
 
 - keynote: http://tpq.io/p/pyconsg.html#/
+- customer segmentation: https://github.com/maoting1223/pycon_sg_2016
 
 23.6
 
