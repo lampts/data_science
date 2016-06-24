@@ -1,6 +1,10 @@
 # data_science
 
-23.06
+24.6
+
+- keynote: http://tpq.io/p/pyconsg.html#/
+
+23.6
 
 - I'm a speaker at pyconsg 2016: https://pycon.sg/schedule/
 - https://github.com/airbnb/caravel
