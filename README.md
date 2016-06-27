@@ -2,6 +2,9 @@
 
 27.6
 
+- wmd: http://tech.opentable.com/2015/08/11/navigating-themes-in-restaurant-reviews-with-word-movers-distance/
+- defense of w2v: http://www.cs.tau.ac.il/~wolf/papers/qagg.pdf
+- plagiarism: http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn
 - genre stereotype in word embedding: https://arxiv.org/pdf/1606.06121v1.pdf
 - twitter intent: https://twitter.com/intent/user?user_id=328567812
 - google n-gram: https://books.google.com/ngrams/graph?content=she+is+a+nurse%2C+he+is+a+nurse&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cshe%20is%20a%20nurse%3B%2Cc0%3B.t1%3B%2Che%20is%20a%20nurse%3B%2Cc0
