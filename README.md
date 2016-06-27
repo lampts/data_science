@@ -2,6 +2,10 @@
 
 27.6
 
+- document classification: https://github.com/RaRe-Technologies/movie-plots-by-genre
+- classical nlp: https://github.com/tmylk/pycon-2016-nlp-tutorial/blob/master/jupyter/classical-nlp/classical-nlp.ipynb
+- document classification: https://speakerdeck.com/tmylk/document-classification-with-word2vec-at-pydata-nyc
+- inverse word2vec with hs: http://nbviewer.jupyter.org/github/taddylab/deepir/blob/master/w2v-inversion.ipynb
 - wmd: http://tech.opentable.com/2015/08/11/navigating-themes-in-restaurant-reviews-with-word-movers-distance/
 - defense of w2v: http://www.cs.tau.ac.il/~wolf/papers/qagg.pdf
 - plagiarism: http://douglasduhaime.com/blog/cross-lingual-plagiarism-detection-with-scikit-learn
