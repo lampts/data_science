@@ -1,5 +1,11 @@
 # data_science
 
+27.6
+
+- FE techniques in simple words: https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/
+- Money laundering detection: http://conf.startup.ml/blog/aml
+- bias embedding: http://nlpers.blogspot.hr/2016/06/language-bias-and-black-sheep.html
+
 24.6
 
 - keynote: http://tpq.io/p/pyconsg.html#/
