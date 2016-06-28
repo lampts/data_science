@@ -1,5 +1,13 @@
 # data_science
 
+28.6
+
+- http://lstm.seas.harvard.edu/
+- https://www.reddit.com/r/MachineLearning/comments/4q5fsu/advanced_word_embeddings_for_seq2seq_applications/
+- https://www.dataquest.io/blog/data-science-newsletters/
+- http://nbviewer.jupyter.org/github/taddylab/deepir/blob/master/w2v-inversion.ipynb
+- http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
+
 27.6
 
 - document classification: https://github.com/RaRe-Technologies/movie-plots-by-genre
