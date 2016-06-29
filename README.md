@@ -2,6 +2,7 @@
 
 29.6
 
+- wmd 20newsgroup: http://vene.ro/blog/word-movers-distance-in-python.html
 - init orthogonal mat for RNN: http://smerity.com/articles/2016/orthogonal_init.html
 - markov chain: https://github.com/fatiherikli/markov-chain-demo
 - https://medium.com/@bjacobso/is-it-brunch-time-ffe3adf485d8#.sx662tn0x
