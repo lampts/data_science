@@ -5,6 +5,8 @@
 - https://medium.com/@bjacobso/is-it-brunch-time-ffe3adf485d8#.sx662tn0x
 - singapore statup eco: https://docs.google.com/document/d/1AsSwH_kJ5qm7X8Pb5H2P_iaCpUA9tr-93GGNuN-orXk/mobilebasic?pli=1
 - http://www.datameer.com/company/datameer-blog/big-data-ecosystem/
+- https://www.facebook.com/notes/bui-hai-an/v%C3%A0i-l%E1%BB%9Di-khuy%C3%AAn-thu-nh%E1%BA%B7t-%C4%91%C6%B0%E1%BB%A3c-t%E1%BB%AB-ges-p2/10153489287901106
+- https://www.facebook.com/notes/bui-hai-an/v%C3%A0i-l%E1%BB%9Di-khuy%C3%AAn-thu-nh%E1%BA%B7t-%C4%91%C6%B0%E1%BB%A3c-t%E1%BB%AB-ges-p1/10153478669101106?notif_t=like&notif_id=1467086253182050
 
 28.6
 
