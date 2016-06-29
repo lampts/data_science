@@ -2,6 +2,7 @@
 
 29.6
 
+- init orthogonal mat for RNN: http://smerity.com/articles/2016/orthogonal_init.html
 - markov chain: https://github.com/fatiherikli/markov-chain-demo
 - https://medium.com/@bjacobso/is-it-brunch-time-ffe3adf485d8#.sx662tn0x
 - singapore statup eco: https://docs.google.com/document/d/1AsSwH_kJ5qm7X8Pb5H2P_iaCpUA9tr-93GGNuN-orXk/mobilebasic?pli=1
