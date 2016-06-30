@@ -4,6 +4,7 @@
 
 - voice detection: wav --> features --> SVM + RF + XGB --> RF --> prediction: http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
 - wide and deep: https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn
 
 29.6
 
