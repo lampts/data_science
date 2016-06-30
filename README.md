@@ -1,5 +1,10 @@
 # data_science
 
+30.6
+
+- voice detection: wav --> features --> SVM + RF + XGB --> RF --> prediction: http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
+- wide and deep: https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
+
 29.6
 
 - hyperword: https://bitbucket.org/omerlevy/hyperwords
