@@ -2,6 +2,7 @@
 
 1.7
 
+- chris olah cv: https://colah.github.io/cv.pdf
 - Google ML tut: https://www.youtube.com/watch?v=cSKfRcEDGUs
 - ES: anatomy: http://insightdataengineering.com/blog/elasticsearch-crud/
 - https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html
