@@ -1,5 +1,12 @@
 # data_science
 
+1.7
+
+- Google ML tut: https://www.youtube.com/watch?v=cSKfRcEDGUs
+- ES: anatomy: http://insightdataengineering.com/blog/elasticsearch-crud/
+- https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html
+- http://arxiv.org/pdf/1512.00567v3.pdf
+
 30.6
 
 - voice detection: wav --> features --> SVM + RF + XGB --> RF --> prediction: http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
