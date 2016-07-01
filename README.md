@@ -2,6 +2,7 @@
 
 1.7
 
+- visual recognition: http://cs231n.github.io/
 - chris olah cv: https://colah.github.io/cv.pdf
 - Google ML tut: https://www.youtube.com/watch?v=cSKfRcEDGUs
 - ES: anatomy: http://insightdataengineering.com/blog/elasticsearch-crud/
