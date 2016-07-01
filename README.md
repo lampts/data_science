@@ -2,6 +2,7 @@
 
 1.7
 
+- word2vec pipeline: https://github.com/NIHOPA/pipeline_word2vec
 - visual recognition: http://cs231n.github.io/
 - chris olah cv: https://colah.github.io/cv.pdf
 - Google ML tut: https://www.youtube.com/watch?v=cSKfRcEDGUs
