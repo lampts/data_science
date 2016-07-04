@@ -2,6 +2,9 @@
 
 4.7
 
+- bot: http://52bots.tumblr.com/post/108322694954/11-ebook-of-black-earth-what-an-ebooks-style
+- http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/
+- http://aclweb.org/anthology/J93-1003
 - https://www.thefinancialist.com/man-vs-machine-what-happens-when-machines-can-learn-2/
 - https://twimlai.com/fatal-ai-autopilot-crash-eu-may-prohibit-machine-learning-twiml-20160701/
 - https://www.coursera.org/learn/natural-language-processing
