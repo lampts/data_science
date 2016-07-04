@@ -1,5 +1,11 @@
 # data_science
 
+4.7
+
+- https://www.thefinancialist.com/man-vs-machine-what-happens-when-machines-can-learn-2/
+- https://twimlai.com/fatal-ai-autopilot-crash-eu-may-prohibit-machine-learning-twiml-20160701/
+- https://www.coursera.org/learn/natural-language-processing
+
 1.7
 
 - word2vec pipeline: https://github.com/NIHOPA/pipeline_word2vec
