@@ -1,5 +1,9 @@
 # data_science
 
+5.7
+
+- w2v writeup: https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
+
 4.7
 
 - bot: http://52bots.tumblr.com/post/108322694954/11-ebook-of-black-earth-what-an-ebooks-style
