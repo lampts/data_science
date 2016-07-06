@@ -2,6 +2,8 @@
 
 6.7
 
+- https://archive.org/details/twitterstream
+- https://github.com/lintool/twitter-tools
 - CLT: http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html
 - https://blog.init.ai/three-impactful-machine-learning-topics-at-icml-2016-465be5ae63a#.yxw5wiisw
 - http://www.machinedlearnings.com/2016/07/icml-2016-thoughts.html?spref=tw&m=1
