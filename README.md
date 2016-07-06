@@ -2,6 +2,7 @@
 
 6.7
 
+- machine learning done wrong: http://dataskeptic.com/epnotes/machine-learning-done-wrong.php
 - https://archive.org/details/twitterstream
 - https://github.com/lintool/twitter-tools
 - CLT: http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html
