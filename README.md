@@ -1,5 +1,12 @@
 # data_science
 
+7.7
+
+- https://engineers.sg/conference/pyconsg2016
+- https://speakerdeck.com/tmylk/americas-next-topic-model?slide=6
+- http://aclweb.org/anthology/J93-1003
+
+
 6.7
 
 - machine learning done wrong: http://dataskeptic.com/epnotes/machine-learning-done-wrong.php
