@@ -1,5 +1,13 @@
 # data_science
 
+8.7
+
+- perturbation + adversarial lstm https://arxiv.org/pdf/1605.07725v1.pdf
+- I don't drink tiger (beer) confused neural transalation lisa: http://104.131.78.120/
+- always love Mikolov related: fastText https://arxiv.org/abs/1607.01759
+- Explaining the classisfier: https://www.youtube.com/watch?v=hUnRCxnydCc
+- LIME: https://github.com/marcotcr/lime
+
 7.7
 
 - https://engineers.sg/conference/pyconsg2016
