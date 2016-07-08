@@ -2,6 +2,7 @@
 
 8.7
 
+- lsa + classification: https://github.com/chrisjmccormick/LSA_Classification
 - perturbation + adversarial lstm https://arxiv.org/pdf/1605.07725v1.pdf
 - I don't drink tiger (beer) confused neural transalation lisa: http://104.131.78.120/
 - always love Mikolov related: fastText https://arxiv.org/abs/1607.01759
