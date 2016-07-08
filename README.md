@@ -7,6 +7,9 @@
 - always love Mikolov related: fastText https://arxiv.org/abs/1607.01759
 - Explaining the classisfier: https://www.youtube.com/watch?v=hUnRCxnydCc
 - LIME: https://github.com/marcotcr/lime
+- https://artistdetective.wordpress.com/2016/06/15/how-to-teach-a-computer-common-sense/
+- 6 cons, top uni + org: http://www.marekrei.com/blog/analysing-nlp-publication-patterns/
+- https://github.com/ijmbarr/panama-paper-network/blob/master/panama_network.ipynb
 
 7.7
 
