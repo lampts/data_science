@@ -1,5 +1,11 @@
 # data_science
 
+11.7
+
+- xgboost out of the box: https://www.quora.com/What-machine-learning-approaches-have-won-most-Kaggle-competitions/answer/Ben-Hamner?srid=cgo&share=45a4f6de
+- ES part 2: http://insightdataengineering.com/blog/elasticsearch-core/
+- GAN: https://www.youtube.com/watch?v=deyOX6Mt_As
+
 8.7
 
 - lsa + classification: https://github.com/chrisjmccormick/LSA_Classification
