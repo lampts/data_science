@@ -9,6 +9,7 @@ Apps:
 
 12.7
 
+- http://mghassem.mit.edu/insights-word2vec/
 - home depot: search relevance: https://github.com/ChenglongChen/Kaggle_HomeDepot/blob/master/Doc/Kaggle_HomeDepot_Turing_Test.pdf
 - sentiment http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
 - reading tea leaves: https://www.umiacs.umd.edu/~jbg/docs/nips2009-rtl.pdf
