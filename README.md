@@ -1,5 +1,12 @@
 # data_science
 
+Apps:
+
+- text sum: http://esapi.intellexer.com/Summarizer
+- http://www.deeplearningpatterns.com/doku.php/applications
+- mt: http://104.131.78.120/
+- rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
+
 12.7
 
 - home depot: search relevance: https://github.com/ChenglongChen/Kaggle_HomeDepot/blob/master/Doc/Kaggle_HomeDepot_Turing_Test.pdf
