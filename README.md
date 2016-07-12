@@ -2,6 +2,7 @@
 
 12.7
 
+- home depot: search relevance: https://github.com/ChenglongChen/Kaggle_HomeDepot/blob/master/Doc/Kaggle_HomeDepot_Turing_Test.pdf
 - sentiment http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
 - reading tea leaves: https://www.umiacs.umd.edu/~jbg/docs/nips2009-rtl.pdf
 - https://www.linkedin.com/pulse/putting-semantic-representational-models-test-tf-idf-k-means-parsa?forceNoSplash=true
