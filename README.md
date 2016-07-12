@@ -1,5 +1,12 @@
 # data_science
 
+12.7
+
+- sentiment http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
+- reading tea leaves: https://www.umiacs.umd.edu/~jbg/docs/nips2009-rtl.pdf
+- https://www.linkedin.com/pulse/putting-semantic-representational-models-test-tf-idf-k-means-parsa?forceNoSplash=true
+
+
 11.7
 
 - gensim phrase: http://www.markhneedham.com/blog/2015/02/12/pythongensim-creating-bigrams-over-how-i-met-your-mother-transcripts/
