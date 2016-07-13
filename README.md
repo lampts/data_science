@@ -9,6 +9,7 @@ Apps:
 
 13.7
 
+- tf practice: https://www.tensorflow.org/versions/r0.9/tutorials/wide_and_deep/index.html
 - wide and deep together: https://research.googleblog.com/
 - sklearn + dask: http://jcrist.github.io/dask-sklearn-part-1.html
 - image: dl framework: https://pbs.twimg.com/media/ClAUr5EUkAA9--0.jpg:large
