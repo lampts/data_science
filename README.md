@@ -7,6 +7,18 @@ Apps:
 - mt: http://104.131.78.120/
 - rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
 
+13.7
+
+- image: dl framework: https://pbs.twimg.com/media/ClAUr5EUkAA9--0.jpg:large
+- image: knowledge: https://pbs.twimg.com/media/CifCYeSUUAArriB.jpg:large
+- numpy, scipy and pandas way to go: https://plot.ly/~empet/13902/numpy-cluster-in-the-network-of-python-packages/
+- rnn live stream, character image: https://www.youtube.com/watch?v=wSpPJtenw_c
+- big data 5cent https://pbs.twimg.com/media/CnMAV2XXgAAkBJY.jpg
+- google research: https://plus.google.com/+ResearchatGoogle/posts
+- deep learning word cloud: https://pbs.twimg.com/media/CnLJLdVXYAEpN6w.jpg:large
+- jupyter on rpi: http://makeyourownneuralnetwork.blogspot.de/2016/03/ipython-neural-networks-on-raspberry-pi.html
+- 
+
 12.7
 
 - http://mghassem.mit.edu/insights-word2vec/
