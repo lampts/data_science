@@ -9,6 +9,8 @@ Apps:
 
 13.7
 
+- wide and deep together: https://research.googleblog.com/
+- sklearn + dask: http://jcrist.github.io/dask-sklearn-part-1.html
 - image: dl framework: https://pbs.twimg.com/media/ClAUr5EUkAA9--0.jpg:large
 - image: knowledge: https://pbs.twimg.com/media/CifCYeSUUAArriB.jpg:large
 - numpy, scipy and pandas way to go: https://plot.ly/~empet/13902/numpy-cluster-in-the-network-of-python-packages/
