@@ -10,6 +10,14 @@ Apps:
 
 14.7
 
+data science summit:
+
+- http://conf.turi.com/2016/us/agenda_day2/
+- http://www.kdnuggets.com/2016/07/data-science-summit-2016-9-talks.html
+- http://multithreaded.stitchfix.com/blog/2016/07/13/conf-talks-summer2016/
+
+daily
+
 - supervised algo empirical study: http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf
 - data driven modeling: http://jakehofman.com/ddm/2012/02/lecture-03-2/
 - word embedding for fun and profit: https://speakerdeck.com/tmylk/word-embeddings-for-fun-and-profit-with-gensim-pydata-london-2016
