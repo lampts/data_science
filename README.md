@@ -7,6 +7,21 @@ Apps:
 - mt: http://104.131.78.120/
 - rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
 
+14.7
+
+- @DataSciSummit: 12, 13 July San Francisco: http://conf.turi.com
+- https://github.com/chdoig/dss-scaling-tutorial
+- pokemon location in spreadsheet: https://docs.google.com/spreadsheets/d/1G8U44ukuPdM9OfpHZt3kiUYYPrnxaRccLMXvxvEvMiI/edit#gid=869820177
+- nbflow: https://github.com/jhamrick/nbflow
+- http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know-2.html
+- tweet2news: https://sites.google.com/site/engmathstwitternews/home
+- meetup document classification: http://www.meetup.com/Big-Data-Israel/events/232569748/
+- build tool: http://scons.org/
+- tweet lda to aspect: http://sci-hub.cc/10.1007/978-3-642-37401-2_35
+- tensorflow: deep and wide: https://www.tensorflow.org/versions/r0.9/tutorials/wide_and_deep/index.html
+- http://opensource.datacratic.com/mtlpy50/
+- http://colah.github.io/posts/2015-01-Visualizing-Representations/
+
 13.7
 
 - tf practice: https://www.tensorflow.org/versions/r0.9/tutorials/wide_and_deep/index.html
