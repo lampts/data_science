@@ -9,6 +9,8 @@ Apps:
 
 14.7
 
+- word embedding for fun and profit: https://speakerdeck.com/tmylk/word-embeddings-for-fun-and-profit-with-gensim-pydata-london-2016
+- #scipy2016: https://speakerdeck.com/astrofrog/python-3-for-scientists
 - @DataSciSummit: 12, 13 July San Francisco: http://conf.turi.com
 - https://github.com/chdoig/dss-scaling-tutorial
 - pokemon location in spreadsheet: https://docs.google.com/spreadsheets/d/1G8U44ukuPdM9OfpHZt3kiUYYPrnxaRccLMXvxvEvMiI/edit#gid=869820177
