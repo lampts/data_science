@@ -6,9 +6,12 @@ Apps:
 - http://www.deeplearningpatterns.com/doku.php/applications
 - mt: http://104.131.78.120/
 - rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
+- chatbot: http://sumve.com/firesidechat/
 
 14.7
 
+- supervised algo empirical study: http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf
+- data driven modeling: http://jakehofman.com/ddm/2012/02/lecture-03-2/
 - word embedding for fun and profit: https://speakerdeck.com/tmylk/word-embeddings-for-fun-and-profit-with-gensim-pydata-london-2016
 - #scipy2016: https://speakerdeck.com/astrofrog/python-3-for-scientists
 - @DataSciSummit: 12, 13 July San Francisco: http://conf.turi.com
