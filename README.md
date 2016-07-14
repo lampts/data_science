@@ -8,6 +8,10 @@ Apps:
 - rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
 - chatbot: http://sumve.com/firesidechat/
 
+Scipy 2016:
+
+- http://scipy2016.scipy.org/ehome/146062/332963/
+
 14.7
 
 data science summit:
