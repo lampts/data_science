@@ -15,6 +15,7 @@ Scipy 2016:
 
 15.7
 
+- jupyter lab: https://github.com/jupyter/jupyterlab
 - intro image cnn: https://github.com/rouseguy/scipyUS2016_dl-image/tree/master/notebooks
 - intro nlp rnn: https://github.com/rouseguy/intro2deeplearning/tree/master/notebooks
 - https://speakerdeck.com/chdoig/scaling-ds-in-python
