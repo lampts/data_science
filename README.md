@@ -12,6 +12,14 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+
+15.7
+
+- intro image cnn: https://github.com/rouseguy/scipyUS2016_dl-image/tree/master/notebooks
+- intro nlp rnn: https://github.com/rouseguy/intro2deeplearning/tree/master/notebooks
+- https://speakerdeck.com/chdoig/scaling-ds-in-python
+- http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/?utm_content=buffere6cf2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 14.7
 
 data science summit:
