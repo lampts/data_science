@@ -13,6 +13,13 @@ Scipy 2016:
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
 
+18.7
+
+- Bayesian Poisson Tensor Factorization: http://arxiv.org/abs/1506.03493
+- dirichlet process mixture model: https://github.com/hannawallach/dpmm
+- scikit tensor: https://github.com/mnick/scikit-tensor
+- bptf: https://github.com/aschein/bptf
+
 15.7
 
 - jupyter lab: https://github.com/jupyter/jupyterlab
