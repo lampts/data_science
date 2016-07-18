@@ -15,6 +15,8 @@ Scipy 2016:
 
 18.7
 
+- SVD comparison: 
+- plot with point: http://walkerke.github.io/geog30323/slides/eda-2/#/20
 - Bayesian Poisson Tensor Factorization: http://arxiv.org/abs/1506.03493
 - dirichlet process mixture model: https://github.com/hannawallach/dpmm
 - scikit tensor: https://github.com/mnick/scikit-tensor
