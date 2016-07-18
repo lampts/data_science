@@ -15,7 +15,7 @@ Scipy 2016:
 
 18.7
 
-- SVD comparison: 
+- tf on skflow: https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92#.x1s9r6nmh
 - plot with point: http://walkerke.github.io/geog30323/slides/eda-2/#/20
 - Bayesian Poisson Tensor Factorization: http://arxiv.org/abs/1506.03493
 - dirichlet process mixture model: https://github.com/hannawallach/dpmm
