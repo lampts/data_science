@@ -19,6 +19,7 @@ Scipy 2016:
 - dirichlet process mixture model: https://github.com/hannawallach/dpmm
 - scikit tensor: https://github.com/mnick/scikit-tensor
 - bptf: https://github.com/aschein/bptf
+- icml 2015 tutorial: http://videolectures.net/icml2015_lille/
 
 15.7
 
