@@ -14,6 +14,9 @@ Scipy 2016:
 
 19.7
 
+- design and experiment https://github.com/juanshishido/experiments-guide
+- fluent python notebook: https://github.com/juanshishido/fluent-python-notebooks
+- yahoo text categorization: https://github.com/juanshishido/text-classification
 - OKCupid: https://www.youtube.com/results?sp=SBTqAwA%253D&q=scipy+2016
 - https://github.com/juanshishido/okcupid
 - topic coherence: http://rare-technologies.com/validating-gensims-topic-coherence-pipeline/
