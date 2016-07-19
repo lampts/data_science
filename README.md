@@ -12,6 +12,14 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+19.7
+
+- topic coherence: http://rare-technologies.com/validating-gensims-topic-coherence-pipeline/
+- weighted random generation: http://eli.thegreenplace.net/2010/01/22/weighted-random-generation-in-python/
+- nlp to ir: http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
+- nlu icml 2015:http://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf
+- bayesian time series: http://icml.cc/2015/tutorials/BayesianTimeSeries.pdf
+
 
 18.7
 
