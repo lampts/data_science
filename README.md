@@ -14,6 +14,8 @@ Scipy 2016:
 
 19.7
 
+- OKCupid: https://www.youtube.com/results?sp=SBTqAwA%253D&q=scipy+2016
+- https://github.com/juanshishido/okcupid
 - topic coherence: http://rare-technologies.com/validating-gensims-topic-coherence-pipeline/
 - weighted random generation: http://eli.thegreenplace.net/2010/01/22/weighted-random-generation-in-python/
 - nlp to ir: http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239
