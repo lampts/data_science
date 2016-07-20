@@ -14,6 +14,7 @@ Scipy 2016:
 
 20.7
 
+- can we predict https://gab41.lab41.org/can-word-vectors-help-predict-whether-your-chinese-tweet-gets-censored-711e7682d12f#.n0670sw5j
 - dynamicCNN: https://github.com/FredericGodin/DynamicCNN
 - SIGIR2016: http://nlp.stanford.edu/~manning/talks/SIGIR2016-Deep-Learning-NLI.pdf
 - embedding metrics: https://github.com/julianser/hed-dlg-truncated/blob/master/Evaluation/embedding_metrics.py
