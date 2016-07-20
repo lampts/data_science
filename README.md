@@ -15,7 +15,7 @@ Scipy 2016:
 20.7
 
 - SIGIR2016: http://nlp.stanford.edu/~manning/talks/SIGIR2016-Deep-Learning-NLI.pdf
-
+- embedding metrics: https://github.com/julianser/hed-dlg-truncated/blob/master/Evaluation/embedding_metrics.py
 
 19.7
 
