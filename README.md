@@ -12,6 +12,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+20.7
+
+- SIGIR2016: http://nlp.stanford.edu/~manning/talks/SIGIR2016-Deep-Learning-NLI.pdf
+
+
 19.7
 
 - design and experiment https://github.com/juanshishido/experiments-guide
