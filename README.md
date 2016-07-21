@@ -12,6 +12,10 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+21.7
+
+- sentiment https://github.com/lab41/sunny-side-up
+
 20.7
 
 - can we predict https://gab41.lab41.org/can-word-vectors-help-predict-whether-your-chinese-tweet-gets-censored-711e7682d12f#.n0670sw5j
