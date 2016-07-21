@@ -15,6 +15,7 @@ Scipy 2016:
 21.7
 
 - sentiment https://github.com/lab41/sunny-side-up
+- radim: http://rare-technologies.com/sigir2016_169.pdf
 
 20.7
 
