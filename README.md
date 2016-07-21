@@ -9,6 +9,14 @@ Apps:
 - chatbot: http://sumve.com/firesidechat/
 - text vis: http://slanglab.cs.umass.edu/topic-animator/
 
+Journalist LDA and ML:
+
+- http://knightlab.northwestern.edu/2015/03/10/nicar-2015-machine-learning-lessons-for-journalists/
+- summary on hanna wallach https://docs.google.com/document/d/1kIIzBAF9T9Zu99i0DU9akIajvYZ-CfHeBFVBhIJyEY8/edit?pref=2&pli=1
+- http://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-22may12.pdf
+- http://slides.com/stevenrich/machine-learning#/18
+- https://github.com/cjdd3b/nicar2015/tree/master/machine-learning
+- https://github.com/cjdd3b/fec-standardizer
 
 Scipy 2016:
 
