@@ -7,6 +7,8 @@ Apps:
 - mt: http://104.131.78.120/
 - rnn: http://www.cs.toronto.edu/~ilya/fourth.cgi?prefix=I+have+a+dream.+&numChars=150
 - chatbot: http://sumve.com/firesidechat/
+- text vis: http://slanglab.cs.umass.edu/topic-animator/
+
 
 Scipy 2016:
 
