@@ -16,6 +16,7 @@ Scipy 2016:
 
 21.7
 
+- clustering measurement: https://www.youtube.com/watch?v=Mf6MqIS2ql4
 - pandas tut: https://github.com/jonathanrocher/pandas_tutorial
 - hdbscan: https://www.youtube.com/watch?v=AgPQ76RIi6A&index=19&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
 - python app, flask --> flexx: https://www.youtube.com/watch?v=kIPL3N2Xk_c&index=22&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
