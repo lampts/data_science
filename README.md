@@ -22,6 +22,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+22.7
+
+- http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
+
+
 21.7
 
 - clustering measurement: https://www.youtube.com/watch?v=Mf6MqIS2ql4, http://www.slideshare.net/PyData/christian-henning-assessing-the-quality-of-a-clustering
