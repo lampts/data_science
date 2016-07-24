@@ -22,6 +22,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+24.7
+
+- http://stefansavev.com/blog/beyond-cosine-similarity/
+- http://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
+
 22.7
 
 - http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
