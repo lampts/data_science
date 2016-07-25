@@ -18,6 +18,13 @@ Journalist LDA and ML:
 - https://github.com/cjdd3b/nicar2015/tree/master/machine-learning
 - https://github.com/cjdd3b/fec-standardizer
 
+Europython:
+
+- http://kjamistan.com/i-hate-you-nlp/
+- https://github.com/adewes/machine-learning-chinese
+- https://github.com/GaelVaroquaux/my_topics
+- https://github.com/arnicas/nlp_elasticsearch_reviews
+
 Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
