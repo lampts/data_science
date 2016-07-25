@@ -22,6 +22,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+25.7
+
+- https://github.com/rouseguy/europython2016_dl-nlp
+
+
 24.7
 
 - http://stefansavev.com/blog/beyond-cosine-similarity/
