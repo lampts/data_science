@@ -37,6 +37,10 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+26.7
+
+- doc classification with DL: http://home.iitk.ac.in/~amlan/cs671/project/slides.pdf
+
 25.7
 
 - https://github.com/rouseguy/europython2016_dl-nlp
