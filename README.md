@@ -9,6 +9,12 @@ Apps:
 - chatbot: http://sumve.com/firesidechat/
 - text vis: http://slanglab.cs.umass.edu/topic-animator/
 
+PyGotham:
+
+- textacy: http://michelleful.github.io/code-blog/2016/07/23/nlp-at-pygotham-2016/
+- nlp with keras, rnn, cnn
+- skipthought
+
 Journalist LDA and ML:
 
 - http://knightlab.northwestern.edu/2015/03/10/nicar-2015-machine-learning-lessons-for-journalists/
