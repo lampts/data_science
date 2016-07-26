@@ -13,7 +13,9 @@ PyGotham:
 
 - textacy: http://michelleful.github.io/code-blog/2016/07/23/nlp-at-pygotham-2016/
 - nlp with keras, rnn, cnn
-- skipthought
+- skipthought: https://libraries.io/github/LeavesBreathe/Sequence-To-Sequence-Generation-Skip-Thoughts-
+- https://github.com/ryankiros/skip-thoughts
+- doc sum: http://mike.place/talks/pygotham/#p1
 
 Journalist LDA and ML:
 
