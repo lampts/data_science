@@ -39,6 +39,7 @@ Scipy 2016:
 
 26.7
 
+- neo4j: https://github.com/johnymontana/graph-of-thrones/blob/master/network-of-thrones.ipynb
 - doc classification with DL: http://home.iitk.ac.in/~amlan/cs671/project/slides.pdf
 - https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/
 - beyond cosine: http://stefansavev.com/blog/beyond-cosine-similarity/
