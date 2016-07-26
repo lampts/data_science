@@ -40,6 +40,13 @@ Scipy 2016:
 26.7
 
 - doc classification with DL: http://home.iitk.ac.in/~amlan/cs671/project/slides.pdf
+- https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/
+- beyond cosine: http://stefansavev.com/blog/beyond-cosine-similarity/
+- disco twitter: http://stanford.edu/~rezab/papers/disco.pdf
+- dl glossary: http://www.wildml.com/deep-learning-glossary/
+- http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+- textacy: https://github.com/bdewilde/pygotham_2016/blob/master/pygotham_2016.pdf
+
 
 25.7
 
