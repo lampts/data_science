@@ -1,5 +1,12 @@
 # data_science
 
+Keras:
+
+- https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
+- https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/learn/wide_n_deep_tutorial.py
+- model zoo:https://github.com/tensorflow/models
+
+
 Apps:
 
 - text sum: http://esapi.intellexer.com/Summarizer
