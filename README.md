@@ -37,6 +37,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+27.7
+
+- https://github.com/vladsandulescu/topics
+- https://github.com/vladsandulescu/phrases
+
 26.7
 
 - caffe: http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
