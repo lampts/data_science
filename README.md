@@ -39,6 +39,7 @@ Scipy 2016:
 
 27.7
 
+- yandex data school (some in Russian): https://github.com/yandexdataschool/mlhep2016
 - https://github.com/vladsandulescu/topics
 - https://github.com/vladsandulescu/phrases
 
