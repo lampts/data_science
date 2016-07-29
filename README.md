@@ -45,6 +45,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+
+28.7
+
+- https://ireneli.eu/2016/05/17/nlp-04-an-log-linear-model-for-tagging-task-python/
+- 
+
 27.7
 
 - yandex data school (some in Russian): https://github.com/yandexdataschool/mlhep2016
