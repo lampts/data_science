@@ -49,7 +49,7 @@ Scipy 2016:
 28.7
 
 - https://ireneli.eu/2016/05/17/nlp-04-an-log-linear-model-for-tagging-task-python/
-- 
+- lexvec: https://github.com/alexandres/lexvec
 
 27.7
 
