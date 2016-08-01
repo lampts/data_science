@@ -53,6 +53,7 @@ Scipy 2016:
 - https://www.clarifai.com/#demo
 - word dominant: http://compling.hss.ntu.edu.sg/courses/hg7017/pdf/word2vec%20and%20its%20application%20to%20wsd.pdf
 - word2vec, tsne, d3js: https://github.com/h10r/topic_comparison_tool
+- organic tweet: http://arxiv.org/pdf/1505.04342v6.pdf
 
 28.7
 
