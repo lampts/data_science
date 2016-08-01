@@ -45,6 +45,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+1.8
+
+- hacker math for DS: https://github.com/amitkaps/hackermath
+- word2vec from theo to prac: http://hen-drik.de/pub/Heuer%20-%20word2vec%20-%20From%20theory%20to%20practice.pdf
+- twitter job/occupation: http://www.lampos.net/sites/default/files/papers/twitterJobs_ACL15.pdf
+- https://www.clarifai.com/#demo
 
 28.7
 
