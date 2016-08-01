@@ -51,6 +51,8 @@ Scipy 2016:
 - word2vec from theo to prac: http://hen-drik.de/pub/Heuer%20-%20word2vec%20-%20From%20theory%20to%20practice.pdf
 - twitter job/occupation: http://www.lampos.net/sites/default/files/papers/twitterJobs_ACL15.pdf
 - https://www.clarifai.com/#demo
+- word dominant: http://compling.hss.ntu.edu.sg/courses/hg7017/pdf/word2vec%20and%20its%20application%20to%20wsd.pdf
+- 
 
 28.7
 
