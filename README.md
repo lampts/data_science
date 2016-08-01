@@ -52,7 +52,7 @@ Scipy 2016:
 - twitter job/occupation: http://www.lampos.net/sites/default/files/papers/twitterJobs_ACL15.pdf
 - https://www.clarifai.com/#demo
 - word dominant: http://compling.hss.ntu.edu.sg/courses/hg7017/pdf/word2vec%20and%20its%20application%20to%20wsd.pdf
-- 
+- word2vec, tsne, d3js: https://github.com/h10r/topic_comparison_tool
 
 28.7
 
