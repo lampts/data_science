@@ -45,6 +45,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+2.8
+
+- http://tech.marksblogg.com/airflow-postgres-redis-forex.html
+- keras: text + image --> http://cbonnett.github.io/Insight.html
+- lstm viz: https://arxiv.org/pdf/1506.01066v2.pdf
+
 1.8
 
 - hacker math for DS: https://github.com/amitkaps/hackermath
