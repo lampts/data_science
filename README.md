@@ -51,6 +51,7 @@ Scipy 2016:
 
 2.8
 
+- probase roadmap: http://tcci.ccf.org.cn/summersch/classm/ADL32-Lecture03-Report3.pdf
 - understanding short text: http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
 - http://tech.marksblogg.com/airflow-postgres-redis-forex.html
 - keras: text + image --> http://cbonnett.github.io/Insight.html
