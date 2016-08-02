@@ -51,6 +51,7 @@ Scipy 2016:
 
 2.8
 
+- hierarchy doc2vec: http://e-collection.library.ethz.ch/eserv/eth:48203/eth-48203-01.pdf
 - probase roadmap: http://tcci.ccf.org.cn/summersch/classm/ADL32-Lecture03-Report3.pdf
 - understanding short text: http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
 - http://tech.marksblogg.com/airflow-postgres-redis-forex.html
