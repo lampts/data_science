@@ -1,5 +1,9 @@
 # data_science
 
+- ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
+- EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
+
+
 Keras:
 
 - https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
@@ -47,6 +51,7 @@ Scipy 2016:
 
 2.8
 
+- understanding short text: http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
 - http://tech.marksblogg.com/airflow-postgres-redis-forex.html
 - keras: text + image --> http://cbonnett.github.io/Insight.html
 - lstm viz: https://arxiv.org/pdf/1506.01066v2.pdf
