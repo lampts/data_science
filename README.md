@@ -1,5 +1,7 @@
 # data_science
 
+Coming soon:
+
 - ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
 
