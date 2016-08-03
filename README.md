@@ -49,6 +49,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+3.8
+
+- https://github.com/jayantj/w2vec-similarity
+- https://jayantj.github.io/posts/project-gutenberg-word2vec
+- reuter on keras + gensim: http://www.bonaccorso.eu/2016/08/02/reuters-21578-text-classification-with-gensim-and-keras/
+
 2.8
 
 - trendminer: http://www.trendminer-project.eu/index.php/downloads
