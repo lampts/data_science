@@ -53,6 +53,7 @@ Scipy 2016:
 
 3.8
 
+- categorize tumblr post: https://engineering.tumblr.com/post/148350944656/categorizing-posts-on-tumblr
 - https://github.com/jayantj/w2vec-similarity
 - https://jayantj.github.io/posts/project-gutenberg-word2vec
 - reuter on keras + gensim: http://www.bonaccorso.eu/2016/08/02/reuters-21578-text-classification-with-gensim-and-keras/
