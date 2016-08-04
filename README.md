@@ -53,7 +53,7 @@ Scipy 2016:
 
 4.8
 
-
+- dl is not a hamer: I try ngram + tfidf to beat cnn on AG corpus: http://arxiv.org/pdf/1509.01626v3.pdf
 - fasttext in torch: https://github.com/kemaswill/fasttext_torch
 - super cool: self driving with open source http://research.comma.ai/
 - coreNLP: http://www.lewisgavin.co.uk/NLP/
