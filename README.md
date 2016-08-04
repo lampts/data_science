@@ -53,6 +53,7 @@ Scipy 2016:
 
 4.8
 
+- tweep in tsne: https://github.com/abhshkdz/tsne-top-indian-tweeps
 - dl is not a hamer: I try ngram + tfidf to beat cnn on AG corpus: http://arxiv.org/pdf/1509.01626v3.pdf
 - fasttext in torch: https://github.com/kemaswill/fasttext_torch
 - super cool: self driving with open source http://research.comma.ai/
