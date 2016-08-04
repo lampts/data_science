@@ -51,6 +51,13 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+4.8
+
+
+- fasttext in torch: https://github.com/kemaswill/fasttext_torch
+- super cool: self driving with open source http://research.comma.ai/
+- coreNLP: http://www.lewisgavin.co.uk/NLP/
+
 3.8
 
 - categorize tumblr post: https://engineering.tumblr.com/post/148350944656/categorizing-posts-on-tumblr
