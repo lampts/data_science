@@ -51,6 +51,13 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+5.8
+
+- I am a data scientist: https://yanirseroussi.com/2016/08/04/is-data-scientist-a-useless-job-title/
+- Generative modeling, OpenAI, Ilya Sutskever: http://scaledml.org/2016/slides/ilya.pdf
+- HOT: fasttext from FB: https://github.com/facebookresearch/fastText
+
+
 4.8
 
 - tweep in tsne: https://github.com/abhshkdz/tsne-top-indian-tweeps
