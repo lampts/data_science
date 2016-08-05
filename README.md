@@ -56,7 +56,7 @@ Scipy 2016:
 - I am a data scientist: https://yanirseroussi.com/2016/08/04/is-data-scientist-a-useless-job-title/
 - Generative modeling, OpenAI, Ilya Sutskever: http://scaledml.org/2016/slides/ilya.pdf
 - HOT: fasttext from FB: https://github.com/facebookresearch/fastText
-
+- OMG, data leak, how to have trick on ID, time series: https://alexanderdyakonov.wordpress.com/2016/07/27/id-и-время/
 
 4.8
 
