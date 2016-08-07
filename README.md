@@ -53,6 +53,7 @@ Scipy 2016:
 
 7.8
 
+- https://ru.coursera.org/learn/vvedenie-mashinnoe-obuchenie/lecture/P9Zun/mnoghoklassovaia-klassifikatsiia
 - hpv: https://github.com/lukaselmer/hierarchical-paragraph-vectors
 - nlp pointers: https://gist.github.com/mattb/3888345
 - vowpal wabbit: https://github.com/hal3/vwnlp
