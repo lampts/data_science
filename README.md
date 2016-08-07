@@ -53,6 +53,8 @@ Scipy 2016:
 
 7.8
 
+- https://sites.google.com/site/acl16nmt/
+- roc curve vs pr curve: http://numerical.recipes/CS395T/lectures2008/17-ROCPrecisionRecall.pdf
 - https://ru.coursera.org/learn/vvedenie-mashinnoe-obuchenie/lecture/P9Zun/mnoghoklassovaia-klassifikatsiia
 - hpv: https://github.com/lukaselmer/hierarchical-paragraph-vectors
 - nlp pointers: https://gist.github.com/mattb/3888345
