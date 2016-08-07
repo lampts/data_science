@@ -51,6 +51,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+7.8
+
+- nlp pointers: https://gist.github.com/mattb/3888345
+- vowpal wabbit: https://github.com/hal3/vwnlp
+
 5.8
 
 - I am a data scientist: https://yanirseroussi.com/2016/08/04/is-data-scientist-a-useless-job-title/
