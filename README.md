@@ -51,6 +51,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+9.8
+
+- twitter buy magic pony: $150M, apple buy Turi $200: time of ML
+- spotify release rader: brand new music from acoustic frame
+
+
 7.8
 
 - https://sites.google.com/site/acl16nmt/
