@@ -53,6 +53,7 @@ Scipy 2016:
 
 9.8
 
+- wp bot: https://techcrunch.com/2016/08/05/robots-will-cover-the-olympics-for-the-washington-post/
 - http://datascientistjobinterview.com/
 - https://hackerlists.com/tensorflow-resources/
 
