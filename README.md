@@ -53,6 +53,7 @@ Scipy 2016:
 
 9.8
 
+- world well being project http://wwbp.org/blog/
 - fastText benchmark: https://github.com/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb
 - wp bot: https://techcrunch.com/2016/08/05/robots-will-cover-the-olympics-for-the-washington-post/
 - http://datascientistjobinterview.com/
