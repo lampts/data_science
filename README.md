@@ -53,6 +53,7 @@ Scipy 2016:
 
 9.8
 
+- short text understanding http://sci-hub.cc/10.1109/tkde.2015.2485224
 - https://github.com/johnymontana/nlp-graph-notebooks/blob/master/opinion_mining.ipynb
 - world well being project http://wwbp.org/blog/
 - fastText benchmark: https://github.com/jayantj/gensim/blob/683720515165a332baed8a2a46b6711cefd2d739/docs/notebooks/Word2Vec_FastText_Comparison.ipynb
