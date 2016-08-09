@@ -53,6 +53,12 @@ Scipy 2016:
 
 9.8
 
+- http://datascientistjobinterview.com/
+- https://hackerlists.com/tensorflow-resources/
+
+
+8.8
+
 - twitter buy magic pony: $150M, apple buy Turi $200: time of ML
 - spotify release rader: brand new music from acoustic frame
 
