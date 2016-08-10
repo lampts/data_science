@@ -53,7 +53,7 @@ Scipy 2016:
 
 10.8
 
-- http://koaning.io/
+- http://varianceexplained.org/r/trump-tweets/
 - http://koaning.io/theme/iframes/ams-meetup-notebook.html
 
 
