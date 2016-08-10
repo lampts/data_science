@@ -51,6 +51,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+10.8
+
+- http://koaning.io/
+- http://koaning.io/theme/iframes/ams-meetup-notebook.html
+
+
 9.8
 
 - short text understanding http://sci-hub.cc/10.1109/tkde.2015.2485224
