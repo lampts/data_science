@@ -51,6 +51,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+
+12.8
+
+- sentiment analysis, alway good things from Chris Pott: http://sentiment.christopherpotts.net/index.html
+- wwbp: https://penncurrent.upenn.edu/2016-03-24/latest-news/penn-scholars-distinguish-presidential-candidates-analyzing-their-words/
+
 10.8
 
 - http://varianceexplained.org/r/trump-tweets/
