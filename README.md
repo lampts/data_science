@@ -53,6 +53,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+13.8
+
+- http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
+- http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+- http://techcitynews.com/2016/08/11/tech-giants-embracing-artificial-intelligence/
+- https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/
 
 12.8
 
