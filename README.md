@@ -3,6 +3,7 @@
 Coming soon:
 
 - ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
+- KDD 2016: http://www.kdd.org/kdd2016/
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
 
 
@@ -55,6 +56,7 @@ Scipy 2016:
 
 13.8
 
+- sequence to poetry: http://arxiv.org/pdf/1511.06349.pdf
 - http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
 - http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 - http://techcitynews.com/2016/08/11/tech-giants-embracing-artificial-intelligence/
