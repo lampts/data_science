@@ -54,6 +54,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+14.8
+
+- http://nlpers.blogspot.com/2016/08/fast-easy-baseline-text-categorization.html
+- https://github.com/fchollet/keras/blob/master/examples/imdb_fasttext.py
+
 13.8
 
 - sequence to poetry: http://arxiv.org/pdf/1511.06349.pdf
