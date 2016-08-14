@@ -56,6 +56,7 @@ Scipy 2016:
 
 14.8
 
+- https://github.com/dgrtwo/JSM2016slides
 - http://nlpers.blogspot.com/2016/08/fast-easy-baseline-text-categorization.html
 - https://github.com/fchollet/keras/blob/master/examples/imdb_fasttext.py
 
