@@ -1,10 +1,16 @@
 # data_science
 
+Pin: https://github.com/andrewt3000/DL4NLP
+
+
 Coming soon:
 
-- ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
 - KDD 2016: http://www.kdd.org/kdd2016/
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
+
+Done:
+
+- ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
 
 
 Keras:
