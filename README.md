@@ -60,6 +60,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+15.8
+
+- https://github.com/poliglot/fasttext/blob/master/README.md
+- fasttext python: https://pypi.python.org/pypi/fasttext/0.6.1
+
 14.8
 
 - https://github.com/dgrtwo/JSM2016slides
