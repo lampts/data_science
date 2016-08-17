@@ -60,6 +60,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+16.8
+
+- http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
+
+
 15.8
 
 - https://github.com/poliglot/fasttext/blob/master/README.md
