@@ -69,7 +69,7 @@ Scipy 2016:
 16.8
 
 - http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
-
+- make your pip: http://marthall.github.io/blog/how-to-package-a-python-app/
 
 15.8
 
