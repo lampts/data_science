@@ -60,6 +60,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+18.8
+
+- https://www.springboard.com/blog/data-science-interviews-lessons/
+- https://medium.com/autonomous-agents/how-to-train-your-neuralnetwork-for-wine-tasting-1b49e0adff3a#.5dzpfqoyz
+
+
 16.8
 
 - http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
