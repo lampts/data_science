@@ -63,6 +63,7 @@ Scipy 2016:
 19.8
 
 - https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext
+- https://github.com/dolaameng/deeplearning-exploration
 
 18.8
 
