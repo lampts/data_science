@@ -62,6 +62,7 @@ Scipy 2016:
 
 19.8
 
+- sensity analysis for sentence classification: http://arxiv.org/pdf/1510.03820v4.pdf
 - https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext
 - https://github.com/dolaameng/deeplearning-exploration
 
