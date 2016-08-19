@@ -60,6 +60,10 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+19.8
+
+- https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext
+
 18.8
 
 - https://www.springboard.com/blog/data-science-interviews-lessons/
