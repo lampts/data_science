@@ -7,6 +7,7 @@ Coming soon:
 
 - KDD 2016: http://www.kdd.org/kdd2016/
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
+- data fest: https://alexanderdyakonov.wordpress.com/
 
 Done:
 
@@ -59,6 +60,7 @@ Europython:
 Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
+
 
 19.8
 
