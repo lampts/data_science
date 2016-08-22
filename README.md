@@ -61,6 +61,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+22.8
+
+- https://webcourse.cs.technion.ac.il/232601/Spring2016/en/ho.html
+- http://www.deeplearningbook.org/contents/guidelines.html
+- http://mickypaganini.github.io/
 
 19.8
 
