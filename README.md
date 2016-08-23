@@ -60,6 +60,11 @@ Europython:
 Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
+ 
+23.8
+
+- https://www.aclweb.org/aclwiki/index.php?title=State_of_the_art
+- http://jmlr.org/proceedings/papers/v48/johnson16.pdf
 
 22.8
 
