@@ -60,6 +60,13 @@ Europython:
 Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
+
+24.8
+
+- http://benjaminbolte.com/blog/2016/keras-language-modeling.html
+- https://github.com/julienr/ipynb_playground/blob/master/keras/convmnist/keras_cnn_mnist.ipynb
+- http://swanintelligence.com/first-steps-with-neural-nets-in-keras.html
+- https://groups.google.com/forum/#!topic/keras-users/9C5emrJRRUs
  
 23.8
 
