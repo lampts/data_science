@@ -63,6 +63,7 @@ Scipy 2016:
 
 25.8
 
+- lstm vis: http://lstm.seas.harvard.edu/
 - ML at Apple: https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.asw5moh3s
 - https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
