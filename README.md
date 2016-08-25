@@ -61,6 +61,13 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+25.8
+
+- ML at Apple: https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.asw5moh3s
+- https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html
+- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+
 24.8
 
 - http://benjaminbolte.com/blog/2016/keras-language-modeling.html
