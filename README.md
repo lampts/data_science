@@ -61,6 +61,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+26.8
+
+- euroscipy with kera: https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/
+- deep mask from Facebook
+
+
 25.8
 
 - lstm vis: http://lstm.seas.harvard.edu/
