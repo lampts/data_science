@@ -61,6 +61,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+
+28.8
+
+- keras + lasagne: https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent
+
+
 26.8
 
 - euroscipy with kera: https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/
