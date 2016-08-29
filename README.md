@@ -31,6 +31,7 @@ Apps:
 - chatbot: http://sumve.com/firesidechat/
 - text vis: http://slanglab.cs.umass.edu/topic-animator/
 - music auto tag: https://github.com/keunwoochoi/music-auto_tagging-keras
+- deep image sent: http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/
 
 PyGotham:
 
