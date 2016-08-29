@@ -65,7 +65,7 @@ Scipy 2016:
 29.8
 
 - text to image: https://github.com/paarthneekhara/text-to-image/blob/master/skipthoughts.py
-
+- forex prediction UP, DOWN, MID: https://is.muni.cz/th/422802/fi_b/bakalarka_final.pdf
 
 28.8
 
