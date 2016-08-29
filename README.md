@@ -61,6 +61,10 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+29.8
+
+- text to image: https://github.com/paarthneekhara/text-to-image/blob/master/skipthoughts.py
+
 
 28.8
 
