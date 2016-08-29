@@ -69,7 +69,9 @@ Scipy 2016:
 28.8
 
 - keras + lasagne: https://github.com/Vict0rSch/deep_learning/tree/master/keras/recurrent
-
+- last week: pydatachi2016, pyconmy2016
+- https://github.com/y3l2n/pydata2016-notes
+- sebastian raschka, ml tut: https://github.com/rasbt/pydata-chicago2016-ml-tutorial/blob/master/code/tutorial.ipynb
 
 26.8
 
