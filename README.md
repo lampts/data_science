@@ -64,6 +64,7 @@ Scipy 2016:
 
 31.8
 
+- doc2text: https://github.com/jlsutherland/doc2text
 - synthetic gradient: https://deepmind.com/blog#decoupled-neural-interfaces-using-synthetic-gradients
 - Oriol vanyals, pioneer in s2s got 35 under 35 award: https://www.technologyreview.com/lists/innovators-under-35/2016/pioneer/oriol-vinyals/
 - https://github.com/baidu/paddle
