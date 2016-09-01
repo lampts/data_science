@@ -64,6 +64,7 @@ Scipy 2016:
 
 1.9
 
+- pseudo topic modeling PTM: http://www.kdd.org/kdd2016/subtopic/view/topic-modeling-of-short-texts-a-pseudo-document-view
 - cucumber classification: https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow
 - implemented bigru on tweet2vec: https://arxiv.org/pdf/1605.03481v2.pdf
 - deep learning for computing vision, Barcelona, Spain 2016: http://imatge-upc.github.io/telecombcn-2016-dlcv/
