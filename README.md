@@ -64,6 +64,7 @@ Scipy 2016:
 
 1.9
 
+- implemented bigru on tweet2vec: https://arxiv.org/pdf/1605.03481v2.pdf
 - deep learning for computing vision, Barcelona, Spain 2016: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 
 31.8
