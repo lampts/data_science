@@ -62,6 +62,10 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+1.9
+
+- deep learning for computing vision, Barcelona, Spain 2016: http://imatge-upc.github.io/telecombcn-2016-dlcv/
+
 31.8
 
 - doc2text: https://github.com/jlsutherland/doc2text
