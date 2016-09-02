@@ -62,6 +62,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+2.9
+
+- sum product networks: https://arxiv.org/abs/1608.08266
+- keras application, used inception v3: https://github.com/danielvarga/keras-finetuning
+- keras: neural style: https://github.com/titu1994/Neural-Style-Transfer
+
 1.9
 
 - pseudo topic modeling PTM: http://www.kdd.org/kdd2016/subtopic/view/topic-modeling-of-short-texts-a-pseudo-document-view
