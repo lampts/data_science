@@ -8,6 +8,8 @@ Coming soon:
 - KDD 2016: http://www.kdd.org/kdd2016/
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
 - data fest: https://alexanderdyakonov.wordpress.com/
+- 8,9,12,13 Sept: data science week: http://dsw2016.datascienceweek.com/
+
 
 Done:
 
