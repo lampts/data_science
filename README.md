@@ -62,6 +62,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+5.9
+
+- deep learning 42 https://www.youtube.com/watch?v=furfdqtdAvc&feature=youtu.be
+- optimization algos in Haskell
+- learn to learn and decompositionality with deep nn: https://www.youtube.com/watch?v=x1kf4Zojtb0
+
 2.9
 
 - sum product networks: https://arxiv.org/abs/1608.08266
