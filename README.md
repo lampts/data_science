@@ -64,6 +64,7 @@ Scipy 2016:
 
 5.9
 
+- random bits on data: https://datathinking.wordpress.com/author/dolaameng/
 - hitchhiker guide to the galaxy: http://izt.ciens.ucv.ve/ecologia/Archivos/Filosofia-II/Adams,%20Douglas%20-%20The%20Hitchhikers%20Guide%20To%20The%20Galaxy.pdf
 - deep learning 42 https://www.youtube.com/watch?v=furfdqtdAvc&feature=youtu.be
 - optimization algos in Haskell
