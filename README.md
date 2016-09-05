@@ -26,6 +26,8 @@ Keras:
 
 Apps:
 
+
+- deep art: https://deepart.io/hire/kzXhuUPf/
 - text sum: http://esapi.intellexer.com/Summarizer
 - http://www.deeplearningpatterns.com/doku.php/applications
 - mt: http://104.131.78.120/
@@ -66,6 +68,8 @@ Scipy 2016:
 
 5.9
 
+- learn to learn: http://nuit-blanche.blogspot.com/2016/09/saturday-morning-videos-learning-to.html
+- big data and stochastic algos: http://www.proba.jussieu.fr/SlidesAlgoSto/AlgoStoch_Gallinari.pdf
 - random bits on data: https://datathinking.wordpress.com/author/dolaameng/
 - hitchhiker guide to the galaxy: http://izt.ciens.ucv.ve/ecologia/Archivos/Filosofia-II/Adams,%20Douglas%20-%20The%20Hitchhikers%20Guide%20To%20The%20Galaxy.pdf
 - deep learning 42 https://www.youtube.com/watch?v=furfdqtdAvc&feature=youtu.be
