@@ -66,6 +66,11 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+6.9
+
+- data science at Google: http://www.unofficialgoogledatascience.com/2015/11/how-to-get-job-at-google-as-data.html
+- is your model stat significantly improved? https://www.reddit.com/r/MachineLearning/comments/519z41/when_would_i_say_that_my_classifier_performance/
+
 5.9
 
 - learn to learn: http://nuit-blanche.blogspot.com/2016/09/saturday-morning-videos-learning-to.html
