@@ -72,6 +72,13 @@ Performance Evaluation(PE):
 - slides: http://www.icmla-conference.org/icmla11/PE_Tutorial.pdf
 - bayesian hypothesis testing: http://ipg.idsia.ch/preprints/corani2015c.pdf 
 
+Hypothesis testing
+
+- http://bebi103.caltech.edu/2015/tutorials/t6b_frequentist_hypothesis_testing.html
+- central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
+- hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
+
+
 6.9
 
 - aaqi ml for text, sound: https://github.com/aqibsaeed
