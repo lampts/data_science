@@ -74,6 +74,7 @@ Performance Evaluation(PE):
 
 6.9
 
+- aaqi ml for text, sound: https://github.com/aqibsaeed
 - data science at Google: http://www.unofficialgoogledatascience.com/2015/11/how-to-get-job-at-google-as-data.html
 - is your model stat significantly improved? https://www.reddit.com/r/MachineLearning/comments/519z41/when_would_i_say_that_my_classifier_performance/
 
