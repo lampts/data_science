@@ -66,6 +66,12 @@ Scipy 2016:
 
 - http://scipy2016.scipy.org/ehome/146062/332963/
 
+Performance Evaluation(PE):
+
+- book ELA: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/evaluating-learning-algorithms-classification-perspective
+- slides: http://www.icmla-conference.org/icmla11/PE_Tutorial.pdf
+- bayesian hypothesis testing: http://ipg.idsia.ch/preprints/corani2015c.pdf 
+
 6.9
 
 - data science at Google: http://www.unofficialgoogledatascience.com/2015/11/how-to-get-job-at-google-as-data.html
