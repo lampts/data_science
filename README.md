@@ -82,6 +82,7 @@ Hypothesis testing
 
 7.9
 
+- movidius VPU: http://www.forbes.com/sites/aarontilley/2016/01/27/google-partners-with-chip-startup-to-take-machine-learning-out-of-the-cloud-and-into-your-pocket/?linkId=20717947#6c21345a33e5
 - google news 3M to 300K, slim version: https://github.com/eyaler/word2vec-slim
 
 
