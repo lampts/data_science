@@ -1,7 +1,9 @@
 # data_science
 
-Pin: https://github.com/andrewt3000/DL4NLP
+Pin: 
 
+- https://github.com/andrewt3000/DL4NLP
+- Natural languague inference NLI: https://github.com/Smerity/keras_snli
 
 Coming soon:
 
