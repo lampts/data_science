@@ -80,6 +80,12 @@ Hypothesis testing
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
 
+8.9
+
+- guide to phd from Karpathy: http://karpathy.github.io/2016/09/07/phd/
+- image captioning, thesis of Karpathy: http://cs.stanford.edu/people/karpathy/main.pdf
+- step data in Iphone: http://blog.yhat.com/posts/phone-steps-timeseries.html
+
 7.9
 
 - movidius VPU: http://www.forbes.com/sites/aarontilley/2016/01/27/google-partners-with-chip-startup-to-take-machine-learning-out-of-the-cloud-and-into-your-pocket/?linkId=20717947#6c21345a33e5
