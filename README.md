@@ -82,6 +82,7 @@ Hypothesis testing
 
 8.9
 
+- use vgg for image classification: https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
 - guide to phd from Karpathy: http://karpathy.github.io/2016/09/07/phd/
 - image captioning, thesis of Karpathy: http://cs.stanford.edu/people/karpathy/main.pdf
 - step data in Iphone: http://blog.yhat.com/posts/phone-steps-timeseries.html
