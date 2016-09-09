@@ -80,6 +80,11 @@ Hypothesis testing
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
 
+9.9
+
+- pydataberlin 2016: https://github.com/deeplook/pydata_berlin2016_materials
+
+
 8.9
 
 - use vgg for image classification: https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
