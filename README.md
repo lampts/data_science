@@ -83,7 +83,7 @@ Hypothesis testing
 9.9
 
 - pydataberlin 2016: https://github.com/deeplook/pydata_berlin2016_materials
-
+- wavenet: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 
 8.9
 
