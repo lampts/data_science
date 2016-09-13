@@ -2,6 +2,7 @@
 
 Pin: 
 
+- trendingarxiv: http://trendingarxiv.smerity.com/
 - https://github.com/andrewt3000/DL4NLP
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 
