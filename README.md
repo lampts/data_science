@@ -87,6 +87,7 @@ Hypothesis testing
 
 13.9
 
+- deep learning intro in Taiwan: http://mail.tku.edu.tw/myday/teaching/1042/SCBDA/1042SCBDA09_Social_Computing_and_Big_Data_Analytics.pdf
 - tankbuster: https://github.com/thiippal/tankbuster/blob/master/README.md
 - trending arxiv: https://github.com/Smerity/trending_arxiv
 
