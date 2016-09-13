@@ -25,6 +25,7 @@ AI mistakes:
 
 Keras:
 
+- hualos, keras viz: https://github.com/fchollet/hualos
 - https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
 - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/learn/wide_n_deep_tutorial.py
 - model zoo:https://github.com/tensorflow/models
