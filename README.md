@@ -17,6 +17,11 @@ Done:
 - KDD 2016: http://www.kdd.org/kdd2016/
 - ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
 
+AI mistakes:
+
+- napalm girl: https://techcrunch.com/2016/09/12/facebook-employees-say-deleting-napalm-girl-photo-was-a-mistake/
+- fine for his car shadow: http://www.independent.co.uk/news/world/europe/russian-driver-fined-car-shadow-moscow-a7225146.html
+- human on motorcycle: http://cs.stanford.edu/people/karpathy/deepimagesent/generationdemo/ 
 
 Keras:
 
@@ -79,6 +84,11 @@ Hypothesis testing
 - http://bebi103.caltech.edu/2015/tutorials/t6b_frequentist_hypothesis_testing.html
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
+
+13.9
+
+- tankbuster: https://github.com/thiippal/tankbuster/blob/master/README.md
+- trending arxiv: https://github.com/Smerity/trending_arxiv
 
 9.9
 
