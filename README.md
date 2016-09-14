@@ -26,6 +26,7 @@ AI mistakes:
 
 Keras:
 
+- image classification with vgg16: http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 - hualos, keras viz: https://github.com/fchollet/hualos
 - https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
 - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/learn/wide_n_deep_tutorial.py
