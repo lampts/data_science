@@ -90,6 +90,7 @@ Hypothesis testing
 
 14.9
 
+- vqa: https://github.com/iamaaditya/VQA_Demo/blob/master/demo.py
 - wavenet in keras: https://github.com/usernaamee/keras-wavenet
 - why jupyter notebook so cool: http://arogozhnikov.github.io/2016/09/10/jupyter-features.html
 - fin news aggregator: https://finzine.com/
