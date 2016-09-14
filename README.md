@@ -87,6 +87,12 @@ Hypothesis testing
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
 
+14.9
+
+- wavenet in keras: https://github.com/usernaamee/keras-wavenet
+- why jupyter notebook so cool: http://arogozhnikov.github.io/2016/09/10/jupyter-features.html
+- fin news aggregator: https://finzine.com/
+
 13.9
 
 - thought vector, Hinton again: http://deeplearning4j.org/thoughtvectors
