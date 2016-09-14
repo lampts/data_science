@@ -35,7 +35,7 @@ Keras:
 
 Apps:
 
-
+- labeling tools: http://cs.stanford.edu/people/karpathy/ilsvrc/
 - deep art: https://deepart.io/hire/kzXhuUPf/
 - text sum: http://esapi.intellexer.com/Summarizer
 - http://www.deeplearningpatterns.com/doku.php/applications
