@@ -88,6 +88,12 @@ Hypothesis testing
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
 
+15.9
+
+- nice illustration: http://www.asimovinstitute.org/neural-network-zoo/
+- https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
+- https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/Word2Vec_FastText_Comparison.ipynb
+
 14.9
 
 - vqa: https://github.com/iamaaditya/VQA_Demo/blob/master/demo.py
