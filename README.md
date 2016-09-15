@@ -90,6 +90,7 @@ Hypothesis testing
 
 15.9
 
+- altair: http://nbviewer.jupyter.org/github/ellisonbg/altair/blob/master/altair/notebooks/12-Measles.ipynb
 - nice illustration: http://www.asimovinstitute.org/neural-network-zoo/
 - https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
 - https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/Word2Vec_FastText_Comparison.ipynb
