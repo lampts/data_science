@@ -9,12 +9,11 @@ Pin:
 Coming soon:
 
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
-- data fest: https://alexanderdyakonov.wordpress.com/
-- 8,9,12,13 Sept: data science week: http://dsw2016.datascienceweek.com/
-
 
 Done:
 
+- data fest: https://alexanderdyakonov.wordpress.com/
+- 8,9,12,13 Sept: data science week: http://dsw2016.datascienceweek.com/
 - KDD 2016: http://www.kdd.org/kdd2016/
 - ACL 2016, Berlin, 7-12 Aug: http://acl2016.org/index.php?article_id=60
 
