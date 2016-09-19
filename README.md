@@ -5,6 +5,7 @@ Pin:
 - trendingarxiv: http://trendingarxiv.smerity.com/
 - https://github.com/andrewt3000/DL4NLP
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
+- ACL: http://www.aclweb.org/anthology/P/P16/
 
 Coming soon:
 
