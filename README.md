@@ -88,6 +88,15 @@ Hypothesis testing
 - central limit theorem: http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb
 - hypothesis testing and p value: http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch7-kiemdinhgiathiet.htm
 
+----
+
+# Timeline
+
+19.9
+
+- https://github.com/giuseppebonaccorso/Reuters-21578-Classification/blob/master/Text%20Classification.ipynb
+- Cortex team, RL: https://blog.twitter.com/2016/reinforcement-learning-for-torch-introducing-torch-twrl
+
 15.9
 
 - altair: http://nbviewer.jupyter.org/github/ellisonbg/altair/blob/master/altair/notebooks/12-Measles.ipynb
