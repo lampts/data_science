@@ -95,6 +95,7 @@ Hypothesis testing
 
 20.9
 
+- http://deadtreepages.com/posts/python-code-character-prediction-with-lstm-rnn.html
 - why is your data valuable? https://github.com/ogencoglu/MyData2016
 - http://www.cs.tut.fi/kurssit/SGN-41006/slides/
 - fast region-cnn: https://github.com/rbgirshick/py-faster-rcnn
