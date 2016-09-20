@@ -95,6 +95,7 @@ Hypothesis testing
 
 20.9
 
+- automatic text scoring: https://github.com/dimalik/ats, http://www.aclweb.org/anthology/P/P16/P16-1068.pdf
 - https://www.zybuluo.com/HaomingJiang/note/462804
 - model extraction attack: https://github.com/ftramer/Steal-ML
 - nlp and dl from India: https://github.com/rishy?tab=repositories
