@@ -95,6 +95,7 @@ Hypothesis testing
 
 20.9
 
+- http://www.cs.tut.fi/kurssit/SGN-41006/slides/
 - fast region-cnn: https://github.com/rbgirshick/py-faster-rcnn
 - automatic text scoring: https://github.com/dimalik/ats, http://www.aclweb.org/anthology/P/P16/P16-1068.pdf
 - https://www.zybuluo.com/HaomingJiang/note/462804
