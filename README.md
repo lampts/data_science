@@ -93,6 +93,12 @@ Hypothesis testing
 
 # Timeline
 
+20.9
+
+- nlp and dl from India: https://github.com/rishy?tab=repositories
+- http://slides.com/rishabhshukla/deep-learning-in-nlp#/
+- https://github.com/hungtraan/FacebookBot
+
 19.9
 
 - https://github.com/giuseppebonaccorso/Reuters-21578-Classification/blob/master/Text%20Classification.ipynb
