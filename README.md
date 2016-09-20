@@ -95,6 +95,7 @@ Hypothesis testing
 
 20.9
 
+- https://www.zybuluo.com/HaomingJiang/note/462804
 - model extraction attack: https://github.com/ftramer/Steal-ML
 - nlp and dl from India: https://github.com/rishy?tab=repositories
 - http://slides.com/rishabhshukla/deep-learning-in-nlp#/
