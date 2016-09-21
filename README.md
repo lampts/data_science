@@ -93,6 +93,10 @@ Hypothesis testing
 
 # Timeline
 
+21.9
+
+- useful R wikipediatrend: https://github.com/petermeissner/wikipediatrend
+
 20.9
 
 - http://deadtreepages.com/posts/python-code-character-prediction-with-lstm-rnn.html
