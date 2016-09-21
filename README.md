@@ -95,6 +95,7 @@ Hypothesis testing
 
 21.9
 
+- hack password with 3LSTM + 2 Dense: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf
 - useful R wikipediatrend: https://github.com/petermeissner/wikipediatrend
 
 20.9
