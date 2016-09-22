@@ -95,6 +95,7 @@ Hypothesis testing
 
 22.9
 
+- http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html
 - http://www.john-foreman.com/blog
 - stats: http://andrewgelman.com/
 - https://github.com/ujjwalkarn/DataSciencePython
