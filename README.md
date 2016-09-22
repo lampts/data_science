@@ -95,6 +95,8 @@ Hypothesis testing
 
 22.9
 
+- http://www.john-foreman.com/blog
+- stats: http://andrewgelman.com/
 - https://github.com/ujjwalkarn/DataSciencePython
 - https://wwbp.org/blog/do-the-presidential-candidates-have-a-plan-or-highlight-problems/#more-408
 - http://wwbp.org/blog/insights-to-the-2016-election/
