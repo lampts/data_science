@@ -93,6 +93,12 @@ Hypothesis testing
 
 # Timeline
 
+22.9
+
+- https://github.com/ujjwalkarn/DataSciencePython
+- https://wwbp.org/blog/do-the-presidential-candidates-have-a-plan-or-highlight-problems/#more-408
+- http://wwbp.org/blog/insights-to-the-2016-election/
+
 21.9
 
 - hack password with 3LSTM + 2 Dense: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf
