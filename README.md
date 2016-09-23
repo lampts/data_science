@@ -93,6 +93,11 @@ Hypothesis testing
 
 # Timeline
 
+23.9
+
+- https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html
+- http://colinmorris.github.io/blog/1b-words-char-embeddings
+
 22.9
 
 - http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html
