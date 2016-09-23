@@ -95,6 +95,7 @@ Hypothesis testing
 
 23.9
 
+- need4tweet: https://github.com/badiehm/TwitterNEED
 - https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html
 - http://colinmorris.github.io/blog/1b-words-char-embeddings
 
