@@ -93,6 +93,12 @@ Hypothesis testing
 
 # Timeline
 
+25.9
+
+- Y Lecun: DL and AI future: https://www.youtube.com/watch?v=wofXCQXq1pg&feature=youtu.be
+- youtube rec: https://static.googleusercontent.com/media/research.google.com/vi//pubs/archive/45530.pdf
+- lie detector: https://docs.google.com/presentation/d/1tHt5EPol3KLu81E8aKlebZT3FH0uvPky4l3bHEwVbEQ/mobilepresent?slide=id.g162ec24d83_0_0
+
 23.9
 
 - adam opt = sgd + momentum http://cs231n.github.io/neural-networks-3/#ada
