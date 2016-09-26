@@ -7,6 +7,11 @@ Pin:
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 - ACL: http://www.aclweb.org/anthology/P/P16/
 
+Books:
+
+- http://neuralnetworksanddeeplearning.com/index.html
+- u.cs.biu.ac.il/~yogo/nnlp.pdf
+
 Coming soon:
 
 - EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
