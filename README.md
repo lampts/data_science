@@ -93,6 +93,12 @@ Hypothesis testing
 
 # Timeline
 
+26.9
+
+- acl 15: http://aclweb.org/anthology/P/P15/
+- AKE: automatic keywords extraction for twitter: http://aclweb.org/anthology/P/P15/P15-2105.pdf
+- lex comparison btw Wikipedia and Twitter corpus: http://aclweb.org/anthology/P/P15/P15-2108.pdf
+
 25.9
 
 - Y Lecun: DL and AI future: https://www.youtube.com/watch?v=wofXCQXq1pg&feature=youtu.be
