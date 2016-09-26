@@ -100,6 +100,8 @@ Hypothesis testing
 
 26.9
 
+- LIWC: little words in big data: https://github.com/scottofthescience/liwcExtractor
+- LIWC paper 2010, http://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf
 - TweetNLP: http://www.cs.cmu.edu/~ark/TweetNLP/
 - acl 15: http://aclweb.org/anthology/P/P15/
 - AKE: automatic keywords extraction for twitter: http://aclweb.org/anthology/P/P15/P15-2105.pdf
