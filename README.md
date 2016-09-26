@@ -100,6 +100,7 @@ Hypothesis testing
 
 26.9
 
+- TweetNLP: http://www.cs.cmu.edu/~ark/TweetNLP/
 - acl 15: http://aclweb.org/anthology/P/P15/
 - AKE: automatic keywords extraction for twitter: http://aclweb.org/anthology/P/P15/P15-2105.pdf
 - lex comparison btw Wikipedia and Twitter corpus: http://aclweb.org/anthology/P/P15/P15-2108.pdf
