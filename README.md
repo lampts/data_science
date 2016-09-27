@@ -105,6 +105,7 @@ Hypothesis testing
 
 27.9
 
+- dl4nlp: http://web.eecs.umich.edu/~radev/intronlp/
 - CommAI: https://github.com/facebookresearch/CommAI-env
 - a roadmap towards ML: http://arxiv.org/pdf/1511.08130v2.pdf
 - apply dl, nuts and bolts: https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
