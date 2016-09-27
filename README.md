@@ -98,6 +98,12 @@ Hypothesis testing
 
 # Timeline
 
+27.9
+
+- apply dl, nuts and bolts: https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
+- vis nlp: https://arxiv.org/pdf/1506.01066v2.pdf
+- vis nn: https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/
+
 26.9
 
 - LIWC: little words in big data: https://github.com/scottofthescience/liwcExtractor
