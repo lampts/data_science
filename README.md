@@ -7,6 +7,10 @@ Pin:
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 - ACL: http://www.aclweb.org/anthology/P/P16/
 
+Cartoons:
+
+- http://stats.stackexchange.com/questions/423/what-is-your-favorite-data-analysis-cartoon?newsletter=1&nlcode=231076%7C1179
+
 Books:
 
 - http://neuralnetworksanddeeplearning.com/index.html
@@ -18,6 +22,7 @@ Coming soon:
 
 Done:
 
+- BADLS: 2 day conference at Stanford university
 - data fest: https://alexanderdyakonov.wordpress.com/
 - 8,9,12,13 Sept: data science week: http://dsw2016.datascienceweek.com/
 - KDD 2016: http://www.kdd.org/kdd2016/
