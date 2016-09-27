@@ -100,6 +100,8 @@ Hypothesis testing
 
 27.9
 
+- CommAI: https://github.com/facebookresearch/CommAI-env
+- a roadmap towards ML: http://arxiv.org/pdf/1511.08130v2.pdf
 - apply dl, nuts and bolts: https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
 - vis nlp: https://arxiv.org/pdf/1506.01066v2.pdf
 - vis nn: https://civisanalytics.com/blog/data-science/2016/09/22/neural-network-visualization/
