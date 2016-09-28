@@ -124,6 +124,7 @@ Hypothesis testing
 
 28.9
 
+- r blogger: http://juliasilge.com/blog/Song-Lyrics-Across/
 - fastText as hybrid recommender system: https://blog.lateral.io/2016/09/fasttext-based-hybrid-recommender/
 - pointer sentinel mixture models: http://arxiv.org/pdf/1609.07843v1.pdf
 
