@@ -23,6 +23,25 @@ Coming soon:
 Done:
 
 - BADLS: 2 day conference at Stanford university
+
+day 1: 
+
+- Hugo(Twitter): Feed forward NN
+- Kartpathy(OpenAI): Convnet
+- Socher(MetaMind): NLP = word2vec/glove + GRU + MemNet
+- Tensorflow tut: from 5:55:49
+- Ruslan: Deep Unsup Learning: from 7:10:39
+- Andrew Ng: Nuts and bolts in applied DL from 9:09:46
+
+day 2: 
+
+- Schulman: RL from 06:40
+- Pascal(MILA): theano, from 1:52:03
+- ASR from 4:01:11
+- NN with Torch from 5:49:32, https://github.com/alexbw/bayarea-dl-summerschool
+- seq2seq learning, Quoc Le: from 7:03:44
+- Bengio: Foundations and challenges in DL, from 9:01:14
+
 - data fest: https://alexanderdyakonov.wordpress.com/
 - 8,9,12,13 Sept: data science week: http://dsw2016.datascienceweek.com/
 - KDD 2016: http://www.kdd.org/kdd2016/
@@ -102,6 +121,12 @@ Hypothesis testing
 ----
 
 # Timeline
+
+28.9
+
+- fastText as hybrid recommender system: https://blog.lateral.io/2016/09/fasttext-based-hybrid-recommender/
+- 
+
 
 27.9
 
