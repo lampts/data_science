@@ -77,6 +77,11 @@ Apps:
 - music auto tag: https://github.com/keunwoochoi/music-auto_tagging-keras
 - deep image sent: http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/
 
+German word embedding:
+
+- pretrained: http://devmount.github.io/GermanWordEmbeddings/
+- vis: pca, tsne: https://github.com/devmount/GermanWordEmbeddings/blob/master/code/pca.ipynb
+
 PyGotham:
 
 - textacy: http://michelleful.github.io/code-blog/2016/07/23/nlp-at-pygotham-2016/
