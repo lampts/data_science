@@ -129,6 +129,7 @@ Hypothesis testing
 
 29.9
 
+- stats nlp book: https://github.com/uclmr/stat-nlp-book
 - rep learning on twitter: https://github.com/cedricdeboom/RepresentationLearning
 - short text rep: https://arxiv.org/pdf/1607.00570.pdf
 - sa on post debation: https://www.datazar.com/project/p7dc15a26-4551-4c79-8e41-fbc7b84641fd
