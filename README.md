@@ -129,6 +129,7 @@ Hypothesis testing
 
 29.9
 
+- rep learning on twitter: https://github.com/cedricdeboom/RepresentationLearning
 - short text rep: https://arxiv.org/pdf/1607.00570.pdf
 - sa on post debation: https://www.datazar.com/project/p7dc15a26-4551-4c79-8e41-fbc7b84641fd
 - https://blog.datazar.com/first-debate-2016-sentimental-analysis-of-candidates-58d87092fc6a#.iz6sgezbx
