@@ -122,6 +122,12 @@ Hypothesis testing
 
 # Timeline
 
+29.9
+
+- short text rep: https://arxiv.org/pdf/1607.00570.pdf
+- sa on post debation: https://www.datazar.com/project/p7dc15a26-4551-4c79-8e41-fbc7b84641fd
+- https://blog.datazar.com/first-debate-2016-sentimental-analysis-of-candidates-58d87092fc6a#.iz6sgezbx
+
 28.9
 
 - r blogger: http://juliasilge.com/blog/Song-Lyrics-Across/
