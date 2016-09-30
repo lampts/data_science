@@ -128,6 +128,12 @@ Hypothesis testing
 
 # Timeline
 
+30.9
+
+- nlp4fin: http://www3.nd.edu/~mcdonald/Word_Lists.html
+- ssix: social sentiement index: http://ssix-project.eu/
+- http://www3.nd.edu/~mcdonald/
+
 29.9
 
 - stats nlp book: https://github.com/uclmr/stat-nlp-book
