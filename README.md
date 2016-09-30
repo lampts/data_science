@@ -7,8 +7,9 @@ Pin:
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 - ACL: http://www.aclweb.org/anthology/P/P16/
 
-Cartoons:
+Cartoons & Quotes:
 
+- "cause you know sometimes words have two meanings" led zeppelin
 - http://stats.stackexchange.com/questions/423/what-is-your-favorite-data-analysis-cartoon?newsletter=1&nlcode=231076%7C1179
 
 Books:
