@@ -128,12 +128,19 @@ Metrics:
 
 - http://users.dsic.upv.es/~dpinto/duc/RougeLin.pdf
 
+
+Financial:
+
+- https://github.com/johnymontana/NewzTrader_AI_project
+
 ----
 
 # Timeline
 
 3.10
 
+- https://maxdemarzi.com/2012/08/10/summarize-opinions-with-a-graph-part-1/
+- http://www.slideshare.net/neo4j/natural-language-processing-with-graphs
 - why clt: http://www.kdnuggets.com/2016/08/central-limit-theorem-data-science-part-2.html
 - wikitext: http://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/
 - auto headline from description: https://github.com/udibr/headlines?files=1
