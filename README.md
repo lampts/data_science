@@ -134,6 +134,8 @@ Metrics:
 
 3.10
 
+- why clt: http://www.kdnuggets.com/2016/08/central-limit-theorem-data-science-part-2.html
+- wikitext: http://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/
 - auto headline from description: https://github.com/udibr/headlines?files=1
 - https://handong1587.github.io/deep_learning/2015/10/09/nlp.html#summarization
 - movies for ds: https://ongxuanhong.wordpress.com/2016/09/04/data-scientists-nen-xem-gi/
