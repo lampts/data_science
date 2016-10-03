@@ -128,6 +128,13 @@ Hypothesis testing
 
 # Timeline
 
+3.10
+
+- auto headline from description: https://github.com/udibr/headlines?files=1
+- https://handong1587.github.io/deep_learning/2015/10/09/nlp.html#summarization
+- movies for ds: https://ongxuanhong.wordpress.com/2016/09/04/data-scientists-nen-xem-gi/
+- opinosis: http://kavita-ganesan.com/opinosis
+
 30.9
 
 - nlp4fin: http://www3.nd.edu/~mcdonald/Word_Lists.html
