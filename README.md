@@ -128,6 +128,12 @@ Metrics:
 
 - http://users.dsic.upv.es/~dpinto/duc/RougeLin.pdf
 
+Rock, Metal and NLP:
+
+- http://www.deepmetal.io/
+- https://github.com/ijmbarr/metal_models
+- http://www.degeneratestate.org/posts/2016/Sep/12/heavy-metal-and-natural-language-processing-part-2/
+- http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/
 
 Financial:
 
