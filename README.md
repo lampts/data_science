@@ -144,6 +144,10 @@ Financial:
 
 # Timeline
 
+6.10
+
+- yandex deeplearning school: https://github.com/yandexdataschool/HSE_deeplearning
+
 
 5.10
 
