@@ -144,6 +144,15 @@ Financial:
 
 # Timeline
 
+
+5.10
+
+- twitter calendar: http://ec2-54-170-89-29.eu-west-1.compute.amazonaws.com:8000/
+- https://maxdemarzi.com/2012/08/10/summarize-opinions-with-a-graph-part-1/
+- http://aclanthology.info/
+- https://github.com/aritter/twitter_nlp
+- https://github.com/deliarusu/pydata_berlin2016_materials
+
 3.10
 
 - https://github.com/ijmbarr/panama-paper-network
