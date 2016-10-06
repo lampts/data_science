@@ -3,6 +3,7 @@
 
 Pin: 
 
+- grow a mind: http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf
 - trendingarxiv: http://trendingarxiv.smerity.com/
 - https://github.com/andrewt3000/DL4NLP
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
@@ -146,6 +147,7 @@ Financial:
 
 6.10
 
+- short text sim with word embedding: https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf
 - yandex deeplearning school: https://github.com/yandexdataschool/HSE_deeplearning
 - http://haixun.olidu.com/Probase.Feb.2014.pdf
 
