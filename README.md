@@ -141,6 +141,10 @@ Financial:
 
 - https://github.com/johnymontana/NewzTrader_AI_project
 
+Twitter:
+
+- http://nlp.stanford.edu/projects/glove/preprocess-twitter.rb
+
 ----
 
 # Timeline
