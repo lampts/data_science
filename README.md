@@ -147,7 +147,7 @@ Financial:
 6.10
 
 - yandex deeplearning school: https://github.com/yandexdataschool/HSE_deeplearning
-
+- http://haixun.olidu.com/Probase.Feb.2014.pdf
 
 5.10
 
