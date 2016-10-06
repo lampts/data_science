@@ -147,6 +147,8 @@ Financial:
 
 6.10
 
+- resume job matching: https://arxiv.org/pdf/1607.07657.pdf
+- https://github.com/lyoshiwo/resume_job_matching
 - short text sim with word embedding: https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf
 - yandex deeplearning school: https://github.com/yandexdataschool/HSE_deeplearning
 - http://haixun.olidu.com/Probase.Feb.2014.pdf
