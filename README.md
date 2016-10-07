@@ -151,6 +151,7 @@ Twitter:
 
 7.10
 
+- https://github.com/nadbordrozd/blog_stuff/tree/master/classification_w2v
 - http://blog.datafox.com/the-data-driven-approach-to-finding-similar-companies/
 - http://blog.ventureradar.com/2016/07/27/new-features-enhanced-similar-companies-lists-and-suggested-keywords/
 - http://nadbordrozd.github.io/blog/2016/06/13/deepwalking-with-companies/
