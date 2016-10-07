@@ -152,6 +152,7 @@ Twitter:
 
 7.10
 
+- wiki2vec: https://github.com/deliarusu/wikipedia-correlation/blob/master/wikipedia-correlation-ftse100.ipynb
 - https://github.com/nadbordrozd/blog_stuff/tree/master/classification_w2v
 - http://blog.datafox.com/the-data-driven-approach-to-finding-similar-companies/
 - http://blog.ventureradar.com/2016/07/27/new-features-enhanced-similar-companies-lists-and-suggested-keywords/
