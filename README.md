@@ -154,6 +154,8 @@ Twitter:
 
 10.10
 
+- https://github.com/ewulczyn/wiki-misc
+- https://github.com/vered1986/linker?files=1
 - energy consumption prediction: http://cs229.stanford.edu/proj2015/345_report.pdf
 - DL stock volatility and goog trend domestic: http://cs229.stanford.edu/proj2015/186_report.pdf
 - learning and mining: https://github.com/shuyo/iir
