@@ -150,6 +150,11 @@ Twitter:
 
 # Timeline
 
+10.10
+
+- http://www.dialog-21.ru/en/dialogue2016/results/program/day-1/
+- nerc in russian: http://www.dialog-21.ru/media/3433/sysoevaaandrianovia.pdf
+
 7.10
 
 - wiki2vec: https://github.com/deliarusu/wikipedia-correlation/blob/master/wikipedia-correlation-ftse100.ipynb
