@@ -152,6 +152,11 @@ Twitter:
 
 10.10
 
+- energy consumption prediction: http://cs229.stanford.edu/proj2015/345_report.pdf
+- DL stock volatility and goog trend domestic: http://cs229.stanford.edu/proj2015/186_report.pdf
+- learning and mining: https://github.com/shuyo/iir
+- langid, cldr, ldig: https://github.com/shuyo/ldig
+- langid for tweet: http://www.aclweb.org/anthology/W14-1303 
 - http://www.dialog-21.ru/en/dialogue2016/results/program/day-1/
 - nerc in russian: http://www.dialog-21.ru/media/3433/sysoevaaandrianovia.pdf
 
