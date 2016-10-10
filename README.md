@@ -68,6 +68,8 @@ Keras:
 
 Apps:
 
+- https://github.com/fginter/w2v_demo
+- http://bionlp-www.utu.fi/wv_demo/
 - 3top: https://github.com/3Top/word2vec-api
 - next wave of nn: http://www.nextplatform.com/2016/09/14/next-wave-deep-learning-applications/
 - labeling tools: http://cs.stanford.edu/people/karpathy/ilsvrc/
