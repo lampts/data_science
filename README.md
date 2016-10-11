@@ -152,6 +152,11 @@ Twitter:
 
 # Timeline
 
+11.10
+
+- pandas multilevel columns: http://stackoverflow.com/questions/21443963/pandas-multilevel-column-names
+- https://github.com/plouismarie/basic-sigmoid-ML
+
 10.10
 
 - https://github.com/ewulczyn/wiki-misc
