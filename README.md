@@ -159,6 +159,7 @@ Twitter:
 
 11.10
 
+- 8 cat companies classified: https://davidgrosfeld.files.wordpress.com/2010/03/revenuevisualization1.png
 - pandas multilevel columns: http://stackoverflow.com/questions/21443963/pandas-multilevel-column-names
 - https://github.com/plouismarie/basic-sigmoid-ML
 
