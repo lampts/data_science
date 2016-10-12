@@ -154,6 +154,7 @@ Twitter:
 
 12.10
 
+- deep font: https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/
 - David talk: https://github.com/dav009/topictalk/blob/master/slides.pdf
 
 11.10
