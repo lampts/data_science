@@ -152,6 +152,10 @@ Twitter:
 
 # Timeline
 
+12.10
+
+- David talk: https://github.com/dav009/topictalk/blob/master/slides.pdf
+
 11.10
 
 - pandas multilevel columns: http://stackoverflow.com/questions/21443963/pandas-multilevel-column-names
