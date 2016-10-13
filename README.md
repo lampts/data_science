@@ -152,6 +152,11 @@ Twitter:
 
 # Timeline
 
+13.10
+
+- German NER, SENNA: https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2014/2014_GermEval_Nested_Named_Entity_Recognition_with_Neural_Networks.pdf
+- fin keyword expansion: tf + tfidf + log(1+tc): https://www.aclweb.org/anthology/D/D14/D14-1152.pdf
+
 12.10
 
 - deep font: https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/
