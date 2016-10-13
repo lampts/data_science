@@ -65,6 +65,12 @@ Keras:
 - model zoo:https://github.com/tensorflow/models
 - music auto tag: https://github.com/keunwoochoi/music-auto_tagging-keras
 
+NLP:
+
+- https://github.com/attardi/deepnl
+- https://github.com/biplab-iitb/practNLPTools
+- http://ml.nec-labs.com/senna/
+- LSTM + CNN char on NER: https://transacl.org/ojs/index.php/tacl/article/viewFile/792/202
 
 Apps:
 
@@ -154,6 +160,7 @@ Twitter:
 
 13.10
 
+- deep sequence classification: https://github.com/napsternxg/DeepSequenceClassification
 - German NER, SENNA: https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2014/2014_GermEval_Nested_Named_Entity_Recognition_with_Neural_Networks.pdf
 - fin keyword expansion: tf + tfidf + log(1+tc): https://www.aclweb.org/anthology/D/D14/D14-1152.pdf
 
