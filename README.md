@@ -158,6 +158,10 @@ Twitter:
 
 # Timeline
 
+14.10
+
+- https://github.com/transcranial/keras-js
+
 13.10
 
 - deep sequence classification: https://github.com/napsternxg/DeepSequenceClassification
