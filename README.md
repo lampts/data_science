@@ -161,6 +161,7 @@ Twitter:
 14.10
 
 - https://github.com/transcranial/keras-js
+- http://www.slideshare.net/isabelleaugenstein/weakly-supervised-machine-reading
 
 13.10
 
