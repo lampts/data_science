@@ -160,6 +160,8 @@ Twitter:
 
 14.10
 
+- SemEval: http://www.saifmohammad.com/WebPages/StanceDataset.htm
+- stance detection, implicitly: https://github.com/sheffieldnlp/stance-conditional
 - https://github.com/transcranial/keras-js
 - http://www.slideshare.net/isabelleaugenstein/weakly-supervised-machine-reading
 
