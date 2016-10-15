@@ -158,6 +158,10 @@ Twitter:
 
 # Timeline
 
+15.10
+
+- https://www.scripted.com/content-marketing-2/36-years-presidential-debates
+
 14.10
 
 - SemEval: http://www.saifmohammad.com/WebPages/StanceDataset.htm
