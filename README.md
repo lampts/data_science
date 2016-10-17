@@ -160,6 +160,9 @@ Twitter:
 
 16.10
 
+- https://github.com/Dyakonov/case_sdsj
+- https://nbviewer.jupyter.org/github/Dyakonov/case_sdsj/blob/master/dj_sdsj01_visual.ipynb
+- https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B/
 - http://blog.xukui.cn/
 - https://github.com/uclmr/emoji2vec
 - https://danielmiessler.com/blog/machine-learning-new-statistics/#gs.gpTYESc
