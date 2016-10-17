@@ -158,6 +158,12 @@ Twitter:
 
 # Timeline
 
+16.10
+
+- https://github.com/uclmr/emoji2vec
+- https://danielmiessler.com/blog/machine-learning-new-statistics/#gs.gpTYESc
+- https://github.com/fchollet/keras/issues/1400
+
 15.10
 
 - https://www.scripted.com/content-marketing-2/36-years-presidential-debates
