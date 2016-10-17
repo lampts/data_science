@@ -160,6 +160,7 @@ Twitter:
 
 16.10
 
+- http://blog.xukui.cn/
 - https://github.com/uclmr/emoji2vec
 - https://danielmiessler.com/blog/machine-learning-new-statistics/#gs.gpTYESc
 - https://github.com/fchollet/keras/issues/1400
