@@ -158,6 +158,10 @@ Twitter:
 
 # Timeline
 
+17.10
+
+- text to image: thought vector: https://github.com/paarthneekhara/text-to-image
+
 16.10
 
 - https://github.com/Dyakonov/case_sdsj
