@@ -158,6 +158,12 @@ Twitter:
 
 # Timeline
 
+18.10
+
+- http://www.bbc.com/news/technology-37684418
+- https://github.com/ogencoglu/Templates/tree/master/Python
+- progressbat tqdm: https://pypi.python.org/pypi/tqdm
+
 17.10
 
 - text to image: thought vector: https://github.com/paarthneekhara/text-to-image
