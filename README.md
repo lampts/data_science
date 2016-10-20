@@ -161,6 +161,8 @@ Twitter:
 
 20.10
 
+- beamsearch: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/46927-f97/slides/Lec3/sld023.htm
+- beamsearch in skipthough sequence generated: https://github.com/ryankiros/skip-thoughts/blob/master/decoding/search.py
 - https://blog.heuritech.com/2015/12/01/learning-to-link-images-with-their-descriptions/
 - https://github.com/proycon/pynlpl
 - spacy 1.0 + keras: https://explosion.ai/blog/spacy-deep-learning-keras
