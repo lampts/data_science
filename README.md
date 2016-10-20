@@ -3,6 +3,7 @@
 
 Pin: 
 
+- semantic scholar: https://www.semanticscholar.org/
 - grow a mind: http://web.mit.edu/cocosci/Papers/tkgg-science11-reprint.pdf
 - trendingarxiv: http://trendingarxiv.smerity.com/
 - https://github.com/andrewt3000/DL4NLP
