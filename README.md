@@ -10,6 +10,10 @@ Pin:
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 - ACL: http://www.aclweb.org/anthology/P/P16/
 
+People:
+
+- Graham CMU: http://www.phontron.com/teaching.php, https://github.com/neubig/
+
 Cartoons & Quotes:
 
 - "cause you know sometimes words have two meanings" led zeppelin
