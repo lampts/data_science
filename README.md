@@ -158,6 +158,12 @@ Twitter:
 
 # Timeline
 
+20.10
+
+- spacy 1.0 + keras: https://explosion.ai/blog/spacy-deep-learning-keras
+- fipi: Automatized political analysis of text http://fipi-dev.elasticbeanstalk.com/news.html
+- fipi github: https://github.com/felixbiessmann/fipi
+
 18.10
 
 - http://www.bbc.com/news/technology-37684418
