@@ -160,6 +160,7 @@ Twitter:
 
 20.10
 
+- https://blog.heuritech.com/2015/12/01/learning-to-link-images-with-their-descriptions/
 - https://github.com/proycon/pynlpl
 - spacy 1.0 + keras: https://explosion.ai/blog/spacy-deep-learning-keras
 - fipi: Automatized political analysis of text http://fipi-dev.elasticbeanstalk.com/news.html
