@@ -163,6 +163,12 @@ Twitter:
 
 # Timeline
 
+21.10
+
+- mac archey: http://www.mitchchn.me/2014/os-x-terminal/
+- google kb: https://developers.google.com/knowledge-graph/
+
+
 20.10
 
 - http://blog.mldb.ai/blog/posts/2016/10/deepteach/
