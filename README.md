@@ -14,6 +14,8 @@ People:
 
 - Graham CMU: http://www.phontron.com/teaching.php, https://github.com/neubig/
 
+Reuters 8M (2007-2016): https://github.com/philipperemy/Reuters-full-data-set.git
+
 Wikidata:
 
 - https://github.com/VladimirAlexiev/VladimirAlexiev.github.io/blob/master/CH-names/README.org
