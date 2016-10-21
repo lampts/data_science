@@ -14,6 +14,11 @@ People:
 
 - Graham CMU: http://www.phontron.com/teaching.php, https://github.com/neubig/
 
+Wikidata:
+
+- https://github.com/VladimirAlexiev/VladimirAlexiev.github.io/blob/master/CH-names/README.org
+- https://github.com/VladimirAlexiev/VladimirAlexiev.github.io/tree/master/CH-names
+
 Cartoons & Quotes:
 
 - "cause you know sometimes words have two meanings" led zeppelin
