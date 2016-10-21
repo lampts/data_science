@@ -170,6 +170,8 @@ Twitter:
 
 21.10
 
+- longitudinal analysis: http://www.cs.odu.edu/~anwala/files/temp/archivesUnleashedHackathon/Hebdo_Twitter.html
+- tracking discourse event on twitter: https://docs.google.com/presentation/d/1Q6vZdLbOS98kRLQv3hPQeXj77jO-PGdPN_CzupWOYGA/edit#slide=id.p
 - mac archey: http://www.mitchchn.me/2014/os-x-terminal/
 - google kb: https://developers.google.com/knowledge-graph/
 
