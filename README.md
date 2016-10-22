@@ -173,6 +173,10 @@ Twitter:
 
 # Timeline
 
+22.10
+
+- https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+
 21.10
 
 - longitudinal analysis: http://www.cs.odu.edu/~anwala/files/temp/archivesUnleashedHackathon/Hebdo_Twitter.html
