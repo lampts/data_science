@@ -173,6 +173,12 @@ Twitter:
 
 # Timeline
 
+23.10
+
+- xss detection: https://github.com/faizann24/XssPy
+- bad url: https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs
+- pentest: https://github.com/faizann24/Resources-for-learning-Hacking
+
 22.10
 
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
