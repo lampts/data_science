@@ -176,6 +176,7 @@ Twitter:
 24.10
 
 - unsup langid: http://blog.echen.me/2011/05/01/unsupervised-language-detection-algorithms/
+- https://github.com/budhiraja/languageIdentification/blob/master/Identification%20of%20Language.ipynb
 
 23.10
 
