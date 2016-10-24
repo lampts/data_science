@@ -173,6 +173,10 @@ Twitter:
 
 # Timeline
 
+24.10
+
+- unsup langid: http://blog.echen.me/2011/05/01/unsupervised-language-detection-algorithms/
+
 23.10
 
 - xss detection: https://github.com/faizann24/XssPy
