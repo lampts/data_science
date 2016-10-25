@@ -175,6 +175,7 @@ Twitter:
 
 25.10
 
+- google brain, reading, notes, papers of Denny: https://github.com/dennybritz/cnn-text-classification-tf
 - http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf
 - feature engineering: https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering/answer/Claudia-Perlich?srid=cgo
 - https://github.com/uclmr/stat-nlp-book
