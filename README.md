@@ -175,6 +175,7 @@ Twitter:
 
 25.10
 
+- https://github.com/uclmr/stat-nlp-book
 - http://varianceexplained.org/r/bayesian-ab-testing/
 - to try GA in R: https://github.com/michalbrys/R-Google-Analytics
 
