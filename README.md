@@ -173,6 +173,11 @@ Twitter:
 
 # Timeline
 
+25.10
+
+- http://varianceexplained.org/r/bayesian-ab-testing/
+- to try GA in R: https://github.com/michalbrys/R-Google-Analytics
+
 24.10
 
 - unsup langid: http://blog.echen.me/2011/05/01/unsupervised-language-detection-algorithms/
