@@ -173,6 +173,10 @@ Twitter:
 
 # Timeline
 
+26.10
+
+- cntk rank 7: https://github.com/Microsoft/CNTK
+
 25.10
 
 - google brain, reading, notes, papers of Denny: https://github.com/dennybritz/cnn-text-classification-tf
