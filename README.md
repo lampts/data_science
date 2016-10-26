@@ -10,6 +10,12 @@ Pin:
 - Natural languague inference NLI: https://github.com/Smerity/keras_snli
 - ACL: http://www.aclweb.org/anthology/P/P16/
 
+Data type: NOQ
+
+- Nominal (N):cat, dog --> x,o | vis: shape, color
+- Ordinal (O): Jan - Feb - Mar - Apr | vis: area, density
+- Quantitative (Q): numerical 0.42, 0.58 | vis: length, position
+
 People:
 
 - Graham CMU: http://www.phontron.com/teaching.php, https://github.com/neubig/
@@ -175,6 +181,7 @@ Twitter:
 
 26.10
 
+- how to make a data vis: https://drive.google.com/drive/folders/0BxYkKyLxfsNVd0xicUVDS1dIS0k
 - cntk: https://t.co/lMdjVfTKgE
 - torch fast softmax: https://code.facebook.com/posts/1827693967466780/
 - lua, rnn generates clickbait https://github.com/larspars/word-rnn
