@@ -175,6 +175,10 @@ Twitter:
 
 26.10
 
+- cntk: https://t.co/lMdjVfTKgE
+- torch fast softmax: https://code.facebook.com/posts/1827693967466780/
+- lua, rnn generates clickbait https://github.com/larspars/word-rnn
+- https://github.com/sindbach/doc2vec_pymongo
 - cntk rank 7: https://github.com/Microsoft/CNTK
 
 25.10
