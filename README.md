@@ -179,6 +179,10 @@ Twitter:
 
 # Timeline
 
+27.10
+
+- gensim in Russian at Yandex: https://www.youtube.com/watch?v=U0LOSHY7U5Q
+
 26.10
 
 - how to make a data vis: https://drive.google.com/drive/folders/0BxYkKyLxfsNVd0xicUVDS1dIS0k
