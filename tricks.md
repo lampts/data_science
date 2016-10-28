@@ -1,6 +1,10 @@
 Tricks for productivity
 ----
 
+- train skipthoughts
+
+sudo THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 python st_finser.py
+
 
 - unzip glove word2vec
 
