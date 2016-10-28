@@ -181,6 +181,7 @@ Twitter:
 
 28.10
 
+- stock vis, phvu: https://github.com/phvu/misc/tree/master/stock_visualizer
 - https://github.com/blue-yonder/tsfresh
 
 
