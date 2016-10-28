@@ -181,6 +181,7 @@ Twitter:
 
 28.10
 
+- nyu dl4mt: https://github.com/nyu-dl/dl4mt-tutorial
 - stock vis, phvu: https://github.com/phvu/misc/tree/master/stock_visualizer
 - https://github.com/blue-yonder/tsfresh
 
