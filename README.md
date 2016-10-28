@@ -179,6 +179,11 @@ Twitter:
 
 # Timeline
 
+28.10
+
+- https://github.com/blue-yonder/tsfresh
+
+
 27.10
 
 - gensim in Russian at Yandex: https://www.youtube.com/watch?v=U0LOSHY7U5Q
