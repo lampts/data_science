@@ -179,6 +179,11 @@ Twitter:
 
 # Timeline
 
+29.10
+
+- multi-tag doc2vec: https://github.com/sindbach/doc2vec_pymongo
+- https://dineshrai.herokuapp.com/posts/how-i-used-scikit-learn-to-find-good-eyes
+
 28.10
 
 - nyu dl4mt: https://github.com/nyu-dl/dl4mt-tutorial
