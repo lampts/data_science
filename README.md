@@ -179,6 +179,11 @@ Twitter:
 
 # Timeline
 
+30.10
+
+- https://www.oreilly.com/ideas/what-is-hardcore-data-science-in-practice?platform=hootsuite
+- hybrid neural networks with memory: alex grave, Nature.
+
 29.10
 
 - multi-tag doc2vec: https://github.com/sindbach/doc2vec_pymongo
