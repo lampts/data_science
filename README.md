@@ -179,6 +179,10 @@ Twitter:
 
 # Timeline
 
+31.10
+
+- memory and attention, pointer: http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/75
+
 30.10
 
 - https://www.oreilly.com/ideas/what-is-hardcore-data-science-in-practice?platform=hootsuite
