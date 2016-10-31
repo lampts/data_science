@@ -181,6 +181,7 @@ Twitter:
 
 31.10
 
+- attention lstm: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
 - memory and attention, pointer: http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/75
 
 30.10
