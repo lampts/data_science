@@ -182,7 +182,8 @@ Twitter:
 1.11
 
 - mongodb: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
-- 
+- https://github.com/explosion/spaCy/tree/master/examples/keras_parikh_entailment
+- decompositional attetion: https://arxiv.org/pdf/1606.01933v2.pdf
 
 31.10
 
