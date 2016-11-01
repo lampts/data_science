@@ -179,6 +179,11 @@ Twitter:
 
 # Timeline
 
+1.11
+
+- mongodb: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+- 
+
 31.10
 
 - attention lstm: http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
