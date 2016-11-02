@@ -190,6 +190,7 @@ Deep Learning Frameworks/Toolkits:
 
 2.11
 
+- mask bilstm: http://dirko.github.io/Bidirectional-LSTMs-with-Keras/
 - https://github.com/clab/dynet_tutorial_examples
 - data scientist at Facebook: https://tctechcrunch2011.files.wordpress.com/2016/11/data-scientist.png?w=80&h=60&crop=1
 - reality vs expectation: https://pbs.twimg.com/media/CwNNnXfXEAIT-kY.jpg
