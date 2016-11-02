@@ -175,9 +175,26 @@ Twitter:
 
 - http://nlp.stanford.edu/projects/glove/preprocess-twitter.rb
 
+Deep Learning Frameworks/Toolkits:
+
+- Tensorflow
+- Torch
+- Theano
+- Keras
+- Dynet
+- CNTK
+
 ----
 
 # Timeline
+
+2.11
+
+- https://github.com/clab/dynet_tutorial_examples
+- data scientist at Facebook: https://tctechcrunch2011.files.wordpress.com/2016/11/data-scientist.png?w=80&h=60&crop=1
+- reality vs expectation: https://pbs.twimg.com/media/CwNNnXfXEAIT-kY.jpg
+- swagger + flask: http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
+- godfather of vis: https://pbs.twimg.com/media/CwNEBlsXYAAOm8G.jpg
 
 1.11
 
