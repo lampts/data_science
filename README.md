@@ -40,9 +40,15 @@ Books:
 - http://neuralnetworksanddeeplearning.com/index.html
 - u.cs.biu.ac.il/~yogo/nnlp.pdf
 
-Coming soon:
+Ongoing:
 
-- EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
+1. EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
+
+- Dynet (CMU: https://t.co/nSCkBt0i0F
+- lifelong ML (Google): http://www.emnlp2016.net/tutorials/chen-liu-t3.pdf
+- Markov logic for scalable joint inference: http://www.emnlp2016.net/tutorials/venugopal-gogate-ng-t2.pdf
+- good summary of sentiment analysis with NN (Singapore): http://www.emnlp2016.net/tutorials/zhang-vo-t4.pdf
+- structure prediction (POS, NER)(Singapore): http://www.emnlp2016.net/tutorials/sun-feng-t6.pdf
 
 Done:
 
@@ -194,6 +200,11 @@ Attention based:
 ----
 
 # Timeline
+
+3.11
+
+- shallow learn: gensim + fasttext: https://github.com/giacbrd/ShallowLearn
+- nn for sa: http://www.emnlp2016.net/tutorials/zhang-vo-t4.pdf
 
 2.11
 
