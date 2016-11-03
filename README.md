@@ -203,6 +203,7 @@ Attention based:
 
 3.11
 
+- https://hbr.org/resources/pdfs/hbr-articles/2016/11/the_state_of_machine_intelligence.pdf
 - shallow learn: gensim + fasttext: https://github.com/giacbrd/ShallowLearn
 - nn for sa: http://www.emnlp2016.net/tutorials/zhang-vo-t4.pdf
 
