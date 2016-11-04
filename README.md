@@ -190,6 +190,11 @@ Deep Learning Frameworks/Toolkits:
 - Dynet
 - CNTK
 
+ElasticSearch + Kibana:
+
+- install ES 2.4 + Kibana: default sense in console 5601
+- http://ghostweather.slides.com/lynncherny/deck
+
 
 Attention based:
 
