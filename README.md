@@ -201,6 +201,14 @@ Attention based:
 
 # Timeline
 
+04.11
+
+- airbnb knowledge scale: https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.5moos4eki
+- R notebooks: http://rmarkdown.rstudio.com/r_notebooks.html
+- dask: https://github.com/dask/dask
+- dask vs celery: http://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery
+- dask in jupyperlab: https://learning.acm.org/webinar_pdfs/ChristineDoig_WebinarSlides.pdf
+
 3.11
 
 - https://hbr.org/resources/pdfs/hbr-articles/2016/11/the_state_of_machine_intelligence.pdf
