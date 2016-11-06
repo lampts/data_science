@@ -206,6 +206,10 @@ Attention based:
 
 # Timeline
 
+6.11
+
+- https://github.com/Keats/rodent
+
 04.11
 
 - airbnb knowledge scale: https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.5moos4eki
