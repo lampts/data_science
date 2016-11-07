@@ -6,7 +6,7 @@ Events: I will put word cloud for that.
 - ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
 - open review: http://openreview.net/group?id=ICLR.cc/2017/conference
 
-[wordcloud!](https://pbs.twimg.com/media/CwoTgnWUsAADduo.png)
+![wordcloud](https://pbs.twimg.com/media/CwoTgnWUsAADduo.png)
 
 Pin: 
 
