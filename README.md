@@ -1,6 +1,12 @@
 
 # data_science
 
+Events: I will put word cloud for that.
+
+- ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
+- open review: http://openreview.net/group?id=ICLR.cc/2017/conference
+
+
 Pin: 
 
 - semantic scholar: https://www.semanticscholar.org/
@@ -40,7 +46,7 @@ Books:
 - http://neuralnetworksanddeeplearning.com/index.html
 - u.cs.biu.ac.il/~yogo/nnlp.pdf
 
-Ongoing:
+Done:
 
 1. EMNLP 2016, Austin, 2-4 Nov: http://www.emnlp2016.net/tutorials.html#practical
 
@@ -49,8 +55,6 @@ Ongoing:
 - Markov logic for scalable joint inference: http://www.emnlp2016.net/tutorials/venugopal-gogate-ng-t2.pdf
 - good summary of sentiment analysis with NN (Singapore): http://www.emnlp2016.net/tutorials/zhang-vo-t4.pdf
 - structure prediction (POS, NER)(Singapore): http://www.emnlp2016.net/tutorials/sun-feng-t6.pdf
-
-Done:
 
 - BADLS: 2 day conference at Stanford university
 
