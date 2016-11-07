@@ -210,6 +210,11 @@ Attention based:
 
 # Timeline
 
+7.11
+
+- similarity proximity: http://www.datasciencecentral.com/profiles/blogs/comparison-between-global-vs-local-normalization-of-tweets-and
+- 
+
 6.11
 
 - https://github.com/Keats/rodent
