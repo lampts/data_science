@@ -219,6 +219,7 @@ ResNet: Residual Networks
 
 7.11
 
+- https://github.com/vinhkhuc/MemN2N-babi-python
 - similarity proximity: http://www.datasciencecentral.com/profiles/blogs/comparison-between-global-vs-local-normalization-of-tweets-and
 - pycon15, elastic search: https://github.com/erikrose/elasticsearch-tutorial
 
