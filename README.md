@@ -214,7 +214,7 @@ Attention based:
 7.11
 
 - similarity proximity: http://www.datasciencecentral.com/profiles/blogs/comparison-between-global-vs-local-normalization-of-tweets-and
-- 
+- pycon15, elastic search: https://github.com/erikrose/elasticsearch-tutorial
 
 6.11
 
