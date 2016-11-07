@@ -207,6 +207,12 @@ Attention based:
 - customized lstm with attention: http://benjaminbolte.com/blog/2016/keras-language-modeling.html
 - vis + cnn + lstm: https://blog.heuritech.com/2016/01/20/attention-mechanism/
 
+
+ResNet: Residual Networks
+
+- http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html
+- how deep Vgg 16,19 vs 152 200 layers: https://www.reddit.com/r/MachineLearning/comments/4cmcfs/how_can_resnet_cnn_go_deep_to_152_layers_and_200/
+- http://www.slideshare.net/Textkernel/practical-deep-learning-for-nlp
 ----
 
 # Timeline
