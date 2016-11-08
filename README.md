@@ -217,6 +217,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+8.11
+
+- quoc le, rnn with reinforcement learning: http://openreview.net/pdf?id=r1Ue8Hcxg
+
 7.11
 
 - https://github.com/vinhkhuc/MemN2N-babi-python
