@@ -217,6 +217,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+9.11
+
+- ibm researcher, lda gib sampling, doc2vec: https://github.com/jhlau
+
 8.11
 
 - quoc le, rnn with reinforcement learning: http://openreview.net/pdf?id=r1Ue8Hcxg
