@@ -217,6 +217,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+10.11
+
+- https://arxiv.org/pdf/1508.06615.pdf
+
+
 9.11
 
 - ibm researcher, lda gib sampling, doc2vec: https://github.com/jhlau
