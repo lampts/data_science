@@ -219,6 +219,8 @@ ResNet: Residual Networks
 
 11.11
 
+- https://github.com/wiki-ai/revscoring
+- Visual OCR attention: https://github.com/da03/Attention-OCR
 - startup and DL: https://github.com/lipiji/App-DL
 - embed + encode + attend + predict: https://explosion.ai/blog/deep-learning-formula-nlp
 - HN: https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf
