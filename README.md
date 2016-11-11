@@ -1,6 +1,8 @@
 
 # data_science
 
+> "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
+
 Events: I will put word cloud for that.
 
 - ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
