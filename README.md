@@ -219,6 +219,7 @@ ResNet: Residual Networks
 
 11.11
 
+- startup and DL: https://github.com/lipiji/App-DL
 - embed + encode + attend + predict: https://explosion.ai/blog/deep-learning-formula-nlp
 - HN: https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf
 
