@@ -217,6 +217,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+11.11
+
+- embed + encode + attend + predict: https://explosion.ai/blog/deep-learning-formula-nlp
+- HN: https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf
+
 10.11
 
 - https://arxiv.org/pdf/1508.06615.pdf
