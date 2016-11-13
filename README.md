@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+13.11
+
+- barcampsaigon 2016: some good topics on Elastic Search (Duy Do), Big Data analytics (Trieu Nguyen)
+- Altair https://speakerdeck.com/jakevdp/visualization-in-python-with-altair
+
 12.11
 
 - Applications to explore (most of them are keras based)
