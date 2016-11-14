@@ -223,6 +223,8 @@ ResNet: Residual Networks
 
 - event ODSC West: https://www.odsc.com/california
 - MLconf SF 12 Nov, summary: https://github.com/adarsh0806/ODSCWest/blob/master/MLConf.md
+- Duy Do talk: https://speakerdeck.com/duydo/elasticsearch-for-data-engineers
+
 
 13.11
 
