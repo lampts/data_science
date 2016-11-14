@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+14.11
+
+- event ODSC West: https://www.odsc.com/california
+- MLconf SF 12 Nov, summary: https://github.com/adarsh0806/ODSCWest/blob/master/MLConf.md
+
 13.11
 
 - barcampsaigon 2016: some good topics on Elastic Search (Duy Do), Big Data analytics (Trieu Nguyen)
