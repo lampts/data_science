@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 15.11
 
+- recurrent + cnn for text classification: https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier
 - quiver: to view convnet layer https://github.com/jakebian/quiver
 - hera: to see training progress board: https://github.com/jakebian/hera
 - RAISR: Rapid and Accurate Image Super Resolution https://arxiv.org/pdf/1606.01299v3.pdf
