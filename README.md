@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 15.11
 
+- regex learning: http://dlacombejr.github.io/2016/11/13/deep-learning-for-regex.html
 - recurrent + cnn for text classification: https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier
 - quiver: to view convnet layer https://github.com/jakebian/quiver
 - hera: to see training progress board: https://github.com/jakebian/hera
