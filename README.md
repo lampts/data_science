@@ -223,7 +223,7 @@ ResNet: Residual Networks
 
 - quiver: to view convnet layer https://github.com/jakebian/quiver
 - hera: to see training progress board: https://github.com/jakebian/hera
-- google image https://arxiv.org/pdf/1606.01299v3.pdf
+- RAISR: Rapid and Accurate Image Super Resolution https://arxiv.org/pdf/1606.01299v3.pdf
 - why is machine learning hard: http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html
 
 14.11
