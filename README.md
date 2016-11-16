@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+16.11
+
+- multiple tasks of NLP: https://arxiv.org/pdf/1611.01587v2.pdf
+- QUASI RNN: https://arxiv.org/pdf/1611.01576v1.pdf
+
 15.11
 
 - regex learning: http://dlacombejr.github.io/2016/11/13/deep-learning-for-regex.html
