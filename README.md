@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 16.11
 
+- dssm deep sem sim models: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/wsdm2015.v3.pdf
 - twitter @ Singapore: http://www.straitstimes.com/singapore/twitter-eyes-local-talent-for-singapore-data-science-team
 - multiple tasks of NLP: https://arxiv.org/pdf/1611.01587v2.pdf
 - QUASI RNN: https://arxiv.org/pdf/1611.01576v1.pdf
