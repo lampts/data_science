@@ -219,6 +219,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+17.11
+
+- google translate: https://arxiv.org/pdf/1611.04558v1.pdf
+- https://arxiv.org/pdf/1611.05104v1.pdf
+- https://arxiv.org/pdf/1611.01587v2.pdf
+
 16.11
 
 - dssm deep sem sim models: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/wsdm2015.v3.pdf
