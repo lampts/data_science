@@ -221,6 +221,8 @@ ResNet: Residual Networks
 
 17.11
 
+- wikidata: http://www.slideshare.net/_Emw/an-ambitious-wikidata-tutorial
+- wptools: https://github.com/siznax/wptools/wiki
 - google translate: https://arxiv.org/pdf/1611.04558v1.pdf
 - https://arxiv.org/pdf/1611.05104v1.pdf
 - https://arxiv.org/pdf/1611.01587v2.pdf
