@@ -219,6 +219,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+18.11
+
+- wikidata sparql: https://docs.google.com/presentation/d/16HhxRH-kkxqxcyzepXT-dHrnE90yVPlfkPq3cM2UzFg/edit#slide=id.g18e33c9ee6_2_134
+- unkify: https://github.com/cdg720/emnlp2016/blob/master/utils.py#L322
+- http://smerity.com/articles/2016/google_nmt_arch.html
+
 17.11
 
 - wikidata: http://www.slideshare.net/_Emw/an-ambitious-wikidata-tutorial
