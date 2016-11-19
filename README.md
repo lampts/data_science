@@ -219,6 +219,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+19.11
+
+- transfer learning using pretrained vgg, resnet for your problem: https://github.com/dolaameng/transfer-learning-lab
+
 18.11
 
 - wikidata sparql: https://docs.google.com/presentation/d/16HhxRH-kkxqxcyzepXT-dHrnE90yVPlfkPq3cM2UzFg/edit#slide=id.g18e33c9ee6_2_134
