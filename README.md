@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 19.11
 
+- theano summer school: https://github.com/mila-udem/summerschool2015
 - gpu card for macbook pro: http://udibr.github.io/using-external-gtx-980-with-macbook-pro.html
 - transfer learning using pretrained vgg, resnet for your problem: https://github.com/dolaameng/transfer-learning-lab
 
