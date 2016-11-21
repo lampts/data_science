@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 21.11
 
+- sparql in python: https://joernhees.de/blog/tag/install/
 - minhash: http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/
 - beating the kaggle easy way: http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf
 
