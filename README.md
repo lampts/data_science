@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+21.11
+
+- minhash: http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/
+- beating the kaggle easy way: http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf
+
 19.11
 
 - 10 takeaways writeup MLConf SF: https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/
