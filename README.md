@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 22.11
 
+- stance detection: favour or against: http://isabelleaugenstein.github.io/papers/SemEval2016-Stance.pdf
 - Hugo from Twitter to Google Brain, Montreal: https://techcrunch.com/2016/11/21/google-opens-new-ai-lab-and-invests-3-4m-in-montreal-based-ai-research/?sr_share=facebook
 - train word2vec in gensim in good way: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
 
