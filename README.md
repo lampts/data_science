@@ -219,6 +219,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+22.11
+
+- Hugo from Twitter to Google Brain, Montreal: https://techcrunch.com/2016/11/21/google-opens-new-ai-lab-and-invests-3-4m-in-montreal-based-ai-research/?sr_share=facebook
+
 21.11
 
 - sparql in python: https://joernhees.de/blog/tag/install/
