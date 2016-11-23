@@ -219,6 +219,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+23.11
+
+- CAP: Clustering Association Prediction, stas thinking https://www.researchgate.net/publication/310597778_Scientific_discovery_through_statistics
+
 22.11
 
 - stance detection: favour or against: http://isabelleaugenstein.github.io/papers/SemEval2016-Stance.pdf
