@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 23.11
 
+- torch vs theano vs tf: https://www.quora.com/Is-TensorFlow-better-than-other-leading-libraries-such-as-Torch-Theano
 - debug Deep Learning: https://gab41.lab41.org/some-tips-for-debugging-deep-learning-3f69e56ea134#.1ldbphlav
 - CAP: Clustering Association Prediction, stas thinking https://www.researchgate.net/publication/310597778_Scientific_discovery_through_statistics
 
