@@ -221,8 +221,19 @@ ResNet: Residual Networks
 
 23.11
 
+Multithread in Theano:
+
+- check your blas: https://raw.githubusercontent.com/Theano/Theano/master/theano/misc/check_blas.py
+- http://deeplearning.net/software/theano/tutorial/multi_cores.html?highlight=multi%20co
+- https://github.com/Theano/Theano/issues/3239
+- set OMP_NUM_THREADS=4 inside the notebook with env: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
+Debug
+
 - torch vs theano vs tf: https://www.quora.com/Is-TensorFlow-better-than-other-leading-libraries-such-as-Torch-Theano
 - debug Deep Learning: https://gab41.lab41.org/some-tips-for-debugging-deep-learning-3f69e56ea134#.1ldbphlav
+- negative loss: https://github.com/fchollet/keras/issues/1917
+
 - CAP: Clustering Association Prediction, stas thinking https://www.researchgate.net/publication/310597778_Scientific_discovery_through_statistics
 
 22.11
