@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 24.11
 
+- chinese NLP: https://github.com/taozhijiang/chinese_nlp
 - not news: http://venturebeat.com/2016/11/23/twitter-cortex-team-loses-some-ai-researchers/
 - sentihood: http://annotate-neighborhood.com/download/download.html, https://arxiv.org/pdf/1610.03771v1.pdf
 
