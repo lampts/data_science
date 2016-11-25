@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+25.11
+
+- vo duy tin: https://github.com/duytinvo
+- https://spacy.io/docs/usage/entity-recognition
+
 24.11
 
 - chinese NLP: https://github.com/taozhijiang/chinese_nlp
