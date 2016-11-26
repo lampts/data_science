@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+26.11
+
+- slides from mlconf sf 2016:http://www.slideshare.net/SessionsEvents/anjuli-kannan-software-engineer-google-at-mlconf-sf-2016
+- http://www.slideshare.net/KenjiEsaki/kdd-2016-slide
+
 25.11
 
 - vo duy tin: https://github.com/duytinvo
