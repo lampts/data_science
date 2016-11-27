@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+27.11
+
+- http://www.slideshare.net/PyData/fang-xu-enriching-content-with-knowledge-base-by-search-keywords-and-wikidata
+- 
+
 26.11
 
 - slides from mlconf sf 2016:http://www.slideshare.net/SessionsEvents/anjuli-kannan-software-engineer-google-at-mlconf-sf-2016
