@@ -219,10 +219,15 @@ ResNet: Residual Networks
 
 # Timeline
 
+28.11
+
+- event detection and deep learning: http://www.cs.nyu.edu/~thien/
+
+
 27.11
 
 - http://www.slideshare.net/PyData/fang-xu-enriching-content-with-knowledge-base-by-search-keywords-and-wikidata
-- 
+- https://www.mediawiki.org/wiki/Wikidata_query_service/User_Manual
 
 26.11
 
