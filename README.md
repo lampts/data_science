@@ -222,7 +222,8 @@ ResNet: Residual Networks
 28.11
 
 - event detection and deep learning: http://www.cs.nyu.edu/~thien/
-
+- https://github.com/anoperson/NeuralNetworksForRE
+- ED EE and MD with RNN and CNN: http://www.aclweb.org/anthology/P/P15/P15-2060.pdf
 
 27.11
 
