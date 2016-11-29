@@ -221,6 +221,8 @@ ResNet: Residual Networks
 
 29.11
 
+- https://github.com/nyu-dl/NLP_DL_Lecture_Note
+- NYU DL for NLP https://docs.google.com/document/d/1YS5QRvqMJVs9n3sK5fFjuldY7_vh42C5uUfxUGgL-Gc/edit
 - http://tuanvannguyen.blogspot.com/2016/11/machine-learning-la-gi.html
 - http://sebastianruder.com/cross-lingual-embeddings/
 - https://docs.google.com/presentation/d/1O-Ics69y445aWuxQ_VW6SDvKT9BGl3ZXLLZDG9tUiUY/edit#slide=id.p
