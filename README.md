@@ -219,6 +219,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+29.11
+
+- http://tuanvannguyen.blogspot.com/2016/11/machine-learning-la-gi.html
+- http://sebastianruder.com/cross-lingual-embeddings/
+- https://docs.google.com/presentation/d/1O-Ics69y445aWuxQ_VW6SDvKT9BGl3ZXLLZDG9tUiUY/edit#slide=id.p
+
 28.11
 
 - event detection and deep learning: http://www.cs.nyu.edu/~thien/
