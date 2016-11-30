@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 30.11
 
+- rnn tricks: http://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml
 - data mining in action: Moscow, Russia: https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
 - hypo testing, birthday effect: http://www.slideshare.net/SergeyIvanov105/birthday-effect-67829860
 - LUI: linguistic UI https://medium.com/swlh/a-natural-language-user-interface-is-just-a-user-interface-4a6d898e9721
