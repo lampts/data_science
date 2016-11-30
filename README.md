@@ -219,6 +219,17 @@ ResNet: Residual Networks
 
 # Timeline
 
+30.11
+
+- LUI: linguistic UI https://medium.com/swlh/a-natural-language-user-interface-is-just-a-user-interface-4a6d898e9721
+- fake news is 80% accuracy better: http://www.mallikarjunan.com/verytas/how-good-are-you-at-recognizing-satire-quiz
+- nampi, spain 2017
+- decode thought vector: http://gabgoh.github.io/ThoughtVectors/
+- unstrained fmin: https://github.com/benfred/fmin
+- neural programmer: https://github.com/tensorflow/models/tree/master/neural_programmer
+- https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html#tensorboard-embedding-visualization
+
+
 29.11
 
 - https://github.com/nyu-dl/NLP_DL_Lecture_Note
