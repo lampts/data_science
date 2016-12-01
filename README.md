@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+1.12
+
+- accuracy of lunar chinese calendar to predict baby sex http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2010.01129.x/abstract;
+
+
 30.11
 
 - rnn tricks: http://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml
