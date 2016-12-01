@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 1.12
 
+- siamese lstm: https://github.com/aditya1503/Siamese-LSTM
 - accuracy of lunar chinese calendar to predict baby sex http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2010.01129.x/abstract;
 - customized keras lambda: https://gist.github.com/keunwoochoi
 
