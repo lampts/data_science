@@ -219,6 +219,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+2.12
+
+- https://github.com/cgpotts/cs224u
+
 1.12
 
 - https://gist.github.com/honnibal
