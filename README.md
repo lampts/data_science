@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 5.12
 
+- semantic role labelings: https://blog.acolyer.org/2016/07/05/end-to-end-learning-of-semantic-role-labeling-using-recurrent-neural-networks/
 - ml yearning: https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
 - stock embedding:https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.9q1d9hnai
 - fast weights: https://github.com/ajarai
