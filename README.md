@@ -219,6 +219,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+5.12
+
+- ml yearning: https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
+- stock embedding:https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.9q1d9hnai
+- fast weights: https://github.com/ajarai
+
 2.12
 
 - https://github.com/cgpotts/cs224u
