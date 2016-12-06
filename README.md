@@ -221,6 +221,8 @@ ResNet: Residual Networks
 
 6.12
 
+- thanapon noraset: https://northanapon.github.io/read/
+- https://github.com/NorThanapon/adaptive_lm
 - train general AI: https://openai.com/blog/universe/
 - NIPS 2016 https://nips.cc/Conferences/2016/Schedule
 - full ds notebook: https://github.com/donnemartin/data-science-ipython-notebooks
