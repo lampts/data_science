@@ -219,6 +219,16 @@ ResNet: Residual Networks
 
 # Timeline
 
+6.12
+
+- train general AI: https://openai.com/blog/universe/
+- NIPS 2016 https://nips.cc/Conferences/2016/Schedule
+- full ds notebook: https://github.com/donnemartin/data-science-ipython-notebooks
+- Quoc Le, tut2: Autoencoder, CNN, RNN: http://ai.stanford.edu/~quocle/tutorial2.pdf
+- Quoc Le, tut1: nonlinear classifier and backprop: http://ai.stanford.edu/~quocle/tutorial1.pdf
+- Quoc Le, ex1: http://ai.stanford.edu/~quocle/exercise1.py
+- https://alexanderdyakonov.wordpress.com/2016/12/04/сундуки-и-монеты/#more-4401
+
 5.12
 
 - semantic role labelings: https://blog.acolyer.org/2016/07/05/end-to-end-learning-of-semantic-role-labeling-using-recurrent-neural-networks/
