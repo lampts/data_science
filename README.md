@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 6.12
 
+- rationale cnn [keras] https://github.com/bwallace/rationale-CNN
 - churn analysis, f1 75%, lr, svm hinge: http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9849/9527
 - thanapon noraset: https://northanapon.github.io/read/
 - https://github.com/NorThanapon/adaptive_lm
