@@ -219,6 +219,14 @@ ResNet: Residual Networks
 
 # Timeline
 
+7.12
+
+- tidy data in pandas: http://www.jeannicholashould.com/tidy-data-in-python.html
+- graph db: https://blog.grakn.ai/adding-semantics-to-graph-databases-with-mindmapsdb-part-1-82022bbb3b1c
+- https://github.com/mikonapoli
+- http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf
+- https://pdfs.semanticscholar.org/5f55/c5535e80d3e5ed7f1f0b89531e32725faff5.pdf
+
 6.12
 
 - rationale cnn [keras] https://github.com/bwallace/rationale-CNN
