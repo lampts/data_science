@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+8.12
+
+- dl4nlp at ukplab, Germany: https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2016-11_Seminar
+- Filter bubble vs Info cascading, Eli Pariser: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+
 7.12
 
 - tidy data in pandas: http://www.jeannicholashould.com/tidy-data-in-python.html
