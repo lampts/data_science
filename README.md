@@ -221,6 +221,8 @@ ResNet: Residual Networks
 
 8.12
 
+- tensorboard: https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html
+- embedding projector: http://projector.tensorflow.org/ 
 - dl4nlp at ukplab, Germany: https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2016-11_Seminar
 - Filter bubble vs Info cascading, Eli Pariser: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
 
