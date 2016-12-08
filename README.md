@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 8.12
 
+- hackermath: https://github.com/amitkaps/hackermath/blob/master/talk.pdf
 - tensorboard: https://www.tensorflow.org/versions/master/how_tos/embedding_viz/index.html
 - embedding projector: http://projector.tensorflow.org/ 
 - dl4nlp at ukplab, Germany: https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2016-11_Seminar
