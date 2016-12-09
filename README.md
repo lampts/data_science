@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 9.12
 
+- if then learning: https://papers.nips.cc/paper/6284-latent-attention-for-if-then-program-synthesis.pdf
 - reinforcement learning: https://github.com/DanielTakeshi
 - NIPS 2016: https://github.com/mphuget/NIPS2016
 - https://github.com/zelandiya/KiwiPyCon-NLP-tutorial
