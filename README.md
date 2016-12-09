@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+9.12
+
+- https://arxiv.org/abs/1606.04474
+- https://github.com/deepmind/learning-to-learn
+
 8.12
 
 - hackermath: https://github.com/amitkaps/hackermath/blob/master/talk.pdf
