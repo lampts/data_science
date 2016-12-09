@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 9.12
 
+- reinforcement learning: https://github.com/DanielTakeshi
 - NIPS 2016: https://github.com/mphuget/NIPS2016
 - https://github.com/zelandiya/KiwiPyCon-NLP-tutorial
 - http://www.wrangleconf.com/apac.html
