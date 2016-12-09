@@ -221,6 +221,7 @@ ResNet: Residual Networks
 
 9.12
 
+- clickbait F1 98, AUC 99, too good too be true: https://arxiv.org/pdf/1612.01340v1.pdf
 - https://arxiv.org/abs/1606.04474
 - https://github.com/deepmind/learning-to-learn
 
