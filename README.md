@@ -219,6 +219,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+11.12
+
+- SRL and RC: https://github.com/jiangfeng1124/emnlp14-semi, http://ir.hit.edu.cn/~jguo/papers/coling2016-mtlsrc.pdf
+- https://blog.insightdatascience.com/nips-2016-day-3-highlights-robots-that-know-cars-that-see-and-more-1ec958896791
+- 
+
 9.12
 
 - if then learning: https://papers.nips.cc/paper/6284-latent-attention-for-if-then-program-synthesis.pdf
