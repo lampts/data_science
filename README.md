@@ -223,7 +223,10 @@ ResNet: Residual Networks
 
 - SRL and RC: https://github.com/jiangfeng1124/emnlp14-semi, http://ir.hit.edu.cn/~jguo/papers/coling2016-mtlsrc.pdf
 - https://blog.insightdatascience.com/nips-2016-day-3-highlights-robots-that-know-cars-that-see-and-more-1ec958896791
-- 
+- http://www.newsreader-project.eu/files/2012/12/NWR-D5-2-1.pdf
+- http://nlesc.github.io/UncertaintyVisualization/
+- http://ixa2.si.ehu.es/nrdemo/demo.php
+- http://ir.hit.edu.cn/~jguo/papers/coling2016-mtlsrc.pdf
 
 9.12
 
