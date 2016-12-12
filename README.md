@@ -222,7 +222,7 @@ ResNet: Residual Networks
 12.12
 
 - arctic captions: https://github.com/kelvinxu/arctic-captions/blob/master/alpha_visualization.ipynb
-
+- COLING 2016 from 13 to 16 Dec, Japan: https://github.com/napsternxg/TwitterNER, http://coling2016.anlp.jp/
 
 11.12
 
