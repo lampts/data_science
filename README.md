@@ -219,6 +219,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+12.12
+
+- arctic captions: https://github.com/kelvinxu/arctic-captions/blob/master/alpha_visualization.ipynb
+
+
 11.12
 
 - SRL and RC: https://github.com/jiangfeng1124/emnlp14-semi, http://ir.hit.edu.cn/~jguo/papers/coling2016-mtlsrc.pdf
