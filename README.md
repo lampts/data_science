@@ -5,6 +5,8 @@
 
 Events: I will put word cloud for that.
 
+
+- Coling 2016, Osaka Japan: http://coling2016.anlp.jp/
 - ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
 - open review: http://openreview.net/group?id=ICLR.cc/2017/conference
 
@@ -219,8 +221,12 @@ ResNet: Residual Networks
 
 # Timeline
 
+
 12.12
 
+- Relation classification (RC) via data augmentation: https://arxiv.org/abs/1601.03651
+- broader twitter NER: http://www.slideshare.net/leonderczynski/broad-twitter-corpus-a-diverse-named-entity-recognition-resource
+- sequence classification such as NER, POS: https://github.com/napsternxg/DeepSequenceClassification
 - arctic captions: https://github.com/kelvinxu/arctic-captions/blob/master/alpha_visualization.ipynb
 - COLING 2016 from 13 to 16 Dec, Japan: https://github.com/napsternxg/TwitterNER, http://coling2016.anlp.jp/
 
