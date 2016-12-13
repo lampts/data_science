@@ -223,6 +223,7 @@ ResNet: Residual Networks
 
 13.12
 
+- how to choose batch size: https://github.com/karpathy/char-rnn, https://svail.github.io/rnn_perf/, http://axon.cs.byu.edu/papers/Wilson.nn03.batch.pdf
 - https://github.com/lmthang/thesis
 
 12.12
