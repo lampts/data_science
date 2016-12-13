@@ -223,6 +223,7 @@ ResNet: Residual Networks
 
 13.12
 
+- NIPs summary: http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html
 - how to choose batch size: https://github.com/karpathy/char-rnn, https://svail.github.io/rnn_perf/, http://axon.cs.byu.edu/papers/Wilson.nn03.batch.pdf
 - https://github.com/lmthang/thesis
 
