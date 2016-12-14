@@ -221,6 +221,13 @@ ResNet: Residual Networks
 
 # Timeline
 
+14.12
+
+- 300+ ML projects from Stanford: http://cs229.stanford.edu/PosterSessionProgram.pdf
+- NIPs 2016 codes: https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/
+- Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences: https://github.com/dannyneil/public_plstm
+
+
 13.12
 
 - NIPs summary: http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html
