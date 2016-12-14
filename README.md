@@ -223,6 +223,7 @@ ResNet: Residual Networks
 
 14.12
 
+- psychometrics, precision marketing, privacy no longer: http://www.michalkosinski.com/
 - 300+ ML projects from Stanford: http://cs229.stanford.edu/PosterSessionProgram.pdf
 - NIPs 2016 codes: https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences: https://github.com/dannyneil/public_plstm
