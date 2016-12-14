@@ -10,7 +10,12 @@ Events: I will put word cloud for that.
 - ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
 - open review: http://openreview.net/group?id=ICLR.cc/2017/conference
 
-![wordcloud](https://pbs.twimg.com/media/CwoTgnWUsAADduo.png)
+## NIPs 2016 slides
+
+- Ian GAN tut: http://www.iangoodfellow.com/slides/2016-12-9-gans.pdf
+- Ng nuts and bolts: https://www.dropbox.com/s/dyjdq1prjbs8pmc/NIPS2016%20-%20Pages%202-6%20(1).pdf
+- variational inference: http://www.cs.columbia.edu/~blei/talks/2016_NIPS_VI_tutorial.pdf
+
 
 Pin: 
 
