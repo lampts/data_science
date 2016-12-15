@@ -226,6 +226,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+15.12
+
+- http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0
+- http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/
+
 14.12
 
 - spacy vs nltk: https://gist.github.com/rschroll/61b20c41e984a963df2870cfc9e628ed
