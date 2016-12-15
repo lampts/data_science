@@ -228,6 +228,7 @@ ResNet: Residual Networks
 
 15.12
 
+- https://www.technologyreview.com/s/603137/deep-learning-machine-listens-to-bach-then-writes-its-own-music-in-the-same-style/
 - http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0
 - http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/
 
