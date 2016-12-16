@@ -226,6 +226,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+16.12
+
+- tensorflow book with code: https://github.com/BinRoot/TensorFlow-Book
+
 15.12
 
 - deepbach: https://github.com/SonyCSL-Paris/DeepBach
