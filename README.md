@@ -229,6 +229,7 @@ ResNet: Residual Networks
 16.12
 
 - tensorflow book with code: https://github.com/BinRoot/TensorFlow-Book
+- trading with ML (Georgia university): https://www.udacity.com/course/machine-learning-for-trading--ud501
 
 15.12
 
