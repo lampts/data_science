@@ -226,6 +226,10 @@ ResNet: Residual Networks
 
 # Timeline
 
+17.12
+
+- https://github.com/jwkvam/bowtie
+
 16.12
 
 - tensorflow book with code: https://github.com/BinRoot/TensorFlow-Book
