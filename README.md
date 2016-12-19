@@ -226,6 +226,13 @@ ResNet: Residual Networks
 
 # Timeline
 
+19.12
+
+- bi sequence classification: same SNLI, event detection: https://pdfs.semanticscholar.org/6f42/cb23262066b4034aba99bf674783ed6cac8b.pdf
+- large scale contextual LSTM and NLP task: https://arxiv.org/pdf/1602.06291.pdf
+- main advances in ML 2016, Xavier at Quora: https://www.quora.com/What-were-the-main-advances-in-machine-learning-artificial-intelligence-in-2016?
+
+
 17.12
 
 - https://github.com/jwkvam/bowtie
