@@ -17,6 +17,10 @@ Events: I will put word cloud for that.
 - variational inference: http://www.cs.columbia.edu/~blei/talks/2016_NIPS_VI_tutorial.pdf
 
 
+## Theano based DL applications
+
+- https://news.ycombinator.com/item?id=9283105
+
 Pin: 
 
 - semantic scholar: https://www.semanticscholar.org/
