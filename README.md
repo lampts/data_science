@@ -233,6 +233,7 @@ ResNet: Residual Networks
 
 20.12
 
+- neural relation extraction https://www.aclweb.org/anthology/P/P16/P16-1200.pdf
 - claim classification: https://github.com/UKPLab/coling2016-claim-classification
 - https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2016/2016_COLING_CG.pdf
 
