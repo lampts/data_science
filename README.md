@@ -231,6 +231,11 @@ ResNet: Residual Networks
 
 # Timeline
 
+20.12
+
+- claim classification: https://github.com/UKPLab/coling2016-claim-classification
+- https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2016/2016_COLING_CG.pdf
+
 19.12
 
 - fasttext.zip https://arxiv.org/abs/1612.03651
