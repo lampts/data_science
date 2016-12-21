@@ -10,6 +10,7 @@ Events: I will put word cloud for that.
 
 - Torch/Lua (Facebook/HarvardNLP): http://nlp.seas.harvard.edu/code/, http://cs287.fas.harvard.edu/
 - TF/Python (Google/Stanford): https://github.com/BinRoot/TensorFlow-Book
+- cs287: https://github.com/CS287/Lectures
 
 ## Conf events
 - Coling 2016, Osaka Japan: http://coling2016.anlp.jp/
