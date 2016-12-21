@@ -60,6 +60,7 @@ Fin data:
 
 - Reuters 8M (2007-2016): https://github.com/philipperemy/Reuters-full-data-set.git
 - Bloomberg https://github.com/philipperemy/financial-news-dataset
+- stocktwits: https://github.com/goodwillyoga/E107project/tree/master/pooja/data
 
 Wikidata:
 
