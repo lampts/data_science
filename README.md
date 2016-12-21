@@ -231,6 +231,13 @@ ResNet: Residual Networks
 
 # Timeline
 
+21.12
+
+- news arxiv: https://news.google.com/newspapers?hl=en#F
+- https://github.com/skillachie/binaryNLP
+- https://github.com/skillachie/nlpArea51/blob/master/Financial_News_Text_Classification.ipynb
+- http://www.kdnuggets.com/2016/12/machine-learning-artificial-intelligence-main-developments-2016-key-trends-2017.html
+
 20.12
 
 - http://opennmt.net
