@@ -22,6 +22,14 @@ Events: I will put word cloud for that.
 
 - https://news.ycombinator.com/item?id=9283105
 
+## learn to learn: algos optimization
+
+- sgd and friends: http://cs231n.github.io/neural-networks-3/#update
+- overview of gd: http://sebastianruder.com/optimizing-gradient-descent/
+- https://github.com/fchollet/keras/issues/898
+- I used to choose adam and rmsprop with tuning lr and batch size.
+
+
 Pin: 
 
 - semantic scholar: https://www.semanticscholar.org/
