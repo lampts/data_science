@@ -243,6 +243,15 @@ ResNet: Residual Networks
 - http://yanran.li/peppypapers/2016/01/10/highway-networks-and-deep-residual-networks.html
 - how deep Vgg 16,19 vs 152 200 layers: https://www.reddit.com/r/MachineLearning/comments/4cmcfs/how_can_resnet_cnn_go_deep_to_152_layers_and_200/
 - http://www.slideshare.net/Textkernel/practical-deep-learning-for-nlp
+
+
+Sentiment
+
+- quandl: https://github.com/kszela24/options-daily
+- stocktwit: http://stocktwits.com/symbol/FINL
+- https://github.com/jssandh2/Stock_Search_Engine
+- https://www.quantopian.com/posts/crowd-sourced-stock-sentiment-using-stocktwits
+
 ----
 
 # Timeline
