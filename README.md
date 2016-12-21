@@ -6,6 +6,12 @@
 Events: I will put word cloud for that.
 
 
+## LearningNewThingIn2017
+
+- Torch/Lua (Facebook/HarvardNLP): http://nlp.seas.harvard.edu/code/, http://cs287.fas.harvard.edu/
+- TF/Python (Google/Stanford): https://github.com/BinRoot/TensorFlow-Book
+
+## Conf events
 - Coling 2016, Osaka Japan: http://coling2016.anlp.jp/
 - ICLR 2017, Apr in France: http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
 - open review: http://openreview.net/group?id=ICLR.cc/2017/conference
