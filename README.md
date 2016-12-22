@@ -259,6 +259,9 @@ Sentiment
 22.12
 
 - dl for coders: http://course.fast.ai/
+- encoder-decoder RNN: http://www.slideshare.net/ssuser77b8c6/reducing-the-dimensionality-of-data-with-neural-networks
+- https://trello.com/b/rbpEfMld/data-science
+- http://tuanvannguyen.blogspot.com/2016/12/yeu-to-nao-anh-huong-en-iem-pisa-2015.html
 
 21.12
 
