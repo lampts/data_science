@@ -258,6 +258,7 @@ Sentiment
 
 22.12
 
+- https://quid.com/feed/how-quid-uses-deep-learning-with-small-data
 - dl for coders: http://course.fast.ai/, notebooks here: https://github.com/fastai/courses
 - encoder-decoder RNN: http://www.slideshare.net/ssuser77b8c6/reducing-the-dimensionality-of-data-with-neural-networks
 - https://trello.com/b/rbpEfMld/data-science
