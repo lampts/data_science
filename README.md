@@ -256,6 +256,10 @@ Sentiment
 
 # Timeline
 
+22.12
+
+- dl for coders: http://course.fast.ai/
+
 21.12
 
 - https://github.com/napsternxg/TwitterNER
