@@ -256,6 +256,10 @@ Sentiment
 
 # Timeline
 
+23.12
+
+- https://bigdatauniversity.com/courses/deep-learning-tensorflow/
+
 22.12
 
 - https://quid.com/feed/how-quid-uses-deep-learning-with-small-data
