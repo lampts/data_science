@@ -256,6 +256,16 @@ Sentiment
 
 # Timeline
 
+24.12
+
+- Laurent Dinh: Density estimation https://docs.google.com/presentation/d/152NyIZYDRlYuml5DbBONchJYA7AAwlti5gTWW1eXlLM/
+- Swiftkey, LM: https://blog.swiftkey.com/swiftkey-debuts-worlds-first-smartphone-keyboard-powered-by-neural-networks/
+- porting Theano to TF: https://medium.com/@sentimentron/faceoff-theano-vs-tensorflow-e25648c31800
+- tractica: DL for retailer: https://www.tractica.com/automation-robotics/leveraging-deep-learning-to-improve-the-retail-experience/
+- Effective Size: is Singaporean better in math than Vietnamese? if ES = 0.3, the overlap is near 90%, nothing to say in this Pisa's ranking.
+- dracula: twitter POS utilised GATE: https://github.com/Sentimentron/Dracula/
+
+
 23.12
 
 - https://bigdatauniversity.com/courses/deep-learning-tensorflow/
