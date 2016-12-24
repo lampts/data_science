@@ -264,6 +264,7 @@ Sentiment
 - tractica: DL for retailer: https://www.tractica.com/automation-robotics/leveraging-deep-learning-to-improve-the-retail-experience/
 - Effective Size: is Singaporean better in math than Vietnamese? if ES = 0.3, the overlap is near 90%, nothing to say in this Pisa's ranking.
 - dracula: twitter POS utilised GATE: https://github.com/Sentimentron/Dracula/
+- Business process with LSTM: https://arxiv.org/pdf/1612.02130v1.pdf
 
 
 23.12
