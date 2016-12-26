@@ -258,6 +258,7 @@ Sentiment
 
 25.12
 
+- Gated RNN https://arxiv.org/pdf/1612.08083v1.pdf
 - http://www.slideshare.net/SebastianRuder/nips-2016-highlights-sebastian-ruder
 - monolingal dataset WMT 2014: http://www.statmt.org/wmt14/translation-task.html
 - neural turing machine: https://github.com/shawntan/neural-turing-machines
