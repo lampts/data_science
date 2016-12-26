@@ -258,6 +258,7 @@ Sentiment
 
 25.12
 
+- monolingal dataset WMT 2014: http://www.statmt.org/wmt14/translation-task.html
 - neural turing machine: https://github.com/shawntan/neural-turing-machines
 - yandex ml school HSE: https://github.com/yandexdataschool/HSE_deeplearning
 
