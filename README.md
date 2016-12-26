@@ -259,6 +259,8 @@ Sentiment
 25.12
 
 - neural turing machine: https://github.com/shawntan/neural-turing-machines
+- yandex ml school HSE: https://github.com/yandexdataschool/HSE_deeplearning
+
 
 24.12
 
