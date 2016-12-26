@@ -256,6 +256,10 @@ Sentiment
 
 # Timeline
 
+25.12
+
+- neural turing machine: https://github.com/shawntan/neural-turing-machines
+
 24.12
 
 - Laurent Dinh: Density estimation https://docs.google.com/presentation/d/152NyIZYDRlYuml5DbBONchJYA7AAwlti5gTWW1eXlLM/
