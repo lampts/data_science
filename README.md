@@ -256,7 +256,12 @@ Sentiment
 
 # Timeline
 
-25.12
+27.12
+
+- gumbel add noise to sigmoid: https://github.com/yandexdataschool/gumbel_lstm
+- fastai wordembedding: https://github.com/fastai/courses/blob/master/deeplearning1/nbs/wordvectors.ipynb
+
+26.12
 
 - spotify cnn: http://benanne.github.io/2014/08/05/spotify-cnns.html
 - Gated RNN https://arxiv.org/pdf/1612.08083v1.pdf
