@@ -258,6 +258,8 @@ Sentiment
 
 27.12
 
+- deep learning with Torch: https://github.com/soumith/cvpr2015
+- T7: https://github.com/soumith/cvpr2015/blob/master/cvpr-torch.pdf
 - GPOD general purpose object detector: https://github.com/EvgenyNekrasov/gpod
 - mckinseys: http://www.forbes.com/sites/louiscolumbus/2016/12/18/mckinseys-2016-analytics-study-defines-the-future-machine-learning
 - gumbel add noise to sigmoid: https://github.com/yandexdataschool/gumbel_lstm
