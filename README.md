@@ -258,6 +258,7 @@ Sentiment
 
 28.12
 
+- stats learning: https://web.stanford.edu/class/cs229t/notes.pdf
 - http://www.normansoft.com/blog/index.html
 - Tf projector is really cool: https://github.com/normanheckscher/mnist-tensorboard-embeddings/blob/master/mnist_t-sne.py
 - Who to follow on Twitter in ML/DL: https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members
