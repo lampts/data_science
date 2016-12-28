@@ -256,6 +256,11 @@ Sentiment
 
 # Timeline
 
+28.12
+
+- Who to follow on Twitter in ML/DL: https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members
+- How to learn? BPTT https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.sunmvqmsx
+
 27.12
 
 - deep learning with Torch: https://github.com/soumith/cvpr2015
