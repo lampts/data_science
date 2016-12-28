@@ -258,6 +258,8 @@ Sentiment
 
 28.12
 
+- http://www.normansoft.com/blog/index.html
+- Tf projector is really cool: https://github.com/normanheckscher/mnist-tensorboard-embeddings/blob/master/mnist_t-sne.py
 - Who to follow on Twitter in ML/DL: https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members
 - How to learn? BPTT https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.sunmvqmsx
 
