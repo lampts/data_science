@@ -5,6 +5,10 @@
 
 Events: I will put word cloud for that.
 
+## ICLR 2017 Review
+
+- if you wanna turn LSTM, it's worth to read (from Socher): https://arxiv.org/pdf/1611.05104v2.pdf
+
 
 ## LearningNewThingIn2017
 
@@ -258,6 +262,7 @@ Sentiment
 
 28.12
 
+- NIPs 2016, embedding projector: https://arxiv.org/pdf/1611.05469.pdf
 - stats learning: https://web.stanford.edu/class/cs229t/notes.pdf
 - http://www.normansoft.com/blog/index.html
 - Tf projector is really cool: https://github.com/normanheckscher/mnist-tensorboard-embeddings/blob/master/mnist_t-sne.py
