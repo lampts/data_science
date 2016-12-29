@@ -260,6 +260,12 @@ Sentiment
 
 # Timeline
 
+29.12
+
+- Music Tagging, CRNN https://arxiv.org/pdf/1609.04243v3.pdf
+- Benmusic: http://www.bensound.com/
+- event detection: http://anthology.aclweb.org/C/C14/C14-1134.pdf
+
 28.12
 
 - NIPs 2016, embedding projector: https://arxiv.org/pdf/1611.05469.pdf
