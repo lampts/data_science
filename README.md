@@ -260,6 +260,10 @@ Sentiment
 
 # Timeline
 
+31.12
+
+- visualisation NLP: http://www.aclweb.org/anthology/N16-1082
+
 30.12
 
 - zero shot translation: https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/
