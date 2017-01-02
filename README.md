@@ -260,6 +260,12 @@ Sentiment
 
 # Timeline
 
+3.1
+
+- spotify CNN music classification: https://www.dropbox.com/s/22bqmco45179t7z/thesis-FINAL.pdf
+- kaggle winning solution for whale detection: https://github.com/benanne
+- https://github.com/zygmuntz?tab=repositories
+
 2.1.17
 
 - overfitting in life: http://tuanvannguyen.blogspot.com/2016/12/over-fitting-va-y-nghia-thuc-te-trong.html
