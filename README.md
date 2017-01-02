@@ -260,6 +260,11 @@ Sentiment
 
 # Timeline
 
+2.1.17
+
+- overfitting in life: http://tuanvannguyen.blogspot.com/2016/12/over-fitting-va-y-nghia-thuc-te-trong.html
+- optimal stopping problem: https://plus.maths.org/content/solution-optimal-stopping-problem
+
 31.12
 
 - visualisation NLP: http://www.aclweb.org/anthology/N16-1082
