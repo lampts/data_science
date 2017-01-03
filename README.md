@@ -262,6 +262,7 @@ Sentiment
 
 3.1
 
+- variational for text processing: https://github.com/carpedm20/variational-text-tensorflow
 - spotify CNN music classification: https://www.dropbox.com/s/22bqmco45179t7z/thesis-FINAL.pdf
 - kaggle winning solution for whale detection: https://github.com/benanne
 - https://github.com/zygmuntz?tab=repositories
