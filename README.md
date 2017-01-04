@@ -1,6 +1,8 @@
 
 # data_science
 
+> seeing is believing. A witty saying proves nothing.
+
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
 Events: I will put word cloud for that.
@@ -259,6 +261,12 @@ Sentiment
 ----
 
 # Timeline
+
+4.1
+
+- GAN in keras: https://github.com/osh/KerasGAN
+- reinforcement learning in keras and gym: https://github.com/osh/kerlym
+- ML 101 for DE: https://drive.google.com/drive/folders/0B3bb7xB2VOUBMW1LQjVYUlJNRFU
 
 3.1
 
