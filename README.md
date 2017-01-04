@@ -264,6 +264,7 @@ Sentiment
 
 4.1
 
+- systran: https://arxiv.org/pdf/1610.05540v1.pdf
 - punctuation normalisation: http://www.statmt.org/wmt11/normalize-punctuation.perl
 - GAN in keras: https://github.com/osh/KerasGAN
 - reinforcement learning in keras and gym: https://github.com/osh/kerlym
