@@ -262,6 +262,11 @@ Sentiment
 
 # Timeline
 
+5.1
+
+- statsnlp https://github.com/uclmr/stat-nlp-book
+- sota of qa: http://metamind.io/research/state-of-the-art-deep-learning-model-for-question-answering/
+
 4.1
 
 - dynet: CMU neural networks in C++: https://github.com/clab
