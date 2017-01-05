@@ -264,6 +264,7 @@ Sentiment
 
 5.1
 
+- BN, if you wann gaussian, zero mean: https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
 - statsnlp https://github.com/uclmr/stat-nlp-book
 - sota of qa: http://metamind.io/research/state-of-the-art-deep-learning-model-for-question-answering/
 
