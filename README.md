@@ -264,6 +264,8 @@ Sentiment
 
 5.1
 
+- allenai biattflow: https://github.com/allenai/bi-att-flow
+- fork guy: https://github.com/BinbinBian
 - ICRL 17, DCNN: https://arxiv.org/pdf/1611.01604v2.pdf
 - victor zhong: https://github.com/vzhong/posts-notebooks
 - BN, if you wann gaussian, zero mean: https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
