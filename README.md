@@ -262,6 +262,13 @@ Sentiment
 
 # Timeline
 
+7.1
+
+- how bayesian inference works: http://brohrer.github.io/how_bayesian_inference_works.html
+- best vis projects in 2016: http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/
+- https://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/
+
+
 5.1
 
 - allenai biattflow: https://github.com/allenai/bi-att-flow
