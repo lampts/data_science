@@ -264,6 +264,7 @@ Sentiment
 
 9.1
 
+- greg notebooks: https://github.com/gjreda/gregreda.com/tree/master/content/notebooks
 - the periodic table of AI: http://ai.xprize.org/news/periodic-table-of-ai
 - the same table of DL: http://www.deeplearningpatterns.com/doku.php/overview
 - aylien text mining and analysis: Sebastien Ruder: https://arxiv.org/pdf/1609.02746v1.pdf
