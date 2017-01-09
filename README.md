@@ -264,6 +264,7 @@ Sentiment
 
 9.1
 
+- xlingual embedding: https://levyomer.wordpress.com/2017/01/08/a-strong-baseline-for-learning-cross-lingual-word-embeddings-from-sentence-alignments/
 - greg notebooks: https://github.com/gjreda/gregreda.com/tree/master/content/notebooks
 - the periodic table of AI: http://ai.xprize.org/news/periodic-table-of-ai
 - the same table of DL: http://www.deeplearningpatterns.com/doku.php/overview
