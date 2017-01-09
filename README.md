@@ -262,6 +262,13 @@ Sentiment
 
 # Timeline
 
+9.1
+
+- the periodic table of AI: http://ai.xprize.org/news/periodic-table-of-ai
+- the same table of DL: http://www.deeplearningpatterns.com/doku.php/overview
+- aylien text mining and analysis: Sebastien Ruder: https://arxiv.org/pdf/1609.02746v1.pdf
+- DS as a freelancer from Greg Yhat: http://www.gregreda.com/2017/01/07/freelance-data-science-experience/
+
 7.1
 
 - how bayesian inference works: http://brohrer.github.io/how_bayesian_inference_works.html
