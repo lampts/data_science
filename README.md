@@ -264,6 +264,7 @@ Sentiment
 
 10.1
 
+- GDG NL: http://www.slideshare.net/RokeshJankie/introducing-tensorflow-the-game-changer-in-building-intelligent-applications
 - https://github.com/ToferC/Twitter_graphing_python
 - http://www.oujago.com/DL_more.html
 - thiago DS at Yahoo: https://tgmstat.wordpress.com/
