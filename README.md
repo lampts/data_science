@@ -264,6 +264,8 @@ Sentiment
 
 10.1
 
+- http://www.oujago.com/DL_more.html
+- thiago DS at Yahoo: https://tgmstat.wordpress.com/
 - deepstack playing poker: https://arxiv.org/pdf/1701.01724v1.pdf
 - silly DL: https://news.ycombinator.com/item?id=13353941
 - http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
