@@ -262,6 +262,12 @@ Sentiment
 
 # Timeline
 
+10.1
+
+- silly DL: https://news.ycombinator.com/item?id=13353941
+- http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
+- AE for new molecule: http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path[]=14073&pubmed-linkout=1
+
 9.1
 
 - xlingual embedding: https://levyomer.wordpress.com/2017/01/08/a-strong-baseline-for-learning-cross-lingual-word-embeddings-from-sentence-alignments/
