@@ -264,6 +264,7 @@ Sentiment
 
 10.1
 
+- deepstack playing poker: https://arxiv.org/pdf/1701.01724v1.pdf
 - silly DL: https://news.ycombinator.com/item?id=13353941
 - http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
 - AE for new molecule: http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path[]=14073&pubmed-linkout=1
