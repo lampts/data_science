@@ -264,6 +264,7 @@ Sentiment
 
 11.1
 
+- TF 1.0, mature. https://opendatascience.com/blog/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 - NN semantic encoder: https://github.com/pdasigi/neural-semantic-encoders/blob/master/nse.py
 - DL in NN, overview: https://arxiv.org/pdf/1404.7828v4.pdf
 - jurgen schmid: http://people.idsia.ch/~juergen/
