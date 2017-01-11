@@ -262,6 +262,11 @@ Sentiment
 
 # Timeline
 
+11.1
+
+- DL in NN, overview: https://arxiv.org/pdf/1404.7828v4.pdf
+- jurgen schmid: http://people.idsia.ch/~juergen/
+
 10.1
 
 - GDG NL: http://www.slideshare.net/RokeshJankie/introducing-tensorflow-the-game-changer-in-building-intelligent-applications
