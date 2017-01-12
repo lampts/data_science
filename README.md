@@ -269,6 +269,7 @@ Sentiment
 - https://github.com/DOsinga/marconi/blob/master/train_model.py
 - True| Good | Kind | Useful | Relevant | Necessary https://www.quora.com/What-is-Triple-Filter-test-of-Socrates
 - https://www.youtube.com/watch?v=ifYfJdo27_k
+- student note: https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
 
 11.1
 
