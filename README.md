@@ -265,6 +265,10 @@ Sentiment
 12.1
 
 - ml practitioners: https://news.ycombinator.com/item?id=10954508
+- spotify word2vec: https://douweosinga.com/projects/marconi?song1_id=45yEy5WJywhJ3sDI28ajTm&song2_id=
+- https://github.com/DOsinga/marconi/blob/master/train_model.py
+- True| Good | Kind | Useful | Relevant | Necessary https://www.quora.com/What-is-Triple-Filter-test-of-Socrates
+- https://www.youtube.com/watch?v=ifYfJdo27_k
 
 11.1
 
