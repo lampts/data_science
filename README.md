@@ -262,6 +262,10 @@ Sentiment
 
 # Timeline
 
+12.1
+
+- ml practitioners: https://news.ycombinator.com/item?id=10954508
+
 11.1
 
 - ggplot2 in R: http://sharpsightlabs.com/blog/mapping-vc-investment/
