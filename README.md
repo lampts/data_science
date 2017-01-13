@@ -265,7 +265,9 @@ Sentiment
 13.1
 
 - convlstm: https://github.com/carlthome/tensorflow-convlstm-cell
-
+- GAN and RNN: https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/
+- generate sentences from continuous space: https://arxiv.org/pdf/1511.06349v2.pdf
+- How to train your Gen. model: Sampling, likelihood or adversary
 
 
 12.1
