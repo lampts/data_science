@@ -264,6 +264,9 @@ Sentiment
 
 14.1
 
+- https://github.com/Vict0rSch/deep_learning/tree/master/keras
+- https://github.com/openai/pixel-cnn
+- AWS Lambda: http://blog.matthewdfuller.com/p/aws-lambda-pricing-calculator.html
 - deep text corrector: http://atpaino.com/2017/01/03/deep-text-correcter.html
 - https://github.com/dhwajraj/deep-text-classifier-mtl
 
