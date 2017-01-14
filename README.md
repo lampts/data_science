@@ -262,8 +262,13 @@ Sentiment
 
 # Timeline
 
+15.1
+
+
 14.1
 
+- https://medium.com/@majortal/deep-spelling-9ffef96a24f6
+- line bot + rnn + tf, vanhuyz: https://github.com/vanhuyz/line-sticker-bot
 - https://github.com/Vict0rSch/deep_learning/tree/master/keras
 - https://github.com/openai/pixel-cnn
 - AWS Lambda: http://blog.matthewdfuller.com/p/aws-lambda-pricing-calculator.html
