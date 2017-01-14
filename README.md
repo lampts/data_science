@@ -262,6 +262,11 @@ Sentiment
 
 # Timeline
 
+14.1
+
+- deep text corrector: http://atpaino.com/2017/01/03/deep-text-correcter.html
+- https://github.com/dhwajraj/deep-text-classifier-mtl
+
 13.1
 
 - convlstm: https://github.com/carlthome/tensorflow-convlstm-cell
