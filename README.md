@@ -264,6 +264,7 @@ Sentiment
 
 15.1
 
+- deep spell code: https://github.com/MajorTal/DeepSpell
 
 14.1
 
