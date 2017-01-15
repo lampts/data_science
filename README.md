@@ -265,6 +265,8 @@ Sentiment
 15.1
 
 - deep spell code: https://github.com/MajorTal/DeepSpell
+- draw svg in jupyter: https://github.com/uclmr/egal
+- sound classification with cnn: https://github.com/karoldvl/paper-2015-esc-convnet
 
 14.1
 
