@@ -264,6 +264,7 @@ Sentiment
 
 16.1
 
+- keras in tensorflow now on. @fchollet informed on Twitter.
 - squeezednet = tiny alexnet (5MB) https://github.com/rcmalli/keras-squeezenet
 - won $5k: https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.9yb31nsm4
 - https://github.com/karoldvl/paper-2015-esc-convnet/blob/master/Code/Results.ipynb
