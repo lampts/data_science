@@ -264,6 +264,7 @@ Sentiment
 
 16.1
 
+- Edward Dustin Tran in TF already, so cool: https://arxiv.org/pdf/1701.03757v1.pdf
 - keras in tensorflow now on. @fchollet informed on Twitter.
 - squeezednet = tiny alexnet (5MB) https://github.com/rcmalli/keras-squeezenet
 - won $5k: https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.9yb31nsm4
