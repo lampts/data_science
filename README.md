@@ -262,6 +262,12 @@ Sentiment
 
 # Timeline
 
+16.1
+
+- squeezednet = tiny alexnet (5MB) https://github.com/rcmalli/keras-squeezenet
+- won $5k: https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.9yb31nsm4
+- https://github.com/karoldvl/paper-2015-esc-convnet/blob/master/Code/Results.ipynb
+
 15.1
 
 - deep spell code: https://github.com/MajorTal/DeepSpell
