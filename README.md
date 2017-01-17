@@ -274,6 +274,7 @@ Sentiment
 
 17.1
 
+- word embedding over time: http://www-personal.umich.edu/~tdszyman/misc/InsightSIGNLP16.pdf
 - victor DS politech in France: https://github.com/Vict0rSch/data_science_polytechnique
 - Thien NYU: http://www.cs.nyu.edu/~thien/
 - tonymooori: https://github.com/TonyMooori/studying
