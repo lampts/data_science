@@ -264,6 +264,8 @@ Sentiment
 
 17.1
 
+- victor DS politech in France: https://github.com/Vict0rSch/data_science_polytechnique
+- Thien NYU: http://www.cs.nyu.edu/~thien/
 - tonymooori: https://github.com/TonyMooori/studying
 - learning theory: https://web.stanford.edu/class/cs229t/notes.pdf
 - time series predictions: http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/
