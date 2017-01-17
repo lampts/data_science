@@ -264,6 +264,7 @@ Sentiment
 
 17.1
 
+- tonymooori: https://github.com/TonyMooori/studying
 - learning theory: https://web.stanford.edu/class/cs229t/notes.pdf
 - time series predictions: http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/
 
