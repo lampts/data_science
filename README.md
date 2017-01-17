@@ -7,6 +7,16 @@
 
 Events: I will put word cloud for that.
 
+## VietAI
+
+- Quoc Le (Google Brain): http://cs.stanford.edu/~quocle/
+- Thang Luong (Google Brain): http://t.co/3zNHouUn
+- Dustin (Columbia) http://dustintran.com/
+- Thien (NYU) http://www.cs.nyu.edu/~thien/
+- Hieu Pham (CMU) https://www.quora.com/profile/Hieu-Pham-20
+- Ken Tran (Microsofts) http://www.kentran.net/
+- Laurent Dinh (MILA):https://laurent-dinh.github.io/about/
+
 ## ICLR 2017 Review
 
 - if you wanna turn LSTM, it's worth to read (from Socher): https://arxiv.org/pdf/1611.05104v2.pdf
