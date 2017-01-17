@@ -262,6 +262,10 @@ Sentiment
 
 # Timeline
 
+17.1
+
+- learning theory: https://web.stanford.edu/class/cs229t/notes.pdf
+
 16.1
 
 - Edward Dustin Tran in TF already, so cool: https://arxiv.org/pdf/1701.03757v1.pdf
