@@ -272,6 +272,11 @@ Sentiment
 
 # Timeline
 
+18.1
+
+- ml for practitioner: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+- write dl/nn from scratch: https://github.com/dmlc/minpy
+
 17.1
 
 - improve headlines with salient words and seo score: http://www-personal.umich.edu/~tdszyman/misc/nlpmj16.pdf
