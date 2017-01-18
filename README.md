@@ -274,6 +274,7 @@ Sentiment
 
 18.1
 
+- http://blog.dennybritz.com/2017/01/17/engineering-is-the-bottleneck-in-deep-learning-research/
 - ml for practitioner: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 - write dl/nn from scratch: https://github.com/dmlc/minpy
 
