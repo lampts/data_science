@@ -276,7 +276,7 @@ Sentiment
 
 - Facebook again, pytorch: http://pytorch.org/
 - https://rare-technologies.com/new-gensim-feature-author-topic-modeling-lda-with-metadata/
-
+- pointer network: https://github.com/devsisters/pointer-network-tensorflow
 
 18.1
 
