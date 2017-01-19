@@ -272,6 +272,12 @@ Sentiment
 
 # Timeline
 
+19.1
+
+- Facebook again, pytorch: http://pytorch.org/
+- https://rare-technologies.com/new-gensim-feature-author-topic-modeling-lda-with-metadata/
+
+
 18.1
 
 - http://blog.dennybritz.com/2017/01/17/engineering-is-the-bottleneck-in-deep-learning-research/
