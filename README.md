@@ -277,6 +277,7 @@ Sentiment
 - ML on mobile: http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html
 - https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples
+- https://github.com/dennybritz/sentiment-analysis
 
 
 19.1
