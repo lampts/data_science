@@ -272,6 +272,13 @@ Sentiment
 
 # Timeline
 
+20.1
+
+- ML on mobile: http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html
+- https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples
+
+
 19.1
 
 - Facebook again, pytorch: http://pytorch.org/
