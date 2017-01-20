@@ -274,6 +274,7 @@ Sentiment
 
 20.1
 
+- demysify DS: https://docs.google.com/presentation/d/1N3KhPA--cQNjF9mD4Z4IzjKKFdwq1Ff6wQ6NN102uIk/edit#slide=id.g1be386a8a6_0_21
 - ML on mobile: http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html
 - https://www.bignerdranch.com/blog/use-tensorflow-and-bnns-to-add-machine-learning-to-your-mac-or-ios-app/
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples
