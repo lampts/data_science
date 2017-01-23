@@ -272,6 +272,15 @@ Sentiment
 
 # Timeline
 
+23.1
+
+- nlp terms for novice: http://www.datasciencecentral.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-analysis-novice?utm_content=buffer172af&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+- blockchain: https://opendatascience.com/blog/what-is-the-blockchain-and-why-is-it-so-important/
+- nbgrader: https://github.com/jupyter/nbgrader
+- Adversarial ML: https://mascherari.press/introduction-to-adversarial-machine-learning/
+- 4 questions for G. Hinton: https://gigaom.com/2017/01/16/four-questions-for-geoff-hinton/
+- Debug in TF: https://wookayin.github.io/TensorflowKR-2016-talk-debugging/#1
+
 20.1
 
 - demysify DS: https://docs.google.com/presentation/d/1N3KhPA--cQNjF9mD4Z4IzjKKFdwq1Ff6wQ6NN102uIk/edit#slide=id.g1be386a8a6_0_21
