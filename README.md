@@ -272,6 +272,11 @@ Sentiment
 
 # Timeline
 
+25.1
+
+- stats for hackers code: https://github.com/croach/blog/tree/master/content
+- http://multithreaded.stitchfix.com/blog/2017/01/23/scaling-ds-at-sf-slides-from-ddtexas/
+
 24.1
 
 - wordrank: http://deliprao.com/archives/124
