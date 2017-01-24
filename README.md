@@ -272,6 +272,15 @@ Sentiment
 
 # Timeline
 
+24.1
+
+- wordrank: http://deliprao.com/archives/124
+- code: https://bitbucket.org/shihaoji/wordrank
+- https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/WordRank_wrapper_quickstart.ipynb
+- https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/WordRank_wrapper_quickstart.ipynb
+- https://github.com/parulsethi/gensim/blob/wordrank_wrapper/docs/notebooks/Wordrank_comparisons.ipynb
+- https://rare-technologies.com/wordrank-embedding-crowned-is-most-similar-to-king-not-word2vecs-canute/
+
 23.1
 
 - nlp terms for novice: http://www.datasciencecentral.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-analysis-novice?utm_content=buffer172af&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
