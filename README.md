@@ -274,6 +274,7 @@ Sentiment
 
 25.1
 
+- question duplication of Quora: https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 - stats for hackers code: https://github.com/croach/blog/tree/master/content
 - http://multithreaded.stitchfix.com/blog/2017/01/23/scaling-ds-at-sf-slides-from-ddtexas/
 
