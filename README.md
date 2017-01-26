@@ -272,6 +272,14 @@ Sentiment
 
 # Timeline
 
+26.1
+
+- https://jaan.io/food2vec-augmented-cooking-machine-intelligence/
+- http://multithreaded.stitchfix.com/blog/2017/01/23/scaling-ds-at-sf-slides-from-ddtexas/
+- https://docs.docker.com/docker-for-mac/
+- https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#1
+- https://petewarden.com/
+
 25.1
 
 - question duplication of Quora: https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
