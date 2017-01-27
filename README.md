@@ -272,6 +272,11 @@ Sentiment
 
 # Timeline
 
+27.1
+
+- https://github.com/bbelderbos/Codesnippets/tree/master/python
+- https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.htm
+
 26.1
 
 - https://jaan.io/food2vec-augmented-cooking-machine-intelligence/
