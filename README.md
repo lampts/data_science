@@ -274,6 +274,10 @@ Sentiment
 
 06.02
 
+- https://svn.spraakdata.gu.se/repos/richard/pub/ml2016_web/LT2306_2016_example_solution.pdf
+- https://svn.spraakdata.gu.se/repos/richard/pub/ml2015_web/l7.pdf
+- https://chsasank.github.io/spoken-language-understanding.html
+- ML4NLP: http://stp.lingfil.uu.se/~shaooyan/ml/nn.part2.pdf
 - Topic Modeling for extracting key words: http://bugra.github.io/work/notes/2017-02-05/topic-modeling-for-keyword-extraction/
 - Google Scraper: https://github.com/NikolaiT/GoogleScraper
 - Richard Johanson: https://svn.spraakdata.gu.se/repos/richard/pub/ml2015_web/l7.pdf
