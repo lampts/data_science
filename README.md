@@ -274,6 +274,7 @@ Sentiment
 
 06.02
 
+- https://code.facebook.com/posts/457605107772545/under-the-hood-building-accessibility-tools-for-the-visually-impaired-on-facebook/
 - l2svm outperforms softmax: https://arxiv.org/pdf/1306.0239v4.pdf
 - xent vs hinge loss: http://cs231n.github.io/linear-classify/
 - https://github.com/nzw0301/keras-examples/blob/master/Skip-gram-with-NS.ipynb
