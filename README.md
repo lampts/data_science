@@ -274,6 +274,7 @@ Sentiment
 
 06.02
 
+- l2svm outperforms softmax: https://arxiv.org/pdf/1306.0239v4.pdf
 - xent vs hinge loss: http://cs231n.github.io/linear-classify/
 - https://github.com/nzw0301/keras-examples/blob/master/Skip-gram-with-NS.ipynb
 - model zoo pytorch: https://github.com/Cadene/tensorflow-model-zoo.torch
