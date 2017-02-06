@@ -272,6 +272,12 @@ Sentiment
 
 # Timeline
 
+06.02
+
+- quora question pair: http://www.forbes.com/sites/quora/2017/01/30/data-at-quora-first-quora-dataset-release-question-pairs/#3d052ef475cb
+- Psychometric, CA and Trump: https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win
+
+
 27.1
 
 - https://github.com/bbelderbos/Codesnippets/tree/master/python
