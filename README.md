@@ -274,6 +274,8 @@ Sentiment
 
 06.02
 
+- https://github.com/nzw0301/keras-examples/blob/master/Skip-gram-with-NS.ipynb
+- model zoo pytorch: https://github.com/Cadene/tensorflow-model-zoo.torch
 - quora question pair: http://www.forbes.com/sites/quora/2017/01/30/data-at-quora-first-quora-dataset-release-question-pairs/#3d052ef475cb
 - Psychometric, CA and Trump: https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win
 
