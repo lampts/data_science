@@ -274,6 +274,9 @@ Sentiment
 
 06.02
 
+- Topic Modeling for extracting key words: http://bugra.github.io/work/notes/2017-02-05/topic-modeling-for-keyword-extraction/
+- Google Scraper: https://github.com/NikolaiT/GoogleScraper
+- Richard Johanson: https://svn.spraakdata.gu.se/repos/richard/pub/ml2015_web/l7.pdf
 - https://code.facebook.com/posts/457605107772545/under-the-hood-building-accessibility-tools-for-the-visually-impaired-on-facebook/
 - l2svm outperforms softmax: https://arxiv.org/pdf/1306.0239v4.pdf
 - xent vs hinge loss: http://cs231n.github.io/linear-classify/
