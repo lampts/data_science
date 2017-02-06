@@ -274,6 +274,7 @@ Sentiment
 
 06.02
 
+- http://www.cs.umb.edu/~twang/file/tricks_from_dl.pdf
 - https://svn.spraakdata.gu.se/repos/richard/pub/ml2016_web/LT2306_2016_example_solution.pdf
 - https://svn.spraakdata.gu.se/repos/richard/pub/ml2015_web/l7.pdf
 - https://chsasank.github.io/spoken-language-understanding.html
