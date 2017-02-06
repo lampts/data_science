@@ -7,6 +7,11 @@
 
 Events: I will put word cloud for that.
 
+##LXMLS16:
+
+- http://lxmls.it.pt/2016/Deep-Neural-Networks-Are-Our-Friends.pdf
+- http://lxmls.it.pt/2016/lxmls-dl2.pdf
+
 ## VietAI
 
 - Quoc Le (Google Brain): http://cs.stanford.edu/~quocle/
