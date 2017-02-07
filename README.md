@@ -7,7 +7,12 @@
 
 Events: I will put word cloud for that.
 
-##LXMLS16:
+## NLPStan reading
+
+- http://nlp.stanford.edu/read/
+
+
+## LXMLS16:
 
 - http://lxmls.it.pt/2016/Deep-Neural-Networks-Are-Our-Friends.pdf
 - http://lxmls.it.pt/2016/lxmls-dl2.pdf
@@ -21,6 +26,7 @@ Events: I will put word cloud for that.
 - Hieu Pham (CMU) https://www.quora.com/profile/Hieu-Pham-20
 - Ken Tran (Microsofts) http://www.kentran.net/
 - Laurent Dinh (MILA):https://laurent-dinh.github.io/about/
+- Luong Hoang, Harvard: https://github.com/lhoang29/recurrent-entity-networks
 
 ## ICLR 2017 Review
 
@@ -276,6 +282,13 @@ Sentiment
 ----
 
 # Timeline
+
+07.02
+
+- deep q learning with keras and gym: https://keon.io/rl/deep-q-learning-with-keras-and-gym/
+- structured attention, Yoon Kim and Hoang Luong: https://github.com/harvardnlp/struct-attn
+- understanding DL requires rethinking generalisation: https://openreview.net/pdf?id=Sy8gdB9xx
+- GAN: https://github.com/osh/KerasGAN
 
 06.02
 
