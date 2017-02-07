@@ -289,6 +289,7 @@ Sentiment
 
 07.02
 
+- https://www.linkedin.com/pulse/keras-neural-networks-win-nvidia-titan-x-abhishek-thakur
 - deep q learning with keras and gym: https://keon.io/rl/deep-q-learning-with-keras-and-gym/
 - structured attention, Yoon Kim and Hoang Luong: https://github.com/harvardnlp/struct-attn
 - understanding DL requires rethinking generalisation: https://openreview.net/pdf?id=Sy8gdB9xx
