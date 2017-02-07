@@ -10,7 +10,7 @@ Events: I will put word cloud for that.
 ## NLPStan reading
 
 - http://nlp.stanford.edu/read/
-
+- NLP dataset: https://github.com/niderhoff/nlp-datasets
 
 ## LXMLS16:
 
