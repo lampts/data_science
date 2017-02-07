@@ -283,6 +283,10 @@ Sentiment
 
 # Timeline
 
+08.02
+
+- https://github.com/chsasank/Traffic-Sign-Classification.keras/blob/master/Traffic%20Sign%20Classification.ipynb
+
 07.02
 
 - deep q learning with keras and gym: https://keon.io/rl/deep-q-learning-with-keras-and-gym/
