@@ -285,6 +285,7 @@ Sentiment
 
 08.02
 
+- https://www.insight-centre.org/sites/default/files/publications/newhorizons_online.pdf
 - https://github.com/chsasank/Traffic-Sign-Classification.keras/blob/master/Traffic%20Sign%20Classification.ipynb
 
 07.02
