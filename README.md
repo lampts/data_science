@@ -290,6 +290,7 @@ Sentiment
 
 07.02
 
+- openrefine: http://alexpetralia.com/posts/2015/12/14/the-problem-with-openrefine-clean-vs-messy-data
 - https://www.linkedin.com/pulse/keras-neural-networks-win-nvidia-titan-x-abhishek-thakur
 - deep q learning with keras and gym: https://keon.io/rl/deep-q-learning-with-keras-and-gym/
 - structured attention, Yoon Kim and Hoang Luong: https://github.com/harvardnlp/struct-attn
