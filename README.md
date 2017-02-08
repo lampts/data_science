@@ -28,6 +28,16 @@ Events: I will put word cloud for that.
 - Laurent Dinh (MILA):https://laurent-dinh.github.io/about/
 - Luong Hoang, Harvard: https://github.com/lhoang29/recurrent-entity-networks
 
+## My SOTA
+
+- My ATIS: sequence tagging, nb of params: 324335, bi-LSTM
+
+```
+ - best F1 score: 94.92/94.64
+ - train scores: 97.5446666667/96.17
+ - val scores: 93.664/92.94
+```
+
 ## ICLR 2017 Review
 
 - if you wanna turn LSTM, it's worth to read (from Socher): https://arxiv.org/pdf/1611.05104v2.pdf
