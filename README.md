@@ -297,6 +297,10 @@ Sentiment
 
 # Timeline
 
+15.02
+
+- TFDevSummit: https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content
+
 08.02
 
 - polarised term for document anonymisation: https://ddu1.github.io/Anonymization/
