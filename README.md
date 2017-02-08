@@ -285,6 +285,8 @@ Sentiment
 
 08.02
 
+- oxford course: https://github.com/oxford-cs-deepnlp-2017/lectures
+- tf fold: dynamic batching: https://research.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html
 - https://www.insight-centre.org/sites/default/files/publications/newhorizons_online.pdf
 - https://github.com/chsasank/Traffic-Sign-Classification.keras/blob/master/Traffic%20Sign%20Classification.ipynb
 
