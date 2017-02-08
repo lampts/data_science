@@ -299,6 +299,7 @@ Sentiment
 
 08.02
 
+- polarised term for document anonymisation: https://ddu1.github.io/Anonymization/
 - oxford course: https://github.com/oxford-cs-deepnlp-2017/lectures
 - tf fold: dynamic batching: https://research.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html
 - https://www.insight-centre.org/sites/default/files/publications/newhorizons_online.pdf
