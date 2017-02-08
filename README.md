@@ -99,6 +99,10 @@ Fin data:
 - Bloomberg https://github.com/philipperemy/financial-news-dataset
 - stocktwits: https://github.com/goodwillyoga/E107project/tree/master/pooja/data
 
+Projects:
+
+- https://github.com/THEdavehogue/glassdoor-analysis
+
 Wikidata:
 
 - https://github.com/VladimirAlexiev/VladimirAlexiev.github.io/blob/master/CH-names/README.org
