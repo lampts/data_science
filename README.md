@@ -303,6 +303,7 @@ Sentiment
 
 10.02
 
+- ICLR 17: https://amundtveit.com/2016/11/12/deep-learning-for-natural-language-processing-iclr-2017-discoveries/
 - https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb
 - all but of the top, pca on word2vec: https://arxiv.org/pdf/1702.01417.pdf
 - https://github.com/peter3125/sentence2vec
