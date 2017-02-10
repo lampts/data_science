@@ -301,6 +301,12 @@ Sentiment
 
 - TFDevSummit: https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content
 
+10.02
+
+- https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb
+- all but of the top, pca on word2vec: https://arxiv.org/pdf/1702.01417.pdf
+- https://github.com/peter3125/sentence2vec
+
 08.02
 
 - polarised term for document anonymisation: https://ddu1.github.io/Anonymization/
