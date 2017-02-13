@@ -301,6 +301,10 @@ Sentiment
 
 - TFDevSummit: https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content
 
+13.02
+
+- Quora siamese: https://github.com/erogol/QuoraDQBaseline
+
 12.02
 
 - http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017
