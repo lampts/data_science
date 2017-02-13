@@ -299,6 +299,8 @@ Sentiment
 
 15.02
 
+- https://github.com/bmitra-msft/Demos/blob/master/notebooks/DESM.ipynb
+- nn for document ranking, mistra, ms cntk: https://github.com/bmitra-msft/NDRM
 - TFDevSummit: https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/#content
 
 13.02
