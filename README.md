@@ -299,6 +299,7 @@ Sentiment
 
 15.02
 
+- event detection, extraction, triggering, mention: https://github.com/anoperson/jointEE-NN
 - batch renorm, due to sensitivity of batch size, initiation: https://arxiv.org/pdf/1702.03275.pdf
 - https://github.com/bmitra-msft/Demos/blob/master/notebooks/DESM.ipynb
 - nn for document ranking, mistra, ms cntk: https://github.com/bmitra-msft/NDRM
