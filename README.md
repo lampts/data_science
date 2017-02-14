@@ -299,6 +299,12 @@ Sentiment
 
 15.02
 
+- pytorch: https://github.com/vinhkhuc/PyTorch-Mini-Tutorials
+- Quora engineering: https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+- Space bag of nns: https://explosion.ai/blog/quora-deep-text-pair-classification
+
+14.02
+
 - event detection, extraction, triggering, mention: https://github.com/anoperson/jointEE-NN
 - batch renorm, due to sensitivity of batch size, initiation: https://arxiv.org/pdf/1702.03275.pdf
 - https://github.com/bmitra-msft/Demos/blob/master/notebooks/DESM.ipynb
