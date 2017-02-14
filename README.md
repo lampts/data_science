@@ -38,6 +38,13 @@ Events: I will put word cloud for that.
  - val scores: 93.664/92.94
 ```
 
+## Yandex
+
+- https://github.com/ddtm/dl-course
+- https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/tree/master/trends
+- https://github.com/yandexdataschool/Practical_RL
+- https://github.com/yandexdataschool/HSE_deeplearning
+
 ## ICLR 2017 Review
 
 - if you wanna turn LSTM, it's worth to read (from Socher): https://arxiv.org/pdf/1611.05104v2.pdf
