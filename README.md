@@ -300,6 +300,7 @@ Sentiment
 
 15.02
 
+- sentiment analysis on Super Bowl: http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/
 - spacy advanced text analysis: https://github.com/JonathanReeve/advanced-text-analysis-workshop-2017/blob/master/advanced-text-analysis.ipynb 
 - pytorch: https://github.com/vinhkhuc/PyTorch-Mini-Tutorials
 - Quora engineering: https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
