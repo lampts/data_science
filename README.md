@@ -288,6 +288,7 @@ ResNet: Residual Networks
 
 Sentiment
 
+- dataset: 1.6M: https://docs.google.com/uc?id=0B04GJPshIjmPRnZManQwWEdTZjg&export=download
 - quandl: https://github.com/kszela24/options-daily
 - stocktwit: http://stocktwits.com/symbol/FINL
 - https://github.com/jssandh2/Stock_Search_Engine
@@ -302,6 +303,7 @@ Sentiment
 - pytorch: https://github.com/vinhkhuc/PyTorch-Mini-Tutorials
 - Quora engineering: https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
 - Space bag of nns: https://explosion.ai/blog/quora-deep-text-pair-classification
+- AUC 0.875 http://analyzecore.com/2017/02/08/twitter-sentiment-analysis-doc2vec/
 
 14.02
 
