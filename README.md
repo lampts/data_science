@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- gandl: https://github.com/codekansas/gandlf
 - predictive on stock trading with sentiment: http://www.kdnuggets.com/2016/01/sentiment-analysis-predictive-analytics-trading-mistake.html
 - https://github.com/bradleypallen/keras-emoji-embeddings
 - https://github.com/bradleypallen/keras-quora-question-pairs/blob/master/README.md
