@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- http://m-mitchell.com/NAACL-2016/SemEval/SemEval-2016.pdf
 - gandl: https://github.com/codekansas/gandlf
 - predictive on stock trading with sentiment: http://www.kdnuggets.com/2016/01/sentiment-analysis-predictive-analytics-trading-mistake.html
 - https://github.com/bradleypallen/keras-emoji-embeddings
