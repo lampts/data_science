@@ -305,6 +305,12 @@ Sentiment
 
 # Timeline
 
+16.02
+
+- https://github.com/bradleypallen/keras-emoji-embeddings
+- https://github.com/bradleypallen/keras-quora-question-pairs/blob/master/README.md
+- DESM: https://www.microsoft.com/en-us/research/project/dual-embedding-space-model-desm/
+
 15.02
 
 - sentiment analysis on Super Bowl: http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/
