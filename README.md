@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- https://github.com/bradleypallen/keras-movielens-cf
 - https://www.slideshare.net/t_koshikawa?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
 - https://github.com/lipiji/App-DL
 - http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction
