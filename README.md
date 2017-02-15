@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- market2vec: https://github.com/talolard/MarketVectors/blob/master/preparedata.ipynb
 - anything2vec: https://gist.github.com/nzw0301/333afc00bd508501268fa7bf40cafe4e
 - https://github.com/bradleypallen/keras-movielens-cf
 - https://www.slideshare.net/t_koshikawa?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
