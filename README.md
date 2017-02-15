@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- https://github.com/lipiji/App-DL
 - http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction
 - https://github.com/kh-kim/stock_market_reinforcement_learning
 - stock2vec: https://github.com/kh-kim/stock2vec
