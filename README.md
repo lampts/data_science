@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- https://www.slideshare.net/t_koshikawa?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
 - https://github.com/lipiji/App-DL
 - http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction
 - https://github.com/kh-kim/stock_market_reinforcement_learning
