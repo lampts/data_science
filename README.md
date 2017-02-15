@@ -307,6 +307,7 @@ Sentiment
 
 16.02
 
+- http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction
 - https://github.com/kh-kim/stock_market_reinforcement_learning
 - stock2vec: https://github.com/kh-kim/stock2vec
 - deepwalk and word2vec: http://nadbordrozd.github.io/blog/2016/06/13/deepwalking-with-companies/
