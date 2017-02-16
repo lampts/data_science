@@ -307,6 +307,7 @@ Sentiment
 
 17.02
 
+- BiMPM https://arxiv.org/pdf/1702.03814.pdf
 - TextSum step by step: http://www.fastforwardlabs.com/luhn/
 - https://keon.io/rl/deep-q-learning-with-keras-and-gym/
 - https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ny8j80fl3
