@@ -305,6 +305,14 @@ Sentiment
 
 # Timeline
 
+17.02
+
+- https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ny8j80fl3
+- big 5 for DS: https://www.quora.com/How-do-you-judge-a-good-Data-scientist-with-just-5-questions
+- keon: https://github.com/keon/awesome-nlp
+- quid: word2vec + wikipedia: https://quid.com/feed/how-quid-improved-its-search-with-word2vec-and-wikipedia?utm_content=42445351&utm_medium=social&utm_source=twitter
+- https://gist.github.com/asmeurer/5843625
+
 16.02
 
 - market2vec: https://github.com/talolard/MarketVectors/blob/master/preparedata.ipynb
