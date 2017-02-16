@@ -307,6 +307,7 @@ Sentiment
 
 17.02
 
+- RNNs bag of applications: http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/RNN.pdf
 - BiMPM https://arxiv.org/pdf/1702.03814.pdf
 - TextSum step by step: http://www.fastforwardlabs.com/luhn/
 - https://keon.io/rl/deep-q-learning-with-keras-and-gym/
