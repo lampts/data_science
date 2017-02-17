@@ -305,6 +305,10 @@ Sentiment
 
 # Timeline
 
+18.02
+
+- yandex MLSchool in Londo: https://github.com/yandexdataschool/MLatImperial2017/
+
 17.02
 
 - RNNs bag of applications: http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/RNN.pdf
