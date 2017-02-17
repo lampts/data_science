@@ -307,6 +307,7 @@ Sentiment
 
 18.02
 
+- ai notes: http://frnsys.com/ai_notes/ai_notes.pdf
 - brilliant wrong, ROC explanation: http://arogozhnikov.github.io/2015/10/05/roc-curve.html
 - yandex MLSchool in Londo: https://github.com/yandexdataschool/MLatImperial2017/
 
