@@ -305,6 +305,11 @@ Sentiment
 
 # Timeline
 
+19.02
+
+- scikit plot: https://github.com/reiinakano/scikit-plot
+
+
 18.02
 
 - really cool Francis: https://github.com/frnsys/
