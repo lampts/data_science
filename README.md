@@ -305,6 +305,10 @@ Sentiment
 
 # Timeline
 
+20.02
+
+- https://data36.com/wp-content/uploads/2016/08/practical_data_dictionary_final_data36_tomimester_published.pdf
+
 19.02
 
 - scikit plot: https://github.com/reiinakano/scikit-plot
