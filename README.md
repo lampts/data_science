@@ -307,6 +307,8 @@ Sentiment
 
 20.02
 
+- https://github.com/napsternxg/DeepSequenceClassification/blob/master/model.py
+- https://github.com/pth1993/vn_spam_sms_filtering/blob/master/src/sms_filtering.py
 - https://data36.com/wp-content/uploads/2016/08/practical_data_dictionary_final_data36_tomimester_published.pdf
 
 19.02
