@@ -307,6 +307,8 @@ Sentiment
 
 20.02
 
+- https://github.com/ZhitingHu/logicnn
+- http://www.cs.cmu.edu/~zhitingh/data/acl16harnessing_slides.pdf
 - Lample: https://arxiv.org/pdf/1603.01360.pdf, https://github.com/glample/tagger
 - stacked NN LSTM: https://github.com/clab/stack-lstm-ner
 - https://github.com/napsternxg/DeepSequenceClassification/blob/master/model.py
