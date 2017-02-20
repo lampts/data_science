@@ -307,7 +307,8 @@ Sentiment
 
 20.02
 
-- Max Xue, CMU: best paper in ACL 2016, Germany https://github.com/XuezheMax/LasagneNLP
+- keras crf https://github.com/pressrelations/keras/blob/98b2bb152b8d472150a3fc4f91396ce7f767bed9/examples/conll2000_bi_lstm_crf.py
+- Ma Xue, CMU: best paper in ACL 2016, Germany https://github.com/XuezheMax/LasagneNLP
 - rnn+cnn+crf: https://arxiv.org/pdf/1603.01354.pdf
 - https://github.com/napsternxg/DeepSequenceClassification/blob/master/model.py
 - https://github.com/pth1993/vn_spam_sms_filtering/blob/master/src/sms_filtering.py
