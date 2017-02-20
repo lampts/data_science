@@ -307,6 +307,8 @@ Sentiment
 
 20.02
 
+- Lample: https://arxiv.org/pdf/1603.01360.pdf, https://github.com/glample/tagger
+- stacked NN LSTM: https://github.com/clab/stack-lstm-ner
 - https://github.com/napsternxg/DeepSequenceClassification/blob/master/model.py
 - chatbot: https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm
 - keras crf https://github.com/pressrelations/keras/blob/98b2bb152b8d472150a3fc4f91396ce7f767bed9/examples/conll2000_bi_lstm_crf.py
