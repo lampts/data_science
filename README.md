@@ -307,6 +307,8 @@ Sentiment
 
 21.02
 
+- https://github.com/marekrei/sequence-labeler
+- markrei word + char attention: http://www.marekrei.com/blog/
 - datalab: https://github.com/googledatalab/
 - https://tw.pycon.org/2017/en-us/speaking/cfp/
 
