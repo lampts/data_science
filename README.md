@@ -305,6 +305,10 @@ Sentiment
 
 # Timeline
 
+22.02
+
+- marek sequence tagger: https://github.com/marekrei/sequence-labeler
+
 21.02
 
 - https://github.com/marekrei/sequence-labeler
