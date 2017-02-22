@@ -307,6 +307,7 @@ Sentiment
 
 22.02
 
+- https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32#.xqpspe69f
 - Beam search, NN tut from Quoc Le: https://cs.stanford.edu/~quocle/tutorial2.pdf
 - marek sequence tagger: https://github.com/marekrei/sequence-labeler
 
