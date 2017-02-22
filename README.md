@@ -307,6 +307,7 @@ Sentiment
 
 22.02
 
+- Beam search, NN tut from Quoc Le: https://cs.stanford.edu/~quocle/tutorial2.pdf
 - marek sequence tagger: https://github.com/marekrei/sequence-labeler
 
 21.02
