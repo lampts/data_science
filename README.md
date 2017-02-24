@@ -307,6 +307,7 @@ Sentiment
 
 24.02
 
+- how to init uniform (-b,b), summerschool of marek http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/
 - Beam preprocessing: https://research.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html
 - https://github.com/offbit/char-models/blob/master/doc-rnn2.py
 
