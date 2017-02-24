@@ -305,6 +305,11 @@ Sentiment
 
 # Timeline
 
+24.02
+
+- Beam preprocessing: https://research.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html
+- https://github.com/offbit/char-models/blob/master/doc-rnn2.py
+
 23.02
 
 - http://affinelayer.com/pixsrv/
