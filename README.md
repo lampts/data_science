@@ -305,6 +305,11 @@ Sentiment
 
 # Timeline
 
+25.02
+
+- gensim 1.0: https://rare-technologies.com/gensim-switches-to-semantic-versioning/
+- https://www.slideshare.net/AhmadQamar3/using-deep-neural-networks-for-fashion-applications
+
 24.02
 
 - how to init uniform (-b,b), summerschool of marek http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/
