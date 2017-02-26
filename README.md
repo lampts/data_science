@@ -308,7 +308,7 @@ Sentiment
 26.02
 
 - https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b#.diz6kjaus
-
+- https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews/blob/master/Lessons%20Learned%20-%20Data%20Science%20Interviews.pdf
 
 25.02
 
