@@ -305,6 +305,11 @@ Sentiment
 
 # Timeline
 
+26.02
+
+- https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b#.diz6kjaus
+
+
 25.02
 
 - gensim 1.0: https://rare-technologies.com/gensim-switches-to-semantic-versioning/
