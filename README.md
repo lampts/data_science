@@ -305,6 +305,15 @@ Sentiment
 
 # Timeline
 
+27.02
+
+- 5 diseases of doing science: http://www.sciencedirect.com/science/article/pii/S104898431730070X
+- recommended book: https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/
+- Martin DL without PHD: https://github.com/martin-gorner/tensorflow-mnist-tutorial
+- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+- https://docs.google.com/presentation/d/18MiZndRCOxB7g-TcCl2EZOElS5udVaCuxnGznLnmOlE/pub?slide=id.p
+- https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p
+
 26.02
 
 - https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b#.diz6kjaus
