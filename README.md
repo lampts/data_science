@@ -307,6 +307,7 @@ Sentiment
 
 27.02
 
+- random walk -> graph -> node2vec: http://www.kdd.org/kdd2016/subtopic/view/node2vec-scalable-feature-learning-for-networks
 - URL2VEC: http://www.newfoundland.nl/wp/?p=112
 - 5 diseases of doing science: http://www.sciencedirect.com/science/article/pii/S104898431730070X
 - recommended book: https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/
