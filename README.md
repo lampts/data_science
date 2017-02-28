@@ -309,6 +309,7 @@ Sentiment
 
 - https://github.com/uclmr/emoji2vec/blob/master/TwitterClassification.ipynb
 - http://blog.outcome.io/pytorch-quick-start-classifying-an-image/
+- https://blog.mariusschulz.com/2014/06/03/why-using-in-regular-expressions-is-almost-never-what-you-actually-want
 
 27.02
 
