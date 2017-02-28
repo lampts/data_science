@@ -305,6 +305,10 @@ Sentiment
 
 # Timeline
 
+28.02
+
+- https://github.com/uclmr/emoji2vec/blob/master/TwitterClassification.ipynb
+
 27.02
 
 - random walk -> graph -> node2vec: http://www.kdd.org/kdd2016/subtopic/view/node2vec-scalable-feature-learning-for-networks
