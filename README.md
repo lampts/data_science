@@ -177,6 +177,7 @@ Keras:
 - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/learn/wide_n_deep_tutorial.py
 - model zoo:https://github.com/tensorflow/models
 - music auto tag: https://github.com/keunwoochoi/music-auto_tagging-keras
+- expose API: https://github.com/samjabrahams/inception-resnet-flask-demo
 
 NLP:
 
