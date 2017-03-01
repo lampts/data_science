@@ -305,6 +305,13 @@ Sentiment
 
 # Timeline
 
+01.03
+
+- pytorch vs keras/tf: https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/
+- quora duplicate question detection: accuracy 1%(84.8) higher but 100x params than my model: https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question/blob/master/deepnet.py
+- https://github.com/chiphuyen/tf-stanford-tutorials?files=1
+- pretrained fasttext on wikipedia: https://github.com/facebookresearch/fastText
+
 28.02
 
 - https://github.com/uclmr/emoji2vec/blob/master/TwitterClassification.ipynb
