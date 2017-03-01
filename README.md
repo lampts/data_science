@@ -309,6 +309,8 @@ Sentiment
 
 01.03
 
+- Twitter NER annotation: https://docs.google.com/document/d/12hI-2A3vATMWRdsKkzDPHu5oT74_tG0-PPQ7VN0IRaw/edit
+- WNUT 19, Japan, result: https://noisy-text.github.io/2016/pdf/WNUT19.pdf
 - pytorch vs keras/tf: https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/
 - quora duplicate question detection: accuracy 1%(84.8) higher but 100x params than my model: https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question/blob/master/deepnet.py
 - https://github.com/chiphuyen/tf-stanford-tutorials?files=1
