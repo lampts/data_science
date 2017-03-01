@@ -33,6 +33,7 @@ EMNLP 2017: http://noisy-text.github.io/2017/
 ## My SOTA
 
 - My ATIS: sequence tagging, nb of params: 324335, bi-LSTM
+- Quore question duplicate detection: Accuracy 85% on Wang's test
 
 ```
  - best F1 score: 94.92/94.64
@@ -309,6 +310,7 @@ Sentiment
 
 01.03
 
+- http://smerity.com/articles/2017/deepcoder_and_ai_hype.html
 - Twitter NER annotation: https://docs.google.com/document/d/12hI-2A3vATMWRdsKkzDPHu5oT74_tG0-PPQ7VN0IRaw/edit
 - WNUT 19, Japan, result: https://noisy-text.github.io/2016/pdf/WNUT19.pdf
 - pytorch vs keras/tf: https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/
