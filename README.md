@@ -7,6 +7,8 @@
 
 Events: I will put word cloud for that.
 
+EMNLP 2017: http://noisy-text.github.io/2017/
+
 ## NLPStan reading
 
 - http://nlp.stanford.edu/read/
