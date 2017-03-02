@@ -309,6 +309,13 @@ Sentiment
 
 # Timeline
 
+02.03
+
+- https://explosion.ai/blog/supervised-similarity-siamese-cnn
+- https://github.com/TeamHG-Memex/eli5/blob/master/README.rst
+- https://github.com/cemoody/topicsne?files=1
+- http://smerity.com/articles/2017/deepcoder_and_ai_hype.html
+
 01.03
 
 - http://smerity.com/articles/2017/deepcoder_and_ai_hype.html
