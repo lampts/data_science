@@ -309,6 +309,12 @@ Sentiment
 
 # Timeline
 
+05.03
+
+- https://github.com/jfsantos/TensorFlow-Book
+- https://github.com/jfsantos/keras-tutorial/blob/master/notebooks/5%20-%20Improving%20generalization%20with%20regularizers%20and%20constraints.ipynb
+
+
 02.03
 
 - https://explosion.ai/blog/supervised-similarity-siamese-cnn
