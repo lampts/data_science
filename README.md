@@ -311,6 +311,10 @@ Sentiment
 
 05.03
 
+- fcholet: xception https://arxiv.org/pdf/1610.02357.pdf
+
+04.03
+
 - https://github.com/jfsantos/TensorFlow-Book
 - https://github.com/jfsantos/keras-tutorial/blob/master/notebooks/5%20-%20Improving%20generalization%20with%20regularizers%20and%20constraints.ipynb
 
