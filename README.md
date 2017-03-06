@@ -309,6 +309,11 @@ Sentiment
 
 # Timeline
 
+06.03
+
+- https://github.com/thomasj02/DeepLearningProjectWorkflow
+
+
 05.03
 
 - fcholet: xception https://arxiv.org/pdf/1610.02357.pdf
