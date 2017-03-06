@@ -312,7 +312,8 @@ Sentiment
 06.03
 
 - https://github.com/thomasj02/DeepLearningProjectWorkflow
-
+- https://tensorflow.github.io/serving/docker.html
+- Deep learning in NLP: http://campuspress.yale.edu/yw355/deep_learning/
 
 05.03
 
