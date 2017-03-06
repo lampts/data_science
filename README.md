@@ -311,6 +311,8 @@ Sentiment
 
 06.03
 
+- http://campuspress.yale.edu/yw355/deep_learning/
+- https://github.com/georgeiswang/Keras_Example
 - https://github.com/thomasj02/DeepLearningProjectWorkflow
 - https://tensorflow.github.io/serving/docker.html
 - Deep learning in NLP: http://campuspress.yale.edu/yw355/deep_learning/
