@@ -311,6 +311,8 @@ Sentiment
 
 07.03
 
+- https://arxiv.org/pdf/1703.00565.pdf
+- https://jasonkessler.github.io/st-sim.html
 - Dr Bao H.T JAIST: http://www.jaist.ac.jp/~bao/VIASM-SML/Lecture/L1-ML%20overview.pdf
 - Khanh UMD: https://github.com/khanhptnk?tab=repositories
 
