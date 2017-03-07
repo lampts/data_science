@@ -312,7 +312,7 @@ Sentiment
 07.03
 
 - Dr Bao H.T JAIST: http://www.jaist.ac.jp/~bao/VIASM-SML/Lecture/L1-ML%20overview.pdf
-- 
+- Khanh UMD: https://github.com/khanhptnk?tab=repositories
 
 06.03
 
