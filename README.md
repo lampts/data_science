@@ -311,6 +311,7 @@ Sentiment
 
 07.03
 
+- https://www.slideshare.net/JasonKessler/turning-unstructured-content-into-kernels-of-ideas/52
 - https://arxiv.org/pdf/1703.00565.pdf
 - https://jasonkessler.github.io/st-sim.html
 - Dr Bao H.T JAIST: http://www.jaist.ac.jp/~bao/VIASM-SML/Lecture/L1-ML%20overview.pdf
