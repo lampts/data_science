@@ -309,6 +309,11 @@ Sentiment
 
 # Timeline
 
+07.03
+
+- Dr Bao H.T JAIST: http://www.jaist.ac.jp/~bao/VIASM-SML/Lecture/L1-ML%20overview.pdf
+- 
+
 06.03
 
 - http://campuspress.yale.edu/yw355/deep_learning/
