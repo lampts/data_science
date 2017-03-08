@@ -309,6 +309,13 @@ Sentiment
 
 # Timeline
 
+08.03
+
+- CMU RF and control course: https://katefvision.github.io/
+- https://www.slideshare.net/JasonKessler/turning-unstructured-content-into-kernels-of-ideas/52
+- norvig ngram: http://norvig.com/ngrams/
+
+
 07.03
 
 - https://www.slideshare.net/JasonKessler/turning-unstructured-content-into-kernels-of-ideas/52
