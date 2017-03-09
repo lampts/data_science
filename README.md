@@ -311,6 +311,7 @@ Sentiment
 
 09.03
 
+- https://github.com/fastai/courses
 - https://www.slideshare.net/0xdata/arno-candel-aibythebay-030617
 - https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=98336
 - https://medium.com/salesforce-engineering/salesforce-research-deep-learning-breakthroughs-d83c8b2ac4c3#.a9zswyhov
