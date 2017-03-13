@@ -267,6 +267,7 @@ Financial:
 Twitter:
 
 - http://nlp.stanford.edu/projects/glove/preprocess-twitter.rb
+- GATE NER dataset: https://gate.ac.uk/wiki/broad-twitter-corpus.html
 
 Deep Learning Frameworks/Toolkits:
 
@@ -311,6 +312,8 @@ Sentiment
 
 13.03
 
+- http://www.springer.com/gp/book/9783319472409
+- https://arxiv.org/pdf/1602.04427.pdf
 - Socher at LXMS: http://lxmls.it.pt/2014/socher-lxmls.pdf
 - use vgg to classify cat/dog: https://gist.github.com/embanner/6149bba89c174af3bfd69537b72bca74
 - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
