@@ -310,6 +310,10 @@ NER
 
 - demo: http://nlp.stanford.edu:8080/ner/process
 - ritter: https://www.cise.ufl.edu/class/cis6930fa11lad/cis6930fa11_NEROverTweets.pdf
+- cmu tweetnlp: http://www.cs.cmu.edu/~ark/TweetNLP/
+- opencalais: http://www.opencalais.com/opencalais-demo/
+- https://www.quora.com/How-can-I-find-city-country-company-name-from-a-tweet-text-using-Java
+- no broad domain, average accuracy 80-85% is quite good: https://www.quora.com/How-accurate-are-entity-extraction-tools
 
 ----
 
