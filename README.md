@@ -309,6 +309,12 @@ Sentiment
 
 # Timeline
 
+13.03
+
+- Socher at LXMS: http://lxmls.it.pt/2014/socher-lxmls.pdf
+- use vgg to classify cat/dog: https://gist.github.com/embanner/6149bba89c174af3bfd69537b72bca74
+- https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
 10.03
 
 - https://github.com/meereeum/lda2vec-tf
