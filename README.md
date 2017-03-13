@@ -312,6 +312,7 @@ Sentiment
 
 13.03
 
+- visual search in es: https://github.com/tuan3w/visual_search
 - 9-15% twitter active users are bot: https://arxiv.org/pdf/1703.03107.pdf
 - http://www.springer.com/gp/book/9783319472409
 - https://arxiv.org/pdf/1602.04427.pdf
