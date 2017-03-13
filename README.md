@@ -306,6 +306,11 @@ Sentiment
 - https://github.com/jssandh2/Stock_Search_Engine
 - https://www.quantopian.com/posts/crowd-sourced-stock-sentiment-using-stocktwits
 
+NER
+
+- demo: http://nlp.stanford.edu:8080/ner/process
+- ritter: https://www.cise.ufl.edu/class/cis6930fa11lad/cis6930fa11_NEROverTweets.pdf
+
 ----
 
 # Timeline
