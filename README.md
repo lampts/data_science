@@ -315,6 +315,12 @@ NER
 - https://www.quora.com/How-can-I-find-city-country-company-name-from-a-tweet-text-using-Java
 - no broad domain, average accuracy 80-85% is quite good: https://www.quora.com/How-accurate-are-entity-extraction-tools
 
+
+Stacking
+
+- brew: https://github.com/viisar/brew
+- heamy: https://github.com/rushter/heamy
+
 ----
 
 # Timeline
