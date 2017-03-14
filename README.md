@@ -325,6 +325,11 @@ Stacking
 
 # Timeline
 
+14.03
+
+- seq2seq on tf(general) https://github.com/google/seq2seq
+- sentencepiece tokenizer https://github.com/google/sentencepiece
+
 13.03
 
 - visual search in es: https://github.com/tuan3w/visual_search
