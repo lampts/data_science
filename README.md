@@ -316,6 +316,8 @@ NER
 - no broad domain, average accuracy 80-85% is quite good: https://www.quora.com/How-accurate-are-entity-extraction-tools
 - http://blog.districtdatalabs.com/named-entity-recognition-and-classification-for-entity-extraction
 - http://noisy-text.github.io/2016/ner-shared-task.html
+- https://noisy-text.github.io/2016/pdf/WNUT26.pdf
+- dataset: https://www.dropbox.com/s/yaoy7zi9vz71nki/wnut_ner_evaluation.tgz?dl=0
 
 
 Stacking
