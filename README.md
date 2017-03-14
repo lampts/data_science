@@ -318,7 +318,7 @@ NER
 - http://noisy-text.github.io/2016/ner-shared-task.html
 - https://noisy-text.github.io/2016/pdf/WNUT26.pdf
 - dataset: https://www.dropbox.com/s/yaoy7zi9vz71nki/wnut_ner_evaluation.tgz?dl=0
-
+- wnut solution: https://github.com/napsternxg/TwitterNER
 
 Stacking
 
