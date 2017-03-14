@@ -314,6 +314,8 @@ NER
 - opencalais: http://www.opencalais.com/opencalais-demo/
 - https://www.quora.com/How-can-I-find-city-country-company-name-from-a-tweet-text-using-Java
 - no broad domain, average accuracy 80-85% is quite good: https://www.quora.com/How-accurate-are-entity-extraction-tools
+- http://blog.districtdatalabs.com/named-entity-recognition-and-classification-for-entity-extraction
+- http://noisy-text.github.io/2016/ner-shared-task.html
 
 
 Stacking
