@@ -333,6 +333,8 @@ Stacking
 
 15.03
 
+- https://github.com/rguthrie3/DeepLearningForNLPInPytorch/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing%20with%20Pytorch.ipynb
+- http://pytorch.org/#pip-install-pytorch
 - tweet calendar: http://ec2-54-170-89-29.eu-west-1.compute.amazonaws.com:8000//month/201703/
 - https://www.cs.cornell.edu/courses/cs6740/2010sp/
 - hello keras 2: I love it, https://blog.keras.io/
