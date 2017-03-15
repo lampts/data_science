@@ -333,6 +333,7 @@ Stacking
 
 15.03
 
+- https://www.cs.cornell.edu/courses/cs6740/2010sp/
 - hello keras 2: I love it, https://blog.keras.io/
 - how to annotate: https://docs.google.com/document/d/1caUD8h-M117pKlds8rRP8jzQ0GN41NzD9UYvog4NyuQ/edit#heading=h.ggo1tu2159da
 - social health mining: http://www.cs.jhu.edu/~mdredze/code.php
