@@ -308,6 +308,7 @@ Sentiment
 
 NER
 
+- 2017 conference: http://noisy-text.github.io/2017/
 - demo: http://nlp.stanford.edu:8080/ner/process
 - ritter: https://www.cise.ufl.edu/class/cis6930fa11lad/cis6930fa11_NEROverTweets.pdf
 - cmu tweetnlp: http://www.cs.cmu.edu/~ark/TweetNLP/
@@ -319,6 +320,7 @@ NER
 - https://noisy-text.github.io/2016/pdf/WNUT26.pdf
 - dataset: https://www.dropbox.com/s/yaoy7zi9vz71nki/wnut_ner_evaluation.tgz?dl=0
 - wnut solution: https://github.com/napsternxg/TwitterNER
+- dataset wnut16: https://github.com/aritter/twitter_nlp/tree/master/data/annotated/wnut16/data
 
 Stacking
 
@@ -328,6 +330,13 @@ Stacking
 ----
 
 # Timeline
+
+15.03
+
+- hello keras 2: I love it, https://blog.keras.io/
+- how to annotate: https://docs.google.com/document/d/1caUD8h-M117pKlds8rRP8jzQ0GN41NzD9UYvog4NyuQ/edit#heading=h.ggo1tu2159da
+- social health mining: http://www.cs.jhu.edu/~mdredze/code.php
+- http://www.sciencedirect.com/science/article/pii/S088523081630002X
 
 14.03
 
