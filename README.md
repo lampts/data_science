@@ -338,6 +338,8 @@ Tensorflow tutorials
 
 16.03
 
+- http://www.cs.cornell.edu/courses/cs474/2005fa/Handouts/advanced-qa.pdf
+- https://github.com/fchollet/keras/wiki/Keras-2.0-release-notes
 - https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones
 - https://automatedinsights.com/blog/the-python-nlp-ccosystem-a-short-and-very-opinionated-guide
 - https://metamind.io/research/learning-when-to-skim-and-when-to-read
