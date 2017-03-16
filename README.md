@@ -331,6 +331,12 @@ Stacking
 
 # Timeline
 
+16.03
+
+- https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones
+- https://automatedinsights.com/blog/the-python-nlp-ccosystem-a-short-and-very-opinionated-guide
+- https://metamind.io/research/learning-when-to-skim-and-when-to-read
+
 15.03
 
 - https://github.com/rguthrie3/DeepLearningForNLPInPytorch/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing%20with%20Pytorch.ipynb
