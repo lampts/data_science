@@ -322,10 +322,15 @@ NER
 - wnut solution: https://github.com/napsternxg/TwitterNER
 - dataset wnut16: https://github.com/aritter/twitter_nlp/tree/master/data/annotated/wnut16/data
 
-Stacking
+ML Stacking
 
 - brew: https://github.com/viisar/brew
 - heamy: https://github.com/rushter/heamy
+
+Tensorflow tutorials
+
+- https://github.com/alrojo/tensorflow-tutorial
+- https://github.com/farizrahman4u/keras-contrib
 
 ----
 
