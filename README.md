@@ -336,6 +336,12 @@ Tensorflow tutorials
 
 # Timeline
 
+17.03
+
+- install keras on gpu: please use --no-deps flags: https://github.com/fchollet/keras/wiki/Keras-2.0-release-notes
+- quora again: https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question
+- clickbait: https://github.com/abhishekkrthakur/clickbaits_revisited
+
 16.03
 
 - http://www.cs.cornell.edu/courses/cs474/2005fa/Handouts/advanced-qa.pdf
