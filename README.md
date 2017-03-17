@@ -185,6 +185,7 @@ NLP:
 - https://github.com/biplab-iitb/practNLPTools
 - http://ml.nec-labs.com/senna/
 - LSTM + CNN char on NER: https://transacl.org/ojs/index.php/tacl/article/viewFile/792/202
+- https://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/
 
 Apps:
 
