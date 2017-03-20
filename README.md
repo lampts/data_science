@@ -337,6 +337,11 @@ Tensorflow tutorials
 
 # Timeline
 
+20.03
+
+- https://github.com/WenchenLi/kaggle/blob/master/otto/keras/kaggle_otto_nn.py
+
+
 17.03
 
 - install keras on gpu: please use --no-deps flags: https://github.com/fchollet/keras/wiki/Keras-2.0-release-notes
