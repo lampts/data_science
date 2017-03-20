@@ -339,6 +339,7 @@ Tensorflow tutorials
 
 20.03
 
+- bn in application: https://github.com/yskmt/kaggle-otto/tree/master/keras
 - https://github.com/WenchenLi/kaggle/blob/master/otto/keras/kaggle_otto_nn.py
 - https://github.com/ducha-aiki/caffenet-benchmark/blob/master/batchnorm.md
 
