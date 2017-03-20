@@ -340,6 +340,10 @@ Tensorflow tutorials
 20.03
 
 - https://github.com/WenchenLi/kaggle/blob/master/otto/keras/kaggle_otto_nn.py
+- https://github.com/ducha-aiki/caffenet-benchmark/blob/master/batchnorm.md
+
+> I haven't gone back to check what they are suggesting in their original paper, but I can guarantee that recent code written by Christian applies relu before BN. It is still occasionally a topic of debate, though.
+
 
 
 17.03
