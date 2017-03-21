@@ -337,6 +337,11 @@ Tensorflow tutorials
 
 # Timeline
 
+21.03
+
+- DSSM: https://www.microsoft.com/en-us/research/project/dssm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fdssm%2F
+- MS NLP https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf
+
 20.03
 
 - https://github.com/kweonwooj/kaggle_santander_product_recommendation
