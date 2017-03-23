@@ -339,6 +339,8 @@ Tensorflow tutorials
 
 23.03
 
+- http://cs224d.stanford.edu/reports_2016.html
+- https://github.com/hycis/bidirectional_RNN
 - https://github.com/MLWave/Kaggle-Ensemble-Guide
 - https://github.com/stanfordnlp/cs224n-winter17-notes
 - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf
