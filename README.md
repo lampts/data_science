@@ -306,6 +306,7 @@ Sentiment
 - stocktwit: http://stocktwits.com/symbol/FINL
 - https://github.com/jssandh2/Stock_Search_Engine
 - https://www.quantopian.com/posts/crowd-sourced-stock-sentiment-using-stocktwits
+- https://www.crowdflower.com/data-for-everyone/
 
 NER
 
