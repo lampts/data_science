@@ -337,6 +337,12 @@ Tensorflow tutorials
 
 # Timeline
 
+23.03
+
+- https://github.com/MLWave/Kaggle-Ensemble-Guide
+- https://github.com/stanfordnlp/cs224n-winter17-notes
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf
+
 21.03
 
 - DSSM: https://www.microsoft.com/en-us/research/project/dssm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fdssm%2F
