@@ -338,6 +338,11 @@ Tensorflow tutorials
 
 # Timeline
 
+25.03
+
+- https://github.com/seatgeek/fuzzywuzzy
+- misunderstanding of P: http://tuanvannguyen.blogspot.com/2017/03/10-hieu-lam-ve-tri-so-p-trong-khoa-hoc.html
+
 23.03
 
 - http://cs224d.stanford.edu/reports_2016.html
