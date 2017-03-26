@@ -338,6 +338,11 @@ Tensorflow tutorials
 
 # Timeline
 
+26.03
+
+- https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+- https://github.com/stanfordnlp/cs224n-winter17-notes/
+
 25.03
 
 - https://github.com/seatgeek/fuzzywuzzy
