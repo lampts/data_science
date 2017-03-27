@@ -340,6 +340,7 @@ Tensorflow tutorials
 
 27.03
 
+- http://www.exegetic.biz/blog/2015/12/making-sense-logarithmic-loss/
 - http://nghiaho.com
 - https://liusida.github.io/2016/10/31/translate-from-tf-2-keras/
 
