@@ -338,6 +338,11 @@ Tensorflow tutorials
 
 # Timeline
 
+27.03
+
+- http://nghiaho.com
+
+
 26.03
 
 - https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
