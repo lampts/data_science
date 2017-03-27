@@ -340,6 +340,7 @@ Tensorflow tutorials
 
 27.03
 
+- https://truyentran.github.io/talks/ai16-tute-part-I.pdf
 - https://github.com/truyentran
 - RE with LSTM in TF: https://github.com/thunlp/TensorFlow-NRE
 - http://www.exegetic.biz/blog/2015/12/making-sense-logarithmic-loss/
