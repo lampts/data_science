@@ -340,6 +340,8 @@ Tensorflow tutorials
 
 28.03
 
+- https://github.com/sujitpal/dl-models-for-qa
+- http://allenai.org/data.html
 - https://www.nervanasys.com/building-skip-thought-vectors-document-understanding/
 
 27.03
