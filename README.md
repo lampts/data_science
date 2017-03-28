@@ -340,6 +340,7 @@ Tensorflow tutorials
 
 28.03
 
+- https://www.dropbox.com/s/tohrsllcfy7rch4/SimpleQuestions_v2.tgz
 - https://github.com/sujitpal/dl-models-for-qa
 - http://allenai.org/data.html
 - https://www.nervanasys.com/building-skip-thought-vectors-document-understanding/
