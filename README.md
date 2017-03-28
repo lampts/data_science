@@ -338,6 +338,10 @@ Tensorflow tutorials
 
 # Timeline
 
+28.03
+
+- https://www.nervanasys.com/building-skip-thought-vectors-document-understanding/
+
 27.03
 
 - https://truyentran.github.io/talks/ai16-tute-part-I.pdf
