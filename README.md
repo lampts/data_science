@@ -338,6 +338,12 @@ Tensorflow tutorials
 
 # Timeline
 
+29.03
+
+- silicon valley ds: https://github.com/silicon-valley-data-science/RNN-Tutorial
+- https://github.com/richliao/textClassifier
+- https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/
+
 28.03
 
 - https://www.dropbox.com/s/tohrsllcfy7rch4/SimpleQuestions_v2.tgz
