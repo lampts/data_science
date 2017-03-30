@@ -338,6 +338,12 @@ Tensorflow tutorials
 
 # Timeline
 
+30.03
+
+- https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc
+- Rethink RNN: https://docs.google.com/document/d/1X9f-wst8QhrCCFTWiJIz6vq1qAOlpyYAUo_kaFf0J8M/edit
+- crfasrnn: https://github.com/torrvision/crfasrnn
+
 29.03
 
 - silicon valley ds: https://github.com/silicon-valley-data-science/RNN-Tutorial
