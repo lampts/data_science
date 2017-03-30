@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 30.03
 
+- https://gist.github.com/jeremystan/c236000a4159f9d47c28784fa6693c45#file-initial_architecture-py
 - Relationship Modeling network: https://pbs.twimg.com/media/C7dvymYVQAAut9_.jpg:large
 - https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc
 - Rethink RNN: https://docs.google.com/document/d/1X9f-wst8QhrCCFTWiJIz6vq1qAOlpyYAUo_kaFf0J8M/edit
