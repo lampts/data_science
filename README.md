@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 30.03
 
+- deepnl: https://github.com/attardi/deepnl
 - https://gist.github.com/jeremystan/c236000a4159f9d47c28784fa6693c45#file-initial_architecture-py
 - Relationship Modeling network: https://pbs.twimg.com/media/C7dvymYVQAAut9_.jpg:large
 - https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc
