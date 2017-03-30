@@ -287,6 +287,7 @@ ElasticSearch + Kibana:
 
 Attention based:
 
+- code RWA in TF: https://github.com/jostmey/rwa
 - decomposable attention: https://github.com/explosion/spaCy/tree/master/examples/keras_parikh_entailment
 - customized lstm with attention: http://benjaminbolte.com/blog/2016/keras-language-modeling.html
 - vis + cnn + lstm: https://blog.heuritech.com/2016/01/20/attention-mechanism/
