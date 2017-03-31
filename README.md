@@ -339,6 +339,11 @@ Tensorflow tutorials
 
 # Timeline
 
+31.03
+
+- https://www.edge.org/response-detail/23691
+- https://arxiv.org/pdf/1408.0782.pdf
+
 30.03
 
 - deepnl: https://github.com/attardi/deepnl
