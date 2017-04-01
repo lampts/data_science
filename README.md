@@ -339,6 +339,10 @@ Tensorflow tutorials
 
 # Timeline
 
+1.4
+
+- https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification
+
 31.03
 
 - https://www.edge.org/response-detail/23691
