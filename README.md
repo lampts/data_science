@@ -339,7 +339,14 @@ Tensorflow tutorials
 
 # Timeline
 
-1.4
+03.04
+
+- https://nlp.stanford.edu/~socherr/pa4_ner.pdf
+- https://github.com/chokkan/crfsuite/blob/master/example/ner.py
+- https://www.reddit.com/r/MachineLearning/comments/3dz3fl/dl_architectures_for_entity_recognition_and_other/
+
+
+01.04
 
 - https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification
 
