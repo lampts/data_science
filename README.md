@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 10.04
 
+- http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/35
 - https://github.com/cesc-park/CRCN/blob/master/keras/examples/kaggle_otto_nn.py
 - https://www.visme.co/make-information-beautiful/dona-wong-visualizing-financial-data/
 - http://web.stanford.edu/class/cs224n/reports.html
