@@ -339,6 +339,12 @@ Tensorflow tutorials
 
 # Timeline
 
+10.04
+
+- https://www.visme.co/make-information-beautiful/dona-wong-visualizing-financial-data/
+- http://web.stanford.edu/class/cs224n/reports.html
+- http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
+
 03.04
 
 - https://nlp.stanford.edu/~socherr/pa4_ner.pdf
