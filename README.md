@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 10.04
 
+- https://github.com/cesc-park/CRCN/blob/master/keras/examples/kaggle_otto_nn.py
 - https://www.visme.co/make-information-beautiful/dona-wong-visualizing-financial-data/
 - http://web.stanford.edu/class/cs224n/reports.html
 - http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
