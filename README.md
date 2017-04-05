@@ -339,7 +339,13 @@ Tensorflow tutorials
 
 # Timeline
 
-10.04
+05.04
+
+- https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
+- https://github.com/mattilyra/glove2h5
+
+
+04.04
 
 - http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/35
 - https://github.com/cesc-park/CRCN/blob/master/keras/examples/kaggle_otto_nn.py
