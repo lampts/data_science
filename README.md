@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 05.04
 
+- pointer LSTM: https://github.com/keon/pointer-networks
 - https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
 - https://github.com/mattilyra/glove2h5
 
