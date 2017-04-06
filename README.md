@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 06.04
 
+- http://pasky.or.cz/cp/poster-repl4nlp2016.pdf
 - https://www.quora.com/How-do-I-learn-deep-learning-in-2-months
 - non-linear transformation: https://swarbrickjones.wordpress.com/2017/03/28/cross-entropy-and-training-test-class-imbalance/#more-2486
 - homedepot: https://github.com/ChenglongChen/Kaggle_HomeDepot
