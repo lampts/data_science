@@ -339,6 +339,11 @@ Tensorflow tutorials
 
 # Timeline
 
+06.04
+
+- non-linear transformation: https://swarbrickjones.wordpress.com/2017/03/28/cross-entropy-and-training-test-class-imbalance/#more-2486
+- homedepot: https://github.com/ChenglongChen/Kaggle_HomeDepot
+
 05.04
 
 - https://github.com/kootenpv/tweetokenize
