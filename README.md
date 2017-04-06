@@ -339,6 +339,10 @@ Tensorflow tutorials
 
 # Timeline
 
+07.04
+
+- https://drive.google.com/drive/folders/0B-btHzfJjPnobXZ0MndjSkxkRkk
+
 06.04
 
 - http://pasky.or.cz/cp/poster-repl4nlp2016.pdf
