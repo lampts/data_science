@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 07.04
 
+- https://gist.github.com/udibr
 - tf sequence tagging: https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html
 - tweet2vec cluster: https://github.com/vendi12/tweet2vec_clustering
 - learning to generate review and discore sentiment: https://github.com/openai/generating-reviews-discovering-sentiment
