@@ -341,6 +341,7 @@ Tensorflow tutorials
 
 07.04
 
+- learning to generate review and discore sentiment: https://github.com/openai/generating-reviews-discovering-sentiment
 - https://aclweb.org/anthology/K15-1013
 - https://github.com/brmson/dataset-sts
 - https://drive.google.com/drive/folders/0B-btHzfJjPnobXZ0MndjSkxkRkk
