@@ -340,6 +340,11 @@ Tensorflow tutorials
 
 # Timeline
 
+08.04
+
+- https://docs.google.com/presentation/d/1bte84MNQu3LDq5WjNMP3ZBDsMfn0eKlnwBvvKFBWVFI/edit#slide=id.g20276450fa_1_28
+- https://medium.com/startup-grind/i-reverse-engineered-a-500m-artificial-intelligence-company-in-one-week-heres-the-full-story-d067cef99e1c
+
 07.04
 
 - https://gist.github.com/udibr
