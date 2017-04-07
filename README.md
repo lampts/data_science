@@ -311,6 +311,7 @@ Sentiment
 
 NER
 
+- https://github.com/aleju/ner-crf
 - 2017 conference: http://noisy-text.github.io/2017/
 - demo: http://nlp.stanford.edu:8080/ner/process
 - ritter: https://www.cise.ufl.edu/class/cis6930fa11lad/cis6930fa11_NEROverTweets.pdf
