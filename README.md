@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 08.04
 
+- ffm: http://www.csie.ntu.edu.tw/~r01922136/slides/ffm.pdf
 - https://medium.com/startup-grind/i-reverse-engineered-a-500m-artificial-intelligence-company-in-one-week-heres-the-full-story-d067cef99e1c
 - http://www.learnbymarketing.com/950/winning-a-kaggle-competition-analysis/
 - imbalance: https://silicon-valley-data-science.github.io/learning-from-imbalanced-classes/Gaussians.html
