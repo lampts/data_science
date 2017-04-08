@@ -342,6 +342,9 @@ Tensorflow tutorials
 
 08.04
 
+- imbalance: https://silicon-valley-data-science.github.io/learning-from-imbalanced-classes/Gaussians.html
+- https://www.svds.com/learning-imbalanced-classes/
+- 3 idiots, ad prediction criteo: http://www.csie.ntu.edu.tw/~r01922136/kaggle-2014-criteo.pdf
 - https://docs.google.com/presentation/d/1bte84MNQu3LDq5WjNMP3ZBDsMfn0eKlnwBvvKFBWVFI/edit#slide=id.g20276450fa_1_28
 - https://medium.com/startup-grind/i-reverse-engineered-a-500m-artificial-intelligence-company-in-one-week-heres-the-full-story-d067cef99e1c
 
