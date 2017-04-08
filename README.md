@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 08.04
 
+- https://medium.com/startup-grind/i-reverse-engineered-a-500m-artificial-intelligence-company-in-one-week-heres-the-full-story-d067cef99e1c
 - http://www.learnbymarketing.com/950/winning-a-kaggle-competition-analysis/
 - imbalance: https://silicon-valley-data-science.github.io/learning-from-imbalanced-classes/Gaussians.html
 - https://www.svds.com/learning-imbalanced-classes/
