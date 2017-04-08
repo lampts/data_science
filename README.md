@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 08.04
 
+- http://www.learnbymarketing.com/950/winning-a-kaggle-competition-analysis/
 - imbalance: https://silicon-valley-data-science.github.io/learning-from-imbalanced-classes/Gaussians.html
 - https://www.svds.com/learning-imbalanced-classes/
 - 3 idiots, ad prediction criteo: http://www.csie.ntu.edu.tw/~r01922136/kaggle-2014-criteo.pdf
