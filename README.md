@@ -340,6 +340,11 @@ Tensorflow tutorials
 
 # Timeline
 
+10.04
+
+- https://www.slideshare.net/khomenko1/from-data-science-to-production-deploy-scale-enjoy-pydata-amsterdam-mar-12-2016
+- https://github.com/gianlucahmd/loads_clustering/blob/master/loads_clustering.ipynb
+
 08.04
 
 - ffm: http://www.csie.ntu.edu.tw/~r01922136/slides/ffm.pdf
