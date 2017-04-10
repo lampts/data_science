@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 10.04
 
+- http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb
 - https://github.com/rykov8/ssd_keras/blob/master/SSD_training.ipynb
 - https://vkolachalama.blogspot.in/2016/05/keras-implementation-of-mlp-neural.html
 - best practice: https://arxiv.org/pdf/1704.01568.pdf
