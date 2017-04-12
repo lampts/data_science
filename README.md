@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 12/04
 
+- https://pub.uni-bielefeld.de/data
 - gated non consecutive cnn: https://arxiv.org/pdf/1512.05726.pdf
 - tf for baby: https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274
 - acl 16 workshop: http://www.aclweb.org/anthology/W16-16
