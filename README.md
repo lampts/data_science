@@ -342,6 +342,8 @@ Tensorflow tutorials
 
 12/04
 
+- https://jamesmccaffrey.wordpress.com/2013/11/05/why-you-should-use-cross-entropy-error-instead-of-classification-error-or-mean-squared-error-for-neural-network-classifier-training/
+- https://github.com/dmesquita/understanding_tensorflow_nn
 - https://pub.uni-bielefeld.de/data
 - gated non consecutive cnn: https://arxiv.org/pdf/1512.05726.pdf
 - tf for baby: https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274
