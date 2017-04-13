@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 13.04
 
+- hamaru: https://arxiv.org/pdf/1704.03477.pdf
 - https://github.com/maartenbreddels/ipyvolume
 - https://pydata.org/amsterdam2017/schedule/presentation/11/
 - https://github.com/godatadriven/risk-analysis
