@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 13.04
 
+- https://github.com/maartenbreddels/ipyvolume
 - https://pydata.org/amsterdam2017/schedule/presentation/11/
 - https://github.com/godatadriven/risk-analysis
 - https://github.com/godatadriven/pydata-2017-dsp-tutorial
