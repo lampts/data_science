@@ -340,7 +340,13 @@ Tensorflow tutorials
 
 # Timeline
 
-12/04
+13.04
+
+- https://pydata.org/amsterdam2017/schedule/presentation/11/
+- https://github.com/godatadriven/risk-analysis
+- https://github.com/godatadriven/pydata-2017-dsp-tutorial
+
+12.04
 
 - modern nlp: http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb
 - maxout: http://www-etud.iro.umontreal.ca/~goodfeli/maxout.html
