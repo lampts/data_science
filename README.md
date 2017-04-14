@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 14.04
 
+- https://qconsf.com/sf2016/system/files/presentation-slides/scaling_quality_using_machine_learning_-_qcon_sf_2016.pdf
 - pydatalondon, May: https://pydata.org/london2017/schedule/
 - https://github.com/airalcorn2/RankNet
 
