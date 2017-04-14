@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 14.04
 
+- pydatalondon, May: https://pydata.org/london2017/schedule/
 - https://github.com/airalcorn2/RankNet
 
 13.04
