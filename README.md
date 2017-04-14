@@ -342,6 +342,8 @@ Tensorflow tutorials
 
 14.04
 
+- http://blog.nikhilgarg.me/
+- https://www.slideshare.net/NikhilGarg51?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
 - https://qconsf.com/sf2016/system/files/presentation-slides/scaling_quality_using_machine_learning_-_qcon_sf_2016.pdf
 - pydatalondon, May: https://pydata.org/london2017/schedule/
 - https://github.com/airalcorn2/RankNet
