@@ -340,6 +340,10 @@ Tensorflow tutorials
 
 # Timeline
 
+16.04
+
+- http://www.orbifold.net/default/2016/11/25/some-feedforward-neural-networks-using-keras/
+
 15.04
 
 - http://blog.nikhilgarg.me/2016/05/a-million-different-lives.html
