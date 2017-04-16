@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 16.04
 
+- https://gist.github.com/stared/dfb4dfaf6d9a8501cd1cc8b8cb806d2e
 - http://www.orbifold.net/default/2016/11/25/some-feedforward-neural-networks-using-keras/
 
 15.04
