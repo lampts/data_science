@@ -340,6 +340,12 @@ Tensorflow tutorials
 
 # Timeline
 
+17.04
+
+- https://github.com/DingKe/qrnn
+- https://spacy.io/docs/usage/training-ner
+- https://www.tensorflow.org/versions/master/api_docs/python/tf/contrib/crf/viterbi_decode
+
 16.04
 
 - http://llcao.net/cu-deeplearning17/project/midterm_summarize.pdf
