@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 17.04
 
+- df rolling http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.rolling.html
 - https://github.com/DingKe/qrnn
 - https://spacy.io/docs/usage/training-ner
 - https://www.tensorflow.org/versions/master/api_docs/python/tf/contrib/crf/viterbi_decode
