@@ -342,6 +342,7 @@ Tensorflow tutorials
 
 18.04
 
+- http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
 - http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/
 - http://blog.smola.org/post/4110255196/real-simple-covariate-shift-correction
 - http://www.mitpressjournals.org/doi/abs/10.1162/089976602753284446#.WPVs_VOGPdQ
