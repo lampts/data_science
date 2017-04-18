@@ -342,6 +342,13 @@ Tensorflow tutorials
 
 18.04
 
+- http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/
+- http://blog.smola.org/post/4110255196/real-simple-covariate-shift-correction
+- http://www.mitpressjournals.org/doi/abs/10.1162/089976602753284446#.WPVs_VOGPdQ
+- http://scikit-learn-general.narkive.com/ShZKenFK/real-simple-covariate-shift-correction-using-logistic-regression
+- http://wan.poly.edu/KDD2012/docs/p168.pdf
+- http://www.ml.uni-saarland.de/Publications/Hein%20-%20Binary%20Classification%20under%20Sample%20Selection%20Bias(2008).pdf
+- http://www.gatsby.ucl.ac.uk/~gretton/papers/covariateShiftChapter.pdf
 - SVD http://econometricsense.blogspot.com/2011/11/singular-value-decomposition-and-text.html
 - Pearson vs Kendall http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
 - http://www.gatsby.ucl.ac.uk/~gretton/papers/covariateShiftChapter.pdf
