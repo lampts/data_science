@@ -340,6 +340,12 @@ Tensorflow tutorials
 
 # Timeline
 
+18.04
+
+- SVD http://econometricsense.blogspot.com/2011/11/singular-value-decomposition-and-text.html
+- Pearson vs Kendall http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
+- http://www.gatsby.ucl.ac.uk/~gretton/papers/covariateShiftChapter.pdf
+
 17.04
 
 - df rolling http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.rolling.html
