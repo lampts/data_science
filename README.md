@@ -340,6 +340,15 @@ Tensorflow tutorials
 
 # Timeline
 
+20.04
+
+- https://github.com/yanyang729/656_kaggle_quora_question_pair
+- https://github.com/lodrice/LabelGAN
+- https://github.com/bathulas/kaggle-quora/blob/master/quora.ipynb
+- https://github.com/ArtistScript/Kaggle-Quora-/blob/master/kaggle/xgb.py
+- https://github.com/Mustufain/Quora--Detecting-Duplicate-Questions/blob/master/Quora_Features.py
+- https://github.com/codeheadshopon/Quora-Question-Pair-Classification/blob/master/SImple_Lstm_Short
+
 19.04
 
 - https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?N
