@@ -340,6 +340,13 @@ Tensorflow tutorials
 
 # Timeline
 
+19.04
+
+- https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?N
+- https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b
+- https://gab41.lab41.org/jupyter-notebook-sharing-is-caring-5ed4831d7f71
+- http://blog.smola.org/post/4110255196/real-simple-covariate-shift-correction
+
 18.04
 
 - http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
