@@ -336,6 +336,12 @@ Tensorflow tutorials
 - https://github.com/alrojo/tensorflow-tutorial
 - https://github.com/farizrahman4u/keras-contrib
 
+Covariate shift
+
+- https://www.quora.com/What-is-Covariate-shift
+- https://blog.bigml.com/2013/11/01/machine-learning-next/
+- https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/
+
 ----
 
 # Timeline
