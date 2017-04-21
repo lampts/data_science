@@ -342,6 +342,8 @@ Tensorflow tutorials
 
 20.04
 
+- https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b
+- https://github.com/nbgallery/nbgallery.github.io
 - https://github.com/yanyang729/656_kaggle_quora_question_pair
 - https://github.com/lodrice/LabelGAN
 - https://github.com/bathulas/kaggle-quora/blob/master/quora.ipynb
