@@ -346,6 +346,10 @@ Covariate shift
 
 # Timeline
 
+21.04
+
+- https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python/notebook
+
 20.04
 
 - https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b
