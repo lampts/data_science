@@ -348,6 +348,7 @@ Covariate shift
 
 24.04
 
+- https://github.com/Babylonpartners/fastText_multilingual
 - https://github.com/pYr0rAGE/KaggleQuoraQuestionSimilarity/blob/master/notebooks/Initial%20Analysis.ipynb
 - http://aylien.com/web-summit-2015-tweets-part1
 - https://github.com/pksohn/tweet-clustering
