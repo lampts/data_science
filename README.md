@@ -348,6 +348,7 @@ Covariate shift
 
 24.04
 
+- http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html
 - https://github.com/Babylonpartners/fastText_multilingual
 - https://github.com/pYr0rAGE/KaggleQuoraQuestionSimilarity/blob/master/notebooks/Initial%20Analysis.ipynb
 - http://aylien.com/web-summit-2015-tweets-part1
