@@ -346,6 +346,13 @@ Covariate shift
 
 # Timeline
 
+24.04
+
+- https://github.com/pYr0rAGE/KaggleQuoraQuestionSimilarity/blob/master/notebooks/Initial%20Analysis.ipynb
+- http://aylien.com/web-summit-2015-tweets-part1
+- https://github.com/pksohn/tweet-clustering
+- http://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
+
 21.04
 
 - https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python/notebook
