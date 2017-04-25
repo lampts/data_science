@@ -346,6 +346,12 @@ Covariate shift
 
 # Timeline
 
+25.04
+
+- https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
+- https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
+- http://hotgram1.filmiro.com/2017/03/11/109/6118559518814109698.pdf
+
 24.04
 
 - http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html
