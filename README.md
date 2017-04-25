@@ -348,6 +348,7 @@ Covariate shift
 
 25.04
 
+- https://github.com/ChenglongChen/Kaggle_CrowdFlower/tree/master/Code/Feat
 - https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
 - https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
 - http://hotgram1.filmiro.com/2017/03/11/109/6118559518814109698.pdf
