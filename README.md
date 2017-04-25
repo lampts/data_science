@@ -346,6 +346,12 @@ Covariate shift
 
 # Timeline
 
+26.04
+
+- https://kkulma.github.io/2017-04-24-determining-optimal-number-of-clusters-in-your-data/
+- https://www.kaggle.com/c/quora-question-pairs/discussion/32069#177710
+- https://www.reddit.com/r/MachineLearning/comments/67gonq/d_batch_normalization_before_or_after_relu/?st=j1y4j36m&sh=1d708b41
+
 25.04
 
 - https://github.com/ChenglongChen/Kaggle_CrowdFlower/tree/master/Code/Feat
