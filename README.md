@@ -348,6 +348,8 @@ Covariate shift
 
 26.04
 
+- bm25 implemention: https://github.com/alexeygrigorev/avito-duplicates-kaggle/blob/master/bm25.py
+- bm25 vs tfidf: https://lettier.github.io/posts/2016-10-25-tf-idf-vsm-vs-bm25-with-vuejs.html
 - https://kkulma.github.io/2017-04-24-determining-optimal-number-of-clusters-in-your-data/
 - https://www.kaggle.com/c/quora-question-pairs/discussion/32069#177710
 - https://www.reddit.com/r/MachineLearning/comments/67gonq/d_batch_normalization_before_or_after_relu/?st=j1y4j36m&sh=1d708b41
