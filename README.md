@@ -346,6 +346,10 @@ Covariate shift
 
 # Timeline
 
+27.04
+
+- https://howchoo.com/g/ytkwotvkztq/using-the-iterm-2-and-tmux-integration
+
 26.04
 
 - bm25 implemention: https://github.com/alexeygrigorev/avito-duplicates-kaggle/blob/master/bm25.py
