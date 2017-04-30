@@ -346,6 +346,10 @@ Covariate shift
 
 # Timeline
 
+30.04
+
+- https://snap.stanford.edu/data/web-Amazon.html
+
 27.04
 
 - https://howchoo.com/g/ytkwotvkztq/using-the-iterm-2-and-tmux-integration
