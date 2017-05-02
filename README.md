@@ -346,6 +346,10 @@ Covariate shift
 
 # Timeline
 
+02.05
+
+- https://github.com/tjpalanca/facebook-news-analysis
+
 30.04
 
 - https://snap.stanford.edu/data/web-Amazon.html
