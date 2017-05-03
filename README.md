@@ -346,6 +346,11 @@ Covariate shift
 
 # Timeline
 
+04.05
+
+- https://www.kaggle.com/wangyijia/xgboost-tfidf-logloss-0-3/comments/code
+- https://www.kaggle.com/jturkewitz/magic-features-0-03-gain/
+
 03.05
 
 - https://github.com/stared/keras-sequential-ascii
