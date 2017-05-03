@@ -349,7 +349,7 @@ Covariate shift
 03.05
 
 - https://github.com/stared/keras-sequential-ascii
-
+- https://github.com/abhishekkrthakur/clickbaits_revisited
 
 02.05
 
