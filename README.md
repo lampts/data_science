@@ -346,6 +346,11 @@ Covariate shift
 
 # Timeline
 
+03.05
+
+- https://github.com/stared/keras-sequential-ascii
+
+
 02.05
 
 - https://github.com/tjpalanca/facebook-news-analysis
