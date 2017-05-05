@@ -348,6 +348,7 @@ Covariate shift
 
 05.05
 
+- https://github.com/geffy/tffm
 - ds handbook: https://github.com/jakevdp/PythonDataScienceHandbook
 - https://github.com/bstriner/keras-tqdm
 - https://github.com/src-d/wmd-relax
