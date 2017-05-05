@@ -346,6 +346,10 @@ Covariate shift
 
 # Timeline
 
+05.05
+
+- https://github.com/src-d/wmd-relax
+
 04.05
 
 - https://www.kaggle.com/wangyijia/xgboost-tfidf-logloss-0-3/comments/code
