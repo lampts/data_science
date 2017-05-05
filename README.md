@@ -349,6 +349,7 @@ Covariate shift
 05.05
 
 - https://github.com/src-d/wmd-relax
+- https://github.com/krasch/presentations/blob/master/unit_testing_data_science.pdf
 
 04.05
 
