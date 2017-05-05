@@ -348,6 +348,7 @@ Covariate shift
 
 05.05
 
+- ds handbook: https://github.com/jakevdp/PythonDataScienceHandbook
 - https://github.com/bstriner/keras-tqdm
 - https://github.com/src-d/wmd-relax
 - https://github.com/krasch/presentations/blob/master/unit_testing_data_science.pdf
