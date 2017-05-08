@@ -367,6 +367,7 @@ Covariate shift
 
 08.05
 
+- http://mirnazim.org/writings/python-ecosystem-introduction/
 - https://speakerdeck.com/marcobonzanini/static-type-analysis-for-robust-data-products-at-pydata-london-2017
 - https://github.com/konradczechowski/discopt/blob/master/discopt_general_usage.ipynb
 - high order fm: https://arxiv.org/pdf/1607.07195.pdf
