@@ -346,6 +346,13 @@ Covariate shift
 
 # Timeline
 
+08.05
+
+- https://pydata.org/london2017/schedule/
+- http://www.kemaswill.com/uncategorized/from-matrix-factorization-to-factorization-machines/
+- https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2748/media/OperaSlides.pdf
+- https://github.com/geffy/tffm
+
 05.05
 
 - https://github.com/geffy/tffm
