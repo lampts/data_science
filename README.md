@@ -362,6 +362,7 @@ Covariate shift
 
 08.05
 
+- https://speakerdeck.com/marcobonzanini/static-type-analysis-for-robust-data-products-at-pydata-london-2017
 - https://github.com/konradczechowski/discopt/blob/master/discopt_general_usage.ipynb
 - high order fm: https://arxiv.org/pdf/1607.07195.pdf
 - https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2748/media/OperaSlides.pdf
