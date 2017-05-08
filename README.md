@@ -362,6 +362,9 @@ Covariate shift
 
 08.05
 
+- https://github.com/konradczechowski/discopt/blob/master/discopt_general_usage.ipynb
+- high order fm: https://arxiv.org/pdf/1607.07195.pdf
+- https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2748/media/OperaSlides.pdf
 - https://pydata.org/london2017/schedule/
 - http://www.kemaswill.com/uncategorized/from-matrix-factorization-to-factorization-machines/
 - https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2748/media/OperaSlides.pdf
