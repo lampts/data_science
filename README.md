@@ -356,6 +356,11 @@ Covariate shift
 - https://pydata.org/london2017/schedule/presentation/23/
 - https://pydata.org/london2017/schedule/presentation/69/
 
+
+# NLP course
+
+- https://www.cs.bgu.ac.il/~elhadad/nlp17.html
+
 ----
 
 # Timeline
