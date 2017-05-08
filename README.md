@@ -342,6 +342,20 @@ Covariate shift
 - https://blog.bigml.com/2013/11/01/machine-learning-next/
 - https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/
 
+#PydataLondon2017
+
+- https://pydata.org/london2017/schedule/presentation/12/
+- https://pydata.org/london2017/schedule/presentation/20/
+- https://pydata.org/london2017/schedule/presentation/34/
+- https://pydata.org/london2017/schedule/presentation/17/
+- https://pydata.org/london2017/schedule/presentation/47/
+- https://pydata.org/london2017/schedule/presentation/16/
+- https://pydata.org/london2017/schedule/presentation/52/
+- https://pydata.org/london2017/schedule/presentation/22/
+- https://pydata.org/london2017/schedule/presentation/30/
+- https://pydata.org/london2017/schedule/presentation/23/
+- https://pydata.org/london2017/schedule/presentation/69/
+
 ----
 
 # Timeline
