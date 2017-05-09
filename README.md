@@ -365,6 +365,10 @@ Covariate shift
 
 # Timeline
 
+09.05
+
+- http://www.aclweb.org/anthology/N10-1021
+
 08.05
 
 - https://github.com/benathi/word2gm
