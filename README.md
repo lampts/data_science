@@ -365,6 +365,10 @@ Covariate shift
 
 # Timeline
 
+10.05
+
+- A/B test common pitfalls: https://www.youtube.com/watch?v=NkQ51iyFgs0
+
 09.05
 
 - http://www.aclweb.org/anthology/N10-1021
