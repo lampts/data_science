@@ -365,6 +365,11 @@ Covariate shift
 
 # Timeline
 
+11.05
+
+- https://en.wikiquote.org/wiki/X_me_no_Xs#English
+- https://www.ff.umb.sk/app/cmsSiteAttachment.php?ID=2348
+
 10.05
 
 - A/B test common pitfalls: https://www.youtube.com/watch?v=NkQ51iyFgs0
