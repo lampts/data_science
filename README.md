@@ -365,6 +365,12 @@ Covariate shift
 
 # Timeline
 
+12.05
+
+- https://github.com/makeyourowntextminingtoolkit/makeyourowntextminingtoolkit
+- https://docs.google.com/presentation/d/1ukZMzz4rNN0MHegTNgjwLAI-kMWL1mGZPkp1bUCVckc/edit#slide=id.g21fc752465_0_74
+
+
 11.05
 
 - https://en.wikiquote.org/wiki/X_me_no_Xs#English
