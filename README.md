@@ -367,6 +367,9 @@ Covariate shift
 
 12.05
 
+- https://github.com/christophebourguignat/notebooks
+- https://www.kaggle.com/tqchen/understanding-xgboost-model-on-otto-data#script-save-run
+- http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python
 - https://github.com/makeyourowntextminingtoolkit/makeyourowntextminingtoolkit
 - https://docs.google.com/presentation/d/1ukZMzz4rNN0MHegTNgjwLAI-kMWL1mGZPkp1bUCVckc/edit#slide=id.g21fc752465_0_74
 
