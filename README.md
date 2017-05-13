@@ -365,6 +365,13 @@ Covariate shift
 
 # Timeline
 
+13.05
+
+- https://blog.dataiku.com/2015/08/24/xgboost_and_dss
+- https://gist.github.com/walterreade/6e20dba959277bd9af77
+- https://github.com/lucjb/pydata2017/blob/master/Multicolinearity.py
+- https://github.com/christophebourguignat/notebooks/blob/master/Calibration.ipynb
+
 12.05
 
 - https://github.com/christophebourguignat/notebooks
