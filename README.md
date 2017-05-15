@@ -367,7 +367,10 @@ Covariate shift
 - https://engineering.purdue.edu/~qobi/papers/ad2016d.pdf
 - practical DL: http://www.deeplearningbook.org/slides/11_practical.pdf
 - tuning cnn: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
-
+- https://github.com/Conchylicultor/Deep-Learning-Tricks
+- https://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf
+- http://karpathy.github.io/neuralnets/
+- http://www.deeplearningbook.org/slides/11_practical.pdf
 
 ----
 
