@@ -365,6 +365,11 @@ Covariate shift
 
 # Timeline
 
+15.05
+
+- https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm
+- http://climberg.de/page/smith-waterman-distance-for-feature-extraction-in-nlp/
+
 13.05
 
 - https://blog.dataiku.com/2015/08/24/xgboost_and_dss
