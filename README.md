@@ -361,6 +361,14 @@ Covariate shift
 
 - https://www.cs.bgu.ac.il/~elhadad/nlp17.html
 
+
+# Tricks of DL
+
+- https://engineering.purdue.edu/~qobi/papers/ad2016d.pdf
+- practical DL: http://www.deeplearningbook.org/slides/11_practical.pdf
+- tuning cnn: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
+
+
 ----
 
 # Timeline
