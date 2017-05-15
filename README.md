@@ -367,6 +367,7 @@ Covariate shift
 
 15.05
 
+- https://github.com/hengluchang/Quora-Paraphrase-Question-Identification
 - online w2v: https://markroxor.github.io/gensim/static/notebooks/online_w2v_tutorial.html
 - https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm
 - http://climberg.de/page/smith-waterman-distance-for-feature-extraction-in-nlp/
