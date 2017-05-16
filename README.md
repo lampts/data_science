@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+16.05
+
+- http://www.mathsisfun.com/data/quincunx.html
+
 15.05
 
 - https://github.com/hengluchang/Quora-Paraphrase-Question-Identification
