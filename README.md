@@ -378,6 +378,8 @@ Covariate shift
 
 16.05
 
+- https://www.youtube.com/watch?v=HS7mObQttxU
+- https://en.wikipedia.org/wiki/BLEU
 - http://www.mathsisfun.com/data/quincunx.html
 
 15.05
