@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+17.05
+
+- http://www.jaist.ac.jp/~bao/DS2017/BigData-I-Dinh-v4-4perPage.pdf
+
 16.05
 
 - https://www.youtube.com/watch?v=HS7mObQttxU
