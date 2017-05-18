@@ -376,6 +376,11 @@ Covariate shift
 
 # Timeline
 
+18.05
+
+- https://github.com/Franck-Dernoncourt/NeuroNER
+- https://128.84.21.199/pdf/1705.06273.pdf
+
 17.05
 
 - http://www.jaist.ac.jp/~bao/DS2017/BigData-I-Dinh-v4-4perPage.pdf
