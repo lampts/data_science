@@ -376,6 +376,11 @@ Covariate shift
 
 # Timeline
 
+19.05
+
+- https://github.com/Microsoft/LightGBM/wiki/Installation-Guide
+- https://github.com/ArdalanM/pyLightGBM
+
 18.05
 
 - https://github.com/Franck-Dernoncourt/NeuroNER
