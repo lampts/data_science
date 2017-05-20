@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+20.05
+
+- https://github.com/nelson-liu/paraphrase-id-tensorflow
+
 19.05
 
 - https://github.com/Microsoft/LightGBM/wiki/Installation-Guide
