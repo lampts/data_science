@@ -379,6 +379,8 @@ Covariate shift
 21.05
 
 - data interview: https://github.com/talolard/Interview
+- https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
+- https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
 
 20.05
 
