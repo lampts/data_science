@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+21.05
+
+- data interview: https://github.com/talolard/Interview
+
 20.05
 
 - https://github.com/nelson-liu/paraphrase-id-tensorflow
