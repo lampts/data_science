@@ -378,6 +378,7 @@ Covariate shift
 
 25.05
 
+- https://www.zanaducloud.com/CC6612B2-B42A-4765-A0C8-4FDB3CEF50E2
 - http://willwolf.io/2017/05/18/minimizing_the_negative_log_likelihood_in_english/
 - https://github.com/cavaunpeu/dotify/blob/master/notebooks/neural_implicit_mf.ipynb
 
