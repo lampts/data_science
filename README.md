@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+25.05
+
+- http://willwolf.io/2017/05/18/minimizing_the_negative_log_likelihood_in_english/
+- https://github.com/cavaunpeu/dotify/blob/master/notebooks/neural_implicit_mf.ipynb
+
+
 21.05
 
 - data interview: https://github.com/talolard/Interview
