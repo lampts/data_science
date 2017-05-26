@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+26.05
+
+- https://medium.springboard.com/interesting-talks-from-pydata-london-2017-d17b06c1ed5e
+- https://github.com/DistrictDataLabs/yellowbrick
+- https://github.com/lucjb/pydata2017/blob/master/Multicolinearity.py
+- https://github.com/cavaunpeu/dotify/blob/master/notebooks/neural_implicit_mf.ipynb
+
 25.05
 
 - https://www.zanaducloud.com/CC6612B2-B42A-4765-A0C8-4FDB3CEF50E2
