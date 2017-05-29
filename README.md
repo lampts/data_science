@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+29.05
+
+- why PReLU, maxout: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
+
 26.05
 
 - https://medium.springboard.com/interesting-talks-from-pydata-london-2017-d17b06c1ed5e
