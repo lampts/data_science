@@ -378,6 +378,7 @@ Covariate shift
 
 30.05
 
+- deeploria: http://deeploria.gforge.inria.fr/
 - dedupe: https://github.com/dedupeio/dedupe
 - http://sebastianruder.com/multi-task/index.html
 - https://arxiv.org/pdf/1705.09585.pdf
