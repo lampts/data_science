@@ -378,6 +378,9 @@ Covariate shift
 
 30.05
 
+- http://tkipf.github.io/graph-convolutional-networks/
+- http://deeploria.gforge.inria.fr/thomasTalk.pdf
+- graph cnn https://github.com/tkipf/gcn
 - deeploria: http://deeploria.gforge.inria.fr/
 - dedupe: https://github.com/dedupeio/dedupe
 - http://sebastianruder.com/multi-task/index.html
