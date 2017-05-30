@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+30.05
+
+- http://sebastianruder.com/multi-task/index.html
+- https://arxiv.org/pdf/1705.09585.pdf
+- https://clgiles.ist.psu.edu/pubs/jcdl2015-name-disambiguation.pdf
+
 29.05
 
 - why PReLU, maxout: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
