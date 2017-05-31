@@ -376,6 +376,14 @@ Covariate shift
 
 # Timeline
 
+31.05
+
+- https://dennisforbes.ca/#a302
+- http://www.namedevelopment.com/blog/default.html
+- http://www.telegraph.co.uk/finance/personalfinance/comment/4478124/The-name-game.html
+- http://new.opencalais.com/wp-content/uploads/2016/01/Thomson-Reuters-Intelligent-Tagging-On-Premise-API-User-Guide.pdf
+- http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf
+
 30.05
 
 - http://tkipf.github.io/graph-convolutional-networks/
