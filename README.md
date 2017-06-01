@@ -379,6 +379,10 @@ Covariate shift
 01.06
 
 - http://ndres.me/kaggle-past-solutions/
+- https://github.com/UKPLab/semeval2017-scienceie
+- http://www.nada.kth.se/~ann/exjobb/jan_vandekerkhof.pdf
+- https://blog.booking.com/multivariant-tests-for-performance.html
+- https://www.ambiverse.com/make-your-news-smarter/
 
 31.05
 
