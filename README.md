@@ -378,6 +378,8 @@ Covariate shift
 
 01.06
 
+- https://www.oreilly.com/ideas/language-understanding-remains-one-of-ais-grand-challenges
+- AI and NLP: https://www.xenonstack.com/blog/overview-of-artificial-intelligence-and-role-of-natural-language-processing-in-big-data
 - http://ndres.me/kaggle-past-solutions/
 - https://github.com/UKPLab/semeval2017-scienceie
 - http://www.nada.kth.se/~ann/exjobb/jan_vandekerkhof.pdf
