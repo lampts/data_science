@@ -386,6 +386,7 @@ Covariate shift
 - http://www.nada.kth.se/~ann/exjobb/jan_vandekerkhof.pdf
 - https://blog.booking.com/multivariant-tests-for-performance.html
 - https://www.ambiverse.com/make-your-news-smarter/
+- learn to search: https://hunch.net/~l2s/merged.pdf
 
 31.05
 
