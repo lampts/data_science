@@ -378,6 +378,7 @@ Covariate shift
 
 01.06
 
+- https://github.com/georgeiswang/Query_Classfication_LSTM
 - https://www.oreilly.com/ideas/language-understanding-remains-one-of-ais-grand-challenges
 - AI and NLP: https://www.xenonstack.com/blog/overview-of-artificial-intelligence-and-role-of-natural-language-processing-in-big-data
 - http://ndres.me/kaggle-past-solutions/
