@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+01.06
+
+- http://ndres.me/kaggle-past-solutions/
+
 31.05
 
 - https://dennisforbes.ca/#a302
