@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+02.06
+
+- https://docs.microsoft.com/en-us/cognitive-toolkit/Using-CNTK-with-Keras
+
 01.06
 
 - https://github.com/georgeiswang/Query_Classfication_LSTM
