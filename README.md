@@ -378,6 +378,7 @@ Covariate shift
 
 02.06
 
+- https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf
 - https://docs.microsoft.com/en-us/cognitive-toolkit/Using-CNTK-with-Keras
 
 01.06
