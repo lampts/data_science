@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+05.06
+
+- https://github.com/Franck-Dernoncourt/NeuroNER
+
 02.06
 
 - https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf
