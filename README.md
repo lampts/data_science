@@ -376,6 +376,16 @@ Covariate shift
 
 # Timeline
 
+07.06
+
+- https://medium.com/@curiousily/tensorflow-for-hackers-part-ii-building-simple-neural-network-2d6779d2f91b
+- rnn in excel: https://docs.google.com/spreadsheets/d/18bkheoJbmMUqdRFrviUy_TiooSjvvpDqiti7hm2EASY/edit#gid=316082502
+- http://nlp.cs.rpi.edu/paper/sigmod2016.pdf
+- http://distill.pub/2016/augmented-rnns/
+- http://xren7.web.engr.illinois.edu/KDD15-ClusType_v3.pdf
+- gp: https://github.com/phvu/misc/blob/master/bayesopt/gaussian_process.py
+
+
 05.06
 
 - https://github.com/Franck-Dernoncourt/NeuroNER
