@@ -376,6 +376,11 @@ Covariate shift
 
 # Timeline
 
+09.06
+
+- https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7
+- https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
+
 07.06
 
 - https://medium.com/@curiousily/tensorflow-for-hackers-part-ii-building-simple-neural-network-2d6779d2f91b
