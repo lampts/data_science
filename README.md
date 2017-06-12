@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+13.06
+
+- https://github.com/ageron/handson-ml
+
 12.06
 
 - https://www.slideshare.net/HJvanVeen/kaggle-presentation
