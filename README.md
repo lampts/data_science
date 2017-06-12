@@ -382,6 +382,7 @@ Covariate shift
 - https://medium.com/udacity/launching-astra-fab2b76b6420
 - https://medium.com/@curiousily/tensorflow-for-hackers-part-ii-building-simple-neural-network-2d6779d2f91b
 - http://alexanderdyakonov.narod.ru/lpot4emu.pdf
+- https://github.com/turboNinja2/Homesite/blob/master/SubmissionsKeras.py
 
 09.06
 
