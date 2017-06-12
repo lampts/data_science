@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+12.06
+
+- https://www.slideshare.net/HJvanVeen/kaggle-presentation
+- https://medium.com/udacity/launching-astra-fab2b76b6420
+- https://medium.com/@curiousily/tensorflow-for-hackers-part-ii-building-simple-neural-network-2d6779d2f91b
+- http://alexanderdyakonov.narod.ru/lpot4emu.pdf
+
 09.06
 
 - https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7
