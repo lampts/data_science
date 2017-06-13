@@ -379,6 +379,8 @@ Covariate shift
 13.06
 
 - https://github.com/ageron/handson-ml
+- http://ft-interactive.github.io/visual-vocabulary/
+- https://phvu.net/2016/05/13/count-featurizer/
 
 12.06
 
