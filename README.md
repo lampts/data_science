@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+14.06
+
+- automating FE, OneBM: https://arxiv.org/pdf/1706.00327.pdf
+- imbalance sklearn: https://glemaitre.github.io/talks/2017_PyParis/#1
+- feature selection: http://www.kdnuggets.com/2017/06/practical-importance-feature-selection.html
+- https://groups.google.com/a/tensorflow.org/forum/#!msg/discuss/Dhy9MseSXQI/naoy_EElBAAJ
+
 13.06
 
 - https://github.com/ageron/handson-ml
