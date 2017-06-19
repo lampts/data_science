@@ -378,6 +378,7 @@ Covariate shift
 
 19.06
 
+- http://damiano.github.io/learning-similarity-functions-ORM/
 - https://github.com/abhishekkrthakur/clickbaits_revisited
 - entity filtering and topic detection: thesis-DamianoSpina.pdf
 - https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
