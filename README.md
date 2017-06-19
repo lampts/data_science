@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+19.06
+
+- https://github.com/abhishekkrthakur/clickbaits_revisited
+- entity filtering and topic detection: thesis-DamianoSpina.pdf
+- https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
+
 14.06
 
 - automating FE, OneBM: https://arxiv.org/pdf/1706.00327.pdf
