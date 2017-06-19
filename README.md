@@ -390,6 +390,7 @@ Covariate shift
 - feature selection: http://www.kdnuggets.com/2017/06/practical-importance-feature-selection.html
 - https://groups.google.com/a/tensorflow.org/forum/#!msg/discuss/Dhy9MseSXQI/naoy_EElBAAJ
 - https://github.com/curiousily
+- EL and ER: https://www.dropbox.com/sh/h7fr4yfrih6tisr/Q9BU8Qshcq?lst=
 
 13.06
 
