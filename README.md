@@ -381,6 +381,7 @@ Covariate shift
 - https://github.com/abhishekkrthakur/clickbaits_revisited
 - entity filtering and topic detection: thesis-DamianoSpina.pdf
 - https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
+- https://github.com/ejmeij/entity-linking-and-retrieval-tutorial
 
 14.06
 
