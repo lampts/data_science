@@ -378,6 +378,7 @@ Covariate shift
 
 19.06
 
+- all you need is attention: https://github.com/Kyubyong/transformer
 - http://damiano.github.io/learning-similarity-functions-ORM/
 - https://github.com/abhishekkrthakur/clickbaits_revisited
 - entity filtering and topic detection: thesis-DamianoSpina.pdf
