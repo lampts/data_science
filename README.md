@@ -378,6 +378,7 @@ Covariate shift
 
 21.06
 
+- sentiment corpus: https://www.w3.org/community/sentiment/wiki/Datasets
 - paper2code: https://github.com/daviddao/awesome-very-deep-learning
 - https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html
 - task benchmark https://www.eff.org/ai/metrics
