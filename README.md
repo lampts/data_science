@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+21.06
+
+- http://willwolf.io/2017/06/15/random-effects-neural-networks/
+- http://colah.github.io/posts/2015-08-Backprop/
+- http://sdsawtelle.github.io/blog/output/getting-started-with-tensorflow-in-jupyter.html
+- https://arxiv.org/pdf/1611.05418.pdf
+
 19.06
 
 - all you need is attention: https://github.com/Kyubyong/transformer
