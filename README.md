@@ -378,6 +378,7 @@ Covariate shift
 
 21.06
 
+- https://www.eff.org/ai/metrics
 - http://willwolf.io/2017/06/15/random-effects-neural-networks/
 - http://colah.github.io/posts/2015-08-Backprop/
 - http://sdsawtelle.github.io/blog/output/getting-started-with-tensorflow-in-jupyter.html
