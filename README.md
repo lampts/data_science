@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+22.06
+
+- http://microposts2016.seas.upenn.edu/challenge.html
+- https://github.com/wikilinks/nel/blob/master/notebooks/train.ipynb
+- http://www.semantic-web-journal.net/system/files/swj1562.pdf
+- https://github.com/jeniyat/TweeTime
+
 21.06
 
 - sentiment corpus: https://www.w3.org/community/sentiment/wiki/Datasets
