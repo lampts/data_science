@@ -378,6 +378,7 @@ Covariate shift
 
 23.06
 
+- AVITM https://openreview.net/pdf?id=BybtVK9lg
 - https://www.hackerearth.com/practice/machine-learning/advanced-techniques/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3/tutorial/
 - gensim 2.2.3 https://github.com/RaRe-Technologies/gensim/releases/tag/2.2.0
 - tkm quora solution: https://www.slideshare.net/tkm2261/quora-76995457
