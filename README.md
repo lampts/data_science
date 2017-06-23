@@ -378,6 +378,9 @@ Covariate shift
 
 23.06
 
+- WOE: https://github.com/patrick201/information_value
+- https://github.com/akashgit/autoencoding_vi_for_topic_models
+- https://github.com/carpedm20/variational-text-tensorflow
 - AVITM https://openreview.net/pdf?id=BybtVK9lg
 - https://www.hackerearth.com/practice/machine-learning/advanced-techniques/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3/tutorial/
 - gensim 2.2.3 https://github.com/RaRe-Technologies/gensim/releases/tag/2.2.0
