@@ -378,6 +378,7 @@ Covariate shift
 
 23.06
 
+- http://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/
 - WOE: https://github.com/patrick201/information_value
 - https://github.com/akashgit/autoencoding_vi_for_topic_models
 - https://github.com/carpedm20/variational-text-tensorflow
