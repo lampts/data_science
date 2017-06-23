@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+23.06
+
+- gensim 2.2.3 https://github.com/RaRe-Technologies/gensim/releases/tag/2.2.0
+- tkm quora solution: https://www.slideshare.net/tkm2261/quora-76995457
+- http://yutori-datascience.hatenablog.com/
+
 22.06
 
 - https://github.com/lampts/kaggle-quora-solution-8th
