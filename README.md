@@ -376,6 +376,10 @@ Covariate shift
 
 # Timeline
 
+24.06
+
+- https://github.com/klarsen1/Information
+
 23.06
 
 - http://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/
