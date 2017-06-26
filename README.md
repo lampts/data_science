@@ -378,6 +378,7 @@ Covariate shift
 
 26.06
 
+- https://github.com/maciejkula/recommender_datasets
 - EL: https://github.com/namkhanhtran/EntityLinkingRetrieval-ELR
 - https://github.com/raghakot/keras-vis
 - https://gh.mltrainings.ru/presentations/Semenov_TinkoffChallenge_2017.pdf
