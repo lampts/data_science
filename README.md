@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+26.06
+
+- EL: https://github.com/namkhanhtran/EntityLinkingRetrieval-ELR
+- https://github.com/raghakot/keras-vis
+- https://gh.mltrainings.ru/presentations/Semenov_TinkoffChallenge_2017.pdf
+- http://ucanalytics.com/blogs/information-value-and-weight-of-evidencebanking-case/
+
 24.06
 
 - https://github.com/klarsen1/Information
