@@ -378,6 +378,7 @@ Covariate shift
 
 26.06
 
+- FE: https://courses.cit.cornell.edu/cs5304/Lectures/lec5_FeatureEngineering.pdf
 - https://github.com/maciejkula/recommender_datasets
 - EL: https://github.com/namkhanhtran/EntityLinkingRetrieval-ELR
 - https://github.com/raghakot/keras-vis
