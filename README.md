@@ -378,6 +378,7 @@ Covariate shift
 
 26.06
 
+- loan credit: http://ucanalytics.com/blogs/data-visualization-case-study-banking/
 - FE: https://courses.cit.cornell.edu/cs5304/Lectures/lec5_FeatureEngineering.pdf
 - https://github.com/maciejkula/recommender_datasets
 - EL: https://github.com/namkhanhtran/EntityLinkingRetrieval-ELR
