@@ -378,6 +378,8 @@ Covariate shift
 
 26.06
 
+- is it significant? http://www.ox.ac.uk/media/global/wwwoxacuk/localsites/uasconference/presentations/P8_Is_it_statistically_significant.pdf
+- PSI: http://ucanalytics.com/blogs/population-stability-index-psi-banking-case-study/
 - loan credit: http://ucanalytics.com/blogs/data-visualization-case-study-banking/
 - FE: https://courses.cit.cornell.edu/cs5304/Lectures/lec5_FeatureEngineering.pdf
 - https://github.com/maciejkula/recommender_datasets
