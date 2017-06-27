@@ -376,6 +376,11 @@ Covariate shift
 
 # Timeline
 
+27.06
+
+- https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+- https://gist.github.com/J-DM
+
 26.06
 
 - is it significant? http://www.ox.ac.uk/media/global/wwwoxacuk/localsites/uasconference/presentations/P8_Is_it_statistically_significant.pdf
