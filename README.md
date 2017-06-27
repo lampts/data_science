@@ -378,6 +378,7 @@ Covariate shift
 
 27.06
 
+- http://nikolenko.livejournal.com/275253.html
 - CRF survey: http://nlpx.net/archives/464
 - https://github.com/LopezGG/NN_NER_tensorFlow
 - https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d
