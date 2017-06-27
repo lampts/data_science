@@ -378,6 +378,7 @@ Covariate shift
 
 27.06
 
+- why elu not (relu) http://www.picalike.com/blog/2015/11/28/relu-was-yesterday-tomorrow-comes-elu/
 - https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
 - https://gist.github.com/J-DM
 
