@@ -378,6 +378,7 @@ Covariate shift
 
 27.06
 
+- https://github.com/LopezGG/NN_NER_tensorFlow
 - https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d
 - https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
 - https://github.com/backstopmedia/tensorflowbook
