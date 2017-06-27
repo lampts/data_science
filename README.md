@@ -378,6 +378,11 @@ Covariate shift
 
 27.06
 
+- https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d
+- https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
+- https://github.com/backstopmedia/tensorflowbook
+- csi with tf: http://web.stanford.edu/class/cs20si/syllabus.html
+- rnn in excel https://docs.google.com/spreadsheets/d/18bkheoJbmMUqdRFrviUy_TiooSjvvpDqiti7hm2EASY/edit#gid=0
 - why elu not (relu) http://www.picalike.com/blog/2015/11/28/relu-was-yesterday-tomorrow-comes-elu/
 - https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
 - https://gist.github.com/J-DM
