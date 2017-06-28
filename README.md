@@ -378,6 +378,8 @@ Covariate shift
 
 28.06
 
+- wsd: https://web.stanford.edu/class/cs224n/reports/2762042.pdf
+- speech and lang processing: http://www.cs.colorado.edu/~martin/slp.html
 - nlp course: http://naviglinlp.blogspot.com/2017/
 - ted dunning: http://aclweb.org/anthology/J93-1003
 - http://tdunning.blogspot.com/2008/03/surprise-and-coincidence.html
