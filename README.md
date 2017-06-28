@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+28.06
+
+- https://github.com/Prooffreader/data-science-blogs
+- http://www.prooffreader.com/2015/05/most-characteristic-words-in-pro-and.html
+- https://github.com/zafarali?tab=repositories
+
 27.06
 
 - http://nikolenko.livejournal.com/275253.html
