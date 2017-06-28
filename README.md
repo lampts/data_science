@@ -378,6 +378,7 @@ Covariate shift
 
 28.06
 
+- ll calculation: http://ucrel.lancs.ac.uk/llwizard.html
 - http://www.prooffreader.com/2014/12/most-decade-specific-words-in-billboard.html
 - https://github.com/Prooffreader/data-science-blogs
 - http://www.prooffreader.com/2015/05/most-characteristic-words-in-pro-and.html
