@@ -378,6 +378,9 @@ Covariate shift
 
 28.06
 
+- ted dunning: http://aclweb.org/anthology/J93-1003
+- http://tdunning.blogspot.com/2008/03/surprise-and-coincidence.html
+- 
 - ll calculation: http://ucrel.lancs.ac.uk/llwizard.html
 - http://www.prooffreader.com/2014/12/most-decade-specific-words-in-billboard.html
 - https://github.com/Prooffreader/data-science-blogs
