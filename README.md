@@ -378,6 +378,7 @@ Covariate shift
 
 28.06
 
+- nlp course: http://naviglinlp.blogspot.com/2017/
 - ted dunning: http://aclweb.org/anthology/J93-1003
 - http://tdunning.blogspot.com/2008/03/surprise-and-coincidence.html
 - 
