@@ -378,6 +378,7 @@ Covariate shift
 
 29.06
 
+- scorecard application: https://www.linkedin.com/pulse/credit-risk-scorecard-monitoring-tracking-shailendra
 - http://cds.nyu.edu/wp-content/uploads/2014/04/bertini_datascience_showcase_May12_2014.pdf
 - annotation tool: https://github.com/RicardoUsbeck/QRTool
 - ned dataset: https://datahub.io/dataset/reuters-128-nif-ner-corpus
