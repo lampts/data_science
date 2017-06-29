@@ -376,6 +376,11 @@ Covariate shift
 
 # Timeline
 
+29.06
+
+- annotation tool: https://github.com/RicardoUsbeck/QRTool
+- ned dataset: https://datahub.io/dataset/reuters-128-nif-ner-corpus
+
 28.06
 
 - wsd: https://web.stanford.edu/class/cs224n/reports/2762042.pdf
