@@ -378,6 +378,7 @@ Covariate shift
 
 30.06
 
+- http://yerevann.com/a-guide-to-deep-learning/
 - https://github.com/stitchfix/seetd
 - https://github.com/minimaxir/facebook-page-post-scraper
 - https://github.com/rykov8/ssd_keras
