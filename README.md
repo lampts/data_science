@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+30.06
+
+- https://github.com/rykov8/ssd_keras
+- https://github.com/yhenon/keras-frcnn
+- https://github.com/niderhoff/nlp-datasets
+
 29.06
 
 - scorecard application: https://www.linkedin.com/pulse/credit-risk-scorecard-monitoring-tracking-shailendra
