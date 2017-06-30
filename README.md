@@ -382,6 +382,7 @@ Covariate shift
 - https://github.com/rykov8/ssd_keras
 - https://github.com/yhenon/keras-frcnn
 - https://github.com/niderhoff/nlp-datasets
+- http://yerevann.github.io/2016/09/21/presentation-sentence-representations-and-question-answering/
 
 29.06
 
