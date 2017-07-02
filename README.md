@@ -378,6 +378,7 @@ Covariate shift
 
 02.07
 
+- http://ianozsvald.com/2017/07/01/kaggles-mercedes-benz-greener-manufacturing/
 - https://github.com/atveit/GANforiPhoneWithCoreML/blob/master/GAN.ipynb
 - https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial
 - http://www.cs.nyu.edu/shasha/papers/StatisticsIsEasyExcerpt.html
