@@ -376,6 +376,13 @@ Covariate shift
 
 # Timeline
 
+02.07
+
+- https://github.com/atveit/GANforiPhoneWithCoreML/blob/master/GAN.ipynb
+- https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial
+- http://www.cs.nyu.edu/shasha/papers/StatisticsIsEasyExcerpt.html
+- http://www.physics.csbsju.edu/stats/
+
 30.06
 
 - http://yerevann.com/a-guide-to-deep-learning/
