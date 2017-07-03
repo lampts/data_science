@@ -378,6 +378,7 @@ Covariate shift
 
 03.07
 
+- 30 nlp interview questions: https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
 - mlss: http://nuit-blanche.blogspot.com/2017/06/slides-machine-learning-summer-school.html
 - network analysis: http://i.stanford.edu/~jure/pub/talks2/leskovec-networks-01-nodes.pdf
 - dl: http://mlss.tuebingen.mpg.de/2017/speaker_slides/Ruslan1.pdf, http://mlss.tuebingen.mpg.de/2017/speaker_slides/Ruslan2.pdf
