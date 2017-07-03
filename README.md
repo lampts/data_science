@@ -378,6 +378,8 @@ Covariate shift
 
 03.07
 
+- Gate for QA: https://arxiv.org/pdf/1606.01549.pdf
+- TWINE https://www.aclweb.org/anthology/E/E17/E17-3007.pdf
 - 30 nlp interview questions: https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
 - mlss: http://nuit-blanche.blogspot.com/2017/06/slides-machine-learning-summer-school.html
 - network analysis: http://i.stanford.edu/~jure/pub/talks2/leskovec-networks-01-nodes.pdf
