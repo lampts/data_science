@@ -378,6 +378,10 @@ Covariate shift
 
 03.07
 
+- ran: http://www.kentonl.com/pub/llz.2017.pdf
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/fntir-neuralir-mitra.pdf
+- https://github.com/bdhingra/ga-reader/blob/master/model/GAReader.py
+- https://github.com/allenai/deep_qa/tree/master/deep_qa/layers
 - Gate for QA: https://arxiv.org/pdf/1606.01549.pdf
 - TWINE https://www.aclweb.org/anthology/E/E17/E17-3007.pdf
 - 30 nlp interview questions: https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
