@@ -378,6 +378,7 @@ Covariate shift
 
 03.07
 
+- https://mathematical-coffees.github.io/mc07-ml/
 - ran: http://www.kentonl.com/pub/llz.2017.pdf
 - https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/fntir-neuralir-mitra.pdf
 - https://github.com/bdhingra/ga-reader/blob/master/model/GAReader.py
