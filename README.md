@@ -372,6 +372,18 @@ Covariate shift
 - http://karpathy.github.io/neuralnets/
 - http://www.deeplearningbook.org/slides/11_practical.pdf
 
+# Pointer network
+
+- http://fastml.com/introduction-to-pointer-networks/
+- keras: https://github.com/zygmuntz/pointer-networks-experiments
+- https://arxiv.org/pdf/1511.06391v4.pdf
+- https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow
+
+# Attention
+
+- https://arxiv.org/abs/1707.00110
+
+
 ----
 
 # Timeline
