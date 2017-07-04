@@ -378,6 +378,7 @@ Covariate shift
 
 04.07
 
+- https://www.slideshare.net/RasmusRothe/3-learnings-from-applying-deep-learning-to-real-world-problems
 - pytorch vs tf: https://medium.com/@dubovikov.kirill/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b
 - https://github.com/Franck-Dernoncourt/NeuroNER/blob/master/trained_models/performances.md
 - http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
