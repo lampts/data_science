@@ -376,6 +376,12 @@ Covariate shift
 
 # Timeline
 
+04.07
+
+- https://github.com/Franck-Dernoncourt/NeuroNER/blob/master/trained_models/performances.md
+- http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+- https://offbit.github.io/how-to-read/
+
 03.07
 
 - https://mathematical-coffees.github.io/mc07-ml/
