@@ -383,6 +383,14 @@ Covariate shift
 
 - https://arxiv.org/abs/1707.00110
 
+# Log likelihood test
+
+- tool http://ucrel.lancs.ac.uk/llwizard.html
+- significance testing of word frequency in corpora: https://users.ics.aalto.fi/lijffijt/articles/lijffijt2015a.pdf
+- TA and TM for social: https://de.dariah.eu/tatom/
+- http://sappingattention.blogspot.com/2011/10/comparing-corpuses-by-word-use.html#comments
+- http://sappingattention.blogspot.com/2011/11/dunning-amok.html
+- https://tedunderwood.com/2011/11/09/identifying-the-terms-that-characterize-an-author-or-genre-why-dunnings-may-not-be-the-best-method/
 
 ----
 
