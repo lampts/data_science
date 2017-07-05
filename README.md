@@ -388,6 +388,13 @@ Covariate shift
 
 # Timeline
 
+05.07
+
+- NYT 1M: https://drive.google.com/file/d/0B0CbnDgKi0PyM1FEQXJRTlZtSTg/view
+- https://github.com/davidsbatista/NER-English-Gigaword-LDC
+- https://github.com/andreasvlachos/ALTA_ML_for_NLP
+
+
 04.07
 
 - https://www.slideshare.net/RasmusRothe/3-learnings-from-applying-deep-learning-to-real-world-problems
