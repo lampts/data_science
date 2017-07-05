@@ -390,6 +390,7 @@ Covariate shift
 
 05.07
 
+- working with text for social: https://de.dariah.eu/tatom/
 - clickbait: https://github.com/saurabhmathur96/clickbait-detector
 - http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/
 - http://nbviewer.jupyter.org/github/tpeng/python-crfsuite/blob/master/examples/CoNLL%202002.ipynb
