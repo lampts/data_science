@@ -398,6 +398,7 @@ Covariate shift
 
 06.07
 
+- Redcatlab: http://www.redcatlabs.com/2015-11-24_IES-2015_NER-from-Experts/
 - embedding compression http://sei.pku.edu.cn/~moull12/paper/cikm16.pdf
 - https://github.com/facebookresearch/InferSent
 
