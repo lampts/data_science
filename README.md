@@ -396,6 +396,16 @@ Covariate shift
 
 # Timeline
 
+06.07
+
+- embedding compression http://sei.pku.edu.cn/~moull12/paper/cikm16.pdf
+- https://github.com/facebookresearch/InferSent
+
+Maxout:
+
+- https://github.com/philipperemy/tensorflow-maxout/blob/master/maxout.py
+- https://arxiv.org/pdf/1302.4389.pdf
+
 05.07
 
 - working with text for social: https://de.dariah.eu/tatom/
