@@ -5,6 +5,11 @@
 
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
+## Deep Learning
+
+- http://www.deeplearningbook.org/contents/applications.html
+
+
 Events: I will put word cloud for that.
 
 EMNLP 2017: http://noisy-text.github.io/2017/
@@ -398,6 +403,8 @@ Covariate shift
 
 10.07
 
+- https://github.com/Wrosinski/berlin-ml-article
+- https://github.com/saulpw/visidata/blob/stable/docs/tours.rst
 - social emnlp: https://twitterinadvertising.files.wordpress.com/2017/02/tweeted-about-742-times.pdf
 - good pointers on nn: https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
 - https://github.com/0xnurl/keras_character_based_ner
