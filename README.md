@@ -396,6 +396,13 @@ Covariate shift
 
 # Timeline
 
+10.07
+
+- social emnlp: https://twitterinadvertising.files.wordpress.com/2017/02/tweeted-about-742-times.pdf
+- good pointers on nn: https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+- https://github.com/0xnurl/keras_character_based_ner
+- https://www.aclweb.org/mirror/emnlp2016/proceedings/2016-emnlp-handbook.pdf
+
 06.07
 
 - https://nlp.stanford.edu/software/crf-faq.shtml
