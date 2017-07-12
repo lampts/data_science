@@ -403,6 +403,7 @@ Covariate shift
 
 12.07
 
+- https://github.com/organisciak/Text-Mining-Course
 - http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan?utm_content=buffer29288&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - https://twitter.com/search?q=%23machinelearningflashcards&src=tyah
 
