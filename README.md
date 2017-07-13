@@ -401,6 +401,11 @@ Covariate shift
 
 # Timeline
 
+13.07
+
+- https://github.com/minimaxir/predict-reddit-submission-success
+- https://www.google.com/finance/company_news?q=NASDAQ%3AFB&ei=ZA5nWaCMMImFsAG8p4ewCw
+
 12.07
 
 - https://github.com/organisciak/Text-Mining-Course
