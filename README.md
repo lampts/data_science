@@ -403,6 +403,7 @@ Covariate shift
 
 13.07
 
+- http://static.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf
 - https://github.com/minimaxir/predict-reddit-submission-success
 - https://www.google.com/finance/company_news?q=NASDAQ%3AFB&ei=ZA5nWaCMMImFsAG8p4ewCw
 
