@@ -401,6 +401,11 @@ Covariate shift
 
 # Timeline
 
+14.07
+
+- http://www.bosatsu.net/talks/sletten-datascience.pdf
+- https://github.com/dipanjanS/text-analytics-with-python/blob/master/Chapter-6/document_similarity.py
+
 13.07
 
 - http://static.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf
