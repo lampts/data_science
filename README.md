@@ -400,6 +400,12 @@ Covariate shift
 
 ----
 
+## MLtrainings.ru
+
+- quora presentation: https://gh.mltrainings.ru/presentations/Skornyakov_KaggleQuora_2017.pdf
+- hearthstone: https://gh.mltrainings.ru/presentations/Patekha_Hearthstone_2017.pdf
+
+
 # Timeline
 
 14.07
