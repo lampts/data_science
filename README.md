@@ -403,6 +403,7 @@ Covariate shift
 
 14.07
 
+- https://gist.github.com/thomasjungblut/b58d70d260abf0eff1a8c447f3d07389#file-xgb_bayes_opt_cv-py
 - http://www.bosatsu.net/talks/sletten-datascience.pdf
 - https://github.com/dipanjanS/text-analytics-with-python/blob/master/Chapter-6/document_similarity.py
 
