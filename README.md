@@ -34,6 +34,7 @@ EMNLP 2017: http://noisy-text.github.io/2017/
 - Ken Tran (Microsofts) http://www.kentran.net/
 - Laurent Dinh (MILA):https://laurent-dinh.github.io/about/
 - Luong Hoang, Harvard: https://github.com/lhoang29/recurrent-entity-networks
+- Vu Pham
 
 ## My SOTA
 
@@ -403,6 +404,9 @@ Covariate shift
 
 14.07
 
+- large csv: http://pythondata.com/working-large-csv-files-python/
+- https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/
+- bo https://github.com/phvu/misc/blob/master/sf_crimes/crimes_job_nn.py
 - foolbox https://arxiv.org/abs/1707.04131
 - http://www.aifounded.com/aifounded/recent-evolution-of-the-qa-datasets-and-going-forward/
 - https://gist.github.com/thomasjungblut/b58d70d260abf0eff1a8c447f3d07389#file-xgb_bayes_opt_cv-py
