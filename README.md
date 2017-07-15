@@ -408,6 +408,11 @@ Covariate shift
 
 # Timeline
 
+15.07
+
+- http://www.vjsonline.org/scientist-portrait/1500039392
+- https://github.com/jeongyoonlee/data-science-process-management
+
 14.07
 
 - large csv: http://pythondata.com/working-large-csv-files-python/
