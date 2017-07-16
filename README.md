@@ -408,6 +408,12 @@ Covariate shift
 
 # Timeline
 
+17.07
+
+- https://github.com/sarchak/MachineLearningNotebooks
+- nn for ir: https://arxiv.org/pdf/1707.04242.pdf
+- https://github.com/LeiG/Applied-Predictive-Modeling-with-Python
+
 15.07
 
 - http://www.vjsonline.org/scientist-portrait/1500039392
