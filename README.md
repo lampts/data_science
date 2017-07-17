@@ -410,6 +410,9 @@ Covariate shift
 
 17.07
 
+- https://medium.com/@anandr42/the-data-science-delusion-7759f4eaac8e
+- https://gist.github.com/menshikh-iv/0c691219314da35f48f10826b6d34d97
+- http://www.fast.ai/2016/12/08/org-structure/
 - https://github.com/sarchak/MachineLearningNotebooks
 - nn for ir: https://arxiv.org/pdf/1707.04242.pdf
 - https://github.com/LeiG/Applied-Predictive-Modeling-with-Python
