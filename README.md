@@ -405,6 +405,10 @@ Covariate shift
 - quora presentation: https://gh.mltrainings.ru/presentations/Skornyakov_KaggleQuora_2017.pdf
 - hearthstone: https://gh.mltrainings.ru/presentations/Patekha_Hearthstone_2017.pdf
 
+## GCloud
+
+- http://www.albertauyeung.com/post/setup-jupyter-nginx-supervisor/
+- https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
 
 # Timeline
 
