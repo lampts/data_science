@@ -414,6 +414,8 @@ Covariate shift
 
 18.07
 
+- https://kiko01b.wordpress.com/2011/07/16/replace-a-word-containing-a-slash-with-sed/
+- https://stackoverflow.com/questions/11392478/how-to-replace-a-string-in-multiple-files-in-linux-command-line
 - https://blog.keras.io/the-limitations-of-deep-learning.html
 - https://github.com/pair-code/facets
 
