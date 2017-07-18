@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+18.07
+
+- https://blog.keras.io/the-limitations-of-deep-learning.html
+- https://github.com/pair-code/facets
+
 17.07
 
 - https://medium.com/@anandr42/the-data-science-delusion-7759f4eaac8e
