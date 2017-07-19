@@ -412,6 +412,10 @@ Covariate shift
 
 # Timeline
 
+19.07
+
+- https://github.com/catboost/catboost/tree/master/catboost/tutorials
+
 18.07
 
 - https://kiko01b.wordpress.com/2011/07/16/replace-a-word-containing-a-slash-with-sed/
