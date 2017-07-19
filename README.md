@@ -414,6 +414,7 @@ Covariate shift
 
 19.07
 
+- https://pjreddie.com/darknet/yolo/
 - ridge lr: http://www.utstat.toronto.edu/~guerzhoy/303/lec/lec8/ridge.pdf
 - https://github.com/catboost/catboost/tree/master/catboost/tutorials
 
