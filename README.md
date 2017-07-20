@@ -412,6 +412,10 @@ Covariate shift
 
 # Timeline
 
+20.07
+
+- https://github.com/hollance/YOLO-CoreML-MPSNNGraph
+
 19.07
 
 - https://pjreddie.com/darknet/yolo/
