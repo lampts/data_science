@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+22.07
+
+- https://github.com/bloomberg/scatteract
+- http://gree2.github.io/ocr/2017/03/08/tesseract-ocr-parser-within-tika
+
 21.07
 
 - https://www.youtube.com/watch?v=5sQ8-Er8tXM
