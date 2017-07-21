@@ -412,6 +412,12 @@ Covariate shift
 
 # Timeline
 
+21.07
+
+- https://www.youtube.com/watch?v=5sQ8-Er8tXM
+- https://github.com/HouJP/kaggle-quora-question-pairs
+- http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
+
 20.07
 
 - https://github.com/hollance/YOLO-CoreML-MPSNNGraph
