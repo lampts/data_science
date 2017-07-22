@@ -414,6 +414,7 @@ Covariate shift
 
 22.07
 
+- https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
 - https://github.com/bloomberg/scatteract
 - http://gree2.github.io/ocr/2017/03/08/tesseract-ocr-parser-within-tika
 
