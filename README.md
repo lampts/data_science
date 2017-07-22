@@ -412,6 +412,10 @@ Covariate shift
 
 # Timeline
 
+23.07
+
+- https://github.com/greydanus/excitation_bp
+
 22.07
 
 - https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30
