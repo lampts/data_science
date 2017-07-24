@@ -414,6 +414,8 @@ Covariate shift
 
 24.05
 
+- data readiness: https://arxiv.org/pdf/1705.02245.pdf
+- trophy data scientist: https://peadarcoyle.wordpress.com/2017/07/23/avoiding-being-a-trophy-data-scientist/
 - best paper cvpr 17: https://arxiv.org/pdf/1608.06993.pdf, https://github.com/liuzhuang13/DenseNet
 - https://github.com/titu1994/DenseNet
 - https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
