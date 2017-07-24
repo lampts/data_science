@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+24.05
+
+- https://github.com/titu1994/DenseNet
+- https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
+
 23.07
 
 - https://github.com/greydanus/excitation_bp
