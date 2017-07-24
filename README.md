@@ -414,6 +414,7 @@ Covariate shift
 
 24.05
 
+- best paper cvpr 17: https://arxiv.org/pdf/1608.06993.pdf, https://github.com/liuzhuang13/DenseNet
 - https://github.com/titu1994/DenseNet
 - https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
 
