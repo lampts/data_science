@@ -414,6 +414,7 @@ Covariate shift
 
 25.07
 
+- how to ensemble https://mlwave.com/kaggle-ensembling-guide/
 - https://www.slideshare.net/TedXiao/winning-kaggle-101-dmitry-larkos-experiences
 - http://togelius.blogspot.se/2017/07/some-advice-for-journalists-writing.html
 - https://sadanand-singh.github.io/posts/treebasedmodels/
