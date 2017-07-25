@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+25.07
+
+- https://sadanand-singh.github.io/posts/treebasedmodels/
+- regression with keras: https://www.datacamp.com/community/tutorials/deep-learning-python
+
 24.05
 
 - data readiness: https://arxiv.org/pdf/1705.02245.pdf
