@@ -414,6 +414,10 @@ Covariate shift
 
 31.07
 
+- 
+- http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_TwitterSentimentAnalysis.pdf
+- https://einstein.ai/research/state-of-the-art-deep-learning-model-for-question-answering
+- https://sigmoidal.io/boosting-your-solutions-with-nlp/
 - http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/
 - https://huyenchip.com/2017/07/28/confession.html
 - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
