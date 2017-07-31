@@ -414,6 +414,7 @@ Covariate shift
 
 31.07
 
+- http://casa.disi.unitn.it/~moschitt/Teaching-slides/slides-AINLP-2016/NER&POS-AINLP.pdf
 - noise in feature space: https://openreview.net/pdf?id=HyaF53XYx
 - data augmentation using thesaurus: https://arxiv.org/pdf/1509.01626.pdf
 - https://theneuralperspective.com/
