@@ -414,7 +414,7 @@ Covariate shift
 
 31.07
 
-- 
+- https://theneuralperspective.com/
 - http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_TwitterSentimentAnalysis.pdf
 - https://einstein.ai/research/state-of-the-art-deep-learning-model-for-question-answering
 - https://sigmoidal.io/boosting-your-solutions-with-nlp/
