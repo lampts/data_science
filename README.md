@@ -414,6 +414,8 @@ Covariate shift
 
 31.07
 
+- noise in feature space: https://openreview.net/pdf?id=HyaF53XYx
+- data augmentation using thesaurus: https://arxiv.org/pdf/1509.01626.pdf
 - https://theneuralperspective.com/
 - http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_TwitterSentimentAnalysis.pdf
 - https://einstein.ai/research/state-of-the-art-deep-learning-model-for-question-answering
