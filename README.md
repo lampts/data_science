@@ -412,6 +412,12 @@ Covariate shift
 
 # Timeline
 
+31.07
+
+- http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/
+- https://huyenchip.com/2017/07/28/confession.html
+- https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+
 25.07
 
 - how to ensemble https://mlwave.com/kaggle-ensembling-guide/
