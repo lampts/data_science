@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+01.08
+
+- pca with jake http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb
+- https://openreview.net/pdf?id=HyaF53XYx
+
 31.07
 
 - http://casa.disi.unitn.it/~moschitt/Teaching-slides/slides-AINLP-2016/NER&POS-AINLP.pdf
