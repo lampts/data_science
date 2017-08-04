@@ -412,6 +412,12 @@ Covariate shift
 
 # Timeline
 
+04.08
+
+- importance sampling https://arxiv.org/pdf/1706.00043.pdf
+- larochelle https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
+- bengio https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
 01.08
 
 - pca with jake http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb
