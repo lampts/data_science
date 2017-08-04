@@ -414,6 +414,7 @@ Covariate shift
 
 04.08
 
+- http://deepmoji.mit.edu/
 - importance sampling https://arxiv.org/pdf/1706.00043.pdf
 - larochelle https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
 - bengio https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
