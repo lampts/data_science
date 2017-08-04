@@ -414,6 +414,7 @@ Covariate shift
 
 04.08
 
+- emoji transfer learning: https://arxiv.org/pdf/1708.00524.pdf
 - http://deepmoji.mit.edu/
 - importance sampling https://arxiv.org/pdf/1706.00043.pdf
 - larochelle https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
