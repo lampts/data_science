@@ -412,6 +412,11 @@ Covariate shift
 
 # Timeline
 
+06.08
+
+- https://prodi.gy/demo
+- https://prodi.gy/docs/
+
 04.08
 
 - emoji transfer learning: https://arxiv.org/pdf/1708.00524.pdf
