@@ -414,6 +414,7 @@ Covariate shift
 
 06.08
 
+- https://github.com/brannondorsey/keras_weight_animator
 - https://github.com/pavitrakumar78/Anime-Face-GAN-Keras
 - https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/
 - https://prodi.gy/demo
