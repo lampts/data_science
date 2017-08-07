@@ -410,6 +410,12 @@ Covariate shift
 - http://www.albertauyeung.com/post/setup-jupyter-nginx-supervisor/
 - https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
 
+## Current conference
+
+- http://sigir.org/sigir2017/
+- icml: https://2017.icml.cc/
+- emnlp: http://emnlp2017.net/
+
 # Timeline
 
 06.08
