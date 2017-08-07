@@ -418,6 +418,12 @@ Covariate shift
 
 # Timeline
 
+07.08
+
+- https://explosion.ai/blog/prodigy-annotation-tool-active-learning
+- https://github.com/brannondorsey/keras_weight_animator
+- https://github.com/keveman/tensorflow-tutorial/blob/master/PTB%20Word%20Language%20Modeling.ipynb
+
 06.08
 
 - https://github.com/brannondorsey/keras_weight_animator
