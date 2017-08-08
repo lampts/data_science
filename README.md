@@ -418,6 +418,11 @@ Covariate shift
 
 # Timeline
 
+08.08
+
+- https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f/
+- https://nlp.stanford.edu/pubs/jia2016recombination.pdf
+
 07.08
 
 - best paper ICML: https://github.com/mlresearch/v70
