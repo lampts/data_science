@@ -420,6 +420,7 @@ Covariate shift
 
 08.08
 
+- roc auc: http://www.navan.name/roc/
 - https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f/
 - https://nlp.stanford.edu/pubs/jia2016recombination.pdf
 
