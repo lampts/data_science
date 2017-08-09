@@ -424,6 +424,10 @@ Covariate shift
 
 # Timeline
 
+09.08
+
+- dl course: https://www.coursera.org/specializations/deep-learning
+
 08.08
 
 - roc auc: http://www.navan.name/roc/
