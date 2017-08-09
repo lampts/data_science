@@ -5,6 +5,12 @@
 
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
+
+## Heroes of DL
+
+- Geoffrey Hinton: https://www.youtube.com/watch?v=-eyhCTvrEtE
+- Andreij Karpathy: https://www.youtube.com/watch?v=_au3yw46lcg
+
 ## Deep Learning
 
 - http://www.deeplearningbook.org/contents/applications.html
