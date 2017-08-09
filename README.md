@@ -11,6 +11,12 @@
 - Geoffrey Hinton: https://www.youtube.com/watch?v=-eyhCTvrEtE
 - Andreij Karpathy: https://www.youtube.com/watch?v=_au3yw46lcg
 
+## Top conferences:
+
+- https://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+- http://www.guide2research.com/topconf/machine-learning
+- http://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2017&sort=atitle&page=1
+
 ## Deep Learning
 
 - http://www.deeplearningbook.org/contents/applications.html
