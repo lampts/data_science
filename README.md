@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+10.08
+
+- https://github.com/cpury/lstm-math
+
 09.08
 
 - dl course: https://www.coursera.org/specializations/deep-learning
