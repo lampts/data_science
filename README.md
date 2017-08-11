@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+11.08
+
+- https://github.com/nadbordrozd/text-top-model/tree/master/ttm/keras_models
+- https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/
+- https://www.mira.law/blogposts/2017/5/12/semantic-averaging-of-documents-using-word2vec-representations
+
 10.08
 
 - https://github.com/cpury/lstm-math
