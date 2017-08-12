@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+13.08
+
+- https://github.com/vahidk/EffectiveTensorflow
+
 11.08
 
 - http://chri.stophr.be/
