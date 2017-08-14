@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+14.08
+
+- https://github.com/rasbt/deep-learning-book/blob/master/code/model_zoo/file-queues.ipynb
+- https://github.com/nlml/np-to-tf-embeddings-visualiser/blob/master/save_embeddings.py
+
 13.08
 
 - https://github.com/vahidk/EffectiveTensorflow
