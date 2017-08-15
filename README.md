@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+15.08
+
+- http://bayes.wustl.edu/etj/prob/book.pdf
+
 14.08
 
 - https://github.com/experiencor/deep-viz-keras
