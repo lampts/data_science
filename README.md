@@ -432,6 +432,8 @@ Covariate shift
 
 16.08
 
+- https://arxiv.org/pdf/1701.08318.pdf
+- genome modeling: https://cs224d.stanford.edu/reports/jessesz.pdf
 - https://www.reddit.com/r/MachineLearning/comments/6tu9gu/what_is_the_process_of_deploying_machine_learning/?st=j6ee7uoq&sh=12c17107
 - https://github.com/chrisranderson/beholder
 - https://github.com/rasbt/deep-learning-book
