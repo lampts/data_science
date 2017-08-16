@@ -432,6 +432,7 @@ Covariate shift
 
 16.08
 
+- http://mltrainings.ru/
 - asap https://github.com/ddofer/asap/wiki/Getting-Started:-A-Basic-Tutorial
 - https://arxiv.org/pdf/1701.08318.pdf
 - genome modeling: https://cs224d.stanford.edu/reports/jessesz.pdf
