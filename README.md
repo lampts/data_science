@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+16.08
+
+- https://www.reddit.com/r/MachineLearning/comments/6tu9gu/what_is_the_process_of_deploying_machine_learning/?st=j6ee7uoq&sh=12c17107
+- https://github.com/chrisranderson/beholder
+- https://github.com/rasbt/deep-learning-book
+
 15.08
 
 - http://bayes.wustl.edu/etj/prob/book.pdf
