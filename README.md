@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+17.08
+
+- https://medium.com/the-mission/a-genius-explains-how-to-be-creative-claude-shannons-long-lost-1952-speech-fbbcb2ebe07f
+
 16.08
 
 - http://mltrainings.ru/
