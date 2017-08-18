@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+18.08
+
+- http://evexdb.org/pmresources/vec-space-models/
+
+
 17.08
 
 - https://medium.com/the-mission/a-genius-explains-how-to-be-creative-claude-shannons-long-lost-1952-speech-fbbcb2ebe07f
