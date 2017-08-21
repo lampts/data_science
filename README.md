@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+21.08
+
+- https://github.com/rasbt/python-machine-learning-book-2nd-edition
+- https://github.com/sjvasquez/instacart-basket-prediction
+
 18.08
 
 - http://evexdb.org/pmresources/vec-space-models/
