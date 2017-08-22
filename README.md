@@ -432,6 +432,7 @@ Covariate shift
 
 22.08
 
+- https://gist.github.com/menshikh-iv/0c691219314da35f48f10826b6d34d97
 - https://github.com/minimaxir/reactionrnn
 - http://www.kdnuggets.com/2017/08/oreilly-nyc-ai-conference-highlights.html
 - https://speakerdeck.com/tmylk/pycon-russia-2017-tiematichieskoie-modielirovaniie-dlia-liudiei
