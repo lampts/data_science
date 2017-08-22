@@ -430,6 +430,14 @@ Covariate shift
 
 # Timeline
 
+22.08
+
+- https://github.com/minimaxir/reactionrnn
+- http://www.kdnuggets.com/2017/08/oreilly-nyc-ai-conference-highlights.html
+- https://speakerdeck.com/tmylk/pycon-russia-2017-tiematichieskoie-modielirovaniie-dlia-liudiei
+- http://newsletter.ruder.io/issues/nlp-news-data-selection-ml-nlp-in-esports-vqa-bias-lyric-annotations-68803
+- https://github.com/fchollet/keras/releases/tag/2.0.7
+
 21.08
 
 - https://github.com/rasbt/python-machine-learning-book-2nd-edition
