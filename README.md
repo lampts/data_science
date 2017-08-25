@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+25.08
+
+- https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127
+- https://github.com/idiap/importance-sampling
+
 24.08
 
 - http://blog.rtwilson.com/how-to-rescue-lost-code-from-a-jupyteripython-notebook/
