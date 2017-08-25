@@ -434,6 +434,8 @@ Covariate shift
 
 - https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127
 - https://github.com/idiap/importance-sampling
+- http://krisztianbalog.com/files/talks/russir2016-el.pdf
+- https://github.com/kbalog/russir2016-el
 
 24.08
 
