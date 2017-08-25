@@ -432,6 +432,7 @@ Covariate shift
 
 25.08
 
+- http://krisztianbalog.com/
 - https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127
 - https://github.com/idiap/importance-sampling
 - http://krisztianbalog.com/files/talks/russir2016-el.pdf
