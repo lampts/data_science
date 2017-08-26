@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+26.08
+
+- https://github.com/zalandoresearch/fashion-mnist/blob/master/README.md
+- https://github.com/DrMichaelWang/Kaggle_Cancer_Project/blob/master/Kaggle%20cancer%20-%20text%20key%20word%20frequency%20count_xgboost.ipynb
+
 25.08
 
 - http://krisztianbalog.com/
