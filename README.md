@@ -432,6 +432,7 @@ Covariate shift
 
 28.08
 
+- https://nlp.stanford.edu/courses/cs224n/2015/reports/29.pdf
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463?_lrsc=ce853194-65af-4e5e-a424-7d21025fd0c9
 - https://blog.fineighbor.com/tensorflow-dealing-with-imbalanced-data-eb0108b10701
 - https://arxiv.org/pdf/1707.05127.pdf
