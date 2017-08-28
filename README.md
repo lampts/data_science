@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+28.08
+
+- https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463?_lrsc=ce853194-65af-4e5e-a424-7d21025fd0c9
+- https://blog.fineighbor.com/tensorflow-dealing-with-imbalanced-data-eb0108b10701
+
 26.08
 
 - https://github.com/zalandoresearch/fashion-mnist/blob/master/README.md
