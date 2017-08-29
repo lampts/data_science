@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+29.08
+
+- https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8
+
 28.08
 
 - https://nlp.stanford.edu/courses/cs224n/2015/reports/29.pdf
