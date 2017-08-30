@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+30.08
+
+- knn and bilstm https://arxiv.org/pdf/1708.07863.pdf
+- https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
+- https://github.com/dformoso/machine-learning-mindmap
+
 29.08
 
 - https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8
