@@ -432,6 +432,7 @@ Covariate shift
 
 30.08
 
+- effective tf: https://github.com/vahidk/EffectiveTensorflow
 - knn and bilstm https://arxiv.org/pdf/1708.07863.pdf
 - https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
 - https://github.com/dformoso/machine-learning-mindmap
