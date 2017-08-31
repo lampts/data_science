@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+01.09
+
+- http://artemis-ml.readthedocs.io/en/latest/plotting.html
+- https://github.com/krystianity/keras-serving
+- https://github.com/Lausbert/Exermote/tree/master/ExermotePreprocessingAndTraining
+
 31.08
 
 - http://liufuyang.github.io/2017/04/02/just-another-tensorflow-beginner-guide-4.html
