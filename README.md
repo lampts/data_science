@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+31.08
+
+- http://liufuyang.github.io/2017/04/02/just-another-tensorflow-beginner-guide-4.html
+- https://github.com/Lausbert/Exermote/blob/master/ExermotePreprocessingAndTraining/trainer/exermote.py
+- http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html
+
 30.08
 
 - effective tf: https://github.com/vahidk/EffectiveTensorflow
