@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+02.09
+
+- https://github.com/AlexandreRobicquet?tab=repositories
+
 01.09
 
 - http://artemis-ml.readthedocs.io/en/latest/plotting.html
