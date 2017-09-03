@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+03.09
+
+- http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/
+- https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
+
 02.09
 
 - https://github.com/AlexandreRobicquet?tab=repositories
