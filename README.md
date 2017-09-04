@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+04.09
+
+- http://theorangeduck.com/page/neural-network-not-working
+
 03.09
 
 - http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/
