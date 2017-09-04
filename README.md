@@ -433,6 +433,8 @@ Covariate shift
 04.09
 
 - http://theorangeduck.com/page/neural-network-not-working
+- https://dzone.com/articles/natural-language-processing-adit-deshpande-cs-unde
+- https://github.com/ddtm/dl-course
 
 03.09
 
