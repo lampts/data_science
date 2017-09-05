@@ -433,6 +433,7 @@ Covariate shift
 05.09
 
 - https://github.com/UKPLab/emnlp2017-relation-extraction
+- intepret rnn: https://github.com/philipperemy/tensorflow-isan-rnn
 
 04.09
 
