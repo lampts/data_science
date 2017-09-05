@@ -430,6 +430,10 @@ Covariate shift
 
 # Timeline
 
+05.09
+
+- https://github.com/UKPLab/emnlp2017-relation-extraction
+
 04.09
 
 - http://theorangeduck.com/page/neural-network-not-working
