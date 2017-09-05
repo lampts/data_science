@@ -432,6 +432,7 @@ Covariate shift
 
 05.09
 
+- 4 trends: structure is back, re embedding, blackbox transparency, attention: http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-2.html
 - https://github.com/UKPLab/emnlp2017-relation-extraction
 - intepret rnn: https://github.com/philipperemy/tensorflow-isan-rnn
 
