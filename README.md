@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+06.09
+
+- https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
+- https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b
+- https://github.com/lampts/deep-learning-with-python-notebooks/blob/master/3.5-classifying-movie-reviews.ipynb
+
 05.09
 
 - ds interview: http://www.thedsinterview.com/
