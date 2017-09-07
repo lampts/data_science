@@ -430,6 +430,13 @@ Covariate shift
 
 # Timeline
 
+07.09
+
+- https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
+- https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-3-into-the-cloud-7115ff774bb6
+- https://github.com/Vetal1977/tf_serving_example
+- https://github.com/udacity/deep-learning/blob/master/semi-supervised/semi-supervised_learning_2_solution.ipynb
+
 06.09
 
 - https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
