@@ -432,6 +432,7 @@ Covariate shift
 
 07.09
 
+- https://www.thoughtco.com/normal-approximation-to-the-binomial-distribution-3126589
 - http://www.stat.purdue.edu/~xuanyaoh/stat350/xyJan23Lec4.pdf
 - https://github.com/tensorflow/serving/blob/master/tensorflow_serving/example/mnist_client.py
 - https://medium.com/towards-data-science/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
