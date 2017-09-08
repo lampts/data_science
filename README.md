@@ -432,6 +432,7 @@ Covariate shift
 
 08.09
 
+- https://manning-content.s3.amazonaws.com/download/d/bcdc8c6-3f2e-4a2d-974b-487fc1da7cdf/Chollet_DLwPython_MEAP_V05_ch1.pdf
 - http://ofir.io/Neural-Language-Modeling-From-Scratch/
 - https://www.thoughtco.com/normal-approximation-to-the-binomial-distribution-3126589
 
