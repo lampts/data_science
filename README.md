@@ -432,6 +432,7 @@ Covariate shift
 
 08.09
 
+- http://courses.wcupa.edu/rbove/Berenson/10th%20ed%20CD-ROM%20topics/section12_5.pdf
 - percy liang: http://shrdlurn.sidaw.xyz/acl16/
 - https://www.youtube.com/watch?v=mhHfnhh-pB4
 - https://manning-content.s3.amazonaws.com/download/d/bcdc8c6-3f2e-4a2d-974b-487fc1da7cdf/Chollet_DLwPython_MEAP_V05_ch1.pdf
