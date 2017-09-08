@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+08.09
+
+- http://ofir.io/Neural-Language-Modeling-From-Scratch/
+- https://www.thoughtco.com/normal-approximation-to-the-binomial-distribution-3126589
+
 07.09
 
 - https://www.thoughtco.com/normal-approximation-to-the-binomial-distribution-3126589
