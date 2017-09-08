@@ -432,6 +432,7 @@ Covariate shift
 
 08.09
 
+- https://www.eff.org/ai/metrics
 - http://courses.wcupa.edu/rbove/Berenson/10th%20ed%20CD-ROM%20topics/section12_5.pdf
 - percy liang: http://shrdlurn.sidaw.xyz/acl16/
 - https://www.youtube.com/watch?v=mhHfnhh-pB4
