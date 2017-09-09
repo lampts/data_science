@@ -432,6 +432,8 @@ Covariate shift
 
 09.09
 
+- https://github.com/Unbabel/
+- https://andre-martins.github.io/docs/emnlp2017_final.pdf
 - http://allennlp.org/tutorials/configuration
 
 08.09
