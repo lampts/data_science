@@ -430,6 +430,11 @@ Covariate shift
 
 # Timeline
 
+10.09
+
+- dilated convnet https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
+- quora view: https://www.quora.com/challenges#views
+
 09.09
 
 - https://ydkahin.github.io/blog/views-prediction---a-quora-challenge---part-iii-eda-feature-engineering-and-more/?utm_content=buffera82c7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
