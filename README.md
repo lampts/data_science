@@ -432,6 +432,8 @@ Covariate shift
 
 11.09
 
+- score distribution is better: https://arxiv.org/abs/1707.09861
+- make a stable architecture: https://arxiv.org/abs/1707.06799, pretrained embedding, last layer of lstm is crucial.
 - https://github.com/lanwuwei/paraphrase-dataset
 - why non convex: https://github.com/lanwuwei/paraphrase-dataset
 - https://www.reddit.com/r/dataisbeautiful/comments/6ykfvl/average_word_length_for_nytimes_crossword_answers/
