@@ -430,6 +430,12 @@ Covariate shift
 
 # Timeline
 
+11.09
+
+- https://github.com/lanwuwei/paraphrase-dataset
+- why non convex: https://github.com/lanwuwei/paraphrase-dataset
+- https://www.reddit.com/r/dataisbeautiful/comments/6ykfvl/average_word_length_for_nytimes_crossword_answers/
+
 10.09
 
 - dilated convnet https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
