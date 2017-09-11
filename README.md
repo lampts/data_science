@@ -432,6 +432,7 @@ Covariate shift
 
 11.09
 
+- word embedding Komninos https://www.cs.york.ac.uk/nlp/extvec/
 - https://ku.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0954a17c-2702-4d8e-9412-12ae958a2790
 - score distribution is better: https://arxiv.org/abs/1707.09861
 - make a stable architecture: https://arxiv.org/abs/1707.06799, pretrained embedding, last layer of lstm is crucial.
