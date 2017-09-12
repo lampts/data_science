@@ -432,6 +432,8 @@ Covariate shift
 - icml: https://2017.icml.cc/
 - emnlp: http://emnlp2017.net/
 
+https://github.com/aymericdamien/TensorFlow-Examples
+
 # Timeline
 
 12.09
