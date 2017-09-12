@@ -430,6 +430,13 @@ Covariate shift
 
 # Timeline
 
+12.09
+
+- https://en.wikipedia.org/wiki/White_Noise_(novel)
+- hitchhike guide to the galaxy: 
+- https://www.cs.bgu.ac.il/~yoavg/uni/bloglike/baboons.html
+- http://u.cs.biu.ac.il/~yogo/courses/sem2017/
+
 11.09
 
 - word embedding Komninos https://www.cs.york.ac.uk/nlp/extvec/
