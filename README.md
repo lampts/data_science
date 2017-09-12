@@ -380,6 +380,10 @@ Covariate shift
 - https://www.cs.bgu.ac.il/~elhadad/nlp17.html
 
 
+# Dataset
+
+- CONLL2003: https://github.com/kuruonur1/char-tag
+
 # Tricks of DL
 
 - https://engineering.purdue.edu/~qobi/papers/ad2016d.pdf
