@@ -438,6 +438,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 13.09
 
+- https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28
 - https://github.com/tensorflow/workshops
 - https://github.com/chuckyee/cardiac-segmentation
 - real time CNN: https://github.com/lampts/face_classification/blob/master/technical_report.pdf
