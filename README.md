@@ -436,6 +436,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+13.09
+
+- https://github.com/tensorflow/workshops
+- https://github.com/chuckyee/cardiac-segmentation
+- real time CNN: https://github.com/lampts/face_classification/blob/master/technical_report.pdf
+
 12.09
 
 - https://en.wikipedia.org/wiki/White_Noise_(novel)
