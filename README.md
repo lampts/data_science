@@ -436,6 +436,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.09
+
+- https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+
 13.09
 
 - strong algos: GBT, RF, SVM for classification: https://arxiv.org/pdf/1708.05070.pdf
