@@ -436,6 +436,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.09
+
+- http://www.cs.tut.fi/kurssit/SGN-2556/slides/Lecture6.pdf
+
 14.09
 
 - https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
