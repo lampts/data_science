@@ -436,6 +436,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.09
+
+- https://github.com/philipperemy/tensorflow-class-activation-mapping
+
 15.09
 
 - http://www.cs.tut.fi/kurssit/SGN-2556/slides/Lecture6.pdf
