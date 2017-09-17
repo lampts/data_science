@@ -438,6 +438,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.09
 
+- http://xrds.acm.org/blog/2017/07/power-wordnet-use-python/
 - https://simons.berkeley.edu/sites/default/files/docs/5950/2017.02.01-21.15.12-simons-nlp-tutorial.pdf
 - talking to machine: http://cs.stanford.edu/~pliang/papers/talking-xrds2014.pdf
 - zero learning talk: https://www.youtube.com/watch?v=6O5sttckalE
