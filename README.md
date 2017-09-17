@@ -436,6 +436,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.09
+
+- https://simons.berkeley.edu/sites/default/files/docs/5950/2017.02.01-21.15.12-simons-nlp-tutorial.pdf
+- talking to machine: http://cs.stanford.edu/~pliang/papers/talking-xrds2014.pdf
+- zero learning talk: https://www.youtube.com/watch?v=6O5sttckalE
+
 16.09
 
 - https://github.com/philipperemy/tensorflow-class-activation-mapping
