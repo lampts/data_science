@@ -436,6 +436,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.09
+
+- http://u.cs.biu.ac.il/~yogo/DepLing2017invited.pdf
+- http://newsletter.ruder.io/issues/nlp-news-review-of-emnlp-2017-analyzing-bias-google-brain-ama-dragnn-and-allennlp-72584
+
+
 17.09
 
 - http://xrds.acm.org/blog/2017/07/power-wordnet-use-python/
