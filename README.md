@@ -13,6 +13,11 @@
 
 ## Top conferences:
 
+- KDD 2018 London, UK: http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/engineering/datascienceinstitute/newssummary/news_22-8-2017-11-17-28
+- WSDM 2018, US: http://www.wsdm-conference.org/2018/
+- NIPS 2017, Long Beach, US: https://nips.cc/
+- DepLing 2017: http://www.depling.org/depling2017/program.html
+- CIKM 2017: http://cikm2017.org/
 - https://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
 - http://www.guide2research.com/topconf/machine-learning
 - http://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2017&sort=atitle&page=1
