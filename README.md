@@ -444,7 +444,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 19.09
 
 - memory augmented nnet for nlp: https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view
-
+- kaggle quora blog: https://indatalabs.com/blog/data-science/how-to-win-kaggle-competition
 
 18.09
 
