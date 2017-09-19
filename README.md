@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+19.09
+
+- memory augmented nnet for nlp: https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view
+
+
 18.09
 
 - http://u.cs.biu.ac.il/~yogo/DepLing2017invited.pdf
