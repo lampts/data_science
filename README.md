@@ -441,6 +441,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.09
+
+- rossmann nnet https://arxiv.org/pdf/1604.06737.pdf
+- http://blog.kaggle.com/2016/01/22/rossmann-store-sales-winners-interview-3rd-place-cheng-gui/
+- https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
+
 19.09
 
 - memory augmented nnet for nlp: https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view
