@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+25.09
+
+- http://www.derczynski.com/sheffield/papers/brown_impact.pdf
+
 22.09
 
 - http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/
