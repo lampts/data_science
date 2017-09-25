@@ -445,6 +445,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - http://www.derczynski.com/sheffield/papers/brown_impact.pdf
 - http://people.cs.georgetown.edu/cosc572/f16/21b_dist_slides.pdf
+- https://paulx-cn.github.io/blog/5th_Blog/
 
 22.09
 
