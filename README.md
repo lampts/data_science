@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.09
 
+- word sense: http://www.cs.columbia.edu/~mcollins/courses/6998-2011/lectures/yarowsky.pdf
 - http://www.derczynski.com/sheffield/papers/brown_impact.pdf
 - http://people.cs.georgetown.edu/cosc572/f16/21b_dist_slides.pdf
 - https://paulx-cn.github.io/blog/5th_Blog/
