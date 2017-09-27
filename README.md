@@ -441,6 +441,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.09
+
+- https://arxiv.org/pdf/1608.01238.pdf
+- https://web.stanford.edu/~jurafsky/slp3/16.pdf
+- http://www.aclweb.org/anthology/N12-2009
+- https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+
 25.09
 
 - brown cluster: https://arxiv.org/pdf/1608.01238.pdf
