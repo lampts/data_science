@@ -441,6 +441,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.09
+
+- http://ruder.io/optimizing-gradient-descent/
+- https://github.com/kuza55/keras-extras/blob/master/layers/DiffForest.py
+- https://arxiv.org/pdf/1702.08835.pdf
+- https://docs.google.com/presentation/d/1Ze7BAiWbMPyF0ax36D-aK00VfaGMGvvgD_XuANQW1gU/edit#slide=id.p
+- https://uima.apache.org/
+
 27.09
 
 - https://arxiv.org/pdf/1608.01238.pdf
