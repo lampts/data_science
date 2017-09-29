@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 29.09
 
+- feature selection multiple hypothesis testing: http://kelvinguu.com/posts/feature-selection-and-multiple-hypothesis-testing/
+- how to do feature selection correctly: http://kelvinguu.com/posts/why-naive-cross-validation-fails-at-feature-selection/
 - https://habrahabr.ru/post/326122/
 - http://soloro.ru
 - http://kelvinguu.com/
