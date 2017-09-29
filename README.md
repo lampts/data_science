@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 29.09
 
+- https://habrahabr.ru/post/326122/
+- http://soloro.ru
 - http://kelvinguu.com/
 - http://jakob.uszkoreit.net/
 - coarse to fine QA for long document: https://arxiv.org/pdf/1611.01839.pdf
