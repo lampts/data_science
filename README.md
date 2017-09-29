@@ -441,6 +441,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.09
+
+- http://kelvinguu.com/
+- http://jakob.uszkoreit.net/
+- coarse to fine QA for long document: https://arxiv.org/pdf/1611.01839.pdf
+- generating sentences by editing prototypes: https://arxiv.org/pdf/1709.08878.pdf
+
 28.09
 
 - http://ruder.io/optimizing-gradient-descent/
