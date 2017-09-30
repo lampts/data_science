@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.09
+
+- https://developers.google.com/machine-learning/glossary/
+
+
 29.09
 
 - feature selection multiple hypothesis testing: http://kelvinguu.com/posts/feature-selection-and-multiple-hypothesis-testing/
