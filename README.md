@@ -444,6 +444,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 30.09
 
 - https://developers.google.com/machine-learning/glossary/
+- https://www.slideshare.net/GaelVaroquaux/computational-practices-for-reproducible-science
+- https://github.com/SSDS-Croatia/SSDS-2017
+- https://sites.google.com/site/ssdatascience2017/lecture-notes
 
 
 29.09
