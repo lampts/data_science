@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 02.10
 
+- https://github.com/DataScienceUB/DeepLearningfromScratch
 - https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211
 - https://medium.com/@shanif/our-data-science-workflow-b974f30a124d
 - https://www.slideshare.net/GaelVaroquaux/computational-practices-for-reproducible-science
