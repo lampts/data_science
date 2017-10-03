@@ -441,6 +441,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+03.10
+
+- https://statweb.stanford.edu/~candes/talks/Wald1.pdf
+- http://aimotion.blogspot.com/2011/11/machine-learning-with-python-logistic.html
+- https://arxiv.org/pdf/1705.08039.pdf
+- https://medium.com/@shanif/our-data-science-workflow-b974f30a124d
+- http://u.cs.biu.ac.il/~yogo/DepLing2017invited.pdf
+
 02.10
 
 - https://github.com/DataScienceUB/DeepLearningfromScratch
