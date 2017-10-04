@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.10
 
+- https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/
+- https://arxiv.org/pdf/1512.04916.pdf
 - oov: https://github.com/cheng6076/SNLI-attention/blob/master/oov_vec.py
 - https://fasttext.cc/blog/2017/10/02/blog-post.html
 - https://fasttext.cc/docs/en/language-identification.html
