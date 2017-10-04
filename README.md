@@ -441,6 +441,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.10
+
+- https://teachablemachine.withgoogle.com/
+- https://www.edvancer.in/machine-learning-vs-statistics/
+- https://www.slideshare.net/nikhildandekar/maintaining-high-quality-user-generated-content-through-machine-learning
+
 03.10
 
 - https://statweb.stanford.edu/~candes/talks/Wald1.pdf
