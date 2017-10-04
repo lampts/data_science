@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.10
 
+- https://fasttext.cc/blog/2017/10/02/blog-post.html
+- https://fasttext.cc/docs/en/language-identification.html
 - https://teachablemachine.withgoogle.com/
 - https://www.edvancer.in/machine-learning-vs-statistics/
 - https://www.slideshare.net/nikhildandekar/maintaining-high-quality-user-generated-content-through-machine-learning
