@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.10
 
+- position attention bi-lstm: https://arxiv.org/pdf/1703.10089.pdf
 - https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/
 - https://arxiv.org/pdf/1512.04916.pdf
 - oov: https://github.com/cheng6076/SNLI-attention/blob/master/oov_vec.py
