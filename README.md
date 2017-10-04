@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.10
 
+- oov: https://github.com/cheng6076/SNLI-attention/blob/master/oov_vec.py
 - https://fasttext.cc/blog/2017/10/02/blog-post.html
 - https://fasttext.cc/docs/en/language-identification.html
 - https://teachablemachine.withgoogle.com/
