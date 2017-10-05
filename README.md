@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.10
 
+- hard sigmoid: https://stackoverflow.com/questions/35411194/how-is-hard-sigmoid-defined
 - https://data.world/rickyhennessy/startup-names-and-descriptions/workspace/file?filename=startups.csv
 - position attention bi-lstm: https://arxiv.org/pdf/1703.10089.pdf
 - https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/
