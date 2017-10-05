@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.10
+
+- emoji2 https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983
+- attention layer: https://gist.github.com/thomwolf/e309e779a08c1ba899514d44355cd6df#file-attention_layer_keras-py
+
 04.10
 
 - hard sigmoid: https://stackoverflow.com/questions/35411194/how-is-hard-sigmoid-defined
