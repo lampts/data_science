@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.10
+
+- https://arxiv.org/pdf/1710.00027.pdf
+
 05.10
 
 - emoji2 https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983
