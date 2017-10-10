@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.10
+
+- https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+- https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/lecture-notes/lecture11-dl.pdf
+
 07.10
 
 - https://arxiv.org/pdf/1710.00027.pdf
