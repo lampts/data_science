@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+11.10
+
+- http://people.cs.umass.edu/~brenocon/inlp2016/lectures/05,06-classif-scan.pdf
+
 10.10
 
 - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
