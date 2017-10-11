@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 11.10
 
+- book stats learning of Hastie: https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf?utm_content=bufferaea53&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 - http://www.recognition.mccme.ru/pub/RecognitionLab.html/slbook.pdf
 - https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn
 - tsne map: https://artsexperiments.withgoogle.com/tsnemap/#2072.02,145.27,5710.37,2039.00,138.00,5689.00
