@@ -444,6 +444,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 11.10
 
 - http://people.cs.umass.edu/~brenocon/inlp2016/lectures/05,06-classif-scan.pdf
+- capsules https://research.google.com/pubs/pub46351.html
+- http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
+- http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf
 
 10.10
 
