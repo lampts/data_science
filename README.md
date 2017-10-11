@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 11.10
 
+- https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn
+- tsne map: https://artsexperiments.withgoogle.com/tsnemap/#2072.02,145.27,5710.37,2039.00,138.00,5689.00
 - http://people.cs.umass.edu/~brenocon/inlp2016/lectures/05,06-classif-scan.pdf
 - capsules https://research.google.com/pubs/pub46351.html
 - http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
