@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+12.10
+
+- https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html
+
 11.10
 
 - book stats learning of Hastie: https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf?utm_content=bufferaea53&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
