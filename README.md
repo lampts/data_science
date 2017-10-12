@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 12.10
 
+- https://www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be
 - https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html
 
 11.10
