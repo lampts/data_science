@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+13.10
+
+- Information theory of DL https://www.youtube.com/watch?v=RKvS958AqGY
+- https://arxiv.org/pdf/1709.03856.pdf
+
 12.10
 
 - https://github.com/facebookresearch/StarSpace
