@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.10
+
+- nlp curator: https://github.com/Kyubyong/nlp_tasks
+- https://github.com/Kulbear/deep-learning-coursera
+
 13.10
 
 - Information theory of DL https://www.youtube.com/watch?v=RKvS958AqGY
