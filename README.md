@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.10
+
+- https://developers.soundcloud.com/blog/soundclouds-data-science-process
+
 15.10
 
 - nlp curator: https://github.com/Kyubyong/nlp_tasks
