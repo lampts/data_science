@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.10
 
+- https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
+- opening the black box of DNN: https://arxiv.org/pdf/1703.00810.pdf
 - information plane for DL: https://www.youtube.com/watch?v=bLqJHjXihK8
 - information theory with C.Olah: http://colah.github.io/posts/2015-09-Visual-Information/
 
