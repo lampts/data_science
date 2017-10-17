@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.10
+
+- information plane for DL: https://www.youtube.com/watch?v=bLqJHjXihK8
+- information theory with C.Olah: http://colah.github.io/posts/2015-09-Visual-Information/
+
 16.10
 
 - https://developers.soundcloud.com/blog/soundclouds-data-science-process
