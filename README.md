@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.10
 
+- outlier detection: https://storage.googleapis.com/supplemental_media/udacityu/3104648634/Hodge+Austin_OutlierDetection_AIRE381.pdf
 - https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
 - opening the black box of DNN: https://arxiv.org/pdf/1703.00810.pdf
 - information plane for DL: https://www.youtube.com/watch?v=bLqJHjXihK8
