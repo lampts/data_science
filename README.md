@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 18.10
 
+- swish = x.sigmoid(x) https://arxiv.org/pdf/1710.05941.pdf
+- DrQA: document retriever, document reader: https://github.com/facebookresearch/DrQA
 - https://gist.github.com/GaelVaroquaux/ead9898bd3c973c40429
 
 
