@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.10
+
+- https://gist.github.com/GaelVaroquaux/ead9898bd3c973c40429
+
+
 17.10
 
 - outlier detection: https://storage.googleapis.com/supplemental_media/udacityu/3104648634/Hodge+Austin_OutlierDetection_AIRE381.pdf
