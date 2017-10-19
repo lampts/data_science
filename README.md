@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 19.10
 
+- https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
+- http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/
 - https://github.com/uber/horovod
 
 18.10
