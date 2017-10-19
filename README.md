@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+19.10
+
+- https://github.com/uber/horovod
+
 18.10
 
 - swish = x.sigmoid(x) https://arxiv.org/pdf/1710.05941.pdf
