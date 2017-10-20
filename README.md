@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.10
+
+- http://matrixmultiplication.xyz
+- http://blog.yhat.com/posts/logistic-regression-python-rodeo.html
+
 19.10
 
 - https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
