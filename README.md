@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.10
+
+- https://github.com/leondz/entity_recognition
+
 20.10
 
 - https://docs.google.com/presentation/d/1vFlR9QJ4v1XnRg0-sNhe0_1gZUjj1utDdAUHScjzOtI/edit#slide=id.g271203ffb6_2_8
