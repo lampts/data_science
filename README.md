@@ -441,6 +441,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.10
+
+- https://github.com/ilkarman/DeepLearningFrameworks
+
 23.10
 
 - https://github.com/leondz/entity_recognition
