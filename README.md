@@ -443,6 +443,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.10
 
+- https://www.youtube.com/watch?v=G4uDBe28ryQ
 - https://github.com/ilkarman/DeepLearningFrameworks
 
 23.10
