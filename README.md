@@ -441,6 +441,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+25.10
+
+- https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b
+- https://github.com/YuriyGuts/kaggle-quora-question-pairs/blob/master/notebooks/classify-lightgbm-cv-pred.ipynb
+
 24.10
 
 - https://github.com/plaidml/plaidml
