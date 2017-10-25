@@ -451,6 +451,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.10
 
+- how to start ML/DL/NLP https://drive.google.com/file/d/0B2cCJQ2_aOwjUmFnRko2QjRGelE/view
 - https://www.slideshare.net/lopusz/debugging-machinelearning
 - https://github.com/meereeum/lda2vec-tf
 - https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b
