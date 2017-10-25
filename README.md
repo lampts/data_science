@@ -45,6 +45,10 @@ EMNLP 2017: http://noisy-text.github.io/2017/
 - http://lxmls.it.pt/2016/Deep-Neural-Networks-Are-Our-Friends.pdf
 - http://lxmls.it.pt/2016/lxmls-dl2.pdf
 
+## ACL2017
+
+- keynote: linguistic is back, reduce search space: https://drive.google.com/file/d/0B2cCJQ2_aOwjMlg5MnFjTEpBNG8/view
+
 ## VietAI
 
 - Quoc Le (Google Brain): http://cs.stanford.edu/~quocle/
