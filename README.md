@@ -443,6 +443,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.10
 
+- https://www.slideshare.net/lopusz/debugging-machinelearning
+- https://github.com/meereeum/lda2vec-tf
 - https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b
 - https://github.com/YuriyGuts/kaggle-quora-question-pairs/blob/master/notebooks/classify-lightgbm-cv-pred.ipynb
 
