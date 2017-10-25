@@ -5,6 +5,10 @@
 
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
+## Winining solutions
+
+- Rossmann Sales Forecasting, 1st solution: https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
+
 
 ## Heroes of DL
 
