@@ -7,6 +7,7 @@
 
 ## Winining solutions
 
+- http://ndres.me/kaggle-past-solutions/
 - Rossmann Sales Forecasting, 1st solution: https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
 
 
