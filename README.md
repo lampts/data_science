@@ -449,6 +449,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.10
+
+- Coursera kaggle: https://www.coursera.org/learn/competitive-data-science
+
 25.10
 
 - how to start ML/DL/NLP https://drive.google.com/file/d/0B2cCJQ2_aOwjUmFnRko2QjRGelE/view
