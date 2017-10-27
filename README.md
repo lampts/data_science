@@ -450,6 +450,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.10
+
+- https://www.kaggle.com/knowledgegrappler/magic-embeddings-keras-a-toy-example
+
 26.10
 
 - Coursera kaggle: https://www.coursera.org/learn/competitive-data-science
