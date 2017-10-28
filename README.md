@@ -450,6 +450,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.10
+
+- https://www.bloomberg.com/graphics/2017-wall-street-robots/
+
 27.10
 
 - https://www.kaggle.com/knowledgegrappler/magic-embeddings-keras-a-toy-example
