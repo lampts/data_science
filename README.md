@@ -450,6 +450,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.10
+
+- linguistic structure is back, acl 2017: http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html
+
 28.10
 
 - https://www.bloomberg.com/graphics/2017-wall-street-robots/
