@@ -452,6 +452,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.10
 
+- bounter: https://github.com/RaRe-Technologies/bounter
+- http://cikm2017.org/mainconschedule.html
 - http://gael-varoquaux.info/stats_in_python_tutorial/
 - http://matthewrocklin.com/blog/work/2017/10/16/streaming-dataframes-1?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_154
 - GA: http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
