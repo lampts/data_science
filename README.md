@@ -452,7 +452,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.10
 
-- prodLA: https://openreview.net/pdf?id=BybtVK9lg
+- prodLDA in keras: https://github.com/nzw0301/keras-examples/blob/master/prodLDA.ipynb
+- prodLDA: https://openreview.net/pdf?id=BybtVK9lg
 - bounter: https://github.com/RaRe-Technologies/bounter
 - http://cikm2017.org/mainconschedule.html
 - http://gael-varoquaux.info/stats_in_python_tutorial/
