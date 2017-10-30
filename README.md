@@ -452,6 +452,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.10
 
+- http://gael-varoquaux.info/stats_in_python_tutorial/
+- http://matthewrocklin.com/blog/work/2017/10/16/streaming-dataframes-1?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_154
 - GA: http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
 - nlp talk: https://www.cs.umb.edu/~twang/file/cs188_TongWang.pdf
 - http://yutori-datascience.hatenablog.com/entry/2017/10/29/205433
