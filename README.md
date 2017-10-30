@@ -452,6 +452,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.10
 
+- radim newsletter http://us3.campaign-archive.com/?u=6a29d4cc0471455d38260b3cc&id=9f47229ab0
 - prodLDA in keras: https://github.com/nzw0301/keras-examples/blob/master/prodLDA.ipynb
 - prodLDA: https://openreview.net/pdf?id=BybtVK9lg
 - bounter: https://github.com/RaRe-Technologies/bounter
