@@ -452,6 +452,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.10
 
+- GA: http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
 - nlp talk: https://www.cs.umb.edu/~twang/file/cs188_TongWang.pdf
 - http://yutori-datascience.hatenablog.com/entry/2017/10/29/205433
 
