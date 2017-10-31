@@ -452,6 +452,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 31.10
 
+- https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/
 - kaggle survey: LR first, tree second: https://www.kaggle.com/surveys/2017
 - fe best practice: https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering
 - ppmi vs svd: https://github.com/piskvorky/word_embeddings/blob/master/run_embed.py
