@@ -450,6 +450,16 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+31.10
+
+- kaggle survey: LR first, tree second: https://www.kaggle.com/surveys/2017
+- fe best practice: https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering
+- ppmi vs svd: https://github.com/piskvorky/word_embeddings/blob/master/run_embed.py
+- class imbalance in cnn: https://arxiv.org/pdf/1710.05381.pdf
+- rnnvis: https://arxiv.org/pdf/1710.10777.pdf
+- task detection from email: https://medium.com/@rodrigo_23805/extracting-tasks-from-emails-first-challenges-86e7fbbf4672
+- interactive cm: https://rare-technologies.com/interactive-confusion-matrix-python/
+
 30.10
 
 - radim newsletter http://us3.campaign-archive.com/?u=6a29d4cc0471455d38260b3cc&id=9f47229ab0
