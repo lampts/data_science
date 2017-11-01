@@ -454,7 +454,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - two sample test, mean: https://www.isixsigma.com/tools-templates/hypothesis-testing/making-sense-two-sample-t-test/
 - two sample test, ratio: https://github.com/maoting1223/pycon_sg_2016
-
+- welchs test vs t student: http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html
 
 31.10
 
