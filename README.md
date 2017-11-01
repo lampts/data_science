@@ -450,6 +450,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+1.11
+
+- two sample test, mean: https://www.isixsigma.com/tools-templates/hypothesis-testing/making-sense-two-sample-t-test/
+- two sample test, ratio: https://github.com/maoting1223/pycon_sg_2016
+
+
 31.10
 
 - structure data: https://github.com/random-forests/tensorflow-workshop/blob/master/examples/07_structured_data.ipynb
