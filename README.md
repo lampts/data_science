@@ -11,6 +11,11 @@
 - Rossmann Sales Forecasting, 1st solution: https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
 
 
+# DS Coursera
+
+- http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/
+- http://scikit-learn.org/stable/modules/cross_validation.html
+
 ## Heroes of DL
 
 - Geoffrey Hinton: https://www.youtube.com/watch?v=-eyhCTvrEtE
