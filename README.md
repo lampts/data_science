@@ -451,6 +451,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+2.11
+
+- http://www.swisstext.org/#daeniken
+- http://people.inf.ethz.ch/ganeao/emnlp17_deep_ed.pdf
+- http://www.swisstext.org/docs/2017/Presentation/daeniken/swisstext_pius_von_daeniken.pdf
+- http://www.swisstext.org/docs/2017/Presentation/pappas/swisstext17.pdf
+- http://www.swisstext.org/docs/2017/Presentation/pappas/swisstext17.pdf
+
 1.11
 
 - two sample test, mean: https://www.isixsigma.com/tools-templates/hypothesis-testing/making-sense-two-sample-t-test/
