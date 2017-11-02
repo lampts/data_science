@@ -453,6 +453,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 2.11
 
+- actionable classification: https://arxiv.org/abs/1607.02501
+- https://www.youtube.com/watch?v=NOUMgThZ5UE
 - http://www.swisstext.org/#daeniken
 - http://people.inf.ethz.ch/ganeao/emnlp17_deep_ed.pdf
 - http://www.swisstext.org/docs/2017/Presentation/daeniken/swisstext_pius_von_daeniken.pdf
