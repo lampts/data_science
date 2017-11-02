@@ -453,6 +453,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 2.11
 
+- https://github.com/XifengGuo/CapsNet-Keras/blob/master/CapsNet.py
+- outlier detection: http://bugra.github.io/work/notes/2014-03-31/outlier-detection-in-time-series-signals-fft-median-filtering/
 - actionable classification: https://arxiv.org/abs/1607.02501
 - https://www.youtube.com/watch?v=NOUMgThZ5UE
 - http://www.swisstext.org/#daeniken
