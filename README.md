@@ -456,6 +456,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+3.11
+
+- https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8
+
 2.11
 
 - https://github.com/XifengGuo/CapsNet-Keras/blob/master/CapsNet.py
