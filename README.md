@@ -456,6 +456,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.11
+
+- ui2code: https://uizard.io/
+- https://pypi.python.org/pypi/textstat/
+- mse vs pearson correlation: http://www.bwgriffin.com/gsu/courses/edur8132/notes/Notes8c2_RegressionModelFit.pdf
+
 3.11
 
 - https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8
