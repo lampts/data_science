@@ -458,6 +458,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 08.11
 
+- pearson correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+- jensen inequality: https://en.wikipedia.org/wiki/Jensen%27s_inequality
 - ui2code: https://uizard.io/
 - https://pypi.python.org/pypi/textstat/
 - mse vs pearson correlation: http://www.bwgriffin.com/gsu/courses/edur8132/notes/Notes8c2_RegressionModelFit.pdf
