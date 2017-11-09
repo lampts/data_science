@@ -456,6 +456,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+09.11
+
+- vizuka: https://github.com/0011001011/Vizuka
+- https://www.youtube.com/watch?feature=youtu.be&v=klYBPl1ljTQ&list=PLGVZCDnMOq0rjkF7p_F4qtaVJQnjK1oKT&app=desktop
+
 08.11
 
 - pearson correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
