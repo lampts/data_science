@@ -456,6 +456,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.11
+
+- what wrong with CNN: https://www.youtube.com/watch?v=rTawFwUvnLE
+- https://medium.com/@culurciello/deep-neural-network-capsules-137be2877d44
+
 09.11
 
 - vizuka: https://github.com/0011001011/Vizuka
