@@ -458,6 +458,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 13.11
 
+- https://machinelearning.apple.com/2017/10/01/hey-siri.html
 - MLConf SF 2017: https://www.slideshare.net/JuneAndrews/counter-intuitive-machine-learning-for-the-industrial-internet-of-things-81862870/1
 - https://www.slideshare.net/SessionsEvents
 - https://towardsdatascience.com/7-takeaways-from-mlconf-sf-1b2703db5ecb
