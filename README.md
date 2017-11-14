@@ -456,6 +456,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.11
+
+- https://github.com/PipelineAI/pipeline
+
 13.11
 
 - https://github.com/kaz-Anova/StackNet
