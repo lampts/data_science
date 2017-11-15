@@ -456,6 +456,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.11
+
+- https://github.com/catboost/catboost/blob/master/catboost/tutorials/quora_catboost_w2v.ipynb
+- https://spacy.io/usage/v2
+
 14.11
 
 - https://github.com/PipelineAI/pipeline
