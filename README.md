@@ -456,6 +456,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.11
+
+- https://github.com/cgnorthcutt/rankpruning
+- https://github.com/PAIR-code/facets/blob/master/facets_overview/Overview_demo.ipynb
+- https://github.com/google/sling
+
 15.11
 
 - https://github.com/catboost/catboost/blob/master/catboost/tutorials/quora_catboost_w2v.ipynb
