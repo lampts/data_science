@@ -11,6 +11,11 @@
 - Rossmann Sales Forecasting, 1st solution: https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
 
 
+## Case stydies:
+
+- auc, https://www.kaggle.com/c/acquire-valued-shoppers-challenge#evaluation
+- auc, https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose#description
+
 # DS Coursera
 
 - http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/
