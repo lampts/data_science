@@ -458,6 +458,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 16.11
 
+- https://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 - https://github.com/taolei87/rcnn
 - https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html
 - model intepretation: https://blog.kjamistan.com/towards-interpretable-reliable-models/
