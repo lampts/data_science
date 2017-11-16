@@ -458,6 +458,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 16.11
 
+- https://github.com/taolei87/rcnn
+- https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html
+- model intepretation: https://blog.kjamistan.com/towards-interpretable-reliable-models/
 - https://github.com/cgnorthcutt/rankpruning
 - https://github.com/PAIR-code/facets/blob/master/facets_overview/Overview_demo.ipynb
 - https://github.com/google/sling
