@@ -458,6 +458,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 16.11
 
+- deep ensembling: https://cambridgespark.com/content/tutorials/neural-networks-tuning-techniques/index.html
 - https://www.technologyreview.com/s/609495/ai-can-be-made-legally-accountable-for-its-decisions/?utm_source=twitter.com&utm_medium=social&utm_content=2017-11-15&utm_campaign=Technology+Review
 - https://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 - https://github.com/taolei87/rcnn
