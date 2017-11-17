@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.11
 
+- https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d
 - https://us3.campaign-archive.com/?u=6a29d4cc0471455d38260b3cc&id=ddf2eee959
 - http://wangzhinan.com/2017/02/20/wsdm17-summary/#more
 
