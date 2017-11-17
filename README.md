@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.11
+
+- https://us3.campaign-archive.com/?u=6a29d4cc0471455d38260b3cc&id=ddf2eee959
+- http://wangzhinan.com/2017/02/20/wsdm17-summary/#more
+
 16.11
 
 - deep ensembling: https://cambridgespark.com/content/tutorials/neural-networks-tuning-techniques/index.html
