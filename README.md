@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.11
+
+- https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
+
 17.11
 
 - https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d
