@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 21.11
 
+- https://github.com/mdda/compressing-word-embeddings/tree/master/notebooks
 - https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
 - https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-11-20-predicting-cryptocurrency-prices-with-deep-learning.ipynb
 
