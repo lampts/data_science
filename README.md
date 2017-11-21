@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 21.11
 
+- https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/
 - tune lightgbm: https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-Tuning.rst
 - https://github.com/mdda/compressing-word-embeddings/tree/master/notebooks
 - https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
