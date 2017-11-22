@@ -463,6 +463,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 22.11
 
+- https://github.com/CleverTap/Analytics_ds_articles/tree/master/Data-Informed/Feature_Engineering
+- https://towardsdatascience.com/diary-of-a-data-scientist-at-booking-com-924734c71417
+- A/B testing at Booking https://arxiv.org/pdf/1710.08217.pdf
+- https://booking.ai/named-entity-classification-d14d857cb0d5
 - https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.mstats.winsorize.html
 - http://data-informed.com/how-to-improve-machine-learning-tricks-and-tips-for-feature-engineering/
 
