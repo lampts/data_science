@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.11
+
+- http://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BiC%2Fq1jhKSuCkAgj9YxVOuQ%3D%3D
+- https://github.com/Far0n/xgbfi
+
 22.11
 
 - https://github.com/CleverTap/Analytics_ds_articles/tree/master/Data-Informed/Feature_Engineering
