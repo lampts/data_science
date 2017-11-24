@@ -463,6 +463,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.11
 
+- https://www.bloomberg.com/company/announcements/bloomberg-magic-machine-learning/
+- https://www.investopedia.com/terms/a/alpha.asp
 - http://web.nchu.edu.tw/~jodytsao/MarkegingG/IIR10-Sentiment%20Analysis.pdf
 - https://flyyufelix.github.io/2017/11/17/direct-future-prediction.html
 - https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
