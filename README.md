@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.11
+
+- http://web.nchu.edu.tw/~jodytsao/MarkegingG/IIR10-Sentiment%20Analysis.pdf
+- https://flyyufelix.github.io/2017/11/17/direct-future-prediction.html
+- https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
+
 23.11
 
 - http://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BiC%2Fq1jhKSuCkAgj9YxVOuQ%3D%3D
