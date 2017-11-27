@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.11
 
+- https://github.com/thiakx?tab=repositories
 - https://www.kdnuggets.com/2017/11/ng-deep-learning-specialization-21-lessons.html?utm_content=buffera7008&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost
 - https://github.com/gigamailer/simplenin/blob/master/Mastering%20Feature%20Engineering%20%2528Early%20Release%2529-O%2527Reilly%25282016%2529.pdf
