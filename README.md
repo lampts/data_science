@@ -463,6 +463,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.11
 
+- https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost
+- https://www.slideshare.net/DataRobot/make-sense-out-of-data-with-feature-engineering
+- https://www.slideshare.net/KaiX/xavier-conort-datascience-sg-meetup-challenges-in-insurance-pricing
+- https://www.slideshare.net/KaiX/forecasting-techniques-data-science-sg
 - https://github.com/thiakx?tab=repositories
 - https://www.kdnuggets.com/2017/11/ng-deep-learning-specialization-21-lessons.html?utm_content=buffera7008&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 - https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost
