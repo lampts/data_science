@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.11
 
+- https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost
 - https://github.com/gigamailer/simplenin/blob/master/Mastering%20Feature%20Engineering%20%2528Early%20Release%2529-O%2527Reilly%25282016%2529.pdf
 - https://github.com/svegapons/kaggle_airbnb/blob/master/code_keras.py
 
