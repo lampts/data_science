@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.11
+
+- automata extraction from RNN https://arxiv.org/pdf/1711.09576.pdf
+
 28.11
 
 - https://www.aarki.com/blog/using-machine-learning-to-predict-campaign-performance
