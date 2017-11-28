@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.11
+
+- https://www.aarki.com/blog/using-machine-learning-to-predict-campaign-performance
+- https://www.forbes.com/sites/forbesagencycouncil/2017/11/15/how-machine-learning-can-maximize-the-success-of-marketing-campaigns/3/#4bbeb8df7846
+
 27.11
 
 - https://www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost
