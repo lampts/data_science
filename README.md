@@ -463,6 +463,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 29.11
 
+- https://www.nytimes.com/2017/11/28/technology/artificial-intelligence-research-toronto.html
+- https://rare-technologies.com/machine-learning-hardware-benchmarks/
 - how xgboost handle nans: https://github.com/dmlc/xgboost/issues/21
 - https://github.com/ledmaster?tab=repositories
 - automata extraction from RNN https://arxiv.org/pdf/1711.09576.pdf
