@@ -464,6 +464,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 29.11
 
 - automata extraction from RNN https://arxiv.org/pdf/1711.09576.pdf
+- shap vis: https://github.com/slundberg/shap
+- http://www.cs.jhu.edu/~ayuille/courses/Stat161-261-Spring14/Big%20data_%20are%20we%20making%20a%20big%20mistake_%20-%20FT.pdf
+- http://cdn2.hubspot.net/hub/215445/file-1390429685-pdf/DI_ebook_-_How_to_Build_and_Lead_a_Winning_Data_Team-1.pdf?t=1435065619454
 
 28.11
 
