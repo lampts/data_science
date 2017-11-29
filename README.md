@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 29.11
 
+- https://github.com/ledmaster?tab=repositories
 - automata extraction from RNN https://arxiv.org/pdf/1711.09576.pdf
 - shap vis: https://github.com/slundberg/shap
 - http://www.cs.jhu.edu/~ayuille/courses/Stat161-261-Spring14/Big%20data_%20are%20we%20making%20a%20big%20mistake_%20-%20FT.pdf
