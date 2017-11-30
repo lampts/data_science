@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.11
 
+- Reuters Tracer: https://arxiv.org/pdf/1711.04068.pdf
 - https://github.com/DmitryUlyanov/deep-image-prior
 - https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html
 
