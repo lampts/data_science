@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.11
+
+- https://github.com/DmitryUlyanov/deep-image-prior
+- https://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html
+
 29.11
 
 - https://www.nytimes.com/2017/11/28/technology/artificial-intelligence-research-toronto.html
