@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.12
+
+- https://github.com/latuannetnam/kaggle
+
 30.11
 
 - https://hbr.org/2017/06/a-refresher-on-ab-testing
