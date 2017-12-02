@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+02.12
+
+online marketing applications
+- https://pydata.org/carolinas2016/schedule/presentation/23/
+- https://github.com/maoting1223/pycon_sg_2016
+- https://www.youtube.com/watch?v=gx6oHqpRgpY
+
 01.12
 
 - https://github.com/latuannetnam/kaggle
