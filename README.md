@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.12
 
+- scikit optimize https://www.youtube.com/watch?v=DGJTEBt0d-s
 - https://github.com/fmfn/BayesianOptimization/blob/master/examples/xgboost_example.py
 - https://www.dataapplab.com/wp-content/uploads/2017/05/DAL-Kaggle-cometition.pdf
 
