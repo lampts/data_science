@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.12
+
+- https://github.com/fmfn/BayesianOptimization/blob/master/examples/xgboost_example.py
+- https://www.dataapplab.com/wp-content/uploads/2017/05/DAL-Kaggle-cometition.pdf
+
 02.12
 
 online marketing applications
