@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.12
+
+- https://www.dataiku.com/learn/guide/tutorials/churn-prediction.html
+- https://www.dataiku.com/solutions/use-cases/lifetime-value-optimisation/
+
 04.12
 
 - scikit optimize https://www.youtube.com/watch?v=DGJTEBt0d-s
