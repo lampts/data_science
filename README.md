@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+06.12
+
+- http://proceedings.mlr.press/v7/niculescu09/niculescu09.pdf
+- https://www.nature.com/articles/d41586-017-07522-z
+- http://www.wiseathena.com/pdf/wa_dl.pdf
+
 05.12
 
 - https://www.dataiku.com/learn/guide/tutorials/churn-prediction.html
