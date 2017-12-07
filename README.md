@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.12
+
+- end2end ML/DL https://aws.amazon.com/sagemaker/ (colab?)
+- test of time https://www.youtube.com/watch?time_continue=2&v=Qi1Yry33TQE
+
 06.12
 
 - http://proceedings.mlr.press/v7/niculescu09/niculescu09.pdf
