@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 07.12
 
+- bayesian variable explanation: https://www.kdnuggets.com/2017/11/bayesian-networks-understanding-effects-variables.html
 - end2end ML/DL https://aws.amazon.com/sagemaker/ (colab?)
 - test of time https://www.youtube.com/watch?time_continue=2&v=Qi1Yry33TQE
 
