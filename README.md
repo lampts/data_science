@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.12
+
+- https://www.datascience.com/resources/notebooks/overview-churn-modeling-techniques
+
 07.12
 
 - bayesian variable explanation: https://www.kdnuggets.com/2017/11/bayesian-networks-understanding-effects-variables.html
