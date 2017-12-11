@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+11.12
+
+- http://learningsys.org/nips17/assets/slides/dean-nips17.pdf
+- https://www.datascience.com/resources/notebooks/overview-churn-modeling-techniques
+- https://swarbrickjones.wordpress.com/2017/03/28/cross-entropy-and-training-test-class-imbalance/
+
+
 10.12
 
 - https://www.datascience.com/resources/notebooks/overview-churn-modeling-techniques
