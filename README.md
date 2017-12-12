@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+12.12
+
+- http://ruder.io/deep-learning-optimization-2017/
+- dont decay learning rate, increase batch size: https://pdfs.semanticscholar.org/3299/aee7a354877e43339d06abb967af2be8b872.pdf
+- https://medium.com/@Synced/nips-2017-day-1-2-highlights-67ab464086c
+
 11.12
 
 - http://learningsys.org/nips17/assets/slides/dean-nips17.pdf
