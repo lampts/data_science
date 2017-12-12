@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 12.12
 
+- https://rare-technologies.com/mummy-effect-bridging-gap-between-academia-industry/
 - http://ruder.io/deep-learning-optimization-2017/
 - dont decay learning rate, increase batch size: https://pdfs.semanticscholar.org/3299/aee7a354877e43339d06abb967af2be8b872.pdf
 - https://medium.com/@Synced/nips-2017-day-1-2-highlights-67ab464086c
