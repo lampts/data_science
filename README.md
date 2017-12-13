@@ -465,6 +465,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://www.davidculley.com/installing-python-on-a-mac/
 - http://bomilanovich.com/blog/howto-install-pyqt-on-mac-with-python-3/
+- https://sascompetitions.ru/
 
 12.12
 
