@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.12
+
+- https://erikbern.com/2017/12/12/learning-from-users-faster-using-machine-learning.html
+- https://github.com/UrbanInstitute/pyspark-tutorials
+- GP: http://bridg.land/posts/gaussian-processes-1
+- mining non redundant sequence https://arxiv.org/pdf/1712.04159.pdf
+
 13.12
 
 - https://www.davidculley.com/installing-python-on-a-mac/
