@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 14.12
 
+- https://github.com/daynebatten/keras-wtte-rnn
 - https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/
 - https://github.com/erikbern
 - conversion rate, survival analysis: https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html
