@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 14.12
 
+- https://data-literacy.geckoboard.com
 - https://erikbern.com/2017/12/12/learning-from-users-faster-using-machine-learning.html
 - https://github.com/UrbanInstitute/pyspark-tutorials
 - GP: http://bridg.land/posts/gaussian-processes-1
