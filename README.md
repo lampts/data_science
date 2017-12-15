@@ -461,6 +461,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.12
+
+- http://www.machinelearning.ru/wiki/index.php
+- http://www.machinelearning.ru/wiki/images/0/06/PZAD2016_03_visualize.pdf
+- http://www.machinelearning.ru/wiki/images/c/cc/PZAD2016_09_rf.pdf
+- http://www.machinelearning.ru/wiki/images/8/8e/PZAD2016_10_tfeatures.pdf
+- http://www.machinelearning.ru/wiki/images/e/e7/PZAD2016_14_social.pdf
+
 14.12
 
 - https://github.com/daynebatten/keras-wtte-rnn
