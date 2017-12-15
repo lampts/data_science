@@ -463,6 +463,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.12
 
+- survival model, princeton notes: http://data.princeton.edu/wws509/notes/
+- http://daynebatten.com/2017/02/recurrent-neural-networks-churn/
 - http://www.machinelearning.ru/wiki/index.php
 - http://www.machinelearning.ru/wiki/images/0/06/PZAD2016_03_visualize.pdf
 - http://www.machinelearning.ru/wiki/images/c/cc/PZAD2016_09_rf.pdf
