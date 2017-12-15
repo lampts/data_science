@@ -463,6 +463,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.12
 
+- http://lifelines.readthedocs.io/en/latest/Survival%20analysis%20with%20lifelines.html#estimating-the-survival-function-using-kaplan-meier
+- http://daynebatten.com/2015/02/customer-churn-survival-analysis/
 - survival model, princeton notes: http://data.princeton.edu/wws509/notes/
 - http://daynebatten.com/2017/02/recurrent-neural-networks-churn/
 - http://www.machinelearning.ru/wiki/index.php
