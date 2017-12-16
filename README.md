@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.12
+
+- https://donjayamanne.github.io/pythonVSCodeDocs/docs/jupyter_getting-started/
+
 15.12
 
 - http://lifelines.readthedocs.io/en/latest/Survival%20analysis%20with%20lifelines.html#estimating-the-survival-function-using-kaplan-meier
