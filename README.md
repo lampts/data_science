@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.12
+
+- http://proceedings.mlr.press/v7/guyon09/guyon09.pdf
+- http://proceedings.mlr.press/v7/miller09/miller09.pdf
+- https://ragulpr.github.io/assets/draft_master_thesis_martinsson_egil_wtte_rnn_2016.pdf
+- https://github.com/catboost/benchmarks/tree/master/quality_benchmarks
+
 16.12
 
 - https://donjayamanne.github.io/pythonVSCodeDocs/docs/jupyter_getting-started/
