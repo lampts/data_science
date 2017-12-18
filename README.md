@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.12
+
+- nips review https://docs.google.com/spreadsheets/d/1ZQMXFAVapEOm1y53ijEJ1Ds6Mls-z6ZtoJKpJmHogzo/edit#gid=0
+- https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5
+- http://www.akbc.ws/2017/
+
 17.12
 
 - http://proceedings.mlr.press/v7/guyon09/guyon09.pdf
