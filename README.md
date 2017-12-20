@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.12
+
+- https://github.com/zixia/chinese-whispers
+- https://github.com/tudarmstadt-lt/sensegram/tree/master/chinese-whispers
+
+
 18.12
 
 - nips review https://docs.google.com/spreadsheets/d/1ZQMXFAVapEOm1y53ijEJ1Ds6Mls-z6ZtoJKpJmHogzo/edit#gid=0
