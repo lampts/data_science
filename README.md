@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.12
 
+- https://datahack.analyticsvidhya.com/contest/all/
 - https://github.com/zixia/chinese-whispers
 - https://github.com/tudarmstadt-lt/sensegram/tree/master/chinese-whispers
 - https://github.com/zhly0/facenet-face-cluster-chinese-whispers-
