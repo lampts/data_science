@@ -465,6 +465,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://github.com/zixia/chinese-whispers
 - https://github.com/tudarmstadt-lt/sensegram/tree/master/chinese-whispers
+- https://github.com/zhly0/facenet-face-cluster-chinese-whispers-
 
 
 18.12
