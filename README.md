@@ -464,6 +464,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 21.12
 
 - https://github.com/Arturus/kaggle-web-traffic
+- https://oneau.wordpress.com/2011/02/28/simple-statistics-with-scipy/
 
 20.12
 
