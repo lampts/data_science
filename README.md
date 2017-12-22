@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.12
+
+- http://www.real-statistics.com/chi-square-and-f-distributions/one-sample-hypothesis-testing-variance/
+
+
 21.12
 
 - https://github.com/Arturus/kaggle-web-traffic
