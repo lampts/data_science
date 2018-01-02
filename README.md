@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+02.01
+
+- https://github.com/blast-analytics-marketing/RFM-analysis
+- https://cran.r-project.org/web/packages/BTYD/vignettes/BTYD-walkthrough.pdf
+- http://www.blastam.com/blog/rfm-analysis-boosts-sales
+- http://cdn.intechopen.com/pdfs/13162.pdf
+
 22.12
 
 - http://www.real-statistics.com/chi-square-and-f-distributions/one-sample-hypothesis-testing-variance/
