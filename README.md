@@ -461,6 +461,15 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+03.01
+
+- http://rahnamayan.ca/assets/documents/Customer%20Shopping%20Pattern%20Prediction-%20A%20Recurrent%20Neural%20Network%20Approach.pdf
+- http://eprints.bournemouth.ac.uk/10107/1/Consumer_Behaviour_Theory_-_Approaches_%26_Models.pdf
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_163
+- https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54
+- https://doogkong.github.io/2017/papers/paper2.pdf
+- https://pdfs.semanticscholar.org/a8cd/90fd6fce09f38a391579057d3207235a431b.pdf
+
 02.01
 
 - https://github.com/blast-analytics-marketing/RFM-analysis
