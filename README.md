@@ -470,6 +470,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://doogkong.github.io/2017/papers/paper2.pdf
 - https://pdfs.semanticscholar.org/a8cd/90fd6fce09f38a391579057d3207235a431b.pdf
 - http://www.marekrei.com/blog/ml-nlp-publications-in-2017/
+- http://www.aihelsinki.com/a-collection-of-tensorflow-resources-for-self-study/
 
 02.01
 
