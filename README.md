@@ -469,6 +469,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54
 - https://doogkong.github.io/2017/papers/paper2.pdf
 - https://pdfs.semanticscholar.org/a8cd/90fd6fce09f38a391579057d3207235a431b.pdf
+- http://www.marekrei.com/blog/ml-nlp-publications-in-2017/
 
 02.01
 
