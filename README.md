@@ -461,6 +461,21 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.01
+
+- https://spark-in.me/post/learn-data-science
+- https://habrahabr.ru/company/ods/blog/322626/
+- https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=791694085
+- https://github.com/mmcs-sfedu/ds_workshop/blob/master/refs.md
+- http://www.inference.vc/
+- http://fastml.com/two-faces-of-overfitting-subscribers-only/
+- http://quantresearchgroup.ru/
+- https://livebook.datascienceheroes.com/index.html
+- https://github.com/esokolov/ml-course-msu
+- https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+- http://www.offconvex.org/
+
+
 03.01
 
 - http://rahnamayan.ca/assets/documents/Customer%20Shopping%20Pattern%20Prediction-%20A%20Recurrent%20Neural%20Network%20Approach.pdf
