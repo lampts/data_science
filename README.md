@@ -474,7 +474,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/esokolov/ml-course-msu
 - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 - http://www.offconvex.org/
-
+- https://github.com/ogrisel/parallel_ml_tutorial/blob/master/notebooks/08%20-%20Large%20Scale%20Text%20Classification%20for%20Sentiment%20Analysis.ipynb
+- https://github.com/shervinea
 
 03.01
 
