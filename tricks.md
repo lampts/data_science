@@ -13,3 +13,5 @@ brew install p7zip
 7za x file.zip
 
 - iterm 2 + omzsh: https://gist.github.com/kevin-smets/8568070
+
+- numpy array as pandas column: https://stackoverflow.com/questions/18646076/add-numpy-array-as-column-to-pandas-data-frame
