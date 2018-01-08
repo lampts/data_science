@@ -461,6 +461,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.01
+
+- http://www.predictiveanalyticsworld.com/patimes/uplift-modeling-making-predictive-models-actionable/8578/
+- http://www.cs.columbia.edu/~evs/papers/
+- http://www.nit.eu/czasopisma/JTIT/2012/2/43.pdf
+- https://github.com/PGuti/Uplift/blob/master/Uplift%20Evaluation.ipynb
+- http://www.predictiveanalyticsworld.com/book/press.php#articlesbytheauthor
+
 04.01
 
 - https://spark-in.me/post/learn-data-science
