@@ -461,6 +461,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.01
+
+- https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16
+- http://www.awesomestats.in/
+- https://dataelixir.com/issues/164#start
+
 08.01
 
 - http://www.predictiveanalyticsworld.com/patimes/uplift-modeling-making-predictive-models-actionable/8578/
