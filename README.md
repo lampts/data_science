@@ -464,6 +464,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 12.01
 
 - https://github.com/pandas-profiling/pandas-profiling
+- http://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/
 
 11.01
 
