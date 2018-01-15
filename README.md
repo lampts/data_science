@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.01
 
+- https://www.datasciencecentral.com/profiles/blogs/business-intelligence-and-data-science-fuzzy-borders
 - https://ourworldindata.org/
 - https://github.com/primetang/pyflann
 - https://github.com/jfloff/pywFM
