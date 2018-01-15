@@ -463,6 +463,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.01
 
+- https://github.com/diefimov/MTH594_MachineLearning/tree/master/ipython
+- https://www.slideshare.net/RubensZimbres/portfolio-82-2017
+- https://github.com/deanwampler/JustEnoughScalaForSpark
 - https://www.datasciencecentral.com/profiles/blogs/business-intelligence-and-data-science-fuzzy-borders
 - https://ourworldindata.org/
 - https://github.com/primetang/pyflann
