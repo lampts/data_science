@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.01
+
+- https://github.com/primetang/pyflann
+- https://github.com/jfloff/pywFM
+- https://lab.getbase.com/pandarize-spark-dataframes/
+- https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
+
 12.01
 
 - https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9
