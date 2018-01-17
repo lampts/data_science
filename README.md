@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.01
+
+- https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business
+- https://github.com/mryab/webgames-ltv-prediction/blob/master/Webgames%20LTV%20Prediction-Android.ipynb
+
 15.01
 
 - https://github.com/diefimov/MTH594_MachineLearning/tree/master/ipython
