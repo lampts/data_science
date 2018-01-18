@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.01
+
+- http://www.bayareabikeshare.com/assets/pdf/Bjorn.pdf
+- https://github.com/baumanab/BayAreaBikeShare
+- https://blog.modeanalytics.com/python-data-visualization-libraries/
+- http://thfield.github.io/babs/
+
 17.01
 
 - https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business
