@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.01
+
+- https://www.kaggle.com/steubk/fixing-typos
+- https://github.com/ChenglongChen/Kaggle_HomeDepot/blob/master/Code/Chenglong/google_spelling_checker_dict.py
+- https://github.com/ChenglongChen/Kaggle_HomeDepot/tree/master/Code/Chenglong
+- https://github.com/lystdo/Codes-for-WSDM-CUP-Music-Rec-1st-place-solution/blob/master/nn_structure.pdf
+
 19.01
 
 - fashion relevant is not enough: https://arxiv.org/pdf/1406.3561.pdf
