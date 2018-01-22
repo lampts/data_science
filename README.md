@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.01
+
+- https://thenextweb.com/artificial-intelligence/2018/01/10/you-think-it-and-a-robot-sees-it-the-future-is-here-with-mind-reading-ai/
+- hyperQA https://github.com/vanzytay/HyperQA
+
 20.01
 
 - https://www.kaggle.com/steubk/fixing-typos
