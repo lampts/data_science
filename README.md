@@ -461,6 +461,18 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+25.01
+
+- https://syncedreview.com/2017/06/06/re%C2%B7work-deep-learning-in-retail-summit-london-uk/
+- https://www.re-work.co/events/deep-learning-in-retail-summit-london-2017/schedule#day_2
+- https://medium.com/@Synced/customer-lifetime-value-prediction-using-embeddings-53f54e2ac59d
+- https://github.com/cseward/ngram_language_model
+- https://arxiv.org/abs/1704.04110
+- https://arxiv.org/pdf/1702.02098.pdf
+- https://rare-technologies.com/implementing-poincare-embeddings/
+- http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_166
+- https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d
+
 22.01
 
 - https://thenextweb.com/artificial-intelligence/2018/01/10/you-think-it-and-a-robot-sees-it-the-future-is-here-with-mind-reading-ai/
