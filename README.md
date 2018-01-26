@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.01
+
+- https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
+- https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
 25.01
 
 - https://syncedreview.com/2017/06/06/re%C2%B7work-deep-learning-in-retail-summit-london-uk/
