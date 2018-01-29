@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.01
+
+- https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize
+- https://www.kaggle.com/nikunjm88/creating-additional-features
+- https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf
+- https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0
+
 26.01
 
 - https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
