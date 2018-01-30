@@ -463,6 +463,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.01
 
+- https://medium.com/@ialuronico/my-take-on-pydata-seattle-2017-e8c7b0fa6bf5
 - https://github.com/JonathanRaiman/wikipedia_ner
 - https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf
 - https://github.com/summer1227/appsflyer/blob/master/click_install.py
