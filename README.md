@@ -461,6 +461,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.01
+
+- https://github.com/JonathanRaiman/wikipedia_ner
+- https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf
+- https://github.com/summer1227/appsflyer/blob/master/click_install.py
+- http://www.kdd.org/kdd2016/papers/files/adf0755-vanderveldAbr.pdf
+- https://www.youtube.com/watch?v=UmP3UePGO7E
+
 29.01
 
 - https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize
