@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+31.01
+
+- https://github.com/hiranumn/IntegratedGradients
+- https://github.com/valentina-s/Novice2DataNinja/blob/master/Videos.ipynb
+- https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
+- https://github.com/maciejkula/triplet_recommendations_keras
+
 30.01
 
 - https://medium.com/@ialuronico/my-take-on-pydata-seattle-2017-e8c7b0fa6bf5
