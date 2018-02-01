@@ -461,6 +461,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+02.02
+
+- https://github.com/Kaggle/kaggle-api
+- https://github.com/maciejkula/triplet_recommendations_keras
+- https://www.coursera.org/learn/nlp-sequence-models
+- https://arxiv.org/pdf/1703.01365.pdf
+
 01.02
 
 - https://www.economist.com/news/leaders/21728617-life-age-facial-recognition-what-machines-can-tell-your-face
