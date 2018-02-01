@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.02
+
+- https://www.economist.com/news/leaders/21728617-life-age-facial-recognition-what-machines-can-tell-your-face
+- https://blog.openai.com/requests-for-research-2/
+
 31.01
 
 - https://github.com/hiranumn/IntegratedGradients
