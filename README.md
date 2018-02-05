@@ -464,6 +464,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 05.02
 
 - https://wsdm-cup-2018.kkbox.events/
+- https://medium.com/@nokkk/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4
+- https://wsdm-cup-2018.kkbox.events/pdf/5_BGregory_WSDM2018_PredictingCustomerChurn.pdf
+- https://brage.bibsys.no/xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf
 
 02.02
 
