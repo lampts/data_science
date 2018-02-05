@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.02
+
+- https://wsdm-cup-2018.kkbox.events/
+
 02.02
 
 - https://github.com/Kaggle/kaggle-api
