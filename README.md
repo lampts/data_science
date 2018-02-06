@@ -461,6 +461,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+06.02:
+- https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-andrew-ng-s-new-ai-fund-mini-alphago-implementation-bias-variance-in-rl-and-more-94390
+- https://www.technologyreview.com/s/610095/more-efficient-machine-learning-could-upend-the-ai-paradigm/?utm_source=twitter.com&utm_medium=social&utm_content=2018-02-05&utm_campaign=Technology+Review
+- http://christophjanz.blogspot.com/2012/05/know-your-user-cohorts.html
+
 05.02
 
 - https://wsdm-cup-2018.kkbox.events/
