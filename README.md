@@ -464,6 +464,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 07.02
 - https://github.com/the-deep-learners/TensorFlow-LiveLessons/
 - https://github.com/jfloff/pywFM
+- Uber epxirement design: https://www.youtube.com/watch?v=9bl7SPSqbX0
 
 06.02:
 - https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-andrew-ng-s-new-ai-fund-mini-alphago-implementation-bias-variance-in-rl-and-more-94390
