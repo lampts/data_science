@@ -468,6 +468,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://cs224d.stanford.edu/reports/pascal.pdf
 - https://pinboard.in/u:aldamiz/t:re-read/
 - https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
+- employee quit prediction https://dzone.com/articles/employee-turnover-prediction-with-deep-learning
 
 07.02
 - https://github.com/the-deep-learners/TensorFlow-LiveLessons/
