@@ -467,6 +467,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7
 - https://cs224d.stanford.edu/reports/pascal.pdf
 - https://pinboard.in/u:aldamiz/t:re-read/
+- https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
 
 07.02
 - https://github.com/the-deep-learners/TensorFlow-LiveLessons/
