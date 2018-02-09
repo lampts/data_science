@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+09.02
+- https://github.com/maciejkula/mixture
+- https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
+
 07.02
 - https://github.com/the-deep-learners/TensorFlow-LiveLessons/
 - https://github.com/jfloff/pywFM
