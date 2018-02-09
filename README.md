@@ -464,6 +464,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 09.02
 - https://github.com/maciejkula/mixture
 - https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
+- https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7
 
 07.02
 - https://github.com/the-deep-learners/TensorFlow-LiveLessons/
