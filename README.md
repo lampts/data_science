@@ -461,6 +461,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+13.02
+- https://gist.github.com/iskandr/a874e4cf358697037d14a17020304535
+
 09.02
 - https://github.com/maciejkula/mixture
 - https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
