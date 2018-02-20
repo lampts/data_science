@@ -461,6 +461,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.02
+- https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20
+- https://tableplus.io/
+
 13.02
 - https://gist.github.com/iskandr/a874e4cf358697037d14a17020304535
 
