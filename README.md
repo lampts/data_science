@@ -469,6 +469,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 21.02
 - http://www.cmap.polytechnique.fr/~lepennec/enseignement/DSSP_Orange/
 - doing data science: frontline
+- https://github.com/cstorm125/thai2vec/blob/master/notebooks/text_classification.ipynb
 
 20.02
 - https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20
