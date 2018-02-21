@@ -10,6 +10,11 @@
 - http://ndres.me/kaggle-past-solutions/
 - Rossmann Sales Forecasting, 1st solution: https://kaggle2.blob.core.windows.net/forum-message-attachments/102102/3454/Rossmann_nr1_doc.pdf
 
+## Stats
+
+- Good, Hardin. Common Errors in Statistics (and How to Avoid Them) (2003)
+- Kanji. 100 statistical tests (2006)
+- Doing Data Science: Straight Talk from the Frontline
 
 ## Case stydies:
 
