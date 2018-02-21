@@ -5,6 +5,13 @@
 
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
+## RecSys
+
+- https://github.com/maciejkula/spotlight
+- session based: https://arxiv.org/pdf/1511.06939.pdf
+- pool next item: https://www.semanticscholar.org/paper/Deep-Neural-Networks-for-YouTube-Recommendations-Covington-Adams
+- tune nlp: http://ruder.io/deep-learning-nlp-best-practices/index.html#classification
+
 ## Winining solutions
 
 - http://ndres.me/kaggle-past-solutions/
