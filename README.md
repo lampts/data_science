@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.02
+- https://github.com/deepmipt/DeepPavlov
+- orange cars are not lemon, really? http://cdn2.hubspot.net/hubfs/2176909/Resources/Whitepaper_Are_Orange_Cars_Really_not_Lemons.pdf?submissionGuid=347eadf2-9cdb-48a1-8edc-7de4698c3d28
+
 21.02
 - http://www.cmap.polytechnique.fr/~lepennec/enseignement/DSSP_Orange/
 - doing data science: frontline
