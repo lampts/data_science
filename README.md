@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.02
+- text classification with fastai https://www.youtube.com/watch?v=37sFIak42Sc&feature=youtu.be&t=3745
+- https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
+- https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline
+
 26.02
 - https://github.com/deepmipt/DeepPavlov
 - orange cars are not lemon, really? http://cdn2.hubspot.net/hubfs/2176909/Resources/Whitepaper_Are_Orange_Cars_Really_not_Lemons.pdf?submissionGuid=347eadf2-9cdb-48a1-8edc-7de4698c3d28
