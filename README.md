@@ -477,6 +477,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - text classification with fastai https://www.youtube.com/watch?v=37sFIak42Sc&feature=youtu.be&t=3745
 - https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
 - https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline
+- https://github.com/rstudio/keras-customer-churn
 
 26.02
 - https://github.com/deepmipt/DeepPavlov
