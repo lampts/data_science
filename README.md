@@ -473,6 +473,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.02
+- https://github.com/slundberg/shap
+
 27.02
 - text classification with fastai https://www.youtube.com/watch?v=37sFIak42Sc&feature=youtu.be&t=3745
 - https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
