@@ -473,6 +473,16 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.03
+- https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
+- http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html
+- http://cikm2017.org/download/analytiCup/session3/CIKMAnalytiCup2017_LazadaProductTitleQuality_T2.pdf
+- http://www.businessinsider.com/app-users-are-quick-to-uninstall-2016-11
+- https://jjallaire.shinyapps.io/keras-customer-churn/#section-customer-scorecard
+- https://github.com/rstudio/keras-customer-churn
+- https://github.com/nzw0301/spooky/blob/master/features/bigram_supervised_fasttext.ipynb
+- https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
+
 28.02
 - https://github.com/slundberg/shap
 
