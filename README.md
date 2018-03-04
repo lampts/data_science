@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.03
+- https://github.com/mxbi/mlcrate/blob/master/mlcrate/ensemble.py
+- datacamp.com/community
+- https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb
+
+
 01.03
 - https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
 - http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html
