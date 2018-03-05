@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.03
+- http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/
+- https://www.kaggle.com/ogrellier/lgbm-with-words-and-chars-n-gram/code
+
 04.03
 - https://github.com/mxbi/mlcrate/blob/master/mlcrate/ensemble.py
 - datacamp.com/community
