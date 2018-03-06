@@ -1,6 +1,15 @@
 Tricks for productivity
 ----
 
+- class_weight for imbalance
+
+``` python
+def get_class_weights(y):
+    counter = Counter(y)
+    majority = max(counter.values())
+    return  {cls: float(majority/count) for cls, count in counter.items()}
+```
+
 - train skipthoughts
 
 sudo THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 python st_finser.py
