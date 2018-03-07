@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.03
+- https://www.kdnuggets.com/2017/06/kmeans-clustering-tableau-call-detail-records.html
+- https://github.com/neptune-ml/kaggle-toxic-starter
+
 05.03
 - http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/
 - https://www.kaggle.com/ogrellier/lgbm-with-words-and-chars-n-gram/code
