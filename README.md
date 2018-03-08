@@ -476,6 +476,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 08.03
 - https://distill.pub/2018/building-blocks/
 - https://www.kaggle.com/anokas/talkingdata-adtracking-eda
+- https://github.com/PavelOstyakov/toxic/blob/master/fit_predict.py
+- https://github.com/MLWave/Kaggle-Ensemble-Guide/blob/master/src/kaggle_rankavg.py
+- https://mlwave.com/kaggle-ensembling-guide/
+- https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf
 
 07.03
 - https://www.kdnuggets.com/2017/06/kmeans-clustering-tableau-call-detail-records.html
