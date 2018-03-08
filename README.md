@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.03
+- https://distill.pub/2018/building-blocks/
+- https://www.kaggle.com/anokas/talkingdata-adtracking-eda
+
 07.03
 - https://www.kdnuggets.com/2017/06/kmeans-clustering-tableau-call-detail-records.html
 - https://github.com/neptune-ml/kaggle-toxic-starter
