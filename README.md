@@ -478,6 +478,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf
 - https://github.com/Volodymyrk/stats-testing-in-python/blob/master/04%20-%20AB%20testing%20revenues.ipynb
 - https://github.com/anvaka/word2vec-graph
+- http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests
 
 08.03
 - https://distill.pub/2018/building-blocks/
