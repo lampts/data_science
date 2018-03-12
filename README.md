@@ -477,6 +477,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://s3.amazonaws.com/assets.datacamp.com/production/course_3374/slides/ch3_slides.pdf
 - https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf
 - https://github.com/Volodymyrk/stats-testing-in-python/blob/master/04%20-%20AB%20testing%20revenues.ipynb
+- https://github.com/anvaka/word2vec-graph
 
 08.03
 - https://distill.pub/2018/building-blocks/
