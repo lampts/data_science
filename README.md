@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.03
+
+- https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
+- https://docs.google.com/spreadsheets/d/1gnx_AnJPp_Ez6hTukVPMNHDAjb0yCTEgzyo9NUiQjfc/edit#gid=1036524761
+- http://www.graphviz.org/pdf/dotguide.pdf
+
 12.03
 - https://s3.amazonaws.com/assets.datacamp.com/production/course_3374/slides/ch3_slides.pdf
 - https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf
