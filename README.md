@@ -473,6 +473,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.03
+
+- https://www.urbanairship.com/blog/churn-prediction-our-machine-learning-model
+- mobile app events with ML: https://pdfs.semanticscholar.org/0203/6a9565159f19633c5de023321cdf422f43d3.pdf
+- http://josolnik.com/simulating_product_usage_data.html
+- http://www.graphviz.org/pdf/dotguide.pdf
+
 16.03
 
 - https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
