@@ -478,6 +478,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mm-mansour/Fast-Pandas
 - https://pdfs.semanticscholar.org/0203/6a9565159f19633c5de023321cdf422f43d3.pdf
 - https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea
+- https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea
 
 18.03
 
