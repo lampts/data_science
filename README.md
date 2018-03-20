@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.03
+
+- https://www.slideshare.net/ShangxuanZhang/kaggle-winning-solution-xgboost-algorithm-let-us-learn-from-its-author
+- https://docs.google.com/spreadsheets/d/1gnx_AnJPp_Ez6hTukVPMNHDAjb0yCTEgzyo9NUiQjfc/edit#gid=1036524761
+
+
 19.03
 
 - https://github.com/mm-mansour/Fast-Pandas
