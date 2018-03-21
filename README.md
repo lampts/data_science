@@ -476,6 +476,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 21.03
 
 - https://biendata.com/competition/kdd_2018/
+- https://soundcloud.com/piskvorky/rrp-4-leo-boytsov-on-approximate-search-and-information-retrieval
+- https://mailchi.mp/radimrehurek/radims-machine-learning-newsletter-3263153
+- https://www.featuretools.com/
 
 20.03
 
