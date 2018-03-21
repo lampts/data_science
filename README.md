@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.03
+
+- https://biendata.com/competition/kdd_2018/
+
 20.03
 
 - https://www.slideshare.net/ShangxuanZhang/kaggle-winning-solution-xgboost-algorithm-let-us-learn-from-its-author
