@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.03
+
+- https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html
+- https://github.com/Featuretools/predict_next_purchase/
+- https://github.com/josolnik/behavioral-learnings-projects/
+
 21.03
 
 - https://biendata.com/competition/kdd_2018/
