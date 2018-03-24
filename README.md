@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.03
+
+- https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9
+- https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+- https://github.com/Featuretools/predict_next_purchase/blob/master/Tutorial.ipynb
+
 22.03
 
 - https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html
