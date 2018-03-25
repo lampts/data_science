@@ -473,6 +473,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.03
+
+- http://web.stanford.edu/class/ee380/Abstracts/141112-slides.pdf
+- https://data36.com/predictive-analytics-101-part-1/
+- https://data36.com/ab-testing-5-rules/
+- https://data36.com/fake-door-testing/
+
 24.03
 
 - https://www.stat.berkeley.edu/~stark/Java/Html/index.htm
