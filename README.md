@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.03
+
+- https://www.stat.berkeley.edu/~stark/Java/Html/index.htm
+- https://data36.com/statistical-bias-types-explained/
+
 23.03
 
 - https://hackernoon.com/aspiring-data-scientists-start-to-learn-statistics-with-these-6-books-a33bbb55b8e9
