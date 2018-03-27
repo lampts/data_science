@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.03
+
+- https://gist.github.com/jiffyclub/905bf5e8bf17ec59ab8f#file-hdf_to_parquet-py
+- https://nbviewer.jupyter.org/github/JasonKessler/Scattertext-PyData/blob/master/PyData-Scattertext-Part-1.ipynb
+
 26.03
 
 - http://web.stanford.edu/class/ee380/Abstracts/141112-slides.pdf
