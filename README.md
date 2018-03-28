@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.03
+
+- https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
+- https://data36.com/reporting-optimizing-predicting-data/
+- https://data36.com/ab-testing-5-rules/
+
 27.03
 
 - https://gist.github.com/jiffyclub/905bf5e8bf17ec59ab8f#file-hdf_to_parquet-py
