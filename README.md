@@ -478,6 +478,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
 - https://data36.com/reporting-optimizing-predicting-data/
 - https://data36.com/ab-testing-5-rules/
+- https://github.com/stared/livelossplot/blob/master/keras_example.ipynb
 
 27.03
 
