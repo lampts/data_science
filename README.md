@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.03
+
+- https://github.com/xvoland/Extract/blob/master/extract.sh
+- https://github.com/DmitryUlyanov/Multicore-TSNE/blob/master/MulticoreTSNE/examples/test.py
+
 28.03
 
 - https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html
