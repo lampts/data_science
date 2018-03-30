@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.03
 
+- http://textvis.lnu.se/
 - https://github.com/xvoland/Extract/blob/master/extract.sh
 - https://github.com/DmitryUlyanov/Multicore-TSNE/blob/master/MulticoreTSNE/examples/test.py
 
