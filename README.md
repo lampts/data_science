@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+31.03
+
+- https://hackernoon.com/what-leading-artificial-intelligence-course-should-you-take-and-what-should-you-do-after-261a933bb3da
+- https://www.tensorflow.org/dev-summit/
+
 30.03
 
 - https://zenodo.org/record/166035#.Wr4nGtNubOQ
