@@ -475,6 +475,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 01.04
 
+- https://funmatu.wordpress.com/2017/11/02/hyperopt/
+
+churn:
+- https://www.mapd.com/blog/VW-Predicts-Churn-with-GPU-Accelerated-Machine-Learning-and-visual-analytics
+- https://activewizards.com/blog/top-9-data-science-use-cases-in-banking/
+- https://indico.cern.ch/event/617754/contributions/2590694/attachments/1459648/2254154/catboost_for_CMS.pdf
+
 repeat purchase:
 - https://www.youtube.com/watch?v=kOqLbibOGus
 - https://github.com/PengInGitHub/Repeat-Buyer-Prediction-for-E-Commerce/blob/master/solution.pdf
