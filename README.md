@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.04
+
+repeat purchase:
+- https://www.youtube.com/watch?v=kOqLbibOGus
+- https://github.com/PengInGitHub/Repeat-Buyer-Prediction-for-E-Commerce/blob/master/solution.pdf
+
 31.03
 
 - https://hackernoon.com/what-leading-artificial-intelligence-course-should-you-take-and-what-should-you-do-after-261a933bb3da
