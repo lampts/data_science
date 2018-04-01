@@ -478,6 +478,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 repeat purchase:
 - https://www.youtube.com/watch?v=kOqLbibOGus
 - https://github.com/PengInGitHub/Repeat-Buyer-Prediction-for-E-Commerce/blob/master/solution.pdf
+- https://www.slideshare.net/moa108/repeat-buyer-prediction-for-e-commerce-kdd2016
 
 31.03
 
