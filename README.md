@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 02.04
 
+- https://github.com/catboost/catboost/blob/master/catboost/tutorials/advanced_tutorials/catboost_coreml_export_tutorial.ipynb
 - https://developer.apple.com/documentation/coreml/integrating_a_core_ml_model_into_your_app
 
 01.04
