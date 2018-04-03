@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+02.04
+
+- https://developer.apple.com/documentation/coreml/integrating_a_core_ml_model_into_your_app
+
 01.04
 
 - https://funmatu.wordpress.com/2017/11/02/hyperopt/
