@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.04
+
+- https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+
 02.04
 
 - https://mlbootcamp.ru/news_list/
