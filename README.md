@@ -473,6 +473,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.04
+
+- https://people.cs.umass.edu/~jpjiang/cs646/03_eval_basics.pdf
+- https://towardsdatascience.com/facebook-research-just-published-an-awesome-paper-on-learning-hierarchical-representations-34e3d829ede7
+- https://www.saama.com/blog/poincare-embeddings-for-representing-hierarchical-data/
+- https://rare-technologies.com/implementing-poincare-embeddings/
+- https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/Poincare%20Tutorial.ipynb
+
 04.04
 
 - https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
