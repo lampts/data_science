@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+06.04
+
+- https://github.com/harvardnlp/annotated-transformer/blob/master/The%20Annotated%20Transformer.ipynb
+- https://github.com/YixuanLi/LEMON
+
+
 05.04
 
 - https://people.cs.umass.edu/~jpjiang/cs646/03_eval_basics.pdf
