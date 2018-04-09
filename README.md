@@ -473,6 +473,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+09.04
+
+- https://www.digitaldoughnut.com/articles/2017/january/how-to-use-customer-lifetime-value-in-your-plan
+- https://github.com/mstephenmsmith/predictive_LTV_analysis
+- https://github.com/fastai/fastai/blob/master/courses/ml1/lesson3-rf_foundations.ipynb
+- https://alexanderdyakonov.wordpress.com/2017/10/30/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/
+
 06.04
 
 - https://github.com/harvardnlp/annotated-transformer/blob/master/The%20Annotated%20Transformer.ipynb
