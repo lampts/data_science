@@ -473,6 +473,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.04
+
+- https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
+- https://github.com/mortido/mlbootcamp_online_game/blob/master/itog.py
+- http://www.machinelearning.ru/wiki/images/4/4f/Voron-ML-Modeling-slides.pdf
+- http://www.machinelearning.ru/wiki/images/archive/9/97/20140227072517!Voron-ML-Logic-slides.pdf
+- https://habrahabr.ru/post/324590/
+
 09.04
 
 - https://www.digitaldoughnut.com/articles/2017/january/how-to-use-customer-lifetime-value-in-your-plan
