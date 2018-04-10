@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 10.04
 
+- https://stats.stackexchange.com/questions/18844/when-and-why-should-you-take-the-log-of-a-distribution-of-numbers
 - https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
 - https://github.com/mortido/mlbootcamp_online_game/blob/master/itog.py
 - http://www.machinelearning.ru/wiki/images/4/4f/Voron-ML-Modeling-slides.pdf
