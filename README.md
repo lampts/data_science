@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.04
 
+- crosswire device matching/grouping https://www.youtube.com/watch?v=nfEDGY2siU8
 - https://www.apptamin.com/blog/lifetime-value-mobile-customer/
 - https://lloydmelnick.com/2013/01/08/ltv-the-lifeblood-of-your-business/
 - https://data36.com/wp-content/uploads/2016/08/practical_data_dictionary_final_data36_tomimester_published.pdf
