@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.04
+
+- https://www.apptamin.com/blog/lifetime-value-mobile-customer/
+- https://lloydmelnick.com/2013/01/08/ltv-the-lifeblood-of-your-business/
+- https://data36.com/wp-content/uploads/2016/08/practical_data_dictionary_final_data36_tomimester_published.pdf
+
 10.04
 
 - https://stats.stackexchange.com/questions/18844/when-and-why-should-you-take-the-log-of-a-distribution-of-numbers
