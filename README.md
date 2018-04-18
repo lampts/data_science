@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 18.04
 
+- http://marcotcr.github.io/lime/tutorials/Tutorial%20-%20continuous%20and%20categorical%20features.html
 - mean roc auc: http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html
 - https://www.kdnuggets.com/2018/04/7-books-mathematical-foundations-data-science.html
 - https://www.appsflyer.com/blog/4-new-ways-use-boost-performance-audiences/
