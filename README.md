@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.04
+
+- https://www.kdnuggets.com/2018/04/7-books-mathematical-foundations-data-science.html
+- https://www.appsflyer.com/blog/4-new-ways-use-boost-performance-audiences/
+
 15.04
 
 - crosswire device matching/grouping https://www.youtube.com/watch?v=nfEDGY2siU8
