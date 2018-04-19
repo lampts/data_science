@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+19.04
+
+- https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
+
 18.04
 
 - http://marcotcr.github.io/lime/tutorials/Tutorial%20-%20continuous%20and%20categorical%20features.html
