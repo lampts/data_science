@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.04
 
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/index.htm
 - https://reshamas.github.io/to-kaggle-or-not/
 - http://learningsys.org/nips17/assets/papers/paper_11.pdf
 
