@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.04
+
+- https://reshamas.github.io/to-kaggle-or-not/
+- http://learningsys.org/nips17/assets/papers/paper_11.pdf
+
 19.04
 
 - https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
