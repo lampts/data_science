@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.04
+
+- https://compscicenter.ru/media/slides/machine_learning_2_2018_spring/2018_02_26_machine_learning_2_2018_spring.pdf
+- https://towardsdatascience.com/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b
+- https://medium.com/scribd-data-science-engineering/multi-armed-bandits-for-the-win-240b71bc3464
+
 20.04
 
 - https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd
