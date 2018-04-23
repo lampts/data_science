@@ -478,6 +478,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://compscicenter.ru/media/slides/machine_learning_2_2018_spring/2018_02_26_machine_learning_2_2018_spring.pdf
 - https://towardsdatascience.com/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b
 - https://medium.com/scribd-data-science-engineering/multi-armed-bandits-for-the-win-240b71bc3464
+- https://github.com/ChenglongChen/tensorflow-XNN/blob/master/doc/Mercari_Price_Suggesion_Competition_ChenglongChen_4th_Place.pdf
 
 20.04
 
