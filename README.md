@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 23.04
 
+- https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 - https://compscicenter.ru/media/slides/machine_learning_2_2018_spring/2018_02_26_machine_learning_2_2018_spring.pdf
 - https://towardsdatascience.com/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b
 - https://medium.com/scribd-data-science-engineering/multi-armed-bandits-for-the-win-240b71bc3464
