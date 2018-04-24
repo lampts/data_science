@@ -473,6 +473,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.04
+
+- https://www.slideshare.net/amr_qura/neural-network-based-player-retention-prediction-in-free-to-play-games
+
 23.04
 
 - https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
