@@ -475,6 +475,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 28.04
 
+- http://gael-varoquaux.info/interpreting_ml_tuto/content/interpreting_random_forests.html#meaning-and-caveats
+- https://thuijskens.github.io/2017/10/07/feature-selection/
 - https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
 - https://github.com/arogozhnikov/arogozhnikov.github.io/blob/master/notebooks/2015-09-29-NumpyTipsAndTricks1.ipynb
 
