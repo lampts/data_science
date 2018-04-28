@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.04
+
+- https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
+- https://github.com/arogozhnikov/arogozhnikov.github.io/blob/master/notebooks/2015-09-29-NumpyTipsAndTricks1.ipynb
+
 24.04
 
 - https://www.slideshare.net/amr_qura/neural-network-based-player-retention-prediction-in-free-to-play-games
