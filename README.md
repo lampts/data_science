@@ -473,6 +473,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.04
+
+- https://www.slideshare.net/PyData/random-forests-best-practices-for-the-business-world
+- https://speakerd.s3.amazonaws.com/presentations/45e7e9769a17481c9957300105c45041/PyData_London_2018_Full_Fact.pdf
+
 28.04
 
 - http://gael-varoquaux.info/interpreting_ml_tuto/content/interpreting_random_forests.html#meaning-and-caveats
