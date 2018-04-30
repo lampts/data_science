@@ -473,6 +473,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.04
+
+- http://contest.ai-academy.ru/hackathon
+- https://github.com/alxmamaev/Dota2Competition/blob/master/Solution.ipynb
+- https://github.com/ikatsov/algorithmic-examples/blob/master/promotions/MarkovLTV.ipynb
+
 29.04
 
 - https://www.slideshare.net/PyData/random-forests-best-practices-for-the-business-world
