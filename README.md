@@ -475,6 +475,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.04
 
+- plot decision plane: https://github.com/arogozhnikov/MLatImperial2017/blob/master/utils.py
 - http://contest.ai-academy.ru/hackathon
 - https://github.com/alxmamaev/Dota2Competition/blob/master/Solution.ipynb
 - https://github.com/ikatsov/algorithmic-examples/blob/master/promotions/MarkovLTV.ipynb
