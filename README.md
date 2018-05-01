@@ -137,6 +137,10 @@ EMNLP 2017: http://noisy-text.github.io/2017/
 - https://github.com/fchollet/keras/issues/898
 - I used to choose adam and rmsprop with tuning lr and batch size.
 
+## People
+
+- http://aejjrsite.free.fr/goodmorning/gm122/gm122_ThayToiMauriceAllais.pdf
+- http://www.thesaigontimes.vn/271832/cau-chuyen-tri-tue-nhan-tao.html
 
 Pin: 
 
