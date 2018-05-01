@@ -477,6 +477,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.05
+
+- http://ianozsvald.com/
+- https://github.com/marcotcr/lime/blob/master/doc/notebooks/Tutorial%20-%20continuous%20and%20categorical%20features.ipynb
+- https://github.com/ianozsvald/data_science_delivered/blob/master/ml_explain_regression_prediction.ipynb
+
 30.04
 
 - plot decision plane: https://github.com/arogozhnikov/MLatImperial2017/blob/master/utils.py
