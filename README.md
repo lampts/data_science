@@ -477,6 +477,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+02.05
+
+- make nnet uncool again: http://www.fast.ai/2018/04/29/categorical-embeddings/
+- https://pdfs.semanticscholar.org/8004/cd728305c9abb203cc09885c64fcc5e45f43.pdf
+
 01.05
 
 - http://ianozsvald.com/
