@@ -477,6 +477,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.05
+
+- https://statsbot.co/blog/calculating-customer-lifetime-value-sql-example/
+- https://databricks.com/blog/2015/06/02/statistical-and-mathematical-functions-with-dataframes-in-spark.html
+- https://github.com/datatalesblog/Feature-Engineering-in-PySpark/blob/master/Value%20Investing%20PySpark%20Code.py
+- https://gist.github.com/anish749/6a815ed281f538068a0d3a20ca9044fa
+
 02.05
 
 - make nnet uncool again: http://www.fast.ai/2018/04/29/categorical-embeddings/
