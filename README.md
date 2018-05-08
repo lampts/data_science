@@ -477,6 +477,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.05
+
+- employee attrition https://www.youtube.com/watch?v=pviTahK6KuQ
+- https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf
+
 07.05
 
 - https://statsbot.co/blog/calculating-customer-lifetime-value-sql-example/
