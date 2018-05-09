@@ -100,6 +100,7 @@ EMNLP 2017: http://noisy-text.github.io/2017/
 
 - TCCP PU learning https://arxiv.org/pdf/1802.09788.pdf
 - By last time login: https://mpra.ub.uni-muenchen.de/82871/1/paper8.pdf
+- https://www.slideshare.net/aistconf/webgames-61437118
 
 ## Yandex
 
