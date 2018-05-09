@@ -477,6 +477,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+09.05
+
+- http://businessforecastblog.com/whats-the-lift-of-your-churn-model-predictive-analytics-and-big-data/
+- http://blog.datalifebalance.com/lift-charts-a-data-scientists-secret-weapon/
+
 08.05
 
 - employee attrition https://www.youtube.com/watch?v=pviTahK6KuQ
