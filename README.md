@@ -479,6 +479,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 09.05
 
+- https://cilab.sejong.ac.kr/gdmc2017/index.php/tutorial/
 - ds politics: https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/
 - https://towardsdatascience.com/how-to-survive-corporate-politics-as-a-data-scientist-ba914fac2471
 - http://businessforecastblog.com/whats-the-lift-of-your-churn-model-predictive-analytics-and-big-data/
