@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 10.05
 
+- https://events.prace-ri.eu/event/686/material/slides/0.pdf
+- https://medium.com/@mrpowers/working-with-dates-and-times-in-spark-491a9747a1d2
 - https://github.com/MSusik/newgradientboosting/blob/master/pydata.pdf
 
 09.05
