@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.05
+
+- https://github.com/MSusik/newgradientboosting/blob/master/pydata.pdf
+
 09.05
 
 - https://cilab.sejong.ac.kr/gdmc2017/index.php/tutorial/
