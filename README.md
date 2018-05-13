@@ -488,6 +488,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://www.slideshare.net/TakanoriHayashi3/talkingdata-adtracking-fraud-detection-challenge-1st-place-solution
 - https://github.com/jfpuget/LibFM_in_Keras/blob/master/keras_blog.ipynb
+- https://github.com/vdutor/tf-rex
+
 
 10.05
 
