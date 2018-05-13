@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+13.05
+
+- https://www.slideshare.net/TakanoriHayashi3/talkingdata-adtracking-fraud-detection-challenge-1st-place-solution
+- https://github.com/jfpuget/LibFM_in_Keras/blob/master/keras_blog.ipynb
+
 10.05
 
 - https://events.prace-ri.eu/event/686/material/slides/0.pdf
