@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.05
+
+- https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21
+
 13.05
 
 - https://www.slideshare.net/TakanoriHayashi3/talkingdata-adtracking-fraud-detection-challenge-1st-place-solution
