@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 14.05
 
+- https://www.slideshare.net/Nordeus/early-churn-prediction-and-personalised-interventions-in-top-eleven-game
 - https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21
 
 13.05
