@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.05
+
+- https://www.youtube.com/watch?v=mmLukrKMSnw
+
+
 14.05
 
 - https://www.slideshare.net/Nordeus/early-churn-prediction-and-personalised-interventions-in-top-eleven-game
