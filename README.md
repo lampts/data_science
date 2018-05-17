@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.05
 
+- sentence piece, sub word: https://github.com/google/sentencepiece
 - fastai nlp with transfer learning: http://forums.fast.ai/t/part-2-lesson-10-wiki/14364
 - https://xcitech.github.io/tutorials/heroku_tutorial/
 - lime: https://homes.cs.washington.edu/~marcotcr/blog/lime/
