@@ -484,6 +484,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.05
+
+- lime: https://homes.cs.washington.edu/~marcotcr/blog/lime/
+- http://nlp.fast.ai/
+- https://medium.com/activewizards-machine-learning-company/top-7-data-science-use-cases-in-finance-303c05a3cb58
+- https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+
 15.05
 
 - https://www.youtube.com/watch?v=mmLukrKMSnw
