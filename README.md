@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.05
 
+- https://xcitech.github.io/tutorials/heroku_tutorial/
 - lime: https://homes.cs.washington.edu/~marcotcr/blog/lime/
 - http://nlp.fast.ai/
 - https://medium.com/activewizards-machine-learning-company/top-7-data-science-use-cases-in-finance-303c05a3cb58
