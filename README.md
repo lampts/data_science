@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 18.05
 
+- https://peerj.com/collections/50-practicaldatascistats/
 - https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3
 - https://medium.com/indeed-data-science/marketing-for-data-science-a-7-step-go-to-market-plan-for-your-next-data-product-60c034c34d55
 - https://blog.ouseful.info/2016/09/13/making-music-and-embedding-sounds-in-jupyter-notebooks/
