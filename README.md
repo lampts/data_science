@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.05
+
+- https://blog.ouseful.info/2016/09/13/making-music-and-embedding-sounds-in-jupyter-notebooks/
+- https://xcitech.github.io/tutorials/travelers/
+- https://github.com/jfpuget/LibFM_in_Keras/blob/master/keras_blog.ipynb
+
 17.05
 
 - sentence piece, sub word: https://github.com/google/sentencepiece
