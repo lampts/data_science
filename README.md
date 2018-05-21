@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.05
+
+- http://vita.had.co.nz/presentations.html
+- http://vita.had.co.nz/papers/tidy-data.pdf
+
 18.05
 
 - https://peerj.com/collections/50-practicaldatascistats/
