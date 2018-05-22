@@ -484,6 +484,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.05
+
+- https://developers.google.com/machine-learning/rules-of-ml/
+- https://www.datasciencecentral.com/profiles/blogs/why-logistic-regression-should-be-the-last-thing-you-learn-when-b
+- http://vita.had.co.nz/papers/engineering-da.pdf
+- http://vita.had.co.nz/presentations.html
+
 21.05
 
 - http://vita.had.co.nz/presentations.html
