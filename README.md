@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.05
+
+- https://support.appsflyer.com/hc/en-us/articles/115002667326-Best-Practices-for-Detection-of-Mobile-Fraud
+- https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/nlp.md
+
 22.05
 
 - https://developers.google.com/machine-learning/rules-of-ml/
