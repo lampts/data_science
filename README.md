@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.05
 
+- https://medium.com/@inlinecoder/disrupting-the-entrance-point-to-a-predictive-data-analytics-12676aa91a8d
 - https://github.com/alessiamarcolini/deep-learning_best-practices
 - https://github.com/reshamas/fastai_deeplearn_part1
 
