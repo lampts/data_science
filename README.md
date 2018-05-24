@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.05
 
+- http://davidmlane.com/hyperstat/viswanathan/appreciation.html
 - https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
 - http://davidmlane.com/hyperstat/viswanathan/chi_square_marketing.html
 - https://www.statisticssolutions.com/chi-square-2/
