@@ -486,6 +486,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.05
 
+- https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
+- http://davidmlane.com/hyperstat/viswanathan/chi_square_marketing.html
+- https://www.statisticssolutions.com/chi-square-2/
+- Marketing – Are women more likely than men to buy a product online?
 - https://medium.com/@inlinecoder/disrupting-the-entrance-point-to-a-predictive-data-analytics-12676aa91a8d
 - https://github.com/alessiamarcolini/deep-learning_best-practices
 - https://github.com/reshamas/fastai_deeplearn_part1
