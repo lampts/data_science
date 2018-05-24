@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.05
+
+- https://github.com/alessiamarcolini/deep-learning_best-practices
+- https://github.com/reshamas/fastai_deeplearn_part1
+
+
 23.05
 
 - https://support.appsflyer.com/hc/en-us/articles/115002667326-Best-Practices-for-Detection-of-Mobile-Fraud
