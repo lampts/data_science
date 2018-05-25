@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.05
 
+- https://medium.com/moonshot/how-to-install-faiss-c986fe474a8f
 - https://medium.com/ibm-data-science-experience/optimizing-a-marketing-campaign-moving-from-predictions-to-actions-e39b8ab1f865
 - https://www.lunametrics.com/blog/2016/06/30/marketing-channel-attribution-markov-models-r/
 - https://github.com/IBMDecisionOptimization/tutorials/blob/master/jupyter/MachineLearning_and_CPLEX.ipynb
