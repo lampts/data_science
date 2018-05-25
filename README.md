@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.05
 
+- https://www.slideshare.net/SessionsEvents/misha-bilenko-principal-researcher-microsoft
 - https://medium.com/moonshot/how-to-install-faiss-c986fe474a8f
 - https://medium.com/ibm-data-science-experience/optimizing-a-marketing-campaign-moving-from-predictions-to-actions-e39b8ab1f865
 - https://www.lunametrics.com/blog/2016/06/30/marketing-channel-attribution-markov-models-r/
