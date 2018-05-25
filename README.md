@@ -484,6 +484,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+25.05
+
+- https://medium.com/ibm-data-science-experience/optimizing-a-marketing-campaign-moving-from-predictions-to-actions-e39b8ab1f865
+- https://www.lunametrics.com/blog/2016/06/30/marketing-channel-attribution-markov-models-r/
+- https://github.com/IBMDecisionOptimization/tutorials/blob/master/jupyter/MachineLearning_and_CPLEX.ipynb
+- https://pocketphilosopher.net/2016/01/27/using-machine-learning-to-tune-a-game/
+- http://davidmlane.com/hyperstat/chi_square.html
+
 24.05
 
 - http://davidmlane.com/hyperstat/viswanathan/appreciation.html
