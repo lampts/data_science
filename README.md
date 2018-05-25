@@ -491,6 +491,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/IBMDecisionOptimization/tutorials/blob/master/jupyter/MachineLearning_and_CPLEX.ipynb
 - https://pocketphilosopher.net/2016/01/27/using-machine-learning-to-tune-a-game/
 - http://davidmlane.com/hyperstat/chi_square.html
+- https://medium.com/@erushton214/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26
+
 
 24.05
 
