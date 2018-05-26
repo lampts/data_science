@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.05
+
+- https://chrisalbon.com/#deep_learning
+- https://github.com/IBMDecisionOptimization/tutorials/blob/master/jupyter/MachineLearning_and_CPLEX.ipynb
+
 25.05
 
 - https://www.slideshare.net/SessionsEvents/misha-bilenko-principal-researcher-microsoft
