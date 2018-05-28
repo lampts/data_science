@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 28.05
 
+- https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb
 - https://www.kdnuggets.com/2016/08/include-high-cardinality-attributes-predictive-model.html
 - https://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/3/
 - https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb
