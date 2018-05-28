@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.05
+
+- https://github.com/ianozsvald/data_science_delivered/blob/master/ml_creating_correct_capable_classifiers.ipynb
+- https://github.com/RobRomijnders/weight_uncertainty
+
 26.05
 
 - https://chrisalbon.com/#deep_learning
