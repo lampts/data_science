@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.05
+
+- https://elitedatascience.com/python-seaborn-tutorial
+
 28.05
 
 - https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb
