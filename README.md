@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.06
+
+- https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html
+- https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/
+
+
 29.05
 
 - https://elitedatascience.com/python-seaborn-tutorial
