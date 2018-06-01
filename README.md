@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 01.06
 
+- https://arxiv.org/pdf/1803.11175.pdf
 - https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html
 - https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/
 
