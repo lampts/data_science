@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 02.06
 
+- RL: https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
+- https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9
 - why no mosaic plot in seaborn: https://www.perceptualedge.com/articles/visual_business_intelligence/are_mosaic_plots_worthwhile.pdf
 - https://alexanderdyakonov.wordpress.com/2017/10/30/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/
 
