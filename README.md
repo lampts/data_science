@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.06
+
+- https://www.oreilly.com/learning/introduction-to-okrs
+- http://adigaskell.org/2015/06/15/reputation-the-sharing-economy-and-the-market-for-lemons/
+
 02.06
 
 - RL: https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
