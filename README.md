@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.06
+
+- https://www.tensorflow.org/hub/modules/google/universal-sentence-encoder/1
+- okcupid, basic stats: https://ww2.amstat.org/publications/jse/v23n2/kim.pdf
+
 04.06
 
 - https://www.oreilly.com/learning/introduction-to-okrs
