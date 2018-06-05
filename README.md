@@ -486,6 +486,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 06.06
 
+- https://github.com/datascienceinc/oreilly-intro-to-predictive-clv/blob/master/oreilly-an-intro-to-predictive-clv-tutorial.ipynb
+- http://brucehardie.com/notes/004/bgnbd_spreadsheet_note.pdf
+- https://mattilyra.github.io/2017/05/23/document-deduplication-with-lsh.html
+- http://nbviewer.jupyter.org/github/mattilyra/LSH/blob/master/examples/Introduction.ipynb
 - wsdm 2018 papers: http://www.wsdm-conference.org/2018/accepted-papers.html
 - http://brucehardie.com/notes/
 - https://community.firstmarkcap.com/content/clv-in-e-commerce-2013-10-23
