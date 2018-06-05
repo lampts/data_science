@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 06.06
 
+- wsdm 2018 papers: http://www.wsdm-conference.org/2018/accepted-papers.html
 - http://brucehardie.com/notes/
 - https://community.firstmarkcap.com/content/clv-in-e-commerce-2013-10-23
 - http://brucehardie.com/notes/004/bgnbd_spreadsheet_note.pdf
