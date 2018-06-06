@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.06
+
+- https://bgweber.github.io/
+- https://github.com/jacobeisenstein/gt-nlp-class/
+- https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b
+
 06.06
 
 - https://github.com/datascienceinc/oreilly-intro-to-predictive-clv/blob/master/oreilly-an-intro-to-predictive-clv-tutorial.ipynb
