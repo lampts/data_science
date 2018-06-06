@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 07.06
 
+- http://forums.fast.ai/t/30-best-practices/12344/12
 - https://bgweber.github.io/
 - https://github.com/jacobeisenstein/gt-nlp-class/
 - https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b
