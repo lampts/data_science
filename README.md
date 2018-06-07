@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.06
+
+- https://github.com/mattilyra/LSH/blob/master/examples/Introduction.ipynb
+- https://www.youtube.com/watch?v=n3dCcwWV4_k&index=40&list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-
+
 07.06
 
 - http://forums.fast.ai/t/30-best-practices/12344/12
