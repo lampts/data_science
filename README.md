@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 08.06
 
+- https://www.blog.google/topics/ai/ai-principles/
 - https://github.com/cvanweelden/sequence_labeling_example/blob/master/sequence_labeling_example.ipynb
 - textkernel: https://www.youtube.com/watch?v=xUxjW308CcI
 - https://github.com/mattilyra/LSH/blob/master/examples/Introduction.ipynb
