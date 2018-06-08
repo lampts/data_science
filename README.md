@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 08.06
 
+- https://github.com/cvanweelden/sequence_labeling_example/blob/master/sequence_labeling_example.ipynb
+- textkernel: https://www.youtube.com/watch?v=xUxjW308CcI
 - https://github.com/mattilyra/LSH/blob/master/examples/Introduction.ipynb
 - https://www.youtube.com/watch?v=n3dCcwWV4_k&index=40&list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-
 
