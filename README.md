@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+09.06
+
+- http://dylan-chen.com/model/lightgbm-tutorial/
+
 08.06
 
 - job taxonomy: https://www.youtube.com/watch?v=SWjIoRNTCdU
