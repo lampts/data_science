@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+11.06
+
+- dontforget to check: https://gist.github.com/ttscoff/cded212ec4dd457186ca
+
 09.06
 
 - http://dylan-chen.com/model/lightgbm-tutorial/
