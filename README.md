@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 11.06
 
+- https://threadreaderapp.com/
 - dontforget to check: https://gist.github.com/ttscoff/cded212ec4dd457186ca
 
 09.06
