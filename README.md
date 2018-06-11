@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 11.06
 
+- https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/
 - https://threadreaderapp.com/
 - dontforget to check: https://gist.github.com/ttscoff/cded212ec4dd457186ca
 
