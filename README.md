@@ -484,6 +484,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+12.06
+
+- trieutrinh, google brain: https://github.com/tensorflow/models/tree/master/research/lm_commonsense
+- finetune transformer: https://github.com/openai/finetune-transformer-lm
+- https://blog.openai.com/language-unsupervised/
+
+
 11.06
 
 - https://www.poly-ai.com/docs/naacl18.pdf
