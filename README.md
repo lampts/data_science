@@ -484,6 +484,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.06
+
+- http://www.gamedonia.com/blog/5-ways-to-calculate-lifetime-value-for-free-to-play-games
+- https://towardsdatascience.com/how-to-build-a-dynamic-garden-using-machine-learning-d589468f7c04
+- https://scholarspace.manoa.hawaii.edu/bitstream/10125/50002/1/paper0115.pdf
+
+
 12.06
 
 - trieutrinh, google brain: https://github.com/tensorflow/models/tree/master/research/lm_commonsense
