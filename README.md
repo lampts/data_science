@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.06
 
+- toxic in russian https://www.youtube.com/watch?v=aMlpeDOjib8
 - multitask learning https://arxiv.org/pdf/1806.03713.pdf
 
 14.06
