@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.06
+
+- multitask learning https://arxiv.org/pdf/1806.03713.pdf
+
 14.06
 
 - http://www.gamedonia.com/blog/5-ways-to-calculate-lifetime-value-for-free-to-play-games
