@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.06
+
+- https://github.com/mephistopheies/mlworkshop39_042017/blob/master/3_masterclass/ipy/feature_extraction.ipynb
+- https://pdfs.semanticscholar.org/fc72/59942d3d9d9f0d45565853755e74a983e028.pdf
+
 15.06
 
 - toxic in russian https://www.youtube.com/watch?v=aMlpeDOjib8
