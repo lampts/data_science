@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 19.06
 
+- multi gpus: https://datascience.stackexchange.com/questions/23895/multi-gpu-in-keras
+- https://keras.io/getting-started/faq/#how-can-i-run-a-keras-model-on-multiple-gpus
 - https://stackoverflow.com/questions/50096/how-to-pass-password-to-scp
 - https://stackoverflow.com/questions/31326015/how-to-verify-cudnn-installation
 - https://keras.io/utils/#multi_gpu_model
