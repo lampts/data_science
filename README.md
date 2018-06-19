@@ -484,6 +484,15 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+19.06
+
+- https://stackoverflow.com/questions/50096/how-to-pass-password-to-scp
+- https://stackoverflow.com/questions/31326015/how-to-verify-cudnn-installation
+- https://keras.io/utils/#multi_gpu_model
+- https://arxiv.org/pdf/1710.02262.pdf
+- http://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#sphx-glr-auto-examples-preprocessing-plot-all-scaling-py
+- https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/
+
 18.06
 
 - https://github.com/mephistopheies/mlworkshop39_042017/blob/master/3_masterclass/ipy/feature_extraction.ipynb
