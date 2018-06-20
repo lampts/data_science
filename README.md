@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.06
+
+- horovod is coool: https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d
+- https://medium.com/product-at-catalant-technologies/using-lightfm-to-recommend-projects-to-consultants-44084df7321c
+
 19.06
 
 - multi gpus: https://datascience.stackexchange.com/questions/23895/multi-gpu-in-keras
