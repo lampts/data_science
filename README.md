@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.06
+
+- https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf
+
 20.06
 
 - horovod is coool: https://medium.com/searchink-eng/keras-horovod-distributed-deep-learning-on-steroids-94666e16673d
