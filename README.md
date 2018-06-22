@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.06
+
+- https://nlp.stanford.edu/pubs/hancock2018babble.pdf
+- https://tomaugspurger.github.io/modern-1-intro.html
+- https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf
+
 21.06
 
 - https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf
