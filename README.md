@@ -489,6 +489,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://nlp.stanford.edu/pubs/hancock2018babble.pdf
 - https://tomaugspurger.github.io/modern-1-intro.html
 - https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf
+- https://www.ibm.com/developerworks/community/blogs/jfp/entry/Implementing_Libfm_in_Keras?lang=en
 
 21.06
 
