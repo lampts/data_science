@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 25.06
 
+- https://www.predictiveanalyticsworld.com/patimes/wise-practitioner-predictive-analytics-interview-series-tauseef-rahman-at-mercer/9538/
 - https://arxiv.org/pdf/1704.04565.pdf
 - http://ruder.io/tracking-progress-nlp/
 - https://www.kdnuggets.com/2015/03/interview-josh-hemann-activision-big-data.html
