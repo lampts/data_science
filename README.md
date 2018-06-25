@@ -488,6 +488,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://arxiv.org/pdf/1704.04565.pdf
 - http://ruder.io/tracking-progress-nlp/
+- https://www.kdnuggets.com/2015/03/interview-josh-hemann-activision-big-data.html
+- https://www.kdnuggets.com/2015/03/interview-josh-hemann-activision-data-science.html
+
 
 22.06
 
