@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+25.06
+
+- https://arxiv.org/pdf/1704.04565.pdf
+- http://ruder.io/tracking-progress-nlp/
+
 22.06
 
 - https://nlp.stanford.edu/pubs/hancock2018babble.pdf
