@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.06
+
+- https://github.com/awslabs/amazon-sagemaker-examples
+
 25.06
 
 - https://www.predictiveanalyticsworld.com/patimes/wise-practitioner-predictive-analytics-interview-series-tauseef-rahman-at-mercer/9538/
