@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 26.06
 
+- https://medium.com/datreeio/training-with-keras-mxnet-on-amazon-sagemaker-43a34bd668ca
+- https://medium.com/@richardchen_81235/custom-keras-model-in-sagemaker-277a2831ac67
 - https://github.com/awslabs/amazon-sagemaker-examples
 
 25.06
