@@ -486,6 +486,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 28.06
 
+- https://getstream.io/blog/factorization-recommendation-systems/
+- https://www.slideshare.net/stairlab/higherorder-factorization-machines5
 - https://www.cs.waikato.ac.nz/~fbravoma/deep_nlp_tut.pdf
 
 26.06
