@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.06
+
+- https://www.cs.waikato.ac.nz/~fbravoma/deep_nlp_tut.pdf
+
 26.06
 
 - https://medium.com/datreeio/training-with-keras-mxnet-on-amazon-sagemaker-43a34bd668ca
