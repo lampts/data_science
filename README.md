@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+29.06
+
+- https://deepsense.ai/keras-or-pytorch/
+- https://www.ijcai.org/proceedings/2017/0504.pdf
+- https://www.jeremyjordan.me/nn-learning-rate/
+
 28.06
 
 - https://getstream.io/blog/factorization-recommendation-systems/
