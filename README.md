@@ -484,6 +484,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.07
+
+- https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
+
 29.06
 
 - https://deepsense.ai/keras-or-pytorch/
