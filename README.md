@@ -486,6 +486,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.07
 
+- https://frnsys.com/ai_notes/
 - https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
 
 29.06
