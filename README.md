@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+05.07
+
+- http://eric.univ-lyon2.fr/~ricco/cours/slides/PJ%20-%20en%20-%20machine%20learning%20avec%20scikit-learn.pdf
+
+
 04.07
 
 - https://frnsys.com/ai_notes/
