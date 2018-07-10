@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.07
+
+- https://arxiv.org/pdf/1802.05365.pdf
+- https://thegradient.pub/nlp-imagenet/
+- http://www.fast.ai/2018/07/02/adam-weight-decay/
+
 05.07
 
 - http://eric.univ-lyon2.fr/~ricco/cours/slides/PJ%20-%20en%20-%20machine%20learning%20avec%20scikit-learn.pdf
