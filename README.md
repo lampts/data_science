@@ -489,6 +489,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://arxiv.org/pdf/1802.05365.pdf
 - https://thegradient.pub/nlp-imagenet/
 - http://www.fast.ai/2018/07/02/adam-weight-decay/
+- https://github.com/deepmipt/DeepPavlov
+
 
 05.07
 
