@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+11.07
+
+- https://rise.cs.berkeley.edu/blog/pandas-on-ray-early-lessons/
+- https://alexanderdyakonov.wordpress.com/2018/06/28/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/
+
 10.07
 
 - https://arxiv.org/pdf/1802.05365.pdf
