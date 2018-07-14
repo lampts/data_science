@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.07
+
+- https://github.com/mathurinm/celer
+- https://www.slideshare.net/agramfort/icml-2018-reproducible-machine-learning-a-gramfort
+
 11.07
 
 - https://rise.cs.berkeley.edu/blog/pandas-on-ray-early-lessons/
