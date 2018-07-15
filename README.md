@@ -484,6 +484,17 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.07
+
+- https://esc.fnwi.uva.nl/thesis/centraal/files/f244841390.pdf
+- http://deliprao.com/archives/294
+- https://pdfs.semanticscholar.org/584d/1e09f8e3fa359fcd2b9931bfc71d4672de3a.pdf
+- https://www.ijcai.org/proceedings/2017/0504.pdf
+- https://github.com/jeremyjordan/imbalanced-data/blob/master/Learning%20from%20imbalanced%20data.ipynb
+- https://www.jeremyjordan.me/imbalanced-data/
+- https://www.jeremyjordan.me/nn-learning-rate/
+
+
 14.07
 
 - https://github.com/mathurinm/celer
