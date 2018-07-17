@@ -484,6 +484,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.07
+
+- https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743
+- http://ecsocman.hse.ru/data/2012/06/06/1271384006/5.pdf
+
 15.07
 
 - https://esc.fnwi.uva.nl/thesis/centraal/files/f244841390.pdf
