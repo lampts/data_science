@@ -484,6 +484,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+20.07
+
+- https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+- https://david-abel.github.io/blog/posts/misc/icml_2018.pdf
+- https://drive.google.com/file/d/1Mw6JZ9k0e8ajfiQ8uI-VP2my96DJINr4/view
+- http://ecsocman.hse.ru/data/2012/06/06/1271384006/5.pdf
+
 17.07
 
 - https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743
