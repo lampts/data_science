@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+24.07
+
+- https://www.linkedin.com/pulse/beginners-ask-how-many-hidden-layersneurons-use-artificial-ahmed-gad/
+- https://towardsdatascience.com/july-edition-text-understanding-adaaff0bbd63
+- https://david-abel.github.io/blog/posts/misc/icml_2018.pdf
+
 20.07
 
 - https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
