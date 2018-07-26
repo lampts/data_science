@@ -484,6 +484,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+26.07
+
+- http://people.stat.sc.edu/haigang/improvement.html
+- https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
+- https://www.coursera.org/lecture/machine-learning-applications-big-data/spark-ml-cross-validation-O0uKs
+
 24.07
 
 - https://www.linkedin.com/pulse/beginners-ask-how-many-hidden-layersneurons-use-artificial-ahmed-gad/
