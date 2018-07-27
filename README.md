@@ -485,6 +485,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.7
+
+- https://mapr.com/blog/churn-prediction-pyspark-using-mllib-and-ml-packages/
+- https://github.com/ChuckWoodraska/EurekaTrees
+- https://github.com/Microsoft/LightGBM/blob/master/examples/python-guide/plot_example.py
+
 26.07
 
 - http://people.stat.sc.edu/haigang/improvement.html
