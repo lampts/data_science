@@ -487,6 +487,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.7
 
+- https://github.com/lancifollia/tinygbt/blob/master/tinygbt.py
+- http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf
 - https://mapr.com/blog/churn-prediction-pyspark-using-mllib-and-ml-packages/
 - https://github.com/ChuckWoodraska/EurekaTrees
 - https://github.com/Microsoft/LightGBM/blob/master/examples/python-guide/plot_example.py
