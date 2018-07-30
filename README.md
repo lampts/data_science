@@ -485,6 +485,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+30.7
+
+- https://github.com/natasha/ipyannotate
+
 27.7
 
 - https://github.com/lancifollia/tinygbt/blob/master/tinygbt.py
