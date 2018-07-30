@@ -487,6 +487,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 30.7
 
+- https://medium.com/activewizards-machine-learning-company/comparison-of-top-6-python-nlp-libraries-c4ce160237eb
 - https://github.com/natasha/ipyannotate
 
 27.7
