@@ -487,6 +487,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 01.08
 
+- https://cdn-images-1.medium.com/max/1400/1*xbNM_CnEIWQtGbsLmZtE-A.gif
 - https://github.com/jhfjhfj1/autokeras
 
 30.7
