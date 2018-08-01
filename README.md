@@ -485,6 +485,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+01.08
+
+- https://github.com/jhfjhfj1/autokeras
+
 30.7
 
 - https://medium.com/activewizards-machine-learning-company/comparison-of-top-6-python-nlp-libraries-c4ce160237eb
