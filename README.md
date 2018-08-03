@@ -485,6 +485,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+03.08
+
+- https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
+
 01.08
 
 - https://cdn-images-1.medium.com/max/1400/1*xbNM_CnEIWQtGbsLmZtE-A.gif
