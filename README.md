@@ -487,6 +487,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 03.08
 
+- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+- https://blog.ycombinator.com/learning-math-for-machine-learning/
 - https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
 
 01.08
