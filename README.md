@@ -485,6 +485,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+06.08
+
+- http://cs230.stanford.edu/syllabus.html#midterm
+- https://www.youtube.com/watch?v=7CcSm0PAr-Y
+- http://cs230.stanford.edu/files/Deep%20Learning%20in%20Healthcare.pdf
+
 03.08
 
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
