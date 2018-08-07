@@ -485,6 +485,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+07.08
+
+- https://towardsdatascience.com/7-recommendations-for-data-science-leaders-in-the-game-industry-3d82d45746d2
+- http://koaning.io/theme/notebooks/deep-ai-stupid.pdf
+- https://github.com/louridas/rwa/blob/master/content/notebooks/chapter_01.ipynb
+
 06.08
 
 - http://cs230.stanford.edu/syllabus.html#midterm
