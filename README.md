@@ -485,6 +485,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+08.08
+
+- https://drive.google.com/file/d/14zSllcWPgsARqpF7D6haSF7_M2PFsZ_Y/view
+- https://drive.google.com/file/d/13e2bBwpncMshaMy_UKkUno0_T-K-Ott_/view
+- https://pycon.sg/news/slides/
+
 07.08
 
 - https://towardsdatascience.com/7-recommendations-for-data-science-leaders-in-the-game-industry-3d82d45746d2
