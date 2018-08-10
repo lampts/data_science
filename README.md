@@ -485,6 +485,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+10.08
+
+- http://datagenetics.com/blog/february52018/index.html
+- https://eng.uber.com/cota/
+- https://www.youtube.com/watch?v=Q2HLPCBStLQ
+
 08.08
 
 - https://drive.google.com/file/d/14zSllcWPgsARqpF7D6haSF7_M2PFsZ_Y/view
