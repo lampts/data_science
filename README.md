@@ -490,6 +490,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - Tim is good: http://timvieira.github.io/
 - https://imaddabbura.github.io/blog/machine%20learning/data%20science/2018/03/15/predicting-loan-repayment.html
 - gumbel max trick: https://arxiv.org/abs/1611.01144
+- love uncertainty: https://github.com/arinarmo/love_uncertainty/blob/master/slides.pdf
+- Vincent talk: https://www.youtube.com/watch?v=dE5j6NW-Kzg
 
 10.08
 
