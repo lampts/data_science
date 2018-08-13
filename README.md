@@ -489,6 +489,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - Tim is good: http://timvieira.github.io/
 - https://imaddabbura.github.io/blog/machine%20learning/data%20science/2018/03/15/predicting-loan-repayment.html
+- gumbel max trick: https://arxiv.org/abs/1611.01144
 
 10.08
 
