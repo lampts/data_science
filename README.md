@@ -485,6 +485,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+13.08
+
+- Tim is good: http://timvieira.github.io/
+- https://imaddabbura.github.io/blog/machine%20learning/data%20science/2018/03/15/predicting-loan-repayment.html
+
 10.08
 
 - http://datagenetics.com/blog/february52018/index.html
