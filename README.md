@@ -487,6 +487,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 13.08
 
+- http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ReadingGroup/Bronskill_infer_NET.pdf
 - Tim is good: http://timvieira.github.io/
 - https://imaddabbura.github.io/blog/machine%20learning/data%20science/2018/03/15/predicting-loan-repayment.html
 - gumbel max trick: https://arxiv.org/abs/1611.01144
