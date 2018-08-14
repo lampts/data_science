@@ -485,6 +485,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+14.08
+
+- bayesian is good https://blog.datank.ai/how-i-learned-to-stop-worrying-and-love-uncertainty-fd13c23442b6
+- think bayesian: http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
+- bayesian for hackers: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+
 13.08
 
 - http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ReadingGroup/Bronskill_infer_NET.pdf
