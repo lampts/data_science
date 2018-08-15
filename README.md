@@ -5,6 +5,11 @@
 
 > "When solving a problem of interest, do not solve a more general problem as an intermediate step." (Vladimir Vapnik)
 
+## Must read
+
+- (Bradley)Bayesian, Frequentist and Scientist: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.179.1454&rep=rep1&type=pdf
+- (Breiman) 2 cultures http://www2.math.uu.se/~thulin/mm/breiman.pdf
+
 ## RecSys
 
 - https://github.com/maciejkula/spotlight
