@@ -488,7 +488,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 15.08
 
 - https://blog.ycombinator.com/learning-math-for-machine-learning/
-
+- https://github.com/tensorflow/model-analysis
+- https://anvaka.github.io/greview/hands-on-ml/1/
 
 14.08
 
