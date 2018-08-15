@@ -492,6 +492,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.08
 
+- TrueSkill2 : https://www.microsoft.com/en-us/research/uploads/prod/2018/03/trueskill2.pdf
 - https://blog.ycombinator.com/learning-math-for-machine-learning/
 - https://github.com/tensorflow/model-analysis
 - https://anvaka.github.io/greview/hands-on-ml/1/
