@@ -485,6 +485,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+15.08
+
+- https://blog.ycombinator.com/learning-math-for-machine-learning/
+
+
 14.08
 
 - large to small better than small to large: http://koaning.io/variable-selection-in-machine-learning.html
