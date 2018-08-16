@@ -490,6 +490,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+16.08
+
+- 3 schools of data http://slides.com/springcoil/
+- https://github.com/springcoil/PyDataLondonTutorial/blob/master/notebooks/Statistics.ipynb
+- https://github.com/godatadriven/os-training-materials
+
 15.08
 
 - TrueSkill2 : https://www.microsoft.com/en-us/research/uploads/prod/2018/03/trueskill2.pdf
