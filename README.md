@@ -492,6 +492,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 17.08
 
+- https://github.com/ipython-books/cookbook-2nd
 - http://tuvalu.santafe.edu/~simon/br.pdf
 
 16.08
