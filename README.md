@@ -490,6 +490,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+17.08
+
+- http://tuvalu.santafe.edu/~simon/br.pdf
+
 16.08
 
 - 3 schools of data http://slides.com/springcoil/
