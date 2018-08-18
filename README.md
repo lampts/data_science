@@ -490,6 +490,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+18.08
+
+- http://brohrer.github.io/how_bayesian_inference_works.html
+- https://docs.google.com/presentation/d/1325yenZP_VdHoVj-tU0AnbQUxFwb8Fl1VdyAAUxEzfg/edit#slide=id.p
+
 17.08
 
 - https://github.com/ipython-books/cookbook-2nd
