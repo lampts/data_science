@@ -28,6 +28,11 @@
 - Kanji. 100 statistical tests (2006)
 - Doing Data Science: Straight Talk from the Frontline
 
+## Game Industry:
+
+- https://project.dke.maastrichtuniversity.nl/cig2018/proceedings/
+- https://www.slideshare.net/africaperianez/game-data-science-the-state-of-the-art
+
 ## Case stydies:
 
 - auc, https://www.kaggle.com/c/acquire-valued-shoppers-challenge#evaluation
