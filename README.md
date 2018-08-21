@@ -495,6 +495,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+21.08
+
+- ncsoft blade & soul churn prediction https://arxiv.org/pdf/1802.02301.pdf
+- bayesian intro: https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
+
+
 20.08
 
 - churn data science game https://arxiv.org/pdf/1802.02301.pdf
