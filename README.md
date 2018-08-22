@@ -495,6 +495,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+22.08
+
+- stats and sport https://statsbylopez.com/276labs/
+- cs229 https://stanford.edu/~shervine/teaching/cs-229.html
+
 21.08
 
 - ncsoft blade & soul churn prediction https://arxiv.org/pdf/1802.02301.pdf
