@@ -495,6 +495,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+23.08
+
+- https://docs.google.com/presentation/d/17h_ylV84m_AY6-0uhYxFcI59nsiYoev4nTESUvoFlrA/edit#slide=id.g389fd03f42_0_112
+- https://hackernoon.com/towards-ai-how-long-does-it-take-you-to-go-from-idea-to-working-prototype-a-day-a-month-8a03ffecca0a
+- http://rsos.royalsocietypublishing.org/content/5/5/171274
+
 22.08
 
 - stats and sport https://statsbylopez.com/276labs/
