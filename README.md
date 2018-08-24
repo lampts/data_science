@@ -497,6 +497,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 23.08
 
+- https://sites.google.com/view/kdd2018-tutorial/home/slides
 - knowledge distillation: https://www.youtube.com/watch?v=lSjBc1wSJMI
 - https://docs.google.com/presentation/d/17h_ylV84m_AY6-0uhYxFcI59nsiYoev4nTESUvoFlrA/edit#slide=id.g389fd03f42_0_112
 - https://hackernoon.com/towards-ai-how-long-does-it-take-you-to-go-from-idea-to-working-prototype-a-day-a-month-8a03ffecca0a
