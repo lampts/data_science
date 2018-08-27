@@ -495,6 +495,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+27.08
+
+- botanical prime: https://www.c82.net/work/?id=352
+- https://glowingpython.blogspot.com/2017/04/solving-two-spirals-problem-with-keras.html
+- http://bit.ly/beautifulObjectJupyterCon
+- https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1
+
 23.08
 
 - https://sites.google.com/view/kdd2018-tutorial/home/slides
