@@ -497,6 +497,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.08
 
+- normality test with kurtosis: http://www.columbia.edu/~ld208/psymeth97.pdf
 - botanical prime: https://www.c82.net/work/?id=352
 - https://glowingpython.blogspot.com/2017/04/solving-two-spirals-problem-with-keras.html
 - http://bit.ly/beautifulObjectJupyterCon
