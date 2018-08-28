@@ -495,6 +495,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+28.08
+
+- kdd wrap up: https://habr.com/company/mailru/blog/421041/
+- bayesian reasoning: https://github.com/bayesgroup/deepbayes-2018/blob/master/day1_bayesian-reasoning/presentation.pdf
+
 27.08
 
 - normality test with kurtosis: http://www.columbia.edu/~ld208/psymeth97.pdf
