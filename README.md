@@ -497,6 +497,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 04.09
 
+- https://medium.com/data-science-school/practical-apache-spark-in-10-minutes-part-6-graphx-9cc953afa487
+- best paper kdd: https://medium.com/syncedreview/kdd-2018-announces-best-paper-other-awards-4835ab8475a4
 - https://habr.com/company/eastbanctech/blog/422093/
 - https://github.com/GINK03/kaggle-dae
 
