@@ -495,6 +495,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+04.09
+
+- https://habr.com/company/eastbanctech/blog/422093/
+- https://github.com/GINK03/kaggle-dae
+
 28.08
 
 - kdd wrap up: https://habr.com/company/mailru/blog/421041/
