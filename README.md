@@ -503,6 +503,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - best paper kdd: https://medium.com/syncedreview/kdd-2018-announces-best-paper-other-awards-4835ab8475a4
 - https://habr.com/company/eastbanctech/blog/422093/
 - https://github.com/GINK03/kaggle-dae
+- https://www.business-school.ed.ac.uk/crc/wp-content/uploads/sites/55/2017/02/Credit-Scoring-and-the-Optimization-Concerning-Area-Under-the-Curve-Anne-Kraus-and-Helmut-K%C3%BCchenhoff.pdf
 
 28.08
 
