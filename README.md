@@ -7,6 +7,7 @@
 
 ## Must read
 
+- foundation of dl: https://www.youtube.com/watch?time_continue=157&v=zl99IZvW7rE
 - (Bradley)Bayesian, Frequentist and Scientist: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.179.1454&rep=rep1&type=pdf
 - (Breiman) 2 cultures http://www2.math.uu.se/~thulin/mm/breiman.pdf
 
