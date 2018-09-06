@@ -495,6 +495,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 # Timeline
 
+- kaggle in Russian: https://boosters.pro/champs
+- https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
+- https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
+
+
 04.09
 
 - life metaphor: noise vs signal: https://www.johndcook.com/blog/2013/10/28/remove-noise-remove-signal/
