@@ -501,6 +501,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
 
+07.09
+
+- https://medium.com/@matsutton/repurchase-rate-the-most-overlooked-ecommerce-kpi-337bccde184b
+
+
 04.09
 
 - life metaphor: noise vs signal: https://www.johndcook.com/blog/2013/10/28/remove-noise-remove-signal/
