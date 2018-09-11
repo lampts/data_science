@@ -501,6 +501,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
 
+11.09
+
+- http://www.ams.org/notices/199502/golubitsky.pdf
+- https://nbviewer.jupyter.org/github/lazarusA/CodeSnippets/blob/master/CodeSnippetsPython/SymmetricChaos.ipynb
+
 08.09
 
 - hyperbolic RS: https://arxiv.org/pdf/1809.01703.pdf
