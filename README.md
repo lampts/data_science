@@ -504,6 +504,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 13.09
 
+- https://towardsdatascience.com/simtext-2nd-solution-for-cikm-analyticup-2018-b3347e026e67
 - http://blog.madhukaraphatak.com/spark-vector-to-numpy/
 - https://github.com/zziz/pwc
 
