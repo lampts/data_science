@@ -501,8 +501,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
 
+
 13.09
 
+- http://blog.madhukaraphatak.com/spark-vector-to-numpy/
 - https://github.com/zziz/pwc
 
 11.09
