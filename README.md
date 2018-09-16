@@ -503,6 +503,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 16.09
 
 - https://onnx.ai/
+- https://medium.com/@srnghn/the-mathematics-of-decision-trees-random-forest-and-feature-importance-in-scikit-learn-and-spark-f2861df67e3
+- https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/
+- https://gist.github.com/rnowling/fa6f1007e3547c75f8b2
 
 13.09
 
