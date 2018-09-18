@@ -500,6 +500,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+18.09
+
+- https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+- https://www.kaggle.com/aantonova/797-lgbm-and-bayesian-optimization
+
 16.09
 
 - https://onnx.ai/
