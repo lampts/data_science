@@ -500,6 +500,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+19.09
+
+- https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440
+
 18.09
 
 - https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
