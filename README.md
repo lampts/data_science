@@ -502,6 +502,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.09
 
+- http://hanj.cs.illinois.edu/cs412/bk3/08.pdf
 - https://algorithms-tour.stitchfix.com/#data-platform
 - https://githubengineering.com/towards-natural-language-semantic-code-search/
 - https://www.svds.com/pivoting-data-in-sparksql/
