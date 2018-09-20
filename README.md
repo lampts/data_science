@@ -502,6 +502,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.09
 
+- https://algorithms-tour.stitchfix.com/#data-platform
+- https://githubengineering.com/towards-natural-language-semantic-code-search/
 - https://www.svds.com/pivoting-data-in-sparksql/
 - https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
 - https://kagglerank.azurewebsites.net/
