@@ -502,6 +502,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.09
 
+- https://www.svds.com/pivoting-data-in-sparksql/
 - https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
 - https://kagglerank.azurewebsites.net/
 - http://www.pkbigdata.com/common/cmpt/2018%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E8%90%A5%E9%94%80%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E8%B5%9B%E4%BD%93%E4%B8%8E%E6%95%B0%E6%8D%AE.html
