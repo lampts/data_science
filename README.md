@@ -500,6 +500,14 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+24.09
+
+- https://github.com/Santosh-Gupta/Research2Vec
+- https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440
+- https://sites.google.com/a/ucsc.edu/krumholz/teaching-and-courses/ast119_w15/class-10
+- http://hanj.cs.illinois.edu/cs412/bk3/08.pdf
+- https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/
+
 
 21.09
 
