@@ -502,6 +502,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 24.09
 
+- https://www.inovex.de/fileadmin/files/Vortraege/2018/bridging-the-gap-from-data-science-to-production-europython2018-wilhelm.pdf
 - https://github.com/Santosh-Gupta/Research2Vec
 - https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440
 - https://sites.google.com/a/ucsc.edu/krumholz/teaching-and-courses/ast119_w15/class-10
