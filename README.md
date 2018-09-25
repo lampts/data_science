@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+25.09
+
+- http://datajournalismhandbook.org/1.0/en/index.html
+- https://opinionator.blogs.nytimes.com/2010/04/25/chances-are/
+- https://www2.cs.duke.edu/courses/spring15/compsci216/lectures/04-stats.pdf
+
 24.09
 
 - ranksums check correlated features: https://www.kaggle.com/aantonova/797-lgbm-and-bayesian-optimization
