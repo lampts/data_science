@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+26.09
+
+- https://christophm.github.io/interpretable-ml-book/index.html
+- https://github.com/roamanalytics/roamresearch/blob/master/BlogPosts/Categorical_variables_in_tree_models/categorical_variables_post.ipynb
+- https://goku.me/blog/EHR?utm_campaign=Data_Elixir
+
 25.09
 
 - http://datajournalismhandbook.org/1.0/en/index.html
