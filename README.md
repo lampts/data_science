@@ -502,6 +502,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 27.09
 
+- https://databricks.com/blog/2015/06/02/statistical-and-mathematical-functions-with-dataframes-in-spark.html
 - https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
 - https://medium.com/feature-labs-engineering/featuretools-on-spark-e5aa67eaf807
 
