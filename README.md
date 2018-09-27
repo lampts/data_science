@@ -500,6 +500,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+27.09
+
+- https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
+- https://medium.com/feature-labs-engineering/featuretools-on-spark-e5aa67eaf807
+
 26.09
 
 - https://christophm.github.io/interpretable-ml-book/index.html
