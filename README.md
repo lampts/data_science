@@ -500,6 +500,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+29.09
+
+- http://www.fast.ai/2018/09/26/ml-launch/
+- https://github.com/parrt/animl
+
 27.09
 
 - https://databricks.com/blog/2015/06/02/statistical-and-mathematical-functions-with-dataframes-in-spark.html
