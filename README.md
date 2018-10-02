@@ -500,6 +500,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+02.10
+
+- CVTraining better then ELMO? https://arxiv.org/abs/1809.08370
+- https://machinelearning.apple.com/2018/09/27/can-global-semantic-context-improve-neural-language-models.html
+
 29.09
 
 - http://www.fast.ai/2018/09/26/ml-launch/
