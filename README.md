@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+03.10
+
+- https://www.onlinemathtraining.com/wp-content/uploads/2016/04/Math-for-Machine-Learning-Book-Preview.pdf
+- http://leananalyticsbook.com/wp-content/uploads/2013/01/Analytics-Lessons-Learned.pdf
+- https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
+
 02.10
 
 - CVTraining better then ELMO? https://arxiv.org/abs/1809.08370
