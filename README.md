@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+08.10
+
+- https://github.com/MorvanZhou
+- https://github.com/SkalskiP/ILearnDeepLearning.py
+- https://ml.informatik.uni-freiburg.de/papers/18-AUTOML-AutoChallenge.pdf
+
 03.10
 
 - https://www.onlinemathtraining.com/wp-content/uploads/2016/04/Math-for-Machine-Learning-Book-Preview.pdf
