@@ -507,6 +507,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 08.10
 
+- https://github.com/YuyangZhangFTD/awesome-RecSys-papers
 - https://github.com/MorvanZhou
 - https://github.com/SkalskiP/ILearnDeepLearning.py
 - https://ml.informatik.uni-freiburg.de/papers/18-AUTOML-AutoChallenge.pdf
