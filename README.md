@@ -500,6 +500,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+09.10
+
+- https://dvc.org/features
+- https://www.facebook.com/pytorch/videos/169366590639145/
+
 08.10
 
 - https://github.com/MorvanZhou
