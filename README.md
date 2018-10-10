@@ -502,7 +502,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 10.10
 
+- elmo at apple: https://machinelearning.apple.com/2018/09/27/can-global-semantic-context-improve-neural-language-models.html
 - https://github.com/MorvanZhou/Tensorflow-Tutorial
+- expose blackbox: https://github.com/tsterbak/pydata2018-amsterdam/blob/master/presentation.ipynb
+- elmo with keras: https://github.com/UKPLab/elmo-bilstm-cnn-crf
 
 09.10
 
