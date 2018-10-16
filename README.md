@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+16.10
+
+- https://gh.mltrainings.ru/presentations/Kulagin_Dbrain_2018.pdf
+- https://gh.mltrainings.ru/presentations/Kuzin_DLCompetitionsStory_2018.pdf
+- https://gh.mltrainings.ru/presentations/Kayumov_DSCompetitions_2018.pdf
+
 10.10
 
 - elmo at apple: https://machinelearning.apple.com/2018/09/27/can-global-semantic-context-improve-neural-language-models.html
