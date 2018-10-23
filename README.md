@@ -500,6 +500,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+23.10
+
+- https://www.kdnuggets.com/2018/05/deep-learning-apache-spark-part-2.html/2
+- https://www.kaggle.com/c/pzadbabki/discussion
+- https://www.kaggle.com/c/pubg-finish-placement-prediction
+
 18.10
 
 - https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
