@@ -11,6 +11,12 @@
 - (Bradley)Bayesian, Frequentist and Scientist: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.179.1454&rep=rep1&type=pdf
 - (Breiman) 2 cultures http://www2.math.uu.se/~thulin/mm/breiman.pdf
 
+## My implementations
+
+- nb
+- lr
+- trees: https://stats.stackexchange.com/questions/231220/how-to-compute-the-gradient-and-hessian-of-logarithmic-loss-question-is-based
+
 ## Chatbot
 
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/assignments/chatbot
