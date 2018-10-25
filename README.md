@@ -11,6 +11,16 @@
 - (Bradley)Bayesian, Frequentist and Scientist: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.179.1454&rep=rep1&type=pdf
 - (Breiman) 2 cultures http://www2.math.uu.se/~thulin/mm/breiman.pdf
 
+## Chatbot
+
+- https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/assignments/chatbot
+- https://botlist.co/
+- https://github.com/JStumpp/awesome-chatbots
+- https://github.com/fendouai/Awesome-Chatbot
+- https://github.com/dennybritz/chatbot-retrieval/
+- https://realpython.com/python-keras-text-classification/
+- https://github.com/ekapolc/nlp_course/blob/master/slides/L10.2-chatbotsOverview.pdf
+
 ## RecSys
 
 - https://github.com/maciejkula/spotlight
