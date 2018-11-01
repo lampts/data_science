@@ -518,6 +518,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 01.11
 
+- http://yowconference.com.au/slides/yowdata2017/Hougland-SparkMLWorkflows.pdf
 - https://github.com/rjurney/Agile_Data_Code_2
 
 29.10
