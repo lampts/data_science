@@ -516,6 +516,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+04.11
+
+- http://seq2seq-vis.io/
+- https://www.tensorflow.org/tutorials/
+
 01.11
 
 - http://yowconference.com.au/slides/yowdata2017/Hougland-SparkMLWorkflows.pdf
