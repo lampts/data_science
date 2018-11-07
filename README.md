@@ -516,6 +516,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+07.11
+
+- https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+- https://towardsdatascience.com/my-weaknesses-as-a-data-scientist-1310dab9f566
+- https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html
+
 06.11
 
 - https://github.com/Hvass-Labs/TensorFlow-Tutorials
