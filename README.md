@@ -521,6 +521,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
 - https://towardsdatascience.com/my-weaknesses-as-a-data-scientist-1310dab9f566
 - https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html
+- https://chauff.github.io/2018-11-04-emnlp/
 
 06.11
 
