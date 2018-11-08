@@ -518,6 +518,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 08.11
 
+- https://github.com/hse-aml
 - http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
 - https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings
 - https://github.com/pjankiewicz/mercari-solution/blob/master/mercari/transformers.py
