@@ -516,6 +516,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+08.11
+
+- http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
+- https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings
+- https://github.com/pjankiewicz/mercari-solution/blob/master/mercari/transformers.py
+
 07.11
 
 - https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
