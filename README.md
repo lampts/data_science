@@ -516,6 +516,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+10.11
+
+- deep learning in airbnb search: https://arxiv.org/pdf/1810.09591.pdf
+- https://www.youtube.com/watch?v=FmKU-1LZGoE
+
 08.11
 
 - https://github.com/hse-aml
