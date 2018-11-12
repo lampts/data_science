@@ -518,6 +518,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 12.11
 
+- https://www.youtube.com/watch?v=uvH1zB7qahI
+- https://www.youtube.com/watch?v=6n-kCYn0zxU
 - https://github.com/Featuretools/predicting-customer-churn/blob/master/churn/4.%20Feature%20Engineering%20on%20Spark.ipynb
 - https://demo.ipavlov.ai/
 - https://towardsdatascience.com/how-to-create-value-with-machine-learning-eb09585b332e
