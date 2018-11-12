@@ -518,6 +518,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 12.11
 
+- https://demo.ipavlov.ai/
 - https://towardsdatascience.com/how-to-create-value-with-machine-learning-eb09585b332e
 - https://github.com/Featuretools/predicting-customer-churn
 - https://arxiv.org/pdf/1810.09591.pdf
