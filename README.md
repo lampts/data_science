@@ -516,6 +516,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+12.11
+
+- https://towardsdatascience.com/how-to-create-value-with-machine-learning-eb09585b332e
+- https://github.com/Featuretools/predicting-customer-churn
+- https://arxiv.org/pdf/1810.09591.pdf
+
 10.11
 
 - deep learning in airbnb search: https://arxiv.org/pdf/1810.09591.pdf
