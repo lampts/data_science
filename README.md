@@ -516,6 +516,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+13.11
+
+- http://ruder.io/optimizing-gradient-descent/
+- dont decay lr, double your batch size: https://arxiv.org/abs/1711.00489
+
 12.11
 
 - https://www.youtube.com/watch?v=uvH1zB7qahI
