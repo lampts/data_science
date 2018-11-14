@@ -516,6 +516,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+14.11
+
+- vietnamese ner: https://github.com/duongna21/VNsequencelabeling
+- pzad data preprocessing: https://github.com/Dyakonov/PZAD/blob/master/PZAD2018_09_datapreprocessing_15.pdf
+
 13.11
 
 - http://ruder.io/optimizing-gradient-descent/
