@@ -520,6 +520,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - vietnamese ner: https://github.com/duongna21/VNsequencelabeling
 - pzad data preprocessing: https://github.com/Dyakonov/PZAD/blob/master/PZAD2018_09_datapreprocessing_15.pdf
+- https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3
 
 13.11
 
