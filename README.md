@@ -518,6 +518,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 15.11
 
+- https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad
 - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM14_tutorial_HeGaoDeng.pdf
 
 
