@@ -518,6 +518,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 20.11
 
+- https://ai.tencent.com/ailab/Transformation_Networks_for_Target-Oriented_Sentiment_Classification.html
 - https://github.com/alicezheng/feature-engineering-book
 
 15.11
