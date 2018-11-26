@@ -516,6 +516,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+26.11
+
+BERT with <3
+- https://hanxiao.github.io/2018/06/24/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
+- https://github.com/google-research/bert#pre-trained-models
+- https://github.com/hanxiao/bert-as-service#q-what-is-the-parallel-processing-model-behind-the-scene
+
 20.11
 
 - https://ai.tencent.com/ailab/Transformation_Networks_for_Target-Oriented_Sentiment_Classification.html
