@@ -518,6 +518,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 26.11
 
+- transform net for target sentiment analysis: https://ai.tencent.com/ailab/media/publications/acl/Transformation_Networks_for_Target-Oriented_Sentiment_Classification.pdf
+- https://lixin4ever.github.io/paper/ACL2018/slides/acl18_lixin_slides.pdf
+
 BERT with <3
 
 - https://github.com/facebookresearch/XNLI
