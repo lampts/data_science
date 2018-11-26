@@ -519,6 +519,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 26.11
 
 BERT with <3
+
+- https://github.com/facebookresearch/XNLI
 - https://hanxiao.github.io/2018/06/24/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 - https://github.com/google-research/bert#pre-trained-models
 - https://github.com/hanxiao/bert-as-service#q-what-is-the-parallel-processing-model-behind-the-scene
