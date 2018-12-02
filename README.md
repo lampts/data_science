@@ -520,6 +520,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 02.12
 
 - https://medium.com/@kt.era.ee/the-data-science-workflow-43859db0415
+- https://colab.research.google.com/drive/1lEu7qNBMSIm2g7YfBhgug7IAB6Rw4b5E
 
 01.12
 
