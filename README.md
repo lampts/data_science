@@ -521,6 +521,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://machinelearning.apple.com/2018/12/03/optimizing-siri-on-homepod-in-far-field-settings.html
 - https://seeing-theory.brown.edu/basic-probability/index.html
+- https://jalammar.github.io/illustrated-bert/
 
 02.12
 
