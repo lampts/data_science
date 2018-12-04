@@ -517,6 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+04.12
+
+- https://machinelearning.apple.com/2018/12/03/optimizing-siri-on-homepod-in-far-field-settings.html
+- https://seeing-theory.brown.edu/basic-probability/index.html
+
 02.12
 
 - https://medium.com/@kt.era.ee/the-data-science-workflow-43859db0415
