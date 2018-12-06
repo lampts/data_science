@@ -517,6 +517,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+06.12
+
+- https://github.com/tensorflow/ranking
+
 04.12
 
 - https://machinelearning.apple.com/2018/12/03/optimizing-siri-on-homepod-in-far-field-settings.html
