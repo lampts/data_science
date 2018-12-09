@@ -519,6 +519,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 09.12
 
+-https://hai.stanford.edu/news/the_intertwined_quest_for_understanding_biological_intelligence_and_creating_artificial_intelligence/
+- https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842
 - https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors/
 - https://arxiv.org/pdf/1809.04559.pdf
 
