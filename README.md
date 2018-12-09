@@ -517,6 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+09.12
+
+- https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors/
+- https://arxiv.org/pdf/1809.04559.pdf
+
 07.12
 
 - https://www.stateoftheart.ai/?area=Computer%20Vision
