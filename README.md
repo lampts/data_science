@@ -520,6 +520,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 10.12
 
+- https://github.com/tensorflow/models/tree/master/research/cvt_text
 - https://lilianweng.github.io/lil-log/
 - https://github.com/zalandoresearch/flair
 
