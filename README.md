@@ -517,6 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+20.12
+
+- https://static.googleusercontent.com/media/research.google.com/en//bigpicture/ML_Visualization_NeurIPS_Tutorial.pdf
+- https://www.facebook.com/nipsfoundation/videos/203530960558001/
+
 18.12
 
 - http://www.ruiyan.me/pubs/tutorial-emnlp18.pdf
