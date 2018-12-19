@@ -517,10 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
-20.12
+19.12
 
 - https://static.googleusercontent.com/media/research.google.com/en//bigpicture/ML_Visualization_NeurIPS_Tutorial.pdf
 - https://www.facebook.com/nipsfoundation/videos/203530960558001/
+- https://www.slideshare.net/BryanGregory2/kaggle-wsdm-2018-winning-solution-predicting-customer-churn-xgboost-with-temporal-data-87662268
 
 18.12
 
