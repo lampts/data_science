@@ -521,6 +521,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - https://www.dgsiegel.net/talks/the-bullet-hole-misconception
 - https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
+- https://github.com/jessevig/bertviz
 
 19.12
 
