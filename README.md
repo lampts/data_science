@@ -517,6 +517,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+20.12
+
+- https://www.dgsiegel.net/talks/the-bullet-hole-misconception
+
 19.12
 
 - https://static.googleusercontent.com/media/research.google.com/en//bigpicture/ML_Visualization_NeurIPS_Tutorial.pdf
