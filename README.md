@@ -520,6 +520,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 20.12
 
 - https://www.dgsiegel.net/talks/the-bullet-hole-misconception
+- https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
 
 19.12
 
