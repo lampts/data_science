@@ -527,6 +527,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/rushter/heamy
 - https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html
 - https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
+- https://github.com/iamtodor/data-science-interview-questions-and-answers
 
 20.12
 
