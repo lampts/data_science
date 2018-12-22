@@ -517,6 +517,17 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+22.12
+
+- https://qiita.com/namakemono/items/f9574fe0a6b7ebb91e73
+- https://github.com/ShuaiW/kaggle-classification/
+- http://www.chioka.in/kaggle-competition-solutions/
+- https://github.com/Far0n/kaggletils
+- https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+- https://github.com/rushter/heamy
+- https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html
+- https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
+
 20.12
 
 - https://www.dgsiegel.net/talks/the-bullet-hole-misconception
