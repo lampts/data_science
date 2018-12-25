@@ -517,6 +517,10 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+25.12
+
+- https://github.com/mwburke/population-stability-index/blob/master/walkthrough-example.ipynb
+
 22.12
 
 - https://qiita.com/namakemono/items/f9574fe0a6b7ebb91e73
