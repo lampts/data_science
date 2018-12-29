@@ -520,6 +520,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 29.12
 
 - https://preferred.ai/category/education/
+- http://www.ousia.jp/en/page/en/2017/02/20/wsdm-cup/
+- https://medium.com/@bryan.gregory1/predicting-customer-churn-extreme-gradient-boosting-with-temporal-data-332c0d9f32bf
 
 25.12
 
