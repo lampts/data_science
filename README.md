@@ -521,6 +521,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - startup genome: https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport2_Why_Startups_Fail_v2.pdf
 - https://www.amazon.com/gp/product/0470650931
+- https://peadarcoyle.com/2019/01/01/think-you-need-to-learn-bayesian-analysis-read-this-first/
 
 =====
 
