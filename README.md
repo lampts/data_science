@@ -523,6 +523,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://www.amazon.com/gp/product/0470650931
 - https://peadarcoyle.com/2019/01/01/think-you-need-to-learn-bayesian-analysis-read-this-first/
 - https://inst.eecs.berkeley.edu/~cs188/fa18/
+- https://www.jmp.com/en_us/academic/data-mining-techniques.html
 
 =====
 GOODBYE 2018
