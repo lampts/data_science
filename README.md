@@ -524,6 +524,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://peadarcoyle.com/2019/01/01/think-you-need-to-learn-bayesian-analysis-read-this-first/
 - https://inst.eecs.berkeley.edu/~cs188/fa18/
 - https://www.jmp.com/en_us/academic/data-mining-techniques.html
+- birthday effect: https://dyakonov.org/2016/11/28/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%BD%D0%B0%D1%88%D0%B5%D0%B9-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8/
 
 =====
 GOODBYE 2018
