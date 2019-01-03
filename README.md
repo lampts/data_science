@@ -522,6 +522,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/Erlemar/digit-draw-recognize
 - https://medium.com/analytics-and-data/on-customer-lifetime-value-in-ecommerce-d3c151c6fdc0
 - http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
+- http://mattturck.com/bigdata2018
 
 02.01
 
