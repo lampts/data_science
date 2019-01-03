@@ -520,6 +520,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 03.01
 
 - https://github.com/Erlemar/digit-draw-recognize
+- https://medium.com/analytics-and-data/on-customer-lifetime-value-in-ecommerce-d3c151c6fdc0
+- http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
 
 02.01
 
