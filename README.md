@@ -524,6 +524,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow
 - https://yanirseroussi.com/2019/01/08/hackers-beware-bootstrap-sampling-may-be-harmful/
 - https://medium.com/acing-ai/capital-one-data-science-interview-questions-b6263d8a3af6
+- https://github.com/FunctorML/BellkorAlgorithm
 
 03.01
 
