@@ -517,6 +517,12 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+14.01
+
+- https://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:791619
+- https://www.datasciencecentral.com/profiles/blogs/how-to-choose-fraud-detection-software-features-characteristics
+- 
+
 03.01
 
 - https://github.com/Erlemar/digit-draw-recognize
