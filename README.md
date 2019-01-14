@@ -525,6 +525,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://yanirseroussi.com/2019/01/08/hackers-beware-bootstrap-sampling-may-be-harmful/
 - https://medium.com/acing-ai/capital-one-data-science-interview-questions-b6263d8a3af6
 - https://github.com/FunctorML/BellkorAlgorithm
+- https://blogs.mathworks.com/loren/2015/04/22/the-netflix-prize-and-production-machine-learning-systems-an-insider-look/
 
 03.01
 
