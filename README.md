@@ -517,6 +517,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+16.01
+
+- https://machinelearningforkids.co.uk/
+- www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110
+- https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html
+- hbr.org/2019/01/data-science-and-the-art-of-persuasion
+
 14.01
 
 - https://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:791619
