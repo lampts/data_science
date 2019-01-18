@@ -517,6 +517,13 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+
+18.01
+
+- kids learn and acquire language using statistic learning. Chomsky school. https://www.youtube.com/watch?v=uSFPgDuyv6E
+- bootstrap with pitfalls: https://arxiv.org/pdf/1411.5279.pdf
+
+
 16.01
 
 - https://machinelearningforkids.co.uk/
