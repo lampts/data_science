@@ -522,6 +522,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 - kids learn and acquire language using statistic learning. Chomsky school. https://www.youtube.com/watch?v=uSFPgDuyv6E
 - bootstrap with pitfalls: https://arxiv.org/pdf/1411.5279.pdf
+- categorial data analysis: https://www.youtube.com/watch?v=FCrYGuO8CmU
 
 
 16.01
