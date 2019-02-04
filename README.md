@@ -520,6 +520,7 @@ https://github.com/aymericdamien/TensorFlow-Examples
 03.02
 
 - https://stats.stackexchange.com/questions/312780/why-is-accuracy-not-the-best-measure-for-assessing-classification-models
+- http://iranarze.ir/wp-content/uploads/2016/10/E2281.pdf
 
 24.01
 
