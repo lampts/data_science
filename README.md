@@ -517,6 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+09.02
+
+- https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
+- https://github.com/Dyakonov/ml_hacks/blob/master/dj_MLDM_kernels.ipynb
+
 03.02
 
 - https://stats.stackexchange.com/questions/312780/why-is-accuracy-not-the-best-measure-for-assessing-classification-models
