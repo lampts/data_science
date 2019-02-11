@@ -517,6 +517,11 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+11.02
+
+- https://github.com/noveens/svae_cf
+- https://www.kaggle.com/artgor/how-to-not-overfit
+
 09.02
 
 - https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
