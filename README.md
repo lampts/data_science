@@ -517,6 +517,15 @@ https://github.com/aymericdamien/TensorFlow-Examples
 - https://github.com/mariazm/Spring2017_ProfFosterProvost/tree/master/Module8_Unsupervised_MLreview
 - https://github.com/johnpateha/ml_hacks/blob/master/dj_explore_algoparameters.ipynb
 
+WSDM 2019
+
+- https://sites.google.com/view/wsdm19-fairness-tutorial
+- https://causalinference.gitlab.io/wsdm-tutorial/
+- https://sites.google.com/view/wsdm19-privacy-tutorial
+- https://www.slideshare.net/TetsuyaSakai/wsdm2019tutorial
+- https://arxiv.org/abs/1808.05163
+- https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
+
 11.02
 
 - https://github.com/noveens/svae_cf
