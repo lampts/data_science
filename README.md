@@ -528,6 +528,7 @@ WSDM 2019
 
 12.02
 
+- https://www.youtube.com/watch?v=0EtD5ybnh_s
 - https://aws.agorize.com/en/challenges/vietnam-2019
 - https://nlp.stanford.edu/seminar/details/jdevlin.pdf
 - https://www.lyrn.ai/2019/02/11/xlm-cross-lingual-language-model/
