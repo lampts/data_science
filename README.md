@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+12.02
+
+- https://aws.agorize.com/en/challenges/vietnam-2019
+- https://nlp.stanford.edu/seminar/details/jdevlin.pdf
+- https://www.lyrn.ai/2019/02/11/xlm-cross-lingual-language-model/
+
 11.02
 
 - https://github.com/noveens/svae_cf
