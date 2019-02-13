@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+13.02
+
+- https://github.com/omarsar/nlp_highlights/blob/master/NLP_2018_Highlights.pdf
+- https://hbr.org/2019/02/companies-are-failing-in-their-efforts-to-become-data-driven
+- https://www.nytimes.com/2019/02/05/business/media/artificial-intelligence-journalism-robots.html
+
 12.02
 
 - https://github.com/google/sentencepiece
