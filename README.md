@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+19.02
+
+- http://deliprao.com/archives/314
+- https://console.cloud.google.com/storage/browser/commonsense-reasoning/reproduce/stories_corpus?pli=1
+
 13.02
 
 - https://github.com/omarsar/nlp_highlights/blob/master/NLP_2018_Highlights.pdf
