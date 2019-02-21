@@ -528,7 +528,9 @@ WSDM 2019
 
 21.02
 
+- https://boosters.pro/championships
 - machine learns physic laws. https://arxiv.org/abs/1807.10300
+- https://istina.msu.ru/media/publications/article/972/9eb/7537819/sw-factors-dyakonov.pdf
 
 20.02
 
