@@ -526,6 +526,10 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+21.02
+
+- machine learns physic laws. https://arxiv.org/abs/1807.10300
+
 20.02
 
 - https://github.com/Microsoft/Recommenders
