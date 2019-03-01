@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+01.03
+
+- https://github.com/lexfridman/mit-deep-learning
+- https://dyakonov.org/2019/02/21/%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/
+
 21.02
 
 - https://boosters.pro/championships
