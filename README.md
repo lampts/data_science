@@ -529,6 +529,9 @@ WSDM 2019
 01.03
 
 - https://github.com/lexfridman/mit-deep-learning
+- https://en.wikipedia.org/wiki/No_free_lunch_theorem
+- https://en.wikipedia.org/wiki/Sunk_cost
+- https://en.wikipedia.org/wiki/Reinforcement_learning
 - https://dyakonov.org/2019/02/21/%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/
 
 21.02
