@@ -530,6 +530,8 @@ WSDM 2019
 
 - https://www.youtube.com/channel/UCZ_qlZbg9EzwRnLq_hFQumQ/featured?app=desktop
 - https://www.slideshare.net/albedan/kaggle-days-paris-alberto-danese-ml-interpretability
+- xgboost from 0: https://www.youtube.com/watch?v=0hxX4XAf2DA
+- kdd2016 recsys ctr field awared https://www.youtube.com/watch?v=1cRGpDXTJC8
 
 01.03
 
