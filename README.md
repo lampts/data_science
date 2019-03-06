@@ -529,6 +529,7 @@ WSDM 2019
 06.03
 
 - https://www.youtube.com/channel/UCZ_qlZbg9EzwRnLq_hFQumQ/featured?app=desktop
+- https://www.slideshare.net/albedan/kaggle-days-paris-alberto-danese-ml-interpretability
 
 01.03
 
