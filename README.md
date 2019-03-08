@@ -528,6 +528,8 @@ WSDM 2019
 
 07.03
 
+- https://medium.com/tensorflow/recap-of-the-2019-tensorflow-dev-summit-1b5ede42da8d
+- http://gltr.io/dist/index.html
 - https://www.amazon.com/Analytics-Descriptive-Predictive-Network-Techniques/dp/1119133122
 
 06.03
