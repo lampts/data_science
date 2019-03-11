@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+11.03
+
+- https://www.youtube.com/watch?v=s3VmuVPfu0s
+- https://www.youtube.com/watch?v=1cRGpDXTJC8&t=638s
+
 07.03
 
 - https://medium.com/tensorflow/recap-of-the-2019-tensorflow-dev-summit-1b5ede42da8d
