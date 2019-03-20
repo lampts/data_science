@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+
+20.03
+
+- https://drive.google.com/file/d/1idTS63oXT1jBUNm_qH9fke0VDGihM7ir/view
+- gan https://github.com/Dyakonov/DL/blob/master/AMD_DL09gan_17.pdf
+
 14.03
 
 - https://www.math3ma.com/blog/matrices-probability-graphs
