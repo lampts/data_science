@@ -527,6 +527,10 @@ WSDM 2019
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
 
+21.03
+
+- https://www.nguyenvantuan.info/research-blog/the-blind-faith-in-the-p-values-should-be-stopped
+
 20.03
 
 - https://drive.google.com/file/d/1idTS63oXT1jBUNm_qH9fke0VDGihM7ir/view
