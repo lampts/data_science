@@ -530,6 +530,7 @@ WSDM 2019
 
 - https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/
 - https://scholarspace.manoa.hawaii.edu/bitstream/10125/50002/1/paper0115.pdf
+- https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02
 
 21.03
 
