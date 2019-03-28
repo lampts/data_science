@@ -526,6 +526,10 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+28.03
+
+- https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/
+- https://scholarspace.manoa.hawaii.edu/bitstream/10125/50002/1/paper0115.pdf
 
 21.03
 
