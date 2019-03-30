@@ -528,6 +528,7 @@ WSDM 2019
 
 30.03
 
+- https://www.usenix.org/conference/enigma2017/conference-program/presentation/evans
 - http://web.stanford.edu/class/cs224n/index.html#coursework
 - https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9
 - https://www.usenix.org/conference/enigma2017/conference-program/presentation/evans
