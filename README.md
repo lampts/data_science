@@ -526,6 +526,13 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+30.03
+
+- http://web.stanford.edu/class/cs224n/index.html#coursework
+- https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9
+- https://www.usenix.org/conference/enigma2017/conference-program/presentation/evans
+- https://www.datasciencecentral.com/profiles/blogs/fee-book-applied-stochastic-processes
+
 29.03
 
 - https://github.com/yenchenlin/awesome-adversarial-machine-learning
