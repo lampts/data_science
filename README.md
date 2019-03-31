@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+31.03
+
+- https://blog.ml.cmu.edu/2019/03/29/building-machine-learning-models-via-comparisons/
+- https://pmbaumgartner.github.io/notebooks/colored-roc-curves/
+
 30.03
 
 - https://www.usenix.org/conference/enigma2017/conference-program/presentation/evans
