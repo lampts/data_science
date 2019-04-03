@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+03.04
+
+- https://slides.com/vladimiriglovikov/title-texttitle-text-17#/0/25
+- http://gameaibook.org/book.pdf
+- https://services.google.com/fh/files/blogs/insights_for_evaluating_lifetime_value_for_game_developers.pdf
+
 01.04
 
 - https://berkeley-deep-learning.github.io/cs294-131-s19/
