@@ -528,6 +528,7 @@ WSDM 2019
 
 05.04
 
+- https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 - https://github.com/kaiwaehner/python-jupyter-apache-kafka-ksql-tensorflow-keras
 - https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels
 - https://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/
