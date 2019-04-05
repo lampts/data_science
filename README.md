@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+05.04
+
+- https://github.com/kaiwaehner/python-jupyter-apache-kafka-ksql-tensorflow-keras
+- https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels
+- https://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/
+
 03.04
 
 - https://slides.com/vladimiriglovikov/title-texttitle-text-17#/0/25
