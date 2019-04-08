@@ -526,6 +526,13 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+08.04
+
+- https://hurenjun.github.io/
+- beam search: https://www.coursera.org/lecture/nlp-sequence-models/beam-search-4EtHZ
+- joint embedding for transportation: https://hurenjun.github.io/pubs/aaai2019-slides.pdf
+- embedding for anomaly detection: https://hurenjun.github.io/pubs/icde2016-slides.pdf
+
 05.04
 
 - https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
