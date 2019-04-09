@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+09.04
+
+- https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+- https://threader.app/thread/1105139360226140160
+
+
 08.04
 
 - https://hurenjun.github.io/
