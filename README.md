@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+10.04
+
+- catboost lecture: https://compscicenter.ru/media/courses/2018-spring/spb-machine-learning-2/slides/machine_learning_2_lecture_260218.pdf
+- https://habr.com/ru/post/447376/
+
 09.04
 
 - https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
