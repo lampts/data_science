@@ -528,6 +528,8 @@ WSDM 2019
 
 10.04
 
+- pytorch tuts 10K+: https://github.com/yunjey/pytorch-tutorial
+- tf v2 tuts: https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
 - catboost lecture: https://compscicenter.ru/media/courses/2018-spring/spb-machine-learning-2/slides/machine_learning_2_lecture_260218.pdf
 - https://habr.com/ru/post/447376/
 
