@@ -526,6 +526,13 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+19.04
+
+- https://github.com/jingw222/tf2-serving-w-docker/blob/master/serving_w_docker.ipynb
+- https://medium.com/@jingw222/tensorflow-serving-with-docker-an-end-to-end-example-24b412e31ae1
+- https://bitbucket.org/pbcquoc/ocr/src/64e6eb1d0e63?at=master
+- https://speakerdeck.com/alexkimxyz/monitoring-ml-applications-in-production
+
 10.04
 
 - http://d2l.ai/chapter_introduction/intro.html#A-Motivating-Example
