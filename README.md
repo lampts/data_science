@@ -531,6 +531,7 @@ WSDM 2019
 - https://medium.com/@philosophygeek/selling-data-products-is-the-wrong-business-model-for-ai-startups-300835c4eb92
 - https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/
 - https://www.youtube.com/watch?v=qFtJaq4TlqE&feature=youtu.be
+- https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd
 
 19.04
 
