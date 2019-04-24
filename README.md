@@ -526,6 +526,12 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+24.04
+
+- https://medium.com/@philosophygeek/selling-data-products-is-the-wrong-business-model-for-ai-startups-300835c4eb92
+- https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/
+- https://www.youtube.com/watch?v=qFtJaq4TlqE&feature=youtu.be
+
 19.04
 
 - https://github.com/jingw222/tf2-serving-w-docker/blob/master/serving_w_docker.ipynb
