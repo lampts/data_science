@@ -526,6 +526,11 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+28.04
+
+- https://assessingpsyche.wordpress.com/2014/06/04/using-the-truncated-normal-distribution/
+
+
 24.04
 
 - https://medium.com/@philosophygeek/selling-data-products-is-the-wrong-business-model-for-ai-startups-300835c4eb92
