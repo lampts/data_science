@@ -526,6 +526,15 @@ WSDM 2019
 - https://arxiv.org/abs/1808.05163
 - https://www.google.com/maps/@-37.8067424,144.9921405,13z/data=!3m1!4b1!4m3!11m2!2sn0Jgpeo5HjLhS61R5hCfiUgIaOhuHQ!3e3
 
+
+Computer Vision
+
+- http://slazebni.cs.illinois.edu/spring17/
+- https://skymind.ai/wiki/convolutional-network
+- https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
+- https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
+
+
 28.04
 
 - https://assessingpsyche.wordpress.com/2014/06/04/using-the-truncated-normal-distribution/
