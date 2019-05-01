@@ -533,6 +533,15 @@ Computer Vision
 - https://skymind.ai/wiki/convolutional-network
 - https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
+- https://medium.com/@jonathan_hui/design-choices-lessons-learned-and-trends-for-object-detections-4f48b59ec5ff
+- https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
+- https://github.com/akTwelve/tutorials/blob/master/mask_rcnn/MaskRCNN_TrainAndInference.ipynb
+- https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/blob/master/frcnn_train_vgg.ipynb
+- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+- https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+- https://skymind.ai/wiki/convolutional-network
+- https://yerevann.com/a-guide-to-deep-learning/
+- https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
 
 
 28.04
