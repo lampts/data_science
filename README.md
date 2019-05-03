@@ -544,6 +544,10 @@ Computer Vision
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
 
 
+03.05
+
+- tf.dataset https://www.youtube.com/watch?v=kVEOCfBy9uY&feature=youtu.be
+
 28.04
 
 - https://assessingpsyche.wordpress.com/2014/06/04/using-the-truncated-normal-distribution/
