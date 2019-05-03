@@ -542,6 +542,7 @@ Computer Vision
 - https://skymind.ai/wiki/convolutional-network
 - https://yerevann.com/a-guide-to-deep-learning/
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
+- https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-features-of-face-in-a-go-using-cnn-your-own-dataset-e09cf359c2bc
 
 
 03.05
