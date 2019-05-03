@@ -547,6 +547,7 @@ Computer Vision
 03.05
 
 - tf.dataset https://www.youtube.com/watch?v=kVEOCfBy9uY&feature=youtu.be
+- https://github.com/SkalskiP/ILearnDeepLearning.py/blob/master/01_mysteries_of_neural_networks/06_numpy_convolutional_neural_net_IN_PROGRESS/Building%20convolutional%20neural%20network%20in%20Numpy.ipynb
 
 28.04
 
