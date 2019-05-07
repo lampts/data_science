@@ -549,6 +549,8 @@ Computer Vision
 - https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
 - https://github.com/Hyperparticle/one-pixel-attack-keras
 - https://github.com/sozykin/dlpython_course/blob/master/computer_vision/foto_comparison/foto_verification.ipynb
+- http://mostafadehghani.com/2019/05/05/universal-transformers/
+- https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/
 
 
 03.05
