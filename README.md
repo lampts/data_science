@@ -544,6 +544,10 @@ Computer Vision
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
 - https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-features-of-face-in-a-go-using-cnn-your-own-dataset-e09cf359c2bc
 
+08.05
+
+- https://github.com/cydonia999/Tiny_Faces_in_Tensorflow/blob/master/README.md
+
 07.05
 
 - https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
