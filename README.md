@@ -548,6 +548,7 @@ Computer Vision
 
 - https://www.sites.google.com/site/yorkyuhuang/home/tutorial/deep-learning-1/objectdetectiontrackingrecognition-with-deep-learning
 - deepsystems ctc loss: https://www.youtube.com/watch?v=eYIL4TMAeRI
+- https://github.com/linkedin/TonY/blob/master/tony-examples/tony-in-gcp/scripts/install_gpu_cu10.sh
 
 08.05
 
