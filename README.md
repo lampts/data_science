@@ -544,6 +544,12 @@ Computer Vision
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
 - https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-features-of-face-in-a-go-using-cnn-your-own-dataset-e09cf359c2bc
 
+17.05
+
+- https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+- https://github.com/experiencor/keras-yolo3
+- https://github.com/Adamdad/keras-YOLOv3-mobilenet
+
 14.05
 
 - https://medium.com/@zhanwenchen/install-cuda-10-1-and-cudnn-7-5-0-for-pytorch-on-ubuntu-18-04-lts-9b6124c44cc
