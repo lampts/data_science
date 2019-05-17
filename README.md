@@ -549,6 +549,10 @@ Computer Vision
 - https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - https://github.com/experiencor/keras-yolo3
 - https://github.com/Adamdad/keras-YOLOv3-mobilenet
+- https://arxiv.org/pdf/1805.02283.pdf
+- https://github.com/seasonSH/DocFace/tree/master/src
+- https://habr.com/ru/company/avito/blog/452142/
+- https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
 
 14.05
 
