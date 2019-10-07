@@ -544,6 +544,15 @@ Computer Vision
 - https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a
 - https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-features-of-face-in-a-go-using-cnn-your-own-dataset-e09cf359c2bc
 
+ICCV 2019
+
+07.10
+
+- https://stackoverflow.com/questions/42307949/color-theme-for-vs-code-integrated-terminal/46166487
+- https://github.com/zhulingchen/tfp-tutorial
+- tf2 keras for researcher: https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO
+- visualizing outliers in big data: https://www.cs.uic.edu/~wilkinson/Publications/outliers.pdf
+
 13.06
 
 - https://github.com/tmbdev/ocropy
